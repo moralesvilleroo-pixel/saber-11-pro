@@ -1,0 +1,217 @@
+{
+  "$schema_version": 1,
+  "_meta": {
+    "descripcion": "Taxonomía del Modelo Basado en Evidencias (MBE) del examen Saber 11 usada para etiquetar ítems ORIGINALES. Contiene solo estructura pública (pruebas, competencias, componentes); nunca ítems del Icfes.",
+    "fuentes": [
+      "Infografías oficiales Icfes 'Prueba Lectura Crítica / Matemáticas / Ciencias Naturales / Sociales y Ciudadanas / Inglés Saber 11' (publicadas el 17 de septiembre)",
+      "Conteos de preguntas y pesos: Guía de Orientación Saber 11 2026 y Resolución Icfes 0268 de 2020, según el plan maestro del proyecto (pendiente cotejar con el PDF oficial)"
+    ],
+    "estado": "parcial",
+    "pendiente": "Las infografías no traen afirmaciones ni evidencias. Cada competencia tiene 'affirmations': [] y 'affirmations_status': 'pendiente_guia_oficial'. Se deben completar con el texto de la Guía de Orientación Saber 11 vigente antes de generar ítems con el Prompt 5.",
+    "reglas": [
+      "Códigos estables: <PRUEBA>.<COMPETENCIA>[.A<n>[.E<n>]]. Nunca reutilizar un código retirado.",
+      "Las afirmaciones y evidencias se transcriben de la guía oficial (taxonomía pública); los ítems se redactan 100 % originales.",
+      "Este archivo es la fuente de supabase/seed.sql: regenerar con 'node scripts/generate-seed.mjs'."
+    ],
+    "actualizado": "2026-11-27"
+  },
+  "exam": {
+    "sessions": 2,
+    "session_duration_minutes": 270,
+    "scored_questions": 254,
+    "auxiliary_questions": 48,
+    "global_index_formula": "IG = (3*LC + 3*MA + 3*SC + 3*CN + 1*IN) / 13; exento de Inglés: promedio simple de LC, MA, SC, CN",
+    "global_score_formula": "PG = round(IG * 5), escala 0-500"
+  },
+  "subjects": [
+    {
+      "code": "LC",
+      "name": "Lectura Crítica",
+      "weight": 3,
+      "questions": { "session1": 41, "session2": 0, "total": 41 },
+      "scope": "Comprender, interpretar y evaluar textos de la vida cotidiana y de ámbitos académicos no especializados.",
+      "competencies": [
+        {
+          "code": "LC.LOC",
+          "name": "Identificar y entender los contenidos locales que conforman un texto",
+          "plan_alias": "Identificar y ubicar información",
+          "description": "Comprender el significado de palabras, expresiones y frases que aparecen explícitamente en el texto.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        },
+        {
+          "code": "LC.GLO",
+          "name": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
+          "plan_alias": "Relacionar e interpretar",
+          "description": "Comprender cómo se relacionan formal y semánticamente los elementos locales que constituyen un texto.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        },
+        {
+          "code": "LC.REF",
+          "name": "Reflexionar a partir de un texto y evaluar su contenido",
+          "plan_alias": "Evaluar y reflexionar contenido y forma",
+          "description": "Enfrentar un texto críticamente.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        }
+      ],
+      "components": [
+        { "code": "LC.TXT.CONT.LIT", "kind": "tipo_texto", "name": "Continuo literario", "description": "Cuentos, novelas." },
+        { "code": "LC.TXT.CONT.INF", "kind": "tipo_texto", "name": "Continuo informativo", "description": "Ensayos, artículos de prensa." },
+        { "code": "LC.TXT.CONT.FIL", "kind": "tipo_texto", "name": "Continuo filosófico", "description": "Fragmentos de textos argumentativos." },
+        { "code": "LC.TXT.DISC", "kind": "tipo_texto", "name": "Discontinuo", "description": "Infografías, cómics, tablas, gráficos." }
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "Matemáticas",
+      "weight": 3,
+      "questions": { "session1": 25, "session2": 25, "total": 50 },
+      "scope": "Enfrentar situaciones que requieren herramientas matemáticas de álgebra y cálculo, geometría o estadística.",
+      "competencies": [
+        {
+          "code": "MA.INT",
+          "name": "Interpretación y representación",
+          "description": "Comprender y transformar la información, y extraer la información relevante.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        },
+        {
+          "code": "MA.FOR",
+          "name": "Formulación y ejecución",
+          "description": "Plantear y ejecutar estrategias y solucionar problemas en diversos contextos.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        },
+        {
+          "code": "MA.ARG",
+          "name": "Argumentación",
+          "description": "Validar o refutar conclusiones, estrategias, soluciones, interpretaciones y representaciones en diversas situaciones.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        }
+      ],
+      "components": [
+        { "code": "MA.CAT.ALG", "kind": "categoria", "name": "Álgebra y cálculo", "description": "Categoría de herramientas matemáticas." },
+        { "code": "MA.CAT.GEO", "kind": "categoria", "name": "Geometría", "description": "Categoría de herramientas matemáticas." },
+        { "code": "MA.CAT.EST", "kind": "categoria", "name": "Estadística", "description": "Categoría de herramientas matemáticas." },
+        { "code": "MA.CONT.GEN", "kind": "tipo_contenido", "name": "Genérico", "description": "Herramientas matemáticas necesarias para interactuar de manera crítica en la sociedad." },
+        { "code": "MA.CONT.NOGEN", "kind": "tipo_contenido", "name": "No genérico", "description": "Herramientas matemáticas específicas del quehacer matemático aprendidas en la etapa escolar." }
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "Sociales y Ciudadanas",
+      "weight": 3,
+      "questions": { "session1": 25, "session2": 25, "total": 50 },
+      "scope": "Comprender el mundo social desde las ciencias sociales y las competencias involucradas en el ejercicio de la ciudadanía.",
+      "competencies": [
+        {
+          "code": "SC.PSO",
+          "name": "Pensamiento social",
+          "description": "Usar conceptos básicos de las ciencias sociales para comprender problemáticas y fenómenos sociales, políticos, económicos, culturales y geográficos; comprender los principios básicos de la Constitución y el sistema político colombiano.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        },
+        {
+          "code": "SC.PER",
+          "name": "Interpretación y análisis de perspectivas",
+          "description": "Analizar problemas sociales desde las perspectivas de los posibles involucrados y analizar fuentes y argumentos enmarcados en problemáticas sociales.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        },
+        {
+          "code": "SC.SIS",
+          "name": "Pensamiento reflexivo y sistémico",
+          "description": "Reconocer distintas formas de aproximarse a los problemas sociales, identificar la complejidad de sus relaciones y adoptar posturas críticas sobre los usos de las ciencias sociales.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        }
+      ],
+      "components": []
+    },
+    {
+      "code": "CN",
+      "name": "Ciencias Naturales",
+      "weight": 3,
+      "questions": { "session1": 29, "session2": 29, "total": 58 },
+      "scope": "Comprender y usar nociones, conceptos y teorías de las ciencias naturales para solucionar problemas, valorando críticamente sus consecuencias sociales y ambientales.",
+      "competencies": [
+        {
+          "code": "CN.USO",
+          "name": "Uso comprensivo del conocimiento científico",
+          "description": "Comprender y usar conceptos, teorías y modelos para solucionar problemas.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        },
+        {
+          "code": "CN.EXP",
+          "name": "Explicación de fenómenos",
+          "description": "Analizar críticamente argumentos y modelos que explican fenómenos.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        },
+        {
+          "code": "CN.IND",
+          "name": "Indagación",
+          "description": "Reconocer preguntas y procedimientos adecuados, y buscar, seleccionar e interpretar información.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        }
+      ],
+      "components": [
+        {
+          "code": "CN.COMP.QUI",
+          "kind": "componente",
+          "name": "Químico",
+          "description": "Cambios químicos, el átomo, tipos de enlace, propiedades de la materia, estequiometría, separación de mezclas, solubilidad, gases ideales, transformación y conservación de la energía."
+        },
+        {
+          "code": "CN.COMP.BIO",
+          "kind": "componente",
+          "name": "Biológico",
+          "description": "Homeostasis en los seres vivos, herencia y reproducción, relaciones ecológicas, evolución y transformación de la vida en el planeta, conservación de la energía."
+        },
+        {
+          "code": "CN.COMP.FIS",
+          "kind": "componente",
+          "name": "Físico",
+          "description": "Cinemática, dinámica, energía mecánica, ondas, energía térmica, electromagnetismo, campo gravitacional, transformación y conservación de la energía."
+        },
+        {
+          "code": "CN.COMP.CTS",
+          "kind": "componente",
+          "name": "Ciencia, Tecnología y Sociedad (CTS)",
+          "description": "Temáticas interdisciplinares relacionadas con las ciencias naturales, unas globales y otras locales."
+        }
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "Inglés",
+      "weight": 1,
+      "questions": { "session1": 0, "session2": 55, "total": 55 },
+      "scope": "Competencia comunicativa en lengua inglesa según el Marco Común Europeo de Referencia, mediante tareas de lectura, gramática y léxico.",
+      "cefr_levels": ["A-", "A1", "A2", "B1", "B+"],
+      "competencies": [
+        {
+          "code": "IN.COM",
+          "name": "Competencia comunicativa en lengua inglesa",
+          "description": "Dar cuenta de lo que el estudiante es capaz de hacer en inglés según el MCER, a través de tareas de lectura, gramática y léxico.",
+          "affirmations_status": "pendiente_guia_oficial",
+          "affirmations": []
+        }
+      ],
+      "components": [
+        { "code": "IN.P1", "kind": "parte", "name": "Parte 1", "description": "Relacionar descripciones con palabras de una lista que incluye un ejemplo y palabras sobrantes." },
+        { "code": "IN.P2", "kind": "parte", "name": "Parte 2", "description": "Decidir en qué lugar se encontraría cada aviso." },
+        { "code": "IN.P3", "kind": "parte", "name": "Parte 3", "description": "Completar conversaciones cortas eligiendo la respuesta adecuada." },
+        { "code": "IN.P4", "kind": "parte", "name": "Parte 4", "description": "Texto con espacios: elegir la palabra con la estructura gramatical correcta." },
+        { "code": "IN.P5", "kind": "parte", "name": "Parte 5", "description": "Comprensión de lectura sobre un texto de nivel básico." },
+        { "code": "IN.P6", "kind": "parte", "name": "Parte 6", "description": "Comprensión de lectura sobre un texto de nivel más complejo." },
+        { "code": "IN.P7", "kind": "parte", "name": "Parte 7", "description": "Texto con espacios: elegir la palabra con el significado o la estructura correcta." }
+      ]
+    }
+  ]
+}
