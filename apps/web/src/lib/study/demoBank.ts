@@ -5,6 +5,8 @@ import lote002 from "../../../../../banco/lotes/2026-11-lote-002-matematicas.jso
 import lote003 from "../../../../../banco/lotes/2026-11-lote-003-ingles-parte1.json";
 import lote005 from "../../../../../banco/lotes/2026-11-lote-005-ingles-parte3.json";
 import lote007 from "../../../../../banco/lotes/2026-11-lote-007-ingles-parte5.json";
+import lote010 from "../../../../../banco/lotes/2026-11-lote-010-sociales-pensamiento-social.json";
+import lote015 from "../../../../../banco/lotes/2026-11-lote-015-ciencias-biologia.json";
 import taxonomy from "../../../../../docs/MBE_TAXONOMIA.json";
 import { questionFromRow, type EvidenceInfo } from "./mapping";
 import type { StudyQuestion } from "./types";
@@ -36,7 +38,7 @@ function evidenceIndex(): Map<string, EvidenceInfo> {
 /** Preguntas de muestra para el modo demo (las mismas del banco, sin pasar por Supabase). */
 export function demoBank(): StudyQuestion[] {
   const evidences = evidenceIndex();
-  return ([...lote001, ...lote002, ...lote003, ...lote005, ...lote007] as LoteItem[]).flatMap((it) => {
+  return ([...lote001, ...lote002, ...lote003, ...lote005, ...lote007, ...lote010, ...lote015] as LoteItem[]).flatMap((it) => {
     const q = questionFromRow(
       {
         id: it.id,

@@ -1,0 +1,2533 @@
+[
+  {
+    "id": "bed530a0-997b-55ed-a8d3-b7668313afbf",
+    "subject": "CN",
+    "evidence_code": "CN.E4.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos formas de conectar bombillos",
+      "text": "Andrea tiene una pila de 6 V y dos bombillos iguales. En el montaje 1 los conecta en serie, uno después del otro en el mismo camino. En el montaje 2 los conecta en paralelo, cada uno en su propio camino conectado a la pila.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "En el montaje 1 se funde uno de los bombillos. ¿Qué pasa con el otro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Se apaga, porque el circuito queda abierto.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En serie hay un solo camino; si se interrumpe, deja de pasar corriente."
+      },
+      {
+        "label": "B",
+        "text": "Sigue igual, porque cada bombillo es independiente.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde serie con paralelo.",
+        "explanation_feedback": "Incorrecta. Eso ocurre en paralelo, no en serie."
+      },
+      {
+        "label": "C",
+        "text": "Brilla más, porque recibe toda la energía.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconoce que el circuito se abre.",
+        "explanation_feedback": "Incorrecta. Sin camino cerrado no hay corriente."
+      },
+      {
+        "label": "D",
+        "text": "También se funde de inmediato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. Simplemente deja de recibir corriente."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "374565b8-1d41-58f2-9dc0-bb9f225995c5",
+    "subject": "CN",
+    "evidence_code": "CN.E4.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos formas de conectar bombillos",
+      "text": "Andrea tiene una pila de 6 V y dos bombillos iguales. En el montaje 1 los conecta en serie, uno después del otro en el mismo camino. En el montaje 2 los conecta en paralelo, cada uno en su propio camino conectado a la pila.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿En qué montaje brillan más los bombillos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Brillan igual en los dos montajes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora cómo se reparte el voltaje.",
+        "explanation_feedback": "Incorrecta. En serie el voltaje se divide."
+      },
+      {
+        "label": "B",
+        "text": "No brillan en ninguno de los dos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el funcionamiento.",
+        "explanation_feedback": "Incorrecta. Ambos montajes encienden los bombillos."
+      },
+      {
+        "label": "C",
+        "text": "En el montaje 2, porque cada bombillo recibe los 6 V de la pila.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En paralelo cada rama tiene el voltaje completo; en serie el voltaje se reparte."
+      },
+      {
+        "label": "D",
+        "text": "En el montaje 1, porque la corriente pasa por los dos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que pasar por más bombillos aumenta el brillo.",
+        "explanation_feedback": "Incorrecta. En serie cada bombillo recibe solo 3 V."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "e4922448-6893-5c0a-95f3-5a194f078f52",
+    "subject": "CN",
+    "evidence_code": "CN.E2.4",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos formas de conectar bombillos",
+      "text": "Andrea tiene una pila de 6 V y dos bombillos iguales. En el montaje 1 los conecta en serie, uno después del otro en el mismo camino. En el montaje 2 los conecta en paralelo, cada uno en su propio camino conectado a la pila.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué las instalaciones eléctricas de las casas se conectan en paralelo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para que todos los aparatos se apaguen juntos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Describe una desventaja de la serie.",
+        "explanation_feedback": "Incorrecta. Eso sería un problema, no una ventaja."
+      },
+      {
+        "label": "B",
+        "text": "Para que el voltaje se divida entre los aparatos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la conexión en serie.",
+        "explanation_feedback": "Incorrecta. En serie se divide; en paralelo no."
+      },
+      {
+        "label": "C",
+        "text": "Para que cada aparato reciba el mismo voltaje y funcione aunque otro se apague.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En paralelo los aparatos son independientes y tienen el voltaje de la red."
+      },
+      {
+        "label": "D",
+        "text": "Para que la corriente total sea cero.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. La corriente total es la suma de las ramas."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "14d27616-b46d-590c-8e5d-1cfa3bd43ab9",
+    "subject": "CN",
+    "evidence_code": "CN.E2.4",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ley de Ohm",
+      "text": "En un circuito, la corriente (I) que pasa por una resistencia (R) se relaciona con el voltaje (V) mediante V = I × R. El voltaje se mide en voltios (V), la corriente en amperios (A) y la resistencia en ohmios (Ω).",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Una resistencia de 4 Ω se conecta a una batería de 12 V. ¿Qué corriente pasa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8 A.",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta en lugar de dividir.",
+        "explanation_feedback": "Incorrecta. 12 − 4 no da la corriente."
+      },
+      {
+        "label": "B",
+        "text": "3 A.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. I = V / R = 12 / 4 = 3 A."
+      },
+      {
+        "label": "C",
+        "text": "48 A.",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica en lugar de dividir.",
+        "explanation_feedback": "Incorrecta. La corriente es V dividido R."
+      },
+      {
+        "label": "D",
+        "text": "0,33 A.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide al revés.",
+        "explanation_feedback": "Incorrecta. R / V no es la corriente."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "c8e2994c-97c0-5009-ab54-6ccf85305d00",
+    "subject": "CN",
+    "evidence_code": "CN.E4.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ley de Ohm",
+      "text": "En un circuito, la corriente (I) que pasa por una resistencia (R) se relaciona con el voltaje (V) mediante V = I × R. El voltaje se mide en voltios (V), la corriente en amperios (A) y la resistencia en ohmios (Ω).",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si se duplica el voltaje y la resistencia no cambia, ¿qué pasa con la corriente?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No cambia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la ecuación.",
+        "explanation_feedback": "Incorrecta. La corriente depende del voltaje."
+      },
+      {
+        "label": "B",
+        "text": "Se reduce a la mitad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación.",
+        "explanation_feedback": "Incorrecta. Más voltaje produce más corriente."
+      },
+      {
+        "label": "C",
+        "text": "Se cuadruplica.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una relación cuadrática.",
+        "explanation_feedback": "Incorrecta. La relación es lineal."
+      },
+      {
+        "label": "D",
+        "text": "Se duplica.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con R constante, la corriente es proporcional al voltaje."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "e727c4d9-9c09-5598-a024-73ac9f4e913d",
+    "subject": "CN",
+    "evidence_code": "CN.E8.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un viaje en bus",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Distancia recorrida por un bus intermunicipal",
+        "headers": [
+          "Tiempo (h)",
+          "Distancia desde la terminal (km)"
+        ],
+        "rows": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            60
+          ],
+          [
+            2,
+            120
+          ],
+          [
+            3,
+            120
+          ],
+          [
+            4,
+            200
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué ocurrió entre las horas 2 y 3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El bus recorrió 120 km.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la posición con la distancia recorrida en ese tramo.",
+        "explanation_feedback": "Incorrecta. 120 km es la posición; en ese tramo recorrió 0 km."
+      },
+      {
+        "label": "B",
+        "text": "El bus iba más rápido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal la tabla.",
+        "explanation_feedback": "Incorrecta. La distancia no aumentó."
+      },
+      {
+        "label": "C",
+        "text": "El bus regresó a la terminal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal la tabla.",
+        "explanation_feedback": "Incorrecta. Si regresara, la distancia bajaría."
+      },
+      {
+        "label": "D",
+        "text": "El bus estuvo detenido.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La distancia no cambió: siguió en 120 km."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "14a6be2a-d958-5032-a6c1-d0ea288dd394",
+    "subject": "CN",
+    "evidence_code": "CN.E2.5",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un viaje en bus",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Distancia recorrida por un bus intermunicipal",
+        "headers": [
+          "Tiempo (h)",
+          "Distancia desde la terminal (km)"
+        ],
+        "rows": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            60
+          ],
+          [
+            2,
+            120
+          ],
+          [
+            3,
+            120
+          ],
+          [
+            4,
+            200
+          ]
+        ]
+      }
+    },
+    "stem": "¿Cuál fue la rapidez del bus en la última hora?",
+    "options": [
+      {
+        "label": "A",
+        "text": "80 km/h.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Recorrió de 120 a 200 km en una hora: 80 km/h."
+      },
+      {
+        "label": "B",
+        "text": "50 km/h.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide la distancia total entre el tiempo total.",
+        "explanation_feedback": "Incorrecta. Eso da la rapidez media de todo el viaje."
+      },
+      {
+        "label": "C",
+        "text": "60 km/h.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la rapidez de la primera hora.",
+        "explanation_feedback": "Incorrecta. En la última hora recorrió 80 km."
+      },
+      {
+        "label": "D",
+        "text": "200 km/h.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la posición final como rapidez.",
+        "explanation_feedback": "Incorrecta. Hay que restar las posiciones."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "ca5e348a-57b2-5131-a646-37b8e7b2fff5",
+    "subject": "CN",
+    "evidence_code": "CN.E2.5",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un viaje en bus",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Distancia recorrida por un bus intermunicipal",
+        "headers": [
+          "Tiempo (h)",
+          "Distancia desde la terminal (km)"
+        ],
+        "rows": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            60
+          ],
+          [
+            2,
+            120
+          ],
+          [
+            3,
+            120
+          ],
+          [
+            4,
+            200
+          ]
+        ]
+      }
+    },
+    "stem": "¿Cuál fue la rapidez media del bus en todo el viaje?",
+    "options": [
+      {
+        "label": "A",
+        "text": "70 km/h.",
+        "is_correct": false,
+        "distractor_diagnosis": "Promedia solo los tramos en movimiento.",
+        "explanation_feedback": "Incorrecta. El tiempo detenido también cuenta."
+      },
+      {
+        "label": "B",
+        "text": "60 km/h.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma la rapidez del primer tramo.",
+        "explanation_feedback": "Incorrecta. La media considera todo el viaje."
+      },
+      {
+        "label": "C",
+        "text": "80 km/h.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma la rapidez del último tramo.",
+        "explanation_feedback": "Incorrecta. La media considera todo el viaje."
+      },
+      {
+        "label": "D",
+        "text": "50 km/h.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Distancia total / tiempo total = 200 km / 4 h = 50 km/h."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "11b66db2-8011-5bea-998a-2524bd2426df",
+    "subject": "CN",
+    "evidence_code": "CN.E5.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una pelota que cae",
+      "text": "Una pelota de 2 kg se deja caer desde 5 m de altura. Usa g = 10 m/s² y desprecia la resistencia del aire. La energía potencial gravitacional es Ep = m × g × h y la energía cinética es Ec = ½ × m × v².",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué transformación de energía ocurre mientras la pelota cae?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La energía química se transforma en calor.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una transformación sin relación.",
+        "explanation_feedback": "Incorrecta. No hay reacción química."
+      },
+      {
+        "label": "B",
+        "text": "La energía eléctrica se transforma en luz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una transformación sin relación.",
+        "explanation_feedback": "Incorrecta. No hay electricidad en la caída."
+      },
+      {
+        "label": "C",
+        "text": "La energía cinética se transforma en potencial.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la transformación.",
+        "explanation_feedback": "Incorrecta. Eso ocurre cuando sube."
+      },
+      {
+        "label": "D",
+        "text": "La energía potencial se transforma en energía cinética.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Al bajar pierde altura (potencial) y gana velocidad (cinética)."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "f09c1127-55a4-57ac-abbf-5b78135fb401",
+    "subject": "CN",
+    "evidence_code": "CN.E4.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una pelota que cae",
+      "text": "Una pelota de 2 kg se deja caer desde 5 m de altura. Usa g = 10 m/s² y desprecia la resistencia del aire. La energía potencial gravitacional es Ep = m × g × h y la energía cinética es Ec = ½ × m × v².",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es la energía potencial de la pelota al inicio?",
+    "options": [
+      {
+        "label": "A",
+        "text": "17 J.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma en lugar de multiplicar.",
+        "explanation_feedback": "Incorrecta. La fórmula es un producto."
+      },
+      {
+        "label": "B",
+        "text": "10 J.",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite la altura.",
+        "explanation_feedback": "Incorrecta. Hay que multiplicar también por 5 m."
+      },
+      {
+        "label": "C",
+        "text": "100 J.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ep = 2 × 10 × 5 = 100 J."
+      },
+      {
+        "label": "D",
+        "text": "50 J.",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite la masa.",
+        "explanation_feedback": "Incorrecta. Hay que multiplicar también por 2 kg."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "6ef10247-3bf2-544e-b350-84112a119e18",
+    "subject": "CN",
+    "evidence_code": "CN.E3.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una pelota que cae",
+      "text": "Una pelota de 2 kg se deja caer desde 5 m de altura. Usa g = 10 m/s² y desprecia la resistencia del aire. La energía potencial gravitacional es Ep = m × g × h y la energía cinética es Ec = ½ × m × v².",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Con qué rapidez llega la pelota al suelo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "5 m/s.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la altura como rapidez.",
+        "explanation_feedback": "Incorrecta. La altura no es la rapidez."
+      },
+      {
+        "label": "B",
+        "text": "50 m/s.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide 100 entre 2 sin usar la fórmula.",
+        "explanation_feedback": "Incorrecta. Hay que despejar v de la energía cinética."
+      },
+      {
+        "label": "C",
+        "text": "10 m/s.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Toda la Ep se vuelve Ec: 100 = ½ × 2 × v², entonces v² = 100 y v = 10 m/s."
+      },
+      {
+        "label": "D",
+        "text": "100 m/s.",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida sacar la raíz cuadrada.",
+        "explanation_feedback": "Incorrecta. v² = 100, así que v = 10."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "e6fcaf6a-386c-5735-9e4d-b8530efb4db3",
+    "subject": "CN",
+    "evidence_code": "CN.E5.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Empujar una caja",
+      "text": "Un estudiante empuja una caja de 20 kg sobre el piso con una fuerza horizontal de 100 N. La fuerza de fricción entre la caja y el piso es de 60 N. Recuerda la segunda ley de Newton: fuerza neta = masa × aceleración.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué fuerzas horizontales actúan sobre la caja?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Solo el peso de la caja.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde fuerzas verticales con horizontales.",
+        "explanation_feedback": "Incorrecta. El peso es vertical."
+      },
+      {
+        "label": "B",
+        "text": "Solo la fuerza del estudiante.",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida la fricción.",
+        "explanation_feedback": "Incorrecta. El piso ejerce fricción."
+      },
+      {
+        "label": "C",
+        "text": "La fuerza del estudiante y la fricción.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En la dirección horizontal actúan el empuje y la fricción."
+      },
+      {
+        "label": "D",
+        "text": "Ninguna, porque la caja está en el piso.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora las fuerzas.",
+        "explanation_feedback": "Incorrecta. El estudiante la está empujando."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "3fc9626c-27bd-5786-9dbf-19ea66100c9f",
+    "subject": "CN",
+    "evidence_code": "CN.E3.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Empujar una caja",
+      "text": "Un estudiante empuja una caja de 20 kg sobre el piso con una fuerza horizontal de 100 N. La fuerza de fricción entre la caja y el piso es de 60 N. Recuerda la segunda ley de Newton: fuerza neta = masa × aceleración.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es la aceleración de la caja?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 m/s².",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Fuerza neta = 100 − 60 = 40 N; a = 40 / 20 = 2 m/s²."
+      },
+      {
+        "label": "B",
+        "text": "5 m/s².",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida restar la fricción.",
+        "explanation_feedback": "Incorrecta. Con 100 N sin fricción daría 5, pero hay que restar 60 N."
+      },
+      {
+        "label": "C",
+        "text": "8 m/s².",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma las fuerzas.",
+        "explanation_feedback": "Incorrecta. La fricción se opone al movimiento."
+      },
+      {
+        "label": "D",
+        "text": "3 m/s².",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide la fricción entre la masa.",
+        "explanation_feedback": "Incorrecta. Hay que usar la fuerza neta."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "0f41da62-da5c-57fe-a706-00df1258e00f",
+    "subject": "CN",
+    "evidence_code": "CN.E5.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Empujar una caja",
+      "text": "Un estudiante empuja una caja de 20 kg sobre el piso con una fuerza horizontal de 100 N. La fuerza de fricción entre la caja y el piso es de 60 N. Recuerda la segunda ley de Newton: fuerza neta = masa × aceleración.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si el estudiante empuja con exactamente 60 N y la caja ya se movía, ¿qué ocurre?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La caja se detiene de inmediato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que se necesita fuerza neta para moverse.",
+        "explanation_feedback": "Incorrecta. Sin fuerza neta mantiene su velocidad."
+      },
+      {
+        "label": "B",
+        "text": "La caja sigue moviéndose con velocidad constante.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si la fuerza neta es cero, la velocidad no cambia (primera ley de Newton)."
+      },
+      {
+        "label": "C",
+        "text": "La caja se mueve hacia atrás.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto de la fricción.",
+        "explanation_feedback": "Incorrecta. La fricción no empuja hacia atrás si las fuerzas se equilibran."
+      },
+      {
+        "label": "D",
+        "text": "La caja acelera más rápido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que la fuerza neta es cero.",
+        "explanation_feedback": "Incorrecta. Sin fuerza neta no hay aceleración."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "e0ce6a0b-1bbd-5c8f-9aba-0ebf3457087b",
+    "subject": "CN",
+    "evidence_code": "CN.E5.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Empujar una caja",
+      "text": "Un estudiante empuja una caja de 20 kg sobre el piso con una fuerza horizontal de 100 N. La fuerza de fricción entre la caja y el piso es de 60 N. Recuerda la segunda ley de Newton: fuerza neta = masa × aceleración.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Una nadadora empuja la pared de la piscina con los pies y sale impulsada hacia adelante. ¿Qué principio explica esto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La primera ley: los cuerpos se mueven solos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Malinterpreta la primera ley.",
+        "explanation_feedback": "Incorrecta. La primera ley habla de mantener el estado de movimiento sin fuerza neta."
+      },
+      {
+        "label": "B",
+        "text": "La ley de Ohm de los circuitos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una ley de circuitos.",
+        "explanation_feedback": "Incorrecta. No hay circuito."
+      },
+      {
+        "label": "C",
+        "text": "La conservación de la masa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una ley de química.",
+        "explanation_feedback": "Incorrecta. No explica el impulso."
+      },
+      {
+        "label": "D",
+        "text": "La tercera ley de Newton: acción y reacción.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Acción y reacción: ella empuja la pared y la pared la empuja a ella."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "83dcb904-1259-510a-86c3-0cdf32d35b81",
+    "subject": "CN",
+    "evidence_code": "CN.E2.7",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Rayos y truenos",
+      "text": "La luz viaja a unos 300.000 km/s y el sonido en el aire a unos 340 m/s. En una tormenta, una persona ve un rayo y cuenta 3 segundos hasta escuchar el trueno.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Aproximadamente a qué distancia cayó el rayo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A 3 metros.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde segundos con metros.",
+        "explanation_feedback": "Incorrecta. Hay que multiplicar por la velocidad del sonido."
+      },
+      {
+        "label": "B",
+        "text": "A unos 340 metros.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un solo segundo.",
+        "explanation_feedback": "Incorrecta. Hay que multiplicar por los 3 segundos."
+      },
+      {
+        "label": "C",
+        "text": "A unos 900.000 km.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la velocidad de la luz.",
+        "explanation_feedback": "Incorrecta. La demora se debe al sonido."
+      },
+      {
+        "label": "D",
+        "text": "A unos 1.000 metros.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El sonido recorre 340 m/s × 3 s ≈ 1.020 m; la luz llega casi al instante."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "2ac0a8da-8fdf-524a-bbb7-c653bf85b89d",
+    "subject": "CN",
+    "evidence_code": "CN.E5.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Rayos y truenos",
+      "text": "La luz viaja a unos 300.000 km/s y el sonido en el aire a unos 340 m/s. En una tormenta, una persona ve un rayo y cuenta 3 segundos hasta escuchar el trueno.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué se ve el rayo antes de oír el trueno?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque el trueno ocurre después del rayo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el momento de emisión con la llegada.",
+        "explanation_feedback": "Incorrecta. Ocurren casi al mismo tiempo."
+      },
+      {
+        "label": "B",
+        "text": "Porque la luz viaja mucho más rápido que el sonido.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La luz llega casi de inmediato; el sonido tarda más."
+      },
+      {
+        "label": "C",
+        "text": "Porque el sonido viaja más rápido que la luz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte las velocidades.",
+        "explanation_feedback": "Incorrecta. La luz es mucho más rápida."
+      },
+      {
+        "label": "D",
+        "text": "Porque los ojos son más sensibles que los oídos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una causa.",
+        "explanation_feedback": "Incorrecta. La diferencia es de velocidades."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "424d5c66-82de-572f-9f9b-83af6ba4784f",
+    "subject": "CN",
+    "evidence_code": "CN.E2.7",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Rayos y truenos",
+      "text": "La luz viaja a unos 300.000 km/s y el sonido en el aire a unos 340 m/s. En una tormenta, una persona ve un rayo y cuenta 3 segundos hasta escuchar el trueno.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un sonido de 170 Hz viaja en el aire a 340 m/s. ¿Cuál es su longitud de onda?",
+    "options": [
+      {
+        "label": "A",
+        "text": "170 m.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la frecuencia como longitud.",
+        "explanation_feedback": "Incorrecta. La frecuencia no es una longitud."
+      },
+      {
+        "label": "B",
+        "text": "2 m.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. λ = v / f = 340 / 170 = 2 m."
+      },
+      {
+        "label": "C",
+        "text": "0,5 m.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide al revés.",
+        "explanation_feedback": "Incorrecta. λ = v / f, no f / v."
+      },
+      {
+        "label": "D",
+        "text": "57.800 m.",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica en lugar de dividir.",
+        "explanation_feedback": "Incorrecta. La longitud de onda es v dividido f."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "d7b5ee9f-5679-5a80-a282-7afd1de37244",
+    "subject": "CN",
+    "evidence_code": "CN.E2.6",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Calor en la cocina",
+      "text": "En una olla con sopa caliente se dejan una cuchara metálica y una cuchara de madera. Después de unos minutos, el mango de la cuchara metálica está muy caliente y el de la de madera apenas tibio.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué explica la diferencia entre las dos cucharas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El metal conduce el calor mucho mejor que la madera.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los metales son buenos conductores térmicos; la madera es aislante."
+      },
+      {
+        "label": "B",
+        "text": "La madera absorbe toda la sopa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un proceso.",
+        "explanation_feedback": "Incorrecta. No explica la temperatura del mango."
+      },
+      {
+        "label": "C",
+        "text": "El metal produce calor por sí mismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una fuente de calor.",
+        "explanation_feedback": "Incorrecta. El calor viene de la sopa."
+      },
+      {
+        "label": "D",
+        "text": "La madera está más fría desde el principio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye la diferencia al estado inicial.",
+        "explanation_feedback": "Incorrecta. Ambas estaban a la misma temperatura antes."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "ab4b8ee4-7d25-5f49-b464-c22acaa8982b",
+    "subject": "CN",
+    "evidence_code": "CN.E2.6",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Calor en la cocina",
+      "text": "En una olla con sopa caliente se dejan una cuchara metálica y una cuchara de madera. Después de unos minutos, el mango de la cuchara metálica está muy caliente y el de la de madera apenas tibio.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Se mezcla 1 kg de agua a 20 °C con 1 kg de agua a 60 °C en un recipiente aislado. ¿Qué temperatura final se espera?",
+    "options": [
+      {
+        "label": "A",
+        "text": "60 °C.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que domina el agua caliente.",
+        "explanation_feedback": "Incorrecta. El agua fría absorbe parte del calor."
+      },
+      {
+        "label": "B",
+        "text": "80 °C.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma las temperaturas.",
+        "explanation_feedback": "Incorrecta. Las temperaturas no se suman."
+      },
+      {
+        "label": "C",
+        "text": "40 °C.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con masas iguales del mismo líquido, la temperatura final es el promedio."
+      },
+      {
+        "label": "D",
+        "text": "20 °C.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que domina el agua fría.",
+        "explanation_feedback": "Incorrecta. El agua caliente cede calor."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "55be1f22-7413-5fbe-81a5-6f5c53d4fea3",
+    "subject": "CN",
+    "evidence_code": "CN.E1.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Calor en la cocina",
+      "text": "En una olla con sopa caliente se dejan una cuchara metálica y una cuchara de madera. Después de unos minutos, el mango de la cuchara metálica está muy caliente y el de la de madera apenas tibio.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué las ollas suelen tener mangos de plástico o madera?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para que conduzcan electricidad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde conducción térmica y eléctrica.",
+        "explanation_feedback": "Incorrecta. No se busca conducir electricidad."
+      },
+      {
+        "label": "B",
+        "text": "Porque son más pesados que el metal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón.",
+        "explanation_feedback": "Incorrecta. La razón es térmica."
+      },
+      {
+        "label": "C",
+        "text": "Para no quemarse, porque esos materiales conducen poco el calor.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Son aislantes térmicos que protegen la mano."
+      },
+      {
+        "label": "D",
+        "text": "Para que la olla se caliente más rápido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la función del mango.",
+        "explanation_feedback": "Incorrecta. El mango no calienta la comida."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "8e903630-7efa-5f21-b00a-8473e09e1632",
+    "subject": "CN",
+    "evidence_code": "CN.E7.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "El péndulo",
+      "text": "Unos estudiantes miden el tiempo de 10 oscilaciones de un péndulo cambiando la longitud de la cuerda y la masa colgada.",
+      "svg": null,
+      "table": {
+        "caption": "Tiempo de 10 oscilaciones",
+        "headers": [
+          "Longitud (cm)",
+          "Masa (g)",
+          "Tiempo (s)"
+        ],
+        "rows": [
+          [
+            25,
+            50,
+            10.0
+          ],
+          [
+            25,
+            100,
+            10.1
+          ],
+          [
+            100,
+            50,
+            20.0
+          ],
+          [
+            100,
+            100,
+            19.9
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué conclusión apoyan los datos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El tiempo de oscilación depende de la longitud y casi no de la masa.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con la misma longitud, cambiar la masa casi no cambia el tiempo; al cuadruplicar la longitud, el tiempo se duplica."
+      },
+      {
+        "label": "B",
+        "text": "El tiempo depende de la masa y no de la longitud.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la conclusión.",
+        "explanation_feedback": "Incorrecta. Con igual longitud el tiempo casi no cambia."
+      },
+      {
+        "label": "C",
+        "text": "El tiempo no depende de ninguna variable.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el efecto de la longitud.",
+        "explanation_feedback": "Incorrecta. La longitud sí cambia el tiempo."
+      },
+      {
+        "label": "D",
+        "text": "Más masa siempre aumenta mucho el tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal los datos.",
+        "explanation_feedback": "Incorrecta. Las diferencias por masa son de 0,1 s."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "86165065-d96c-5b90-8633-445ad6238a27",
+    "subject": "CN",
+    "evidence_code": "CN.E9.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "El péndulo",
+      "text": "Unos estudiantes miden el tiempo de 10 oscilaciones de un péndulo cambiando la longitud de la cuerda y la masa colgada.",
+      "svg": null,
+      "table": {
+        "caption": "Tiempo de 10 oscilaciones",
+        "headers": [
+          "Longitud (cm)",
+          "Masa (g)",
+          "Tiempo (s)"
+        ],
+        "rows": [
+          [
+            25,
+            50,
+            10.0
+          ],
+          [
+            25,
+            100,
+            10.1
+          ],
+          [
+            100,
+            50,
+            20.0
+          ],
+          [
+            100,
+            100,
+            19.9
+          ]
+        ]
+      }
+    },
+    "stem": "¿Por qué los estudiantes miden 10 oscilaciones en lugar de una sola?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para reducir el error al medir con el cronómetro.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El error de reacción se reparte entre 10 oscilaciones y la medición es más precisa."
+      },
+      {
+        "label": "B",
+        "text": "Para que el péndulo se mueva más rápido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde medición con fenómeno.",
+        "explanation_feedback": "Incorrecta. Contar más no cambia la rapidez."
+      },
+      {
+        "label": "C",
+        "text": "Porque una oscilación no se puede ver.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera la dificultad.",
+        "explanation_feedback": "Incorrecta. Se ve, pero es difícil medirla con precisión."
+      },
+      {
+        "label": "D",
+        "text": "Para cambiar la longitud de la cuerda.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde variables.",
+        "explanation_feedback": "Incorrecta. La longitud se cambia aparte."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "269fabea-2196-5f1a-ade5-55631b801aa5",
+    "subject": "CN",
+    "evidence_code": "CN.E6.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "El péndulo",
+      "text": "Unos estudiantes miden el tiempo de 10 oscilaciones de un péndulo cambiando la longitud de la cuerda y la masa colgada.",
+      "svg": null,
+      "table": {
+        "caption": "Tiempo de 10 oscilaciones",
+        "headers": [
+          "Longitud (cm)",
+          "Masa (g)",
+          "Tiempo (s)"
+        ],
+        "rows": [
+          [
+            25,
+            50,
+            10.0
+          ],
+          [
+            25,
+            100,
+            10.1
+          ],
+          [
+            100,
+            50,
+            20.0
+          ],
+          [
+            100,
+            100,
+            19.9
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué pregunta responde este experimento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "¿Por qué los relojes antiguos son bonitos?",
+        "is_correct": false,
+        "distractor_diagnosis": "Formula una pregunta de opinión.",
+        "explanation_feedback": "Incorrecta. No se responde con mediciones."
+      },
+      {
+        "label": "B",
+        "text": "¿De qué variables depende el tiempo de oscilación de un péndulo?",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se cambian longitud y masa y se mide el tiempo."
+      },
+      {
+        "label": "C",
+        "text": "¿De qué color debe ser la cuerda?",
+        "is_correct": false,
+        "distractor_diagnosis": "Formula una pregunta no estudiada.",
+        "explanation_feedback": "Incorrecta. El color no se varía."
+      },
+      {
+        "label": "D",
+        "text": "¿Cuánto cuesta un péndulo?",
+        "is_correct": false,
+        "distractor_diagnosis": "Formula una pregunta económica.",
+        "explanation_feedback": "Incorrecta. No se mide el precio."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "222fc784-5321-5f9e-97b4-e8f1d72147ef",
+    "subject": "CN",
+    "evidence_code": "CN.E4.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Presión",
+      "text": "La presión es la fuerza dividida entre el área sobre la que actúa (P = F / A). Un cuchillo afilado corta mejor que uno sin filo, y en terrenos con barro conviene usar botas anchas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué un cuchillo afilado corta mejor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque concentra la fuerza en un área muy pequeña y aumenta la presión.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con menos área, la misma fuerza produce más presión."
+      },
+      {
+        "label": "B",
+        "text": "Porque reduce la fuerza aplicada.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación.",
+        "explanation_feedback": "Incorrecta. La fuerza es la misma."
+      },
+      {
+        "label": "C",
+        "text": "Porque pesa más que uno sin filo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye el efecto al peso.",
+        "explanation_feedback": "Incorrecta. El filo reduce el área, no aumenta el peso."
+      },
+      {
+        "label": "D",
+        "text": "Porque aumenta el área de contacto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación.",
+        "explanation_feedback": "Incorrecta. Más área reduciría la presión."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "9c4d56c9-e7f6-531e-b9b9-c1d0fc6c4cda",
+    "subject": "CN",
+    "evidence_code": "CN.E4.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Presión",
+      "text": "La presión es la fuerza dividida entre el área sobre la que actúa (P = F / A). Un cuchillo afilado corta mejor que uno sin filo, y en terrenos con barro conviene usar botas anchas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué las botas anchas ayudan a no hundirse en el barro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aumentan la presión sobre el barro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación.",
+        "explanation_feedback": "Incorrecta. Más área reduce la presión."
+      },
+      {
+        "label": "B",
+        "text": "Reparten el peso en más área y disminuyen la presión sobre el barro.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. A mayor área, menor presión con el mismo peso."
+      },
+      {
+        "label": "C",
+        "text": "Calientan el barro y lo endurecen.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un proceso.",
+        "explanation_feedback": "Incorrecta. No hay efecto térmico."
+      },
+      {
+        "label": "D",
+        "text": "Reducen el peso de la persona.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde peso con presión.",
+        "explanation_feedback": "Incorrecta. El peso no cambia."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "3298852a-a6b8-5120-8175-b45aa43a3b9f",
+    "subject": "CN",
+    "evidence_code": "CN.E5.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La central hidroeléctrica",
+      "text": "En una central hidroeléctrica, el agua almacenada en un embalse cae por tuberías, mueve una turbina y esta hace girar un generador que produce electricidad.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué secuencia de transformaciones de energía ocurre en la central?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Eléctrica → potencial → cinética.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el orden.",
+        "explanation_feedback": "Incorrecta. La electricidad es el producto final."
+      },
+      {
+        "label": "B",
+        "text": "Nuclear → térmica → eléctrica.",
+        "is_correct": false,
+        "distractor_diagnosis": "Describe una central nuclear.",
+        "explanation_feedback": "Incorrecta. No hay reacciones nucleares."
+      },
+      {
+        "label": "C",
+        "text": "Potencial del agua → cinética del agua y la turbina → eléctrica.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El agua pierde altura, gana movimiento y el generador lo convierte en electricidad."
+      },
+      {
+        "label": "D",
+        "text": "Química → térmica → eléctrica.",
+        "is_correct": false,
+        "distractor_diagnosis": "Describe una central térmica.",
+        "explanation_feedback": "Incorrecta. En una hidroeléctrica no se quema combustible."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "7863bc27-78b5-5dd6-8299-33315a349aea",
+    "subject": "CN",
+    "evidence_code": "CN.E1.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La central hidroeléctrica",
+      "text": "En una central hidroeléctrica, el agua almacenada en un embalse cae por tuberías, mueve una turbina y esta hace girar un generador que produce electricidad.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué efecto ambiental puede tener construir el embalse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Producir residuos radiactivos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con una central nuclear.",
+        "explanation_feedback": "Incorrecta. Una hidroeléctrica no produce residuos radiactivos."
+      },
+      {
+        "label": "B",
+        "text": "Inundar ecosistemas y cambiar el caudal del río aguas abajo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El embalse cubre terrenos y regula el flujo del río."
+      },
+      {
+        "label": "C",
+        "text": "Aumentar la contaminación del aire por quemar carbón.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con una central térmica.",
+        "explanation_feedback": "Incorrecta. Una hidroeléctrica no quema carbón."
+      },
+      {
+        "label": "D",
+        "text": "Eliminar toda el agua del río.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el efecto.",
+        "explanation_feedback": "Incorrecta. El río sigue, pero con otro caudal."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "203b10d8-f6b4-58f1-8960-045512fb456e",
+    "subject": "CN",
+    "evidence_code": "CN.E2.5",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un carro que arranca",
+      "text": "Un carro parte del reposo y acelera de manera constante a 2 m/s² durante 5 segundos. Para este movimiento: v = a × t y d = ½ × a × t².",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué velocidad tiene el carro a los 5 segundos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 m/s.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. v = 2 × 5 = 10 m/s."
+      },
+      {
+        "label": "B",
+        "text": "7 m/s.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma aceleración y tiempo.",
+        "explanation_feedback": "Incorrecta. Se multiplican, no se suman."
+      },
+      {
+        "label": "C",
+        "text": "25 m/s.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula la distancia en lugar de la velocidad.",
+        "explanation_feedback": "Incorrecta. 25 es la distancia en metros."
+      },
+      {
+        "label": "D",
+        "text": "2,5 m/s.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide en lugar de multiplicar.",
+        "explanation_feedback": "Incorrecta. v = a × t."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "344ba3d3-abe9-5601-9af2-ad531b4e84a9",
+    "subject": "CN",
+    "evidence_code": "CN.E3.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un carro que arranca",
+      "text": "Un carro parte del reposo y acelera de manera constante a 2 m/s² durante 5 segundos. Para este movimiento: v = a × t y d = ½ × a × t².",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué distancia recorrió el carro en esos 5 segundos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10 m.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la velocidad como distancia.",
+        "explanation_feedback": "Incorrecta. 10 m/s es la velocidad final."
+      },
+      {
+        "label": "B",
+        "text": "25 m.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. d = ½ × 2 × 5² = 25 m."
+      },
+      {
+        "label": "C",
+        "text": "50 m.",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida el factor ½.",
+        "explanation_feedback": "Incorrecta. d = ½ a t²."
+      },
+      {
+        "label": "D",
+        "text": "5 m.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa solo el tiempo.",
+        "explanation_feedback": "Incorrecta. Hay que aplicar la fórmula completa."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "c2916be8-4654-5f71-ae95-5edd7ed37869",
+    "subject": "CN",
+    "evidence_code": "CN.E5.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un carro que arranca",
+      "text": "Un carro parte del reposo y acelera de manera constante a 2 m/s² durante 5 segundos. Para este movimiento: v = a × t y d = ½ × a × t².",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Mientras acelera, ¿qué se puede decir de la fuerza neta sobre el carro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Es cero, porque el carro se mueve.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde movimiento con equilibrio.",
+        "explanation_feedback": "Incorrecta. Con fuerza neta cero no habría aceleración."
+      },
+      {
+        "label": "B",
+        "text": "No se puede saber nada sobre ella.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la segunda ley.",
+        "explanation_feedback": "Incorrecta. La aceleración indica la dirección de la fuerza neta."
+      },
+      {
+        "label": "C",
+        "text": "Apunta hacia atrás del carro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la dirección.",
+        "explanation_feedback": "Incorrecta. Aceleraría hacia atrás."
+      },
+      {
+        "label": "D",
+        "text": "Es distinta de cero y apunta en la dirección del movimiento.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si hay aceleración, hay fuerza neta en esa dirección."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "696a9da7-0b54-5869-a1fc-eddc6d3330ae",
+    "subject": "CN",
+    "evidence_code": "CN.E5.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una pelota lanzada hacia arriba",
+      "text": "Un estudiante lanza una pelota verticalmente hacia arriba. Sube, se detiene un instante en el punto más alto y vuelve a caer. Desprecia la resistencia del aire.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué fuerza actúa sobre la pelota en el punto más alto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La fuerza de la mano, hacia arriba.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que la mano sigue empujando.",
+        "explanation_feedback": "Incorrecta. La mano dejó de actuar al soltarla."
+      },
+      {
+        "label": "B",
+        "text": "Una fuerza hacia arriba igual al peso.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone equilibrio.",
+        "explanation_feedback": "Incorrecta. Si hubiera equilibrio, no caería."
+      },
+      {
+        "label": "C",
+        "text": "Su peso, dirigido hacia abajo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Aunque su velocidad es cero un instante, la gravedad sigue actuando."
+      },
+      {
+        "label": "D",
+        "text": "Ninguna, porque está quieta.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde velocidad cero con fuerza cero.",
+        "explanation_feedback": "Incorrecta. La gravedad nunca deja de actuar."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "cb7d7f97-56fc-594f-bcff-6424fb69b04e",
+    "subject": "CN",
+    "evidence_code": "CN.E4.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una pelota lanzada hacia arriba",
+      "text": "Un estudiante lanza una pelota verticalmente hacia arriba. Sube, se detiene un instante en el punto más alto y vuelve a caer. Desprecia la resistencia del aire.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cómo cambia la energía de la pelota mientras sube?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aumenta la cinética y disminuye la potencial.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el proceso.",
+        "explanation_feedback": "Incorrecta. Eso ocurre al bajar."
+      },
+      {
+        "label": "B",
+        "text": "Disminuye su energía cinética y aumenta la potencial.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Pierde velocidad y gana altura."
+      },
+      {
+        "label": "C",
+        "text": "Aumentan las dos al mismo tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Viola la conservación de la energía.",
+        "explanation_feedback": "Incorrecta. Sin otras fuerzas, una aumenta y otra disminuye."
+      },
+      {
+        "label": "D",
+        "text": "No hay ningún cambio de energía.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la transformación.",
+        "explanation_feedback": "Incorrecta. Cambian velocidad y altura."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "d8922fdc-564c-5128-9297-36cd8cf5b473",
+    "subject": "CN",
+    "evidence_code": "CN.E5.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El sonido",
+      "text": "Dos estudiantes producen sonidos con una guitarra. Cuando aprietan la cuerda más cerca del puente, el sonido es más agudo. Cuando la tocan con más fuerza, el sonido es más fuerte. En una campana de vacío, un timbre que suena deja de oírse cuando se saca el aire.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué característica de la onda cambia cuando el sonido es más agudo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aumenta la amplitud.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde tono con volumen.",
+        "explanation_feedback": "Incorrecta. La amplitud se relaciona con qué tan fuerte suena."
+      },
+      {
+        "label": "B",
+        "text": "Cambia la velocidad del sonido en el aire.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde tono con velocidad.",
+        "explanation_feedback": "Incorrecta. La velocidad en el aire casi no cambia."
+      },
+      {
+        "label": "C",
+        "text": "Disminuye la frecuencia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación.",
+        "explanation_feedback": "Incorrecta. Menor frecuencia da sonidos graves."
+      },
+      {
+        "label": "D",
+        "text": "Aumenta la frecuencia.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los sonidos agudos tienen mayor frecuencia."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "9bdba42e-71b4-5259-bd76-e19468c2d9e8",
+    "subject": "CN",
+    "evidence_code": "CN.E5.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El sonido",
+      "text": "Dos estudiantes producen sonidos con una guitarra. Cuando aprietan la cuerda más cerca del puente, el sonido es más agudo. Cuando la tocan con más fuerza, el sonido es más fuerte. En una campana de vacío, un timbre que suena deja de oírse cuando se saca el aire.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué cambia cuando la cuerda se toca con más fuerza?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aumenta la amplitud y el sonido es más fuerte.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Más energía en la vibración produce mayor amplitud."
+      },
+      {
+        "label": "B",
+        "text": "Aumenta la frecuencia y el sonido es más agudo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde volumen con tono.",
+        "explanation_feedback": "Incorrecta. El tono depende de la frecuencia, no de la fuerza."
+      },
+      {
+        "label": "C",
+        "text": "La onda se vuelve luz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una transformación.",
+        "explanation_feedback": "Incorrecta. Sigue siendo sonido."
+      },
+      {
+        "label": "D",
+        "text": "La cuerda deja de vibrar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. Vibra con más amplitud."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "7d128084-98ce-5ac7-9df0-e67587de5c87",
+    "subject": "CN",
+    "evidence_code": "CN.E2.7",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El sonido",
+      "text": "Dos estudiantes producen sonidos con una guitarra. Cuando aprietan la cuerda más cerca del puente, el sonido es más agudo. Cuando la tocan con más fuerza, el sonido es más fuerte. En una campana de vacío, un timbre que suena deja de oírse cuando se saca el aire.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué demuestra el experimento de la campana de vacío?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que la luz necesita aire para propagarse.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde luz y sonido.",
+        "explanation_feedback": "Incorrecta. La luz sí viaja en el vacío: el timbre se sigue viendo."
+      },
+      {
+        "label": "B",
+        "text": "Que el sonido necesita un medio material para propagarse.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sin aire no hay partículas que transmitan la vibración."
+      },
+      {
+        "label": "C",
+        "text": "Que el timbre deja de vibrar sin aire.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la fuente con la propagación.",
+        "explanation_feedback": "Incorrecta. El timbre puede seguir vibrando."
+      },
+      {
+        "label": "D",
+        "text": "Que el sonido viaja más rápido en el vacío.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el resultado.",
+        "explanation_feedback": "Incorrecta. En el vacío no viaja."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "e80c2a50-7618-5cd3-a2e5-0d65417d73d6",
+    "subject": "CN",
+    "evidence_code": "CN.E1.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Consumo de energía en casa",
+      "text": "La energía eléctrica se calcula como potencia × tiempo. Un bombillo incandescente de 100 W y un bombillo LED de 10 W dan una luz parecida. Ambos se usan 5 horas diarias. 1 kWh = 1.000 W durante 1 hora.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánta energía consume el bombillo incandescente en un día?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0,5 kWh.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 100 W × 5 h = 500 Wh = 0,5 kWh."
+      },
+      {
+        "label": "B",
+        "text": "0,05 kWh.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la potencia del LED.",
+        "explanation_feedback": "Incorrecta. Ese es el consumo del LED."
+      },
+      {
+        "label": "C",
+        "text": "500 kWh.",
+        "is_correct": false,
+        "distractor_diagnosis": "No convierte Wh a kWh.",
+        "explanation_feedback": "Incorrecta. 500 Wh son 0,5 kWh."
+      },
+      {
+        "label": "D",
+        "text": "20 kWh.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide en lugar de multiplicar.",
+        "explanation_feedback": "Incorrecta. La energía es potencia por tiempo."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "64d3b1ea-1330-562e-87ae-946721baa416",
+    "subject": "CN",
+    "evidence_code": "CN.E1.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Consumo de energía en casa",
+      "text": "La energía eléctrica se calcula como potencia × tiempo. Un bombillo incandescente de 100 W y un bombillo LED de 10 W dan una luz parecida. Ambos se usan 5 horas diarias. 1 kWh = 1.000 W durante 1 hora.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si una familia cambia 10 bombillos incandescentes por LED, ¿cuánta energía ahorra al día?",
+    "options": [
+      {
+        "label": "A",
+        "text": "0,45 kWh.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula para un solo bombillo.",
+        "explanation_feedback": "Incorrecta. Son 10 bombillos."
+      },
+      {
+        "label": "B",
+        "text": "45 kWh.",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica de más.",
+        "explanation_feedback": "Incorrecta. Revisa las unidades: 0,45 × 10 = 4,5."
+      },
+      {
+        "label": "C",
+        "text": "5 kWh.",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida que los LED también consumen.",
+        "explanation_feedback": "Incorrecta. Hay que restar el consumo de los LED."
+      },
+      {
+        "label": "D",
+        "text": "4,5 kWh.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada cambio ahorra 0,5 − 0,05 = 0,45 kWh; por 10 bombillos, 4,5 kWh."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "51c28ba4-81ba-53fd-98bb-88e1d71e61ea",
+    "subject": "CN",
+    "evidence_code": "CN.E2.6",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Calentando agua",
+      "text": "Se calienta agua desde 20 °C con un mechero de llama constante y se mide la temperatura cada minuto. Sube hasta 100 °C y luego se mantiene en 100 °C durante varios minutos mientras el agua hierve, aunque se sigue calentando.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué la temperatura se mantiene en 100 °C mientras el agua hierve?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque el agua ya no puede recibir energía.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconoce el calor latente.",
+        "explanation_feedback": "Incorrecta. Recibe energía, pero la usa en el cambio de fase."
+      },
+      {
+        "label": "B",
+        "text": "Porque el termómetro se dañó.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye el dato a un error.",
+        "explanation_feedback": "Incorrecta. Es un comportamiento normal del agua."
+      },
+      {
+        "label": "C",
+        "text": "Porque el mechero deja de dar calor.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Se sigue calentando."
+      },
+      {
+        "label": "D",
+        "text": "Porque la energía se usa para cambiar el agua de líquido a gas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Durante el cambio de fase la energía rompe atracciones entre partículas y no sube la temperatura."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "b9fc9e05-5a6a-5c6f-8854-1074c7271a62",
+    "subject": "CN",
+    "evidence_code": "CN.E8.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Calentando agua",
+      "text": "Se calienta agua desde 20 °C con un mechero de llama constante y se mide la temperatura cada minuto. Sube hasta 100 °C y luego se mantiene en 100 °C durante varios minutos mientras el agua hierve, aunque se sigue calentando.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cómo se vería la gráfica de temperatura contra tiempo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Una línea horizontal desde el principio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el calentamiento inicial.",
+        "explanation_feedback": "Incorrecta. Primero sube de 20 a 100 °C."
+      },
+      {
+        "label": "B",
+        "text": "Una línea que baja desde 100 °C.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el proceso.",
+        "explanation_feedback": "Incorrecta. El agua se calienta, no se enfría."
+      },
+      {
+        "label": "C",
+        "text": "Una línea que sube y luego queda horizontal en 100 °C.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El tramo horizontal corresponde a la ebullición."
+      },
+      {
+        "label": "D",
+        "text": "Una línea que sube sin detenerse.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el tramo de ebullición.",
+        "explanation_feedback": "Incorrecta. La temperatura se mantiene en 100 °C un tiempo."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "3583ab9e-7c4b-58db-add1-9d6f1f1a1a8b",
+    "subject": "CN",
+    "evidence_code": "CN.E5.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un lápiz en el vaso",
+      "text": "Un lápiz dentro de un vaso con agua parece quebrado en la superficie del agua.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué fenómeno explica esta apariencia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La refracción: la luz cambia de dirección al pasar del agua al aire.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La luz cambia de velocidad y de dirección al cambiar de medio."
+      },
+      {
+        "label": "B",
+        "text": "El agua dobla el lápiz de verdad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Interpreta literalmente la imagen.",
+        "explanation_feedback": "Incorrecta. El lápiz sigue recto."
+      },
+      {
+        "label": "C",
+        "text": "El sonido del agua engaña a los ojos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla sonido y luz.",
+        "explanation_feedback": "Incorrecta. El fenómeno es óptico."
+      },
+      {
+        "label": "D",
+        "text": "La reflexión total del lápiz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde fenómenos de la luz.",
+        "explanation_feedback": "Incorrecta. El efecto se debe al cambio de medio, no a un espejo."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "03e86d5d-7b36-5588-8d4a-cf70fcb15d33",
+    "subject": "CN",
+    "evidence_code": "CN.E8.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un electroimán",
+      "text": "Unos estudiantes enrollan alambre alrededor de un clavo, lo conectan a una pila y cuentan cuántos ganchos metálicos levanta.",
+      "svg": null,
+      "table": {
+        "caption": "Ganchos levantados por el electroimán",
+        "headers": [
+          "Número de vueltas",
+          "Ganchos levantados"
+        ],
+        "rows": [
+          [
+            10,
+            3
+          ],
+          [
+            20,
+            7
+          ],
+          [
+            30,
+            10
+          ],
+          [
+            40,
+            14
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué relación muestran los datos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El número de vueltas no influye.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora los datos.",
+        "explanation_feedback": "Incorrecta. Los ganchos cambian con las vueltas."
+      },
+      {
+        "label": "B",
+        "text": "A más vueltas, menos ganchos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés la tabla.",
+        "explanation_feedback": "Incorrecta. Los valores aumentan."
+      },
+      {
+        "label": "C",
+        "text": "Siempre levanta 10 ganchos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma un solo dato.",
+        "explanation_feedback": "Incorrecta. Varía de 3 a 14."
+      },
+      {
+        "label": "D",
+        "text": "A más vueltas de alambre, más ganchos levanta.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los ganchos aumentan con el número de vueltas."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "828db97d-3067-5597-a248-e9405ad5ec9c",
+    "subject": "CN",
+    "evidence_code": "CN.E9.5",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un electroimán",
+      "text": "Unos estudiantes enrollan alambre alrededor de un clavo, lo conectan a una pila y cuentan cuántos ganchos metálicos levanta.",
+      "svg": null,
+      "table": {
+        "caption": "Ganchos levantados por el electroimán",
+        "headers": [
+          "Número de vueltas",
+          "Ganchos levantados"
+        ],
+        "rows": [
+          [
+            10,
+            3
+          ],
+          [
+            20,
+            7
+          ],
+          [
+            30,
+            10
+          ],
+          [
+            40,
+            14
+          ]
+        ]
+      }
+    },
+    "stem": "Para afirmar que solo el número de vueltas causa el cambio, ¿qué deben haber mantenido igual?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La hora del día del experimento.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una variable poco relevante.",
+        "explanation_feedback": "Incorrecta. Lo importante es controlar pila, clavo y ganchos."
+      },
+      {
+        "label": "B",
+        "text": "La misma pila, el mismo clavo y el mismo tipo de ganchos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Así el número de vueltas es la única variable que cambia."
+      },
+      {
+        "label": "C",
+        "text": "El número de ganchos levantados.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la variable que se mide.",
+        "explanation_feedback": "Incorrecta. Los ganchos son el resultado."
+      },
+      {
+        "label": "D",
+        "text": "El número de vueltas en todos los ensayos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la variable que cambia con las controladas.",
+        "explanation_feedback": "Incorrecta. Las vueltas son la variable que se cambia a propósito."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "20794780-e266-56d5-9f9f-dc224f4bf526",
+    "subject": "CN",
+    "evidence_code": "CN.E4.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un electroimán",
+      "text": "Unos estudiantes enrollan alambre alrededor de un clavo, lo conectan a una pila y cuentan cuántos ganchos metálicos levanta.",
+      "svg": null,
+      "table": {
+        "caption": "Ganchos levantados por el electroimán",
+        "headers": [
+          "Número de vueltas",
+          "Ganchos levantados"
+        ],
+        "rows": [
+          [
+            10,
+            3
+          ],
+          [
+            20,
+            7
+          ],
+          [
+            30,
+            10
+          ],
+          [
+            40,
+            14
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué pasaría con el electroimán si se desconecta la pila?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Empieza a producir electricidad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. Desconectar no genera electricidad."
+      },
+      {
+        "label": "B",
+        "text": "Sigue igual de fuerte para siempre.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lo confunde con un imán permanente.",
+        "explanation_feedback": "Incorrecta. Un electroimán depende de la corriente."
+      },
+      {
+        "label": "C",
+        "text": "Pierde casi toda su fuerza magnética y suelta los ganchos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sin corriente no se produce el campo magnético."
+      },
+      {
+        "label": "D",
+        "text": "Se vuelve más fuerte que antes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. La corriente produce el magnetismo."
+      }
+    ],
+    "estimated_time_seconds": 50
+  }
+]
