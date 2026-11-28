@@ -1,0 +1,834 @@
+[
+  {
+    "id": "8db2c535-5951-5150-8dde-96d61d458484",
+    "subject": "CN",
+    "evidence_code": "CN.E1.2",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Paneles solares en la vereda",
+      "text": "Una vereda sin conexión a la red eléctrica instala paneles solares en la escuela. Los paneles cargan baterías durante el día y de noche alimentan bombillos LED y un computador. En los meses de más lluvia, las baterías a veces no alcanzan a cargarse por completo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué beneficio trae este proyecto a la vereda?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gasolina más barata para los carros.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde fuentes de energía.",
+        "explanation_feedback": "Incorrecta. Los paneles no producen gasolina."
+      },
+      {
+        "label": "B",
+        "text": "Más lluvia en la vereda.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. Los paneles no producen lluvia."
+      },
+      {
+        "label": "C",
+        "text": "Electricidad en la escuela sin depender de la red.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los paneles generan energía en el mismo lugar."
+      },
+      {
+        "label": "D",
+        "text": "Agua potable para todas las casas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. El proyecto produce electricidad, no agua."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "68d7495f-de2a-546e-8002-de4b514b65fb",
+    "subject": "CN",
+    "evidence_code": "CN.E9.1",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Paneles solares en la vereda",
+      "text": "Una vereda sin conexión a la red eléctrica instala paneles solares en la escuela. Los paneles cargan baterías durante el día y de noche alimentan bombillos LED y un computador. En los meses de más lluvia, las baterías a veces no alcanzan a cargarse por completo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué las baterías se cargan menos en meses lluviosos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque el agua conduce la energía fuera de los paneles.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un mecanismo.",
+        "explanation_feedback": "Incorrecta. No es lo que explica la menor carga."
+      },
+      {
+        "label": "B",
+        "text": "Porque en esos meses los bombillos gastan menos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación.",
+        "explanation_feedback": "Incorrecta. Si gastaran menos, sobraría carga."
+      },
+      {
+        "label": "C",
+        "text": "Porque las nubes reducen la luz solar que llega a los paneles.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Menos radiación solar significa menos energía generada."
+      },
+      {
+        "label": "D",
+        "text": "Porque la lluvia daña las baterías dentro de la escuela.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una causa.",
+        "explanation_feedback": "Incorrecta. Las baterías están protegidas; el problema es la luz."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "7c111600-8e7f-54d5-9258-0c0fff14347f",
+    "subject": "CN",
+    "evidence_code": "CN.E1.3",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Paneles solares en la vereda",
+      "text": "Una vereda sin conexión a la red eléctrica instala paneles solares en la escuela. Los paneles cargan baterías durante el día y de noche alimentan bombillos LED y un computador. En los meses de más lluvia, las baterías a veces no alcanzan a cargarse por completo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué uso de la energía sería más adecuado en días nublados?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Usar el computador toda la noche.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la limitación de energía.",
+        "explanation_feedback": "Incorrecta. Agotaría las baterías."
+      },
+      {
+        "label": "B",
+        "text": "Conectar más aparatos para aprovechar la energía.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la menor generación.",
+        "explanation_feedback": "Incorrecta. Las baterías se descargarían antes."
+      },
+      {
+        "label": "C",
+        "text": "Priorizar lo esencial, como la iluminación, y limitar el uso del computador.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con menos energía almacenada, conviene reservarla para lo indispensable."
+      },
+      {
+        "label": "D",
+        "text": "Desconectar los paneles para protegerlos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elimina la poca carga posible.",
+        "explanation_feedback": "Incorrecta. Aun nublado, los paneles generan algo."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "bb36c9ff-178c-5b40-b6b3-6ce38a5af834",
+    "subject": "CN",
+    "evidence_code": "CN.E5.7",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Plásticos de un solo uso",
+      "text": "Muchos plásticos de un solo uso, como pitillos y bolsas, tardan cientos de años en degradarse. En el mar se fragmentan en pedazos muy pequeños llamados microplásticos, que pueden ser ingeridos por peces y aves. Algunas ciudades han prohibido ciertos plásticos de un solo uso.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué efecto ambiental de estos plásticos describe el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Se fragmentan en microplásticos que pueden comer los animales marinos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es la consecuencia que menciona el texto."
+      },
+      {
+        "label": "B",
+        "text": "Se degradan en pocas semanas en el mar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Tardan cientos de años."
+      },
+      {
+        "label": "C",
+        "text": "Aumentan la población de peces.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. El texto habla de daño a los animales."
+      },
+      {
+        "label": "D",
+        "text": "Producen oxígeno en el agua.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. Los plásticos no producen oxígeno."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "a306a061-81b7-5bed-b68e-03a9fddb0d1b",
+    "subject": "CN",
+    "evidence_code": "CN.E1.2",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Plásticos de un solo uso",
+      "text": "Muchos plásticos de un solo uso, como pitillos y bolsas, tardan cientos de años en degradarse. En el mar se fragmentan en pedazos muy pequeños llamados microplásticos, que pueden ser ingeridos por peces y aves. Algunas ciudades han prohibido ciertos plásticos de un solo uso.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué medida reduce el problema desde su origen?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quemar los plásticos en patios abiertos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Genera otro problema.",
+        "explanation_feedback": "Incorrecta. La quema a cielo abierto contamina el aire."
+      },
+      {
+        "label": "B",
+        "text": "Enterrar los plásticos en las playas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desplaza el problema.",
+        "explanation_feedback": "Incorrecta. El plástico seguiría en el ambiente."
+      },
+      {
+        "label": "C",
+        "text": "Disminuir el uso de plásticos de un solo uso y reemplazarlos por reutilizables.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si se producen y usan menos, llegan menos al mar."
+      },
+      {
+        "label": "D",
+        "text": "Recoger solo los plásticos grandes de las playas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atiende parte del problema al final.",
+        "explanation_feedback": "Incorrecta. Los microplásticos seguirían allí."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "2203b92e-0bfd-56c4-8d1c-6f75751a7876",
+    "subject": "CN",
+    "evidence_code": "CN.E6.2",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Plásticos de un solo uso",
+      "text": "Muchos plásticos de un solo uso, como pitillos y bolsas, tardan cientos de años en degradarse. En el mar se fragmentan en pedazos muy pequeños llamados microplásticos, que pueden ser ingeridos por peces y aves. Algunas ciudades han prohibido ciertos plásticos de un solo uso.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué evidencia ayudaría a saber si la prohibición en una ciudad funcionó?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Comparar la cantidad de plásticos en sus playas antes y después de la prohibición.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Medir el cambio permite evaluar el efecto de la medida."
+      },
+      {
+        "label": "B",
+        "text": "Contar cuántas tiendas venden pitillos de colores.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mide algo poco relacionado.",
+        "explanation_feedback": "Incorrecta. No mide la contaminación."
+      },
+      {
+        "label": "C",
+        "text": "Revisar si la prohibición salió en televisión.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mide la difusión, no el efecto.",
+        "explanation_feedback": "Incorrecta. Que se conozca no prueba que funcione."
+      },
+      {
+        "label": "D",
+        "text": "Preguntar a los turistas si les gusta la playa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa opiniones en lugar de mediciones.",
+        "explanation_feedback": "Incorrecta. El gusto no mide la cantidad de plásticos."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "83bb31c1-64f9-5990-a3ac-7d2f2c48ae34",
+    "subject": "CN",
+    "evidence_code": "CN.E1.1",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Agua lluvia para regar",
+      "text": "En un colegio rural se recoge el agua lluvia del techo en un tanque para regar la huerta. Algunos estudiantes quieren usarla también para beber.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué no es recomendable beber el agua del tanque sin tratarla?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque el agua lluvia es siempre salada.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una propiedad.",
+        "explanation_feedback": "Incorrecta. El agua lluvia no es salada."
+      },
+      {
+        "label": "B",
+        "text": "Porque el agua lluvia no tiene hidrógeno.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una composición.",
+        "explanation_feedback": "Incorrecta. El agua lluvia es H₂O."
+      },
+      {
+        "label": "C",
+        "text": "Porque las plantas ya usaron toda el agua.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón.",
+        "explanation_feedback": "Incorrecta. El tanque tiene agua disponible."
+      },
+      {
+        "label": "D",
+        "text": "Puede contener microorganismos y suciedad del techo y del tanque.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El agua lluvia arrastra contaminantes del techo y puede tener microorganismos."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "f42d388f-956c-5d47-a0c4-ec4647e67247",
+    "subject": "CN",
+    "evidence_code": "CN.E1.3",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Agua lluvia para regar",
+      "text": "En un colegio rural se recoge el agua lluvia del techo en un tanque para regar la huerta. Algunos estudiantes quieren usarla también para beber.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué procedimiento haría más segura el agua para beber?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Filtrarla y luego hervirla o desinfectarla.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El filtro quita partículas y hervir o desinfectar elimina microorganismos."
+      },
+      {
+        "label": "B",
+        "text": "Agregarle azúcar al tanque.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde sabor con seguridad.",
+        "explanation_feedback": "Incorrecta. El azúcar no elimina microorganismos."
+      },
+      {
+        "label": "C",
+        "text": "Dejarla al sol en el tanque abierto varios días.",
+        "is_correct": false,
+        "distractor_diagnosis": "Expone el agua a más contaminación.",
+        "explanation_feedback": "Incorrecta. Un tanque abierto acumula suciedad y zancudos."
+      },
+      {
+        "label": "D",
+        "text": "Enfriarla en la nevera.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde temperatura con desinfección.",
+        "explanation_feedback": "Incorrecta. El frío no elimina los microorganismos."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "3d688530-414b-57fb-9fe1-3bc78895dd70",
+    "subject": "CN",
+    "evidence_code": "CN.E5.7",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Agua lluvia para regar",
+      "text": "En un colegio rural se recoge el agua lluvia del techo en un tanque para regar la huerta. Algunos estudiantes quieren usarla también para beber.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué ventaja ambiental tiene usar el agua lluvia para la huerta?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aumenta la lluvia en la zona.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. Recoger agua no cambia la lluvia."
+      },
+      {
+        "label": "B",
+        "text": "Se ahorra agua del acueducto o de fuentes naturales.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El agua lluvia reemplaza otra fuente para el riego."
+      },
+      {
+        "label": "C",
+        "text": "Hace que las plantas no necesiten luz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. Las plantas siguen necesitando luz."
+      },
+      {
+        "label": "D",
+        "text": "Elimina la necesidad de suelo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. La huerta sigue necesitando suelo."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "100e83dd-bb14-5180-9731-23652d69f3e1",
+    "subject": "CN",
+    "evidence_code": "CN.E5.1",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Celulares y radiación",
+      "text": "Los celulares emiten ondas de radio, un tipo de radiación electromagnética no ionizante, de baja energía. Los rayos X y la radiación ultravioleta del sol tienen más energía por fotón y en dosis altas pueden dañar el ADN de las células.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué diferencia a las ondas de los celulares de los rayos X, según el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Las ondas de los celulares no son electromagnéticas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Son radiación electromagnética."
+      },
+      {
+        "label": "B",
+        "text": "Las ondas de los celulares tienen menos energía por fotón.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto dice que son no ionizantes y de baja energía."
+      },
+      {
+        "label": "C",
+        "text": "Los rayos X tienen menos energía.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la comparación.",
+        "explanation_feedback": "Incorrecta. Los rayos X tienen más energía."
+      },
+      {
+        "label": "D",
+        "text": "Los rayos X son ondas de sonido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde tipos de onda.",
+        "explanation_feedback": "Incorrecta. Los rayos X son electromagnéticos."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "4dfa46bb-9d3b-51f5-918e-1221e14c9597",
+    "subject": "CN",
+    "evidence_code": "CN.E1.1",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Celulares y radiación",
+      "text": "Los celulares emiten ondas de radio, un tipo de radiación electromagnética no ionizante, de baja energía. Los rayos X y la radiación ultravioleta del sol tienen más energía por fotón y en dosis altas pueden dañar el ADN de las células.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué se recomienda usar bloqueador solar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque la radiación ultravioleta en exceso puede dañar el ADN de las células de la piel.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto indica que la UV puede dañar el ADN en dosis altas."
+      },
+      {
+        "label": "B",
+        "text": "Porque el sol emite rayos X en grandes cantidades a la superficie.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera un dato.",
+        "explanation_feedback": "Incorrecta. El texto habla de la radiación ultravioleta del sol."
+      },
+      {
+        "label": "C",
+        "text": "Porque las ondas del celular queman la piel.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde los tipos de radiación.",
+        "explanation_feedback": "Incorrecta. El texto dice que son de baja energía."
+      },
+      {
+        "label": "D",
+        "text": "Porque la luz visible no llega a la piel.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la experiencia.",
+        "explanation_feedback": "Incorrecta. La luz visible sí llega."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "18fd2512-1edc-5dd7-9f81-a79308b72c61",
+    "subject": "CN",
+    "evidence_code": "CN.E1.2",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Biocombustibles",
+      "text": "En Colombia se mezcla la gasolina con etanol producido a partir de caña de azúcar. El etanol es renovable porque la caña vuelve a crecer y absorbe CO₂ mientras crece. Sin embargo, aumentar mucho los cultivos de caña puede requerir más tierra y agua.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué se considera que el etanol de caña es renovable?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque se extrae del subsuelo como el petróleo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con combustibles fósiles.",
+        "explanation_feedback": "Incorrecta. El petróleo no es renovable."
+      },
+      {
+        "label": "B",
+        "text": "Porque no produce ningún gas al quemarse.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera la ventaja.",
+        "explanation_feedback": "Incorrecta. El etanol también produce CO₂ al quemarse."
+      },
+      {
+        "label": "C",
+        "text": "Porque no necesita agua ni tierra.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. La caña necesita tierra y agua."
+      },
+      {
+        "label": "D",
+        "text": "Porque la caña se puede volver a sembrar y crecer en poco tiempo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La fuente se regenera a escala humana."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "5de922ed-753c-56bb-9af9-e1a575778231",
+    "subject": "CN",
+    "evidence_code": "CN.E5.7",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Biocombustibles",
+      "text": "En Colombia se mezcla la gasolina con etanol producido a partir de caña de azúcar. El etanol es renovable porque la caña vuelve a crecer y absorbe CO₂ mientras crece. Sin embargo, aumentar mucho los cultivos de caña puede requerir más tierra y agua.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué posible efecto negativo de ampliar mucho los cultivos de caña señala el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Eliminar por completo el CO₂ del aire.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera un efecto.",
+        "explanation_feedback": "Incorrecta. La caña absorbe algo de CO₂, pero no todo."
+      },
+      {
+        "label": "B",
+        "text": "Mayor demanda de tierra y agua, que puede competir con otros usos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto advierte sobre la necesidad de más tierra y agua."
+      },
+      {
+        "label": "C",
+        "text": "Aumentar la cantidad de petróleo en el subsuelo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. Los cultivos no generan petróleo."
+      },
+      {
+        "label": "D",
+        "text": "Reducir la producción de etanol.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. Más caña produciría más etanol."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "e24954ef-dd9a-5574-a413-5bd2151d4b1f",
+    "subject": "CN",
+    "evidence_code": "CN.E2.8",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Fertilizantes en el lago",
+      "text": "Cerca de un lago, varios cultivos usan fertilizantes con nitrógeno y fósforo. Con las lluvias, parte del fertilizante llega al lago. Los pescadores notan que el agua se volvió verde por el crecimiento de algas y que aparecen peces muertos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué explica la muerte de los peces?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Las algas producen tanto oxígeno que los peces se ahogan.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. El problema es la falta de oxígeno."
+      },
+      {
+        "label": "B",
+        "text": "Los peces se comen el fertilizante y se intoxican.",
+        "is_correct": false,
+        "distractor_diagnosis": "Propone un mecanismo menos probable.",
+        "explanation_feedback": "Incorrecta. El efecto principal es la falta de oxígeno."
+      },
+      {
+        "label": "C",
+        "text": "El agua verde es demasiado fría para los peces.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto térmico.",
+        "explanation_feedback": "Incorrecta. El color no enfría el agua."
+      },
+      {
+        "label": "D",
+        "text": "Las algas crecen en exceso, luego mueren y su descomposición consume el oxígeno del agua.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es el proceso de eutrofización: los descomponedores gastan el oxígeno."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "364e15f3-17eb-5bce-b9f2-10a2a5c08029",
+    "subject": "CN",
+    "evidence_code": "CN.E5.7",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Fertilizantes en el lago",
+      "text": "Cerca de un lago, varios cultivos usan fertilizantes con nitrógeno y fósforo. Con las lluvias, parte del fertilizante llega al lago. Los pescadores notan que el agua se volvió verde por el crecimiento de algas y que aparecen peces muertos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué medida reduciría el problema?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quitar todos los peces del lago.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elimina a los afectados.",
+        "explanation_feedback": "Incorrecta. No resuelve la causa."
+      },
+      {
+        "label": "B",
+        "text": "Usar menos fertilizante y sembrar vegetación en la orilla.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Menos nutrientes llegan al agua."
+      },
+      {
+        "label": "C",
+        "text": "Pintar el lago para que no se vea verde.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atiende el síntoma visual.",
+        "explanation_feedback": "Incorrecta. No cambia el proceso."
+      },
+      {
+        "label": "D",
+        "text": "Agregar más fertilizante al lago para las algas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrava el problema.",
+        "explanation_feedback": "Incorrecta. Más nutrientes, más algas."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "bbe0fb0d-0f5e-5c0d-96f6-5c63a85b6ee8",
+    "subject": "CN",
+    "evidence_code": "CN.E8.1",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Fertilizantes en el lago",
+      "text": "Cerca de un lago, varios cultivos usan fertilizantes con nitrógeno y fósforo. Con las lluvias, parte del fertilizante llega al lago. Los pescadores notan que el agua se volvió verde por el crecimiento de algas y que aparecen peces muertos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué dato confirmaría la explicación de la falta de oxígeno?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Preguntar el color favorito de los pescadores.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mide algo irrelevante.",
+        "explanation_feedback": "Incorrecta. No se relaciona con el oxígeno."
+      },
+      {
+        "label": "B",
+        "text": "Contar cuántos pescadores hay en el lago.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mide algo irrelevante.",
+        "explanation_feedback": "Incorrecta. No informa sobre el oxígeno."
+      },
+      {
+        "label": "C",
+        "text": "Medir la profundidad del lago.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mide algo poco relacionado.",
+        "explanation_feedback": "Incorrecta. La profundidad no confirma la falta de oxígeno."
+      },
+      {
+        "label": "D",
+        "text": "Medir que el oxígeno disuelto en el lago es más bajo que antes.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si el oxígeno bajó, apoya la explicación."
+      }
+    ],
+    "estimated_time_seconds": 50
+  }
+]

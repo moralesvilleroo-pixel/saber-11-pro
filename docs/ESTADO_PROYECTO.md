@@ -2,6 +2,20 @@
 
 Registro vivo. Actualizar al cierre de cada Pull Request.
 
+## Banco de 1000 preguntas - Lote de Ciencias Naturales (2026-11-28)
+
+### Hecho
+- 181 preguntas originales de Ciencias Naturales en `banco/lotes/2026-11-lote-014` a `-018`:
+  química 53, biología 47, física 44, CTS 16 y un lote de indagación de 21 que mezcla componentes.
+  Por competencia: uso del conocimiento 57, explicación 64, indagación 60. Por dificultad: bajo 29, medio 91, alto 61.
+- Todas las preguntas de cálculo (estequiometría, Ohm, cinemática, energía, densidad, Boyle) se verificaron a mano.
+- El demo suma Sociales (lote 010) y Biología (lote 015): con las cinco pruebas, el diagnóstico del demo ya
+  muestra el Puntaje Global proyectado.
+- Banco total: 594 preguntas (IN 226, CN 181, SC 167, LC 10, MA 10).
+
+### Siguiente paso
+Matemáticas (~190) y Lectura Crítica (~200) para llegar a 1000.
+
 ## Banco de 1000 preguntas - Lote de Sociales y Ciudadanas (2026-11-28)
 
 ### Hecho

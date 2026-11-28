@@ -1,0 +1,1485 @@
+[
+  {
+    "id": "21e17921-e6c4-59ec-82c6-f6d4d20f5cfe",
+    "subject": "CN",
+    "evidence_code": "CN.E6.1",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Lombrices y humedad",
+      "text": "Un grupo quiere saber si las lombrices de tierra prefieren suelo húmedo o seco. Ponen una caja dividida en dos mitades: una con tierra húmeda y otra con tierra seca, a la misma temperatura y en oscuridad. Colocan 10 lombrices en el centro y, después de 30 minutos, cuentan cuántas hay en cada lado. Repiten el ensayo tres veces.",
+      "svg": null,
+      "table": {
+        "caption": "Lombrices en cada lado después de 30 minutos",
+        "headers": [
+          "Ensayo",
+          "Lado húmedo",
+          "Lado seco"
+        ],
+        "rows": [
+          [
+            1,
+            8,
+            2
+          ],
+          [
+            2,
+            9,
+            1
+          ],
+          [
+            3,
+            7,
+            3
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué pregunta intenta responder el experimento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "¿Qué comen las lombrices?",
+        "is_correct": false,
+        "distractor_diagnosis": "Formula una pregunta no estudiada.",
+        "explanation_feedback": "Incorrecta. No se estudia la alimentación."
+      },
+      {
+        "label": "B",
+        "text": "¿Cuántas lombrices hay en un jardín?",
+        "is_correct": false,
+        "distractor_diagnosis": "Formula una pregunta no estudiada.",
+        "explanation_feedback": "Incorrecta. No se cuentan lombrices en un jardín."
+      },
+      {
+        "label": "C",
+        "text": "¿Prefieren las lombrices el suelo húmedo o el seco?",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El diseño compara la ubicación de las lombrices en suelo húmedo y seco."
+      },
+      {
+        "label": "D",
+        "text": "¿Cuánto viven las lombrices?",
+        "is_correct": false,
+        "distractor_diagnosis": "Formula una pregunta no estudiada.",
+        "explanation_feedback": "Incorrecta. No se mide la duración de la vida."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "8457bd24-d2ae-56e1-aafa-52e956ccc876",
+    "subject": "CN",
+    "evidence_code": "CN.E7.3",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Lombrices y humedad",
+      "text": "Un grupo quiere saber si las lombrices de tierra prefieren suelo húmedo o seco. Ponen una caja dividida en dos mitades: una con tierra húmeda y otra con tierra seca, a la misma temperatura y en oscuridad. Colocan 10 lombrices en el centro y, después de 30 minutos, cuentan cuántas hay en cada lado. Repiten el ensayo tres veces.",
+      "svg": null,
+      "table": {
+        "caption": "Lombrices en cada lado después de 30 minutos",
+        "headers": [
+          "Ensayo",
+          "Lado húmedo",
+          "Lado seco"
+        ],
+        "rows": [
+          [
+            1,
+            8,
+            2
+          ],
+          [
+            2,
+            9,
+            1
+          ],
+          [
+            3,
+            7,
+            3
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué conclusión apoyan los datos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Las lombrices prefieren el suelo seco.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés la tabla.",
+        "explanation_feedback": "Incorrecta. En el lado seco hubo menos lombrices."
+      },
+      {
+        "label": "B",
+        "text": "Las lombrices tienden a preferir el suelo húmedo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En los tres ensayos la mayoría se ubicó en el lado húmedo."
+      },
+      {
+        "label": "C",
+        "text": "Las lombrices prefieren la luz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Concluye sobre algo no probado.",
+        "explanation_feedback": "Incorrecta. La caja estaba en oscuridad."
+      },
+      {
+        "label": "D",
+        "text": "Las lombrices no tienen preferencia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la diferencia constante.",
+        "explanation_feedback": "Incorrecta. Hay una diferencia clara en todos los ensayos."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "2bd862df-58c1-5f35-bc42-4c1712f57dab",
+    "subject": "CN",
+    "evidence_code": "CN.E9.2",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Lombrices y humedad",
+      "text": "Un grupo quiere saber si las lombrices de tierra prefieren suelo húmedo o seco. Ponen una caja dividida en dos mitades: una con tierra húmeda y otra con tierra seca, a la misma temperatura y en oscuridad. Colocan 10 lombrices en el centro y, después de 30 minutos, cuentan cuántas hay en cada lado. Repiten el ensayo tres veces.",
+      "svg": null,
+      "table": {
+        "caption": "Lombrices en cada lado después de 30 minutos",
+        "headers": [
+          "Ensayo",
+          "Lado húmedo",
+          "Lado seco"
+        ],
+        "rows": [
+          [
+            1,
+            8,
+            2
+          ],
+          [
+            2,
+            9,
+            1
+          ],
+          [
+            3,
+            7,
+            3
+          ]
+        ]
+      }
+    },
+    "stem": "¿Por qué mantuvieron la misma temperatura y oscuridad en ambos lados?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque las lombrices no ven.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da un dato que no explica el control.",
+        "explanation_feedback": "Incorrecta. La razón es tener una sola variable distinta."
+      },
+      {
+        "label": "B",
+        "text": "Para que las lombrices durmieran.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón.",
+        "explanation_feedback": "Incorrecta. No buscan que duerman."
+      },
+      {
+        "label": "C",
+        "text": "Para que se movieran más rápido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón.",
+        "explanation_feedback": "Incorrecta. No se mide la rapidez."
+      },
+      {
+        "label": "D",
+        "text": "Para que la humedad fuera la única diferencia entre los lados.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Controlar otras variables permite atribuir el resultado a la humedad."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "0d6edb9f-83ac-56c6-8084-9a52fd12ca06",
+    "subject": "CN",
+    "evidence_code": "CN.E7.2",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Lombrices y humedad",
+      "text": "Un grupo quiere saber si las lombrices de tierra prefieren suelo húmedo o seco. Ponen una caja dividida en dos mitades: una con tierra húmeda y otra con tierra seca, a la misma temperatura y en oscuridad. Colocan 10 lombrices en el centro y, después de 30 minutos, cuentan cuántas hay en cada lado. Repiten el ensayo tres veces.",
+      "svg": null,
+      "table": {
+        "caption": "Lombrices en cada lado después de 30 minutos",
+        "headers": [
+          "Ensayo",
+          "Lado húmedo",
+          "Lado seco"
+        ],
+        "rows": [
+          [
+            1,
+            8,
+            2
+          ],
+          [
+            2,
+            9,
+            1
+          ],
+          [
+            3,
+            7,
+            3
+          ]
+        ]
+      }
+    },
+    "stem": "Un estudiante concluye: «Todas las especies de lombrices del mundo prefieren el suelo húmedo». ¿Es válida?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, porque solo se probaron 10 lombrices de un lugar y de una especie.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los datos no permiten generalizar a todas las especies."
+      },
+      {
+        "label": "B",
+        "text": "No, porque las lombrices prefieren el suelo seco.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice los datos.",
+        "explanation_feedback": "Incorrecta. Los datos muestran preferencia por lo húmedo."
+      },
+      {
+        "label": "C",
+        "text": "Sí, porque se repitió tres veces.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde repetición con representatividad.",
+        "explanation_feedback": "Incorrecta. Repetir con las mismas lombrices no representa a todas las especies."
+      },
+      {
+        "label": "D",
+        "text": "Sí, porque 8 de 10 es la mayoría.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza desde una muestra pequeña.",
+        "explanation_feedback": "Incorrecta. La mayoría en una caja no prueba lo de todas las especies."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "bc7b4476-ba1f-5907-9a84-c058e293497b",
+    "subject": "CN",
+    "evidence_code": "CN.E8.1",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "¿Qué tan rápido se enfría?",
+      "text": "Se ponen 200 mL de agua a 80 °C en tres recipientes iguales en forma y tamaño: uno de vidrio, uno de icopor y uno de aluminio. Se mide la temperatura cada 5 minutos.",
+      "svg": null,
+      "table": {
+        "caption": "Temperatura del agua (°C)",
+        "headers": [
+          "Minuto",
+          "Vidrio",
+          "Icopor",
+          "Aluminio"
+        ],
+        "rows": [
+          [
+            0,
+            80,
+            80,
+            80
+          ],
+          [
+            5,
+            71,
+            77,
+            66
+          ],
+          [
+            10,
+            64,
+            74,
+            56
+          ],
+          [
+            15,
+            58,
+            72,
+            49
+          ]
+        ]
+      }
+    },
+    "stem": "¿En qué recipiente se enfrió más rápido el agua?",
+    "options": [
+      {
+        "label": "A",
+        "text": "En el de icopor.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el que menos se enfrió.",
+        "explanation_feedback": "Incorrecta. El icopor fue el que mejor conservó el calor."
+      },
+      {
+        "label": "B",
+        "text": "Se enfriaron igual.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora las diferencias.",
+        "explanation_feedback": "Incorrecta. Las temperaturas son distintas."
+      },
+      {
+        "label": "C",
+        "text": "En el de vidrio.",
+        "is_correct": false,
+        "distractor_diagnosis": "No compara todos los valores.",
+        "explanation_feedback": "Incorrecta. El vidrio llegó a 58 °C, más que el aluminio."
+      },
+      {
+        "label": "D",
+        "text": "En el de aluminio.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Bajó de 80 a 49 °C en 15 minutos, la mayor caída."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "59be6b23-1e30-5aaa-bd73-e986ae981b0d",
+    "subject": "CN",
+    "evidence_code": "CN.E7.4",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "¿Qué tan rápido se enfría?",
+      "text": "Se ponen 200 mL de agua a 80 °C en tres recipientes iguales en forma y tamaño: uno de vidrio, uno de icopor y uno de aluminio. Se mide la temperatura cada 5 minutos.",
+      "svg": null,
+      "table": {
+        "caption": "Temperatura del agua (°C)",
+        "headers": [
+          "Minuto",
+          "Vidrio",
+          "Icopor",
+          "Aluminio"
+        ],
+        "rows": [
+          [
+            0,
+            80,
+            80,
+            80
+          ],
+          [
+            5,
+            71,
+            77,
+            66
+          ],
+          [
+            10,
+            64,
+            74,
+            56
+          ],
+          [
+            15,
+            58,
+            72,
+            49
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué recipiente sería mejor para mantener caliente un café?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El de icopor.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es el que más lentamente pierde calor según los datos."
+      },
+      {
+        "label": "B",
+        "text": "Cualquiera de los tres.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora los datos.",
+        "explanation_feedback": "Incorrecta. Los resultados son distintos."
+      },
+      {
+        "label": "C",
+        "text": "El de aluminio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige el que más rápido pierde calor.",
+        "explanation_feedback": "Incorrecta. El aluminio enfrió más rápido el agua."
+      },
+      {
+        "label": "D",
+        "text": "El de vidrio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un recipiente intermedio.",
+        "explanation_feedback": "Incorrecta. El icopor conservó mejor la temperatura."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "6308f89f-bfd2-5453-b024-1e1dbe785f5d",
+    "subject": "CN",
+    "evidence_code": "CN.E8.2",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "¿Qué tan rápido se enfría?",
+      "text": "Se ponen 200 mL de agua a 80 °C en tres recipientes iguales en forma y tamaño: uno de vidrio, uno de icopor y uno de aluminio. Se mide la temperatura cada 5 minutos.",
+      "svg": null,
+      "table": {
+        "caption": "Temperatura del agua (°C)",
+        "headers": [
+          "Minuto",
+          "Vidrio",
+          "Icopor",
+          "Aluminio"
+        ],
+        "rows": [
+          [
+            0,
+            80,
+            80,
+            80
+          ],
+          [
+            5,
+            71,
+            77,
+            66
+          ],
+          [
+            10,
+            64,
+            74,
+            56
+          ],
+          [
+            15,
+            58,
+            72,
+            49
+          ]
+        ]
+      }
+    },
+    "stem": "Si se grafica temperatura contra tiempo para los tres recipientes, ¿cuál línea tendrá la pendiente más pronunciada hacia abajo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La del vidrio.",
+        "is_correct": false,
+        "distractor_diagnosis": "No compara los cambios.",
+        "explanation_feedback": "Incorrecta. El vidrio baja menos que el aluminio."
+      },
+      {
+        "label": "B",
+        "text": "La del icopor.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la más plana con la más inclinada.",
+        "explanation_feedback": "Incorrecta. El icopor baja más despacio: su línea es la más plana."
+      },
+      {
+        "label": "C",
+        "text": "Todas serán líneas horizontales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el enfriamiento.",
+        "explanation_feedback": "Incorrecta. Todas bajan con el tiempo."
+      },
+      {
+        "label": "D",
+        "text": "La del aluminio.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es la que más rápido baja de temperatura."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "fac6d70d-95e7-5f4a-9c62-aadc5f52d7a1",
+    "subject": "CN",
+    "evidence_code": "CN.E9.4",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "¿Qué tan rápido se enfría?",
+      "text": "Se ponen 200 mL de agua a 80 °C en tres recipientes iguales en forma y tamaño: uno de vidrio, uno de icopor y uno de aluminio. Se mide la temperatura cada 5 minutos.",
+      "svg": null,
+      "table": {
+        "caption": "Temperatura del agua (°C)",
+        "headers": [
+          "Minuto",
+          "Vidrio",
+          "Icopor",
+          "Aluminio"
+        ],
+        "rows": [
+          [
+            0,
+            80,
+            80,
+            80
+          ],
+          [
+            5,
+            71,
+            77,
+            66
+          ],
+          [
+            10,
+            64,
+            74,
+            56
+          ],
+          [
+            15,
+            58,
+            72,
+            49
+          ]
+        ]
+      }
+    },
+    "stem": "¿Por qué es útil registrar los datos en una tabla cada 5 minutos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque las tablas son más bonitas que las notas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da una razón estética.",
+        "explanation_feedback": "Incorrecta. La razón es analítica."
+      },
+      {
+        "label": "B",
+        "text": "Permite comparar los recipientes en los mismos momentos y ver tendencias.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Un registro ordenado facilita el análisis."
+      },
+      {
+        "label": "C",
+        "text": "Porque así el agua se enfría más rápido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde registro con fenómeno.",
+        "explanation_feedback": "Incorrecta. Registrar no cambia el enfriamiento."
+      },
+      {
+        "label": "D",
+        "text": "Porque así no hace falta termómetro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el procedimiento.",
+        "explanation_feedback": "Incorrecta. Se necesita el termómetro para medir."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "1bba55a0-b86d-51ac-9d48-0bb0acf78f6f",
+    "subject": "CN",
+    "evidence_code": "CN.E7.3",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Plantas y sal",
+      "text": "Para saber si la sal del agua de riego afecta el crecimiento de las plantas, unos estudiantes riegan grupos de 5 plantas de rábano con agua con distinta cantidad de sal durante tres semanas y miden la altura promedio.",
+      "svg": null,
+      "table": {
+        "caption": "Altura promedio después de tres semanas",
+        "headers": [
+          "Sal por litro de agua (g)",
+          "Altura promedio (cm)"
+        ],
+        "rows": [
+          [
+            0,
+            12.0
+          ],
+          [
+            2,
+            10.5
+          ],
+          [
+            5,
+            6.8
+          ],
+          [
+            10,
+            2.1
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué conclusión se puede sacar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La sal ayuda a que las plantas crezcan más.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés los datos.",
+        "explanation_feedback": "Incorrecta. Con más sal crecieron menos."
+      },
+      {
+        "label": "B",
+        "text": "Solo 10 g de sal afectan las plantas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora los valores intermedios.",
+        "explanation_feedback": "Incorrecta. Con 2 y 5 g también crecieron menos."
+      },
+      {
+        "label": "C",
+        "text": "Más sal en el agua de riego se asocia con plantas más bajas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La altura disminuye al aumentar la sal."
+      },
+      {
+        "label": "D",
+        "text": "La sal no tiene efecto en el crecimiento.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora los datos.",
+        "explanation_feedback": "Incorrecta. Las alturas cambian mucho."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "2f71c2ed-a6f7-57db-b75a-b4742a890f6d",
+    "subject": "CN",
+    "evidence_code": "CN.E9.2",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Plantas y sal",
+      "text": "Para saber si la sal del agua de riego afecta el crecimiento de las plantas, unos estudiantes riegan grupos de 5 plantas de rábano con agua con distinta cantidad de sal durante tres semanas y miden la altura promedio.",
+      "svg": null,
+      "table": {
+        "caption": "Altura promedio después de tres semanas",
+        "headers": [
+          "Sal por litro de agua (g)",
+          "Altura promedio (cm)"
+        ],
+        "rows": [
+          [
+            0,
+            12.0
+          ],
+          [
+            2,
+            10.5
+          ],
+          [
+            5,
+            6.8
+          ],
+          [
+            10,
+            2.1
+          ]
+        ]
+      }
+    },
+    "stem": "¿Cuál es el grupo de control del experimento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No hay grupo de control.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconoce el diseño.",
+        "explanation_feedback": "Incorrecta. El grupo sin sal es el control."
+      },
+      {
+        "label": "B",
+        "text": "Las plantas más altas al final.",
+        "is_correct": false,
+        "distractor_diagnosis": "Define el control por el resultado.",
+        "explanation_feedback": "Incorrecta. El control se define antes del experimento."
+      },
+      {
+        "label": "C",
+        "text": "Las plantas regadas con agua sin sal.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sirve como referencia para comparar el efecto de la sal."
+      },
+      {
+        "label": "D",
+        "text": "Las plantas regadas con 10 g de sal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige el tratamiento extremo.",
+        "explanation_feedback": "Incorrecta. Es un grupo con tratamiento, no el control."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "9c4c6955-093d-5d07-a5f3-f5208c9d8890",
+    "subject": "CN",
+    "evidence_code": "CN.E9.5",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Plantas y sal",
+      "text": "Para saber si la sal del agua de riego afecta el crecimiento de las plantas, unos estudiantes riegan grupos de 5 plantas de rábano con agua con distinta cantidad de sal durante tres semanas y miden la altura promedio.",
+      "svg": null,
+      "table": {
+        "caption": "Altura promedio después de tres semanas",
+        "headers": [
+          "Sal por litro de agua (g)",
+          "Altura promedio (cm)"
+        ],
+        "rows": [
+          [
+            0,
+            12.0
+          ],
+          [
+            2,
+            10.5
+          ],
+          [
+            5,
+            6.8
+          ],
+          [
+            10,
+            2.1
+          ]
+        ]
+      }
+    },
+    "stem": "Un estudiante predice que con 15 g de sal por litro las plantas medirán cerca de 0 cm. ¿Qué información adicional serviría para evaluar su predicción?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Usar otra especie de planta con 2 g/L.",
+        "is_correct": false,
+        "distractor_diagnosis": "Cambia la especie y la concentración.",
+        "explanation_feedback": "Incorrecta. No evalúa la predicción."
+      },
+      {
+        "label": "B",
+        "text": "Repetir el experimento incluyendo un grupo regado con 15 g/L.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Medir directamente ese caso permite comprobar la predicción."
+      },
+      {
+        "label": "C",
+        "text": "Medir las plantas sin regarlas nunca.",
+        "is_correct": false,
+        "distractor_diagnosis": "Cambia otra variable.",
+        "explanation_feedback": "Incorrecta. No informa sobre 15 g/L."
+      },
+      {
+        "label": "D",
+        "text": "Preguntar a otros estudiantes si creen la predicción.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa opiniones.",
+        "explanation_feedback": "Incorrecta. Las opiniones no prueban nada."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "bb696ffd-e7f8-5fdf-a828-b42f479269e8",
+    "subject": "CN",
+    "evidence_code": "CN.E9.3",
+    "component_code": "CN.COMP.QUI",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Medir con el instrumento adecuado",
+      "text": "En un laboratorio hay: termómetro, balanza, probeta, cronómetro, regla y dinamómetro.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué instrumento sirve para medir el volumen de un líquido?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El dinamómetro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde fuerza con volumen.",
+        "explanation_feedback": "Incorrecta. El dinamómetro mide fuerzas."
+      },
+      {
+        "label": "B",
+        "text": "El cronómetro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde tiempo con volumen.",
+        "explanation_feedback": "Incorrecta. El cronómetro mide tiempo."
+      },
+      {
+        "label": "C",
+        "text": "La balanza.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde masa con volumen.",
+        "explanation_feedback": "Incorrecta. La balanza mide masa."
+      },
+      {
+        "label": "D",
+        "text": "La probeta.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Tiene marcas de volumen en mililitros."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "82cf0739-00ff-5f9d-91c3-e90c76d7c438",
+    "subject": "CN",
+    "evidence_code": "CN.E9.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Medir con el instrumento adecuado",
+      "text": "En un laboratorio hay: termómetro, balanza, probeta, cronómetro, regla y dinamómetro.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Para medir el peso de una piedra en newtons, ¿qué instrumento se usa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La probeta.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde volumen con fuerza.",
+        "explanation_feedback": "Incorrecta. La probeta mide volumen."
+      },
+      {
+        "label": "B",
+        "text": "El termómetro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde temperatura con fuerza.",
+        "explanation_feedback": "Incorrecta. El termómetro mide temperatura."
+      },
+      {
+        "label": "C",
+        "text": "El dinamómetro.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Mide fuerzas, y el peso es una fuerza."
+      },
+      {
+        "label": "D",
+        "text": "La regla.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde longitud con fuerza.",
+        "explanation_feedback": "Incorrecta. La regla mide longitudes."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "93d5a1bd-12c8-52aa-8ba0-358bdffa38ed",
+    "subject": "CN",
+    "evidence_code": "CN.E9.3",
+    "component_code": "CN.COMP.FIS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Medir con el instrumento adecuado",
+      "text": "En un laboratorio hay: termómetro, balanza, probeta, cronómetro, regla y dinamómetro.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Para calcular la densidad de una piedra irregular, ¿qué par de instrumentos se necesita?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Balanza y probeta con agua.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La balanza da la masa y el agua desplazada en la probeta da el volumen."
+      },
+      {
+        "label": "B",
+        "text": "Regla y cronómetro.",
+        "is_correct": false,
+        "distractor_diagnosis": "La regla no sirve para el volumen de una forma irregular.",
+        "explanation_feedback": "Incorrecta. Con forma irregular, el volumen se mide por desplazamiento de agua."
+      },
+      {
+        "label": "C",
+        "text": "Termómetro y dinamómetro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ninguno da el volumen.",
+        "explanation_feedback": "Incorrecta. Se necesitan masa y volumen."
+      },
+      {
+        "label": "D",
+        "text": "Cronómetro y balanza.",
+        "is_correct": false,
+        "distractor_diagnosis": "El cronómetro no mide volumen.",
+        "explanation_feedback": "Incorrecta. Falta medir el volumen."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "70cd2fbc-abf8-52c0-8b7f-589ff8d33f33",
+    "subject": "CN",
+    "evidence_code": "CN.E7.1",
+    "component_code": "CN.COMP.QUI",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El cuaderno de laboratorio",
+      "text": "Dos estudiantes hacen el mismo experimento. Uno escribe: «La mezcla se puso caliente y cambió de color». El otro escribe: «A los 2 minutos la temperatura subió de 22 °C a 35 °C y el color pasó de azul a verde».",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué el segundo registro es más útil para comunicar resultados?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque no tiene ningún número.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés.",
+        "explanation_feedback": "Incorrecta. El segundo sí tiene números."
+      },
+      {
+        "label": "B",
+        "text": "Porque menciona colores.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ambos mencionan el color.",
+        "explanation_feedback": "Incorrecta. La diferencia está en las mediciones."
+      },
+      {
+        "label": "C",
+        "text": "Porque es un texto más largo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde extensión con calidad.",
+        "explanation_feedback": "Incorrecta. La utilidad está en la precisión."
+      },
+      {
+        "label": "D",
+        "text": "Porque incluye datos medidos con unidades y tiempos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Datos cuantitativos y precisos permiten verificar y comparar."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "6ecb7753-32a3-5a04-b35d-85094aba387b",
+    "subject": "CN",
+    "evidence_code": "CN.E9.4",
+    "component_code": "CN.COMP.QUI",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El cuaderno de laboratorio",
+      "text": "Dos estudiantes hacen el mismo experimento. Uno escribe: «La mezcla se puso caliente y cambió de color». El otro escribe: «A los 2 minutos la temperatura subió de 22 °C a 35 °C y el color pasó de azul a verde».",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué información le falta al primer registro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Las temperaturas medidas y el momento de los cambios.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sin datos medidos no se sabe cuánto cambió ni cuándo."
+      },
+      {
+        "label": "B",
+        "text": "Nada, porque está completo.",
+        "is_correct": false,
+        "distractor_diagnosis": "No reconoce la falta de datos.",
+        "explanation_feedback": "Incorrecta. Falta información cuantitativa."
+      },
+      {
+        "label": "C",
+        "text": "El color de la bata del estudiante.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un dato irrelevante.",
+        "explanation_feedback": "Incorrecta. No es información del experimento."
+      },
+      {
+        "label": "D",
+        "text": "El nombre del colegio del estudiante.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un dato irrelevante.",
+        "explanation_feedback": "Incorrecta. No afecta el análisis del experimento."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "767e4eb4-706a-5103-9f60-0682a5ff61cf",
+    "subject": "CN",
+    "evidence_code": "CN.E6.2",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Funciona el tapabocas?",
+      "text": "Un artículo de una revista científica comparó dos grupos de personas en un mismo hospital durante una temporada de gripa: las que usaron tapabocas y las que no. En el grupo con tapabocas se registraron menos contagios.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué es importante que los dos grupos estuvieran en el mismo hospital y la misma temporada?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para que la exposición al virus fuera parecida.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Así la diferencia se puede atribuir al tapabocas y no al lugar o la época."
+      },
+      {
+        "label": "B",
+        "text": "Para usar menos tapabocas en total.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con ahorro.",
+        "explanation_feedback": "Incorrecta. La razón es controlar variables."
+      },
+      {
+        "label": "C",
+        "text": "Para que todos se conocieran.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da una razón social.",
+        "explanation_feedback": "Incorrecta. No es la razón científica."
+      },
+      {
+        "label": "D",
+        "text": "Porque en otros hospitales no hay gripa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. La razón es tener condiciones comparables."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "c02cae9f-b766-5ba3-974b-dc3fc06eb9b8",
+    "subject": "CN",
+    "evidence_code": "CN.E7.2",
+    "component_code": "CN.COMP.CTS",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Funciona el tapabocas?",
+      "text": "Un artículo de una revista científica comparó dos grupos de personas en un mismo hospital durante una temporada de gripa: las que usaron tapabocas y las que no. En el grupo con tapabocas se registraron menos contagios.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué dato haría más sólida la conclusión del estudio?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que los dos grupos tuvieran edades y estados de salud parecidos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si los grupos difieren en otras características, estas podrían explicar la diferencia."
+      },
+      {
+        "label": "B",
+        "text": "Que solo una persona usara tapabocas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Reduce la muestra.",
+        "explanation_feedback": "Incorrecta. Una sola persona no permite concluir."
+      },
+      {
+        "label": "C",
+        "text": "Que los tapabocas fueran de colores distintos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrega una variable irrelevante.",
+        "explanation_feedback": "Incorrecta. El color no fortalece la conclusión."
+      },
+      {
+        "label": "D",
+        "text": "Que el artículo fuera más corto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde forma con evidencia.",
+        "explanation_feedback": "Incorrecta. La extensión no cambia la solidez."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "b1b82438-b450-5705-abf0-14667d86ad05",
+    "subject": "CN",
+    "evidence_code": "CN.E8.1",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Bacterias en las manos",
+      "text": "Para saber si lavarse las manos reduce las bacterias, unos estudiantes tocan cajas de cultivo antes y después de lavarse con agua y jabón. Después de dos días cuentan las colonias de bacterias.",
+      "svg": null,
+      "table": {
+        "caption": "Colonias de bacterias en las cajas de cultivo",
+        "headers": [
+          "Estudiante",
+          "Antes de lavarse",
+          "Después de lavarse"
+        ],
+        "rows": [
+          [
+            "A",
+            48,
+            9
+          ],
+          [
+            "B",
+            61,
+            12
+          ],
+          [
+            "C",
+            35,
+            30
+          ],
+          [
+            "D",
+            52,
+            8
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué estudiante muestra un resultado diferente al de los demás?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El estudiante B, porque tenía más colonias al inicio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde valor inicial con resultado distinto.",
+        "explanation_feedback": "Incorrecta. B redujo mucho, como la mayoría."
+      },
+      {
+        "label": "B",
+        "text": "El estudiante C, porque casi no redujo sus colonias.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los demás redujeron mucho sus colonias; C pasó de 35 a 30."
+      },
+      {
+        "label": "C",
+        "text": "El estudiante A, porque tenía menos colonias al inicio.",
+        "is_correct": false,
+        "distractor_diagnosis": "No es el que menos tenía al inicio.",
+        "explanation_feedback": "Incorrecta. C tenía menos al inicio."
+      },
+      {
+        "label": "D",
+        "text": "Ninguno, todos son iguales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el dato de C.",
+        "explanation_feedback": "Incorrecta. C se aparta del patrón."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "c96cb4dc-d0ff-5d48-a70c-5f0e7a8ec5c2",
+    "subject": "CN",
+    "evidence_code": "CN.E9.1",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Bacterias en las manos",
+      "text": "Para saber si lavarse las manos reduce las bacterias, unos estudiantes tocan cajas de cultivo antes y después de lavarse con agua y jabón. Después de dos días cuentan las colonias de bacterias.",
+      "svg": null,
+      "table": {
+        "caption": "Colonias de bacterias en las cajas de cultivo",
+        "headers": [
+          "Estudiante",
+          "Antes de lavarse",
+          "Después de lavarse"
+        ],
+        "rows": [
+          [
+            "A",
+            48,
+            9
+          ],
+          [
+            "B",
+            61,
+            12
+          ],
+          [
+            "C",
+            35,
+            30
+          ],
+          [
+            "D",
+            52,
+            8
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué explicación posible es coherente con el resultado del estudiante C?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que sus bacterias son resistentes al agua por naturaleza.",
+        "is_correct": false,
+        "distractor_diagnosis": "Propone una explicación poco probable sin evidencia.",
+        "explanation_feedback": "Incorrecta. Lo más simple es revisar cómo se lavó."
+      },
+      {
+        "label": "B",
+        "text": "Que el jabón crea bacterias nuevas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un efecto.",
+        "explanation_feedback": "Incorrecta. El jabón no crea bacterias."
+      },
+      {
+        "label": "C",
+        "text": "Que se lavó por muy poco tiempo o sin frotar bien las manos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Un lavado incompleto retira menos bacterias."
+      },
+      {
+        "label": "D",
+        "text": "Que lavarse las manos nunca sirve.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza desde un caso.",
+        "explanation_feedback": "Incorrecta. Los otros tres estudiantes muestran lo contrario."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "2c4d7443-2edc-573a-98f9-bb8628f41ede",
+    "subject": "CN",
+    "evidence_code": "CN.E7.3",
+    "component_code": "CN.COMP.BIO",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Bacterias en las manos",
+      "text": "Para saber si lavarse las manos reduce las bacterias, unos estudiantes tocan cajas de cultivo antes y después de lavarse con agua y jabón. Después de dos días cuentan las colonias de bacterias.",
+      "svg": null,
+      "table": {
+        "caption": "Colonias de bacterias en las cajas de cultivo",
+        "headers": [
+          "Estudiante",
+          "Antes de lavarse",
+          "Después de lavarse"
+        ],
+        "rows": [
+          [
+            "A",
+            48,
+            9
+          ],
+          [
+            "B",
+            61,
+            12
+          ],
+          [
+            "C",
+            35,
+            30
+          ],
+          [
+            "D",
+            52,
+            8
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué conclusión general apoyan los datos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lavarse las manos aumenta las bacterias.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés la tabla.",
+        "explanation_feedback": "Incorrecta. Las colonias disminuyeron."
+      },
+      {
+        "label": "B",
+        "text": "Lavarse las manos con agua y jabón reduce las bacterias.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En la mayoría de los casos las colonias bajaron mucho."
+      },
+      {
+        "label": "C",
+        "text": "Las bacterias desaparecen por completo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el resultado.",
+        "explanation_feedback": "Incorrecta. Quedaron algunas colonias."
+      },
+      {
+        "label": "D",
+        "text": "El jabón no tiene efecto en nadie.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza el caso de C.",
+        "explanation_feedback": "Incorrecta. A, B y D redujeron mucho."
+      }
+    ],
+    "estimated_time_seconds": 40
+  }
+]
