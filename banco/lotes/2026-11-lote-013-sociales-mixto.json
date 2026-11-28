@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "27a27620-fb14-5129-bd9f-2207664bd030",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Derechos fundamentales",
+      "text": "La Constitución de 1991 incluye un capítulo de derechos fundamentales, como la vida, la igualdad, la libertad de expresión, el debido proceso y el derecho de petición. También reconoce derechos sociales, económicos y culturales, como la salud, la educación y la vivienda digna, y derechos colectivos y del ambiente.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de estos es un derecho colectivo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El derecho de petición.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un derecho individual con uno colectivo.",
+        "explanation_feedback": "Incorrecta. Cada persona ejerce el derecho de petición."
+      },
+      {
+        "label": "B",
+        "text": "El derecho al debido proceso.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un derecho individual con uno colectivo.",
+        "explanation_feedback": "Incorrecta. El debido proceso protege a cada persona en un trámite o juicio."
+      },
+      {
+        "label": "C",
+        "text": "El derecho a la libertad de expresión.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un derecho individual con uno colectivo.",
+        "explanation_feedback": "Incorrecta. La libertad de expresión es un derecho fundamental de cada persona."
+      },
+      {
+        "label": "D",
+        "text": "El derecho a gozar de un ambiente sano.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El ambiente sano pertenece a toda la comunidad: es un derecho colectivo."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "55fd62e3-0171-529a-b92d-772cbe2bdc4f",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Derechos fundamentales",
+      "text": "La Constitución de 1991 incluye un capítulo de derechos fundamentales, como la vida, la igualdad, la libertad de expresión, el debido proceso y el derecho de petición. También reconoce derechos sociales, económicos y culturales, como la salud, la educación y la vivienda digna, y derechos colectivos y del ambiente.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un periodista es amenazado por publicar una investigación. ¿Qué derecho fundamental está en riesgo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El derecho al ambiente sano.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un derecho colectivo sin relación.",
+        "explanation_feedback": "Incorrecta. La amenaza no se relaciona con el ambiente."
+      },
+      {
+        "label": "B",
+        "text": "El derecho a la propiedad intelectual.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la publicación con derechos de autor.",
+        "explanation_feedback": "Incorrecta. El problema es la amenaza por informar."
+      },
+      {
+        "label": "C",
+        "text": "La libertad de expresión e información.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Amenazar a un periodista por lo que publica busca silenciarlo."
+      },
+      {
+        "label": "D",
+        "text": "El derecho a la vivienda digna.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un derecho social sin relación.",
+        "explanation_feedback": "Incorrecta. La amenaza no tiene que ver con la vivienda."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "f4bf223f-b02e-51c5-86d0-857c8a3a4fb9",
+    "subject": "SC",
+    "evidence_code": "SC.E1.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Derechos fundamentales",
+      "text": "La Constitución de 1991 incluye un capítulo de derechos fundamentales, como la vida, la igualdad, la libertad de expresión, el debido proceso y el derecho de petición. También reconoce derechos sociales, económicos y culturales, como la salud, la educación y la vivienda digna, y derechos colectivos y del ambiente.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un juez ordena a una EPS entregar un medicamento a un paciente porque, sin él, su vida corre peligro. ¿Qué idea del Estado social de derecho aplica el juez?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que las EPS pueden decidir libremente sin respetar derechos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el modelo.",
+        "explanation_feedback": "Incorrecta. Las EPS deben garantizar el derecho a la salud."
+      },
+      {
+        "label": "B",
+        "text": "Que los derechos sociales nunca pueden reclamarse ante un juez.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la práctica constitucional.",
+        "explanation_feedback": "Incorrecta. Los jueces sí protegen la salud mediante tutela."
+      },
+      {
+        "label": "C",
+        "text": "Que algunos derechos sociales se protegen como fundamentales cuando están ligados a la vida y la dignidad.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La salud, por su conexión con la vida y la dignidad, ha sido protegida mediante tutela."
+      },
+      {
+        "label": "D",
+        "text": "Que solo el Congreso puede proteger la salud de una persona.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconoce el papel de los jueces.",
+        "explanation_feedback": "Incorrecta. Los jueces protegen derechos en casos concretos."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "bdb21ab2-16e9-586d-81fb-50bd6120c3a0",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Elecciones en Colombia",
+      "text": "En Colombia se eligen por voto popular el presidente, los congresistas, los gobernadores, los diputados, los alcaldes, los concejales y los ediles. El presidente y los congresistas se eligen cada cuatro años, al igual que las autoridades departamentales y municipales, en elecciones separadas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Quién gobierna un departamento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El senador.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde ramas del poder.",
+        "explanation_feedback": "Incorrecta. Los senadores hacen parte del Congreso."
+      },
+      {
+        "label": "B",
+        "text": "El alcalde.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde niveles territoriales.",
+        "explanation_feedback": "Incorrecta. El alcalde gobierna el municipio."
+      },
+      {
+        "label": "C",
+        "text": "El gobernador.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El gobernador es la máxima autoridad ejecutiva del departamento."
+      },
+      {
+        "label": "D",
+        "text": "El edil.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde niveles territoriales.",
+        "explanation_feedback": "Incorrecta. Los ediles hacen parte de las juntas administradoras locales."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "a76bff5a-d0f8-5705-ac35-817f01c48644",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Elecciones en Colombia",
+      "text": "En Colombia se eligen por voto popular el presidente, los congresistas, los gobernadores, los diputados, los alcaldes, los concejales y los ediles. El presidente y los congresistas se eligen cada cuatro años, al igual que las autoridades departamentales y municipales, en elecciones separadas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué corporación aprueba los acuerdos que rigen en un municipio?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La asamblea departamental.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde niveles territoriales.",
+        "explanation_feedback": "Incorrecta. La asamblea expide ordenanzas para el departamento."
+      },
+      {
+        "label": "B",
+        "text": "El concejo municipal.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los concejales aprueban acuerdos municipales, como el presupuesto o el plan de desarrollo."
+      },
+      {
+        "label": "C",
+        "text": "La Cámara de Representantes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde niveles territoriales.",
+        "explanation_feedback": "Incorrecta. La Cámara hace parte del Congreso, que hace leyes."
+      },
+      {
+        "label": "D",
+        "text": "La Corte Suprema de Justicia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde ramas.",
+        "explanation_feedback": "Incorrecta. La Corte Suprema es un tribunal."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "92b26a9f-bf97-5194-bcc8-d5a7f3c450a3",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Elecciones en Colombia",
+      "text": "En Colombia se eligen por voto popular el presidente, los congresistas, los gobernadores, los diputados, los alcaldes, los concejales y los ediles. El presidente y los congresistas se eligen cada cuatro años, al igual que las autoridades departamentales y municipales, en elecciones separadas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es la relación correcta entre corporación y tipo de norma?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Congreso: acuerdos; asamblea: leyes; concejo: ordenanzas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla los tipos de norma.",
+        "explanation_feedback": "Incorrecta. El Congreso expide leyes, no acuerdos."
+      },
+      {
+        "label": "B",
+        "text": "Congreso: leyes; asamblea departamental: ordenanzas; concejo: acuerdos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada corporación expide su tipo de norma en su nivel territorial."
+      },
+      {
+        "label": "C",
+        "text": "Congreso: ordenanzas; asamblea: acuerdos; concejo: leyes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla los tipos de norma.",
+        "explanation_feedback": "Incorrecta. Los concejos expiden acuerdos."
+      },
+      {
+        "label": "D",
+        "text": "Las tres corporaciones expiden solo leyes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la diferencia de niveles.",
+        "explanation_feedback": "Incorrecta. Solo el Congreso expide leyes."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "37afbc2c-d5f2-590f-9096-2799ecfc2691",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La economía de un hogar",
+      "text": "La familia Díaz recibe 2.500.000 pesos al mes. Gasta 900.000 en arriendo, 800.000 en alimentación, 300.000 en transporte, 200.000 en servicios públicos y ahorra el resto. Este año los precios de los alimentos subieron un 10 %, pero sus ingresos no aumentaron.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánto ahorra la familia Díaz al mes antes del aumento de precios?",
+    "options": [
+      {
+        "label": "A",
+        "text": "800.000 pesos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el ahorro con el gasto en alimentación.",
+        "explanation_feedback": "Incorrecta. 800.000 es el gasto en comida."
+      },
+      {
+        "label": "B",
+        "text": "500.000 pesos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida sumar un gasto.",
+        "explanation_feedback": "Incorrecta. Hay que restar los cuatro gastos."
+      },
+      {
+        "label": "C",
+        "text": "200.000 pesos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el ahorro con el gasto en servicios.",
+        "explanation_feedback": "Incorrecta. Los servicios cuestan 200.000; el ahorro es lo que sobra."
+      },
+      {
+        "label": "D",
+        "text": "300.000 pesos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 2.500.000 − (900.000 + 800.000 + 300.000 + 200.000) = 300.000."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "64cf06dc-263b-5849-bebe-908828589005",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La economía de un hogar",
+      "text": "La familia Díaz recibe 2.500.000 pesos al mes. Gasta 900.000 en arriendo, 800.000 en alimentación, 300.000 en transporte, 200.000 en servicios públicos y ahorra el resto. Este año los precios de los alimentos subieron un 10 %, pero sus ingresos no aumentaron.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si la familia sigue comprando los mismos alimentos, ¿qué pasa con su ahorro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Desaparece, porque el 10 % es todo el ahorro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula mal el 10 %.",
+        "explanation_feedback": "Incorrecta. El aumento es de 80.000, no de 300.000."
+      },
+      {
+        "label": "B",
+        "text": "Sube, porque los precios aumentaron.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. Si los precios suben y el ingreso no, el ahorro baja."
+      },
+      {
+        "label": "C",
+        "text": "Se mantiene igual, porque el ingreso no cambió.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el aumento del gasto.",
+        "explanation_feedback": "Incorrecta. El gasto en comida aumenta."
+      },
+      {
+        "label": "D",
+        "text": "Baja a 220.000 pesos, porque la comida cuesta 80.000 pesos más.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El 10 % de 800.000 es 80.000; el ahorro pasa de 300.000 a 220.000."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "ffacff50-9ae7-546e-a877-f3ce4ce3a8e0",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La economía de un hogar",
+      "text": "La familia Díaz recibe 2.500.000 pesos al mes. Gasta 900.000 en arriendo, 800.000 en alimentación, 300.000 en transporte, 200.000 en servicios públicos y ahorra el resto. Este año los precios de los alimentos subieron un 10 %, pero sus ingresos no aumentaron.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué concepto describe el aumento de precios con ingresos constantes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Superávit del hogar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con tener más ingresos que gastos.",
+        "explanation_feedback": "Incorrecta. El ahorro de la familia disminuye."
+      },
+      {
+        "label": "B",
+        "text": "Deflación general.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la caída de precios.",
+        "explanation_feedback": "Incorrecta. La deflación es una baja general de precios."
+      },
+      {
+        "label": "C",
+        "text": "Pérdida de poder adquisitivo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con el mismo dinero se pueden comprar menos bienes."
+      },
+      {
+        "label": "D",
+        "text": "Aumento del salario real.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el concepto.",
+        "explanation_feedback": "Incorrecta. El salario real baja cuando suben los precios y el ingreso no."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "35180130-63df-553e-9a52-a67b9538fb7a",
+    "subject": "SC",
+    "evidence_code": "SC.E2.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La Conquista y el mestizaje",
+      "text": "Tras la llegada de los españoles en el siglo XVI, la población indígena del territorio que hoy es Colombia disminuyó drásticamente por las guerras, el trabajo forzado y enfermedades como la viruela. Los españoles trajeron personas africanas esclavizadas para trabajar en minas y haciendas. De la mezcla entre indígenas, africanos y europeos surgió una sociedad diversa, pero organizada en jerarquías según el origen.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿En qué siglo comenzó la Conquista española en el territorio colombiano?",
+    "options": [
+      {
+        "label": "A",
+        "text": "En el siglo XX.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde siglos.",
+        "explanation_feedback": "Incorrecta. El siglo XX es el de 1900."
+      },
+      {
+        "label": "B",
+        "text": "En el siglo XIII.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde siglos.",
+        "explanation_feedback": "Incorrecta. En el siglo XIII aún no habían llegado los europeos."
+      },
+      {
+        "label": "C",
+        "text": "En el siglo XIX.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la independencia.",
+        "explanation_feedback": "Incorrecta. En el siglo XIX ocurrió la independencia."
+      },
+      {
+        "label": "D",
+        "text": "En el siglo XVI.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto dice que los españoles llegaron en el siglo XVI (años 1500)."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "ed2b5a1e-39ff-56e9-a05e-5d92ac4b6c8b",
+    "subject": "SC",
+    "evidence_code": "SC.E2.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La Conquista y el mestizaje",
+      "text": "Tras la llegada de los españoles en el siglo XVI, la población indígena del territorio que hoy es Colombia disminuyó drásticamente por las guerras, el trabajo forzado y enfermedades como la viruela. Los españoles trajeron personas africanas esclavizadas para trabajar en minas y haciendas. De la mezcla entre indígenas, africanos y europeos surgió una sociedad diversa, pero organizada en jerarquías según el origen.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué los españoles trajeron personas africanas esclavizadas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para reemplazar mano de obra en minas y haciendas tras la caída de la población indígena.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La disminución de la población indígena llevó a buscar trabajadores forzados en África."
+      },
+      {
+        "label": "B",
+        "text": "Para fundar colegios en las ciudades.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón.",
+        "explanation_feedback": "Incorrecta. El texto habla de minas y haciendas."
+      },
+      {
+        "label": "C",
+        "text": "Porque los africanos lo pidieron voluntariamente.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la idea de esclavitud.",
+        "explanation_feedback": "Incorrecta. Eran personas esclavizadas, no voluntarias."
+      },
+      {
+        "label": "D",
+        "text": "Para enseñar a los indígenas a cultivar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón.",
+        "explanation_feedback": "Incorrecta. El texto habla de trabajo en minas y haciendas."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "36bb03da-b590-5d60-93e6-8e7f39bfa1a2",
+    "subject": "SC",
+    "evidence_code": "SC.E4.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La Conquista y el mestizaje",
+      "text": "Tras la llegada de los españoles en el siglo XVI, la población indígena del territorio que hoy es Colombia disminuyó drásticamente por las guerras, el trabajo forzado y enfermedades como la viruela. Los españoles trajeron personas africanas esclavizadas para trabajar en minas y haciendas. De la mezcla entre indígenas, africanos y europeos surgió una sociedad diversa, pero organizada en jerarquías según el origen.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué consecuencia de largo plazo tuvo la organización en jerarquías según el origen?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La desaparición de toda diferencia social desde 1810.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone un cambio inmediato.",
+        "explanation_feedback": "Incorrecta. La independencia no eliminó de inmediato las desigualdades."
+      },
+      {
+        "label": "B",
+        "text": "Desigualdades sociales que persistieron después de la independencia.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las jerarquías coloniales dejaron desigualdades que tardaron mucho en transformarse."
+      },
+      {
+        "label": "C",
+        "text": "Que no hubiera mestizaje en Colombia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto dice que hubo mezcla."
+      },
+      {
+        "label": "D",
+        "text": "Que todos los grupos tuvieran los mismos derechos en la Colonia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto habla de jerarquías."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "c1a8b672-09fb-5cb9-85d3-147705b00f50",
+    "subject": "SC",
+    "evidence_code": "SC.E2.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Clima y cultivos",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Pisos térmicos de Colombia y algunos cultivos típicos (valores aproximados)",
+        "headers": [
+          "Piso térmico",
+          "Altura (metros)",
+          "Temperatura promedio",
+          "Cultivos típicos"
+        ],
+        "rows": [
+          [
+            "Cálido",
+            "0 - 1.000",
+            "más de 24 °C",
+            "Plátano, cacao, arroz"
+          ],
+          [
+            "Templado",
+            "1.000 - 2.000",
+            "17 - 24 °C",
+            "Café, caña panelera"
+          ],
+          [
+            "Frío",
+            "2.000 - 3.000",
+            "12 - 17 °C",
+            "Papa, trigo"
+          ],
+          [
+            "Páramo",
+            "más de 3.000",
+            "menos de 12 °C",
+            "Pocos cultivos; reserva de agua"
+          ]
+        ]
+      }
+    },
+    "stem": "¿En qué piso térmico se cultiva típicamente el café?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Templado.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La tabla ubica el café en el piso templado, entre 1.000 y 2.000 metros."
+      },
+      {
+        "label": "B",
+        "text": "Páramo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde pisos térmicos.",
+        "explanation_feedback": "Incorrecta. El páramo tiene pocos cultivos."
+      },
+      {
+        "label": "C",
+        "text": "Frío.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde pisos térmicos.",
+        "explanation_feedback": "Incorrecta. En el frío están la papa y el trigo."
+      },
+      {
+        "label": "D",
+        "text": "Cálido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde pisos térmicos.",
+        "explanation_feedback": "Incorrecta. En el cálido están el plátano, el cacao y el arroz."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "7f3c89ed-656a-562b-8ff8-e3dc4a739564",
+    "subject": "SC",
+    "evidence_code": "SC.E2.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Clima y cultivos",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Pisos térmicos de Colombia y algunos cultivos típicos (valores aproximados)",
+        "headers": [
+          "Piso térmico",
+          "Altura (metros)",
+          "Temperatura promedio",
+          "Cultivos típicos"
+        ],
+        "rows": [
+          [
+            "Cálido",
+            "0 - 1.000",
+            "más de 24 °C",
+            "Plátano, cacao, arroz"
+          ],
+          [
+            "Templado",
+            "1.000 - 2.000",
+            "17 - 24 °C",
+            "Café, caña panelera"
+          ],
+          [
+            "Frío",
+            "2.000 - 3.000",
+            "12 - 17 °C",
+            "Papa, trigo"
+          ],
+          [
+            "Páramo",
+            "más de 3.000",
+            "menos de 12 °C",
+            "Pocos cultivos; reserva de agua"
+          ]
+        ]
+      }
+    },
+    "stem": "Un municipio está a 2.600 metros de altura. Según la tabla, ¿qué producción agrícola es más probable allí?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Café.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ubica el municipio en el piso templado.",
+        "explanation_feedback": "Incorrecta. El café es del piso templado, entre 1.000 y 2.000 m."
+      },
+      {
+        "label": "B",
+        "text": "Papa.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 2.600 m está en el piso frío, donde se cultiva papa."
+      },
+      {
+        "label": "C",
+        "text": "Cacao.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ubica el municipio en el piso cálido.",
+        "explanation_feedback": "Incorrecta. El cacao es del piso cálido, por debajo de 1.000 m."
+      },
+      {
+        "label": "D",
+        "text": "Arroz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ubica el municipio en el piso cálido.",
+        "explanation_feedback": "Incorrecta. El arroz es del piso cálido."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "4f08d88d-0095-586a-8006-9682792e532b",
+    "subject": "SC",
+    "evidence_code": "SC.E6.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Clima y cultivos",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Pisos térmicos de Colombia y algunos cultivos típicos (valores aproximados)",
+        "headers": [
+          "Piso térmico",
+          "Altura (metros)",
+          "Temperatura promedio",
+          "Cultivos típicos"
+        ],
+        "rows": [
+          [
+            "Cálido",
+            "0 - 1.000",
+            "más de 24 °C",
+            "Plátano, cacao, arroz"
+          ],
+          [
+            "Templado",
+            "1.000 - 2.000",
+            "17 - 24 °C",
+            "Café, caña panelera"
+          ],
+          [
+            "Frío",
+            "2.000 - 3.000",
+            "12 - 17 °C",
+            "Papa, trigo"
+          ],
+          [
+            "Páramo",
+            "más de 3.000",
+            "menos de 12 °C",
+            "Pocos cultivos; reserva de agua"
+          ]
+        ]
+      }
+    },
+    "stem": "Si la frontera agrícola de la papa sube hacia el páramo, ¿qué efecto es más probable?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aumenta la producción de café en el piso templado.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una relación.",
+        "explanation_feedback": "Incorrecta. Cultivar papa en el páramo no aumenta el café."
+      },
+      {
+        "label": "B",
+        "text": "El páramo se vuelve piso cálido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde uso del suelo con clima.",
+        "explanation_feedback": "Incorrecta. El cultivo no cambia la altura ni el piso térmico."
+      },
+      {
+        "label": "C",
+        "text": "Mejora la reserva de agua del páramo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. Cultivar el páramo deteriora su función hídrica."
+      },
+      {
+        "label": "D",
+        "text": "Se afecta la regulación del agua que el páramo provee a zonas más bajas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La tabla describe el páramo como reserva de agua; cultivarlo la pone en riesgo."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "ab3b2068-8a10-5287-ac6e-41feeb470eeb",
+    "subject": "SC",
+    "evidence_code": "SC.E2.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La independencia",
+      "text": "El 20 de julio de 1810, en Santa Fe, criollos y otros sectores de la población formaron una Junta de Gobierno. En los años siguientes, las provincias discutieron si debían organizarse como un Estado central o como una federación, y se enfrentaron entre sí en la llamada «Patria Boba». En 1816 las tropas españolas reconquistaron el territorio, y la independencia se consolidó tras la Batalla de Boyacá, en 1819.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué periodo transcurrió entre la formación de la Junta de Gobierno y la reconquista española?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La llamada Patria Boba, con guerras entre provincias.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Entre 1810 y 1816 las provincias se enfrentaron por el modelo de Estado."
+      },
+      {
+        "label": "B",
+        "text": "La Regeneración de 1886.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde periodos.",
+        "explanation_feedback": "Incorrecta. La Regeneración fue a finales del siglo XIX."
+      },
+      {
+        "label": "C",
+        "text": "La Conquista española.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde periodos.",
+        "explanation_feedback": "Incorrecta. La Conquista fue en el siglo XVI."
+      },
+      {
+        "label": "D",
+        "text": "El Frente Nacional del siglo XX.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde periodos.",
+        "explanation_feedback": "Incorrecta. El Frente Nacional fue entre 1958 y 1974."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "75da9376-8f40-5d6a-ba7a-c62457dc9951",
+    "subject": "SC",
+    "evidence_code": "SC.E2.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La independencia",
+      "text": "El 20 de julio de 1810, en Santa Fe, criollos y otros sectores de la población formaron una Junta de Gobierno. En los años siguientes, las provincias discutieron si debían organizarse como un Estado central o como una federación, y se enfrentaron entre sí en la llamada «Patria Boba». En 1816 las tropas españolas reconquistaron el territorio, y la independencia se consolidó tras la Batalla de Boyacá, en 1819.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué relación tiene la «Patria Boba» con la reconquista española de 1816?",
+    "options": [
+      {
+        "label": "A",
+        "text": "España apoyó a los federalistas para ganar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un hecho.",
+        "explanation_feedback": "Incorrecta. El texto no dice eso."
+      },
+      {
+        "label": "B",
+        "text": "Las divisiones internas debilitaron a los independentistas frente a las tropas españolas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los enfrentamientos entre provincias facilitaron la reconquista."
+      },
+      {
+        "label": "C",
+        "text": "La reconquista ocurrió porque todos estaban unidos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto describe enfrentamientos internos."
+      },
+      {
+        "label": "D",
+        "text": "La Patria Boba ocurrió después de la Batalla de Boyacá.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desordena los hechos.",
+        "explanation_feedback": "Incorrecta. La Patria Boba fue antes de 1816."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "1d09163a-1794-5e45-b71a-d2c708a1fa4e",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un acuerdo de convivencia",
+      "text": "En un colegio, los estudiantes de grado 10 y 11 discuten por el uso de la cancha en los descansos. El consejo estudiantil propone tres opciones: (1) turnos por días para cada grado; (2) que la use quien llegue primero; (3) que el rector decida sin consultar.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué opción tiene en cuenta a los dos grados de manera equitativa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Los turnos por días para cada grado.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los turnos garantizan que ambos grados usen la cancha."
+      },
+      {
+        "label": "B",
+        "text": "Que la use quien llegue primero.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que puede favorecer siempre a los mismos.",
+        "explanation_feedback": "Incorrecta. Quien llegue primero podría ser siempre el mismo grupo."
+      },
+      {
+        "label": "C",
+        "text": "Que nadie use la cancha.",
+        "is_correct": false,
+        "distractor_diagnosis": "Evita el conflicto sin resolverlo.",
+        "explanation_feedback": "Incorrecta. Ninguno de los grados se beneficia."
+      },
+      {
+        "label": "D",
+        "text": "Que el rector decida sin consultar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Excluye la participación.",
+        "explanation_feedback": "Incorrecta. No tiene en cuenta las perspectivas de los estudiantes."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "e95b9d23-fc26-5823-894f-c7c14eaee544",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un acuerdo de convivencia",
+      "text": "En un colegio, los estudiantes de grado 10 y 11 discuten por el uso de la cancha en los descansos. El consejo estudiantil propone tres opciones: (1) turnos por días para cada grado; (2) que la use quien llegue primero; (3) que el rector decida sin consultar.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué órgano del gobierno escolar presentó la propuesta?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El Congreso de la República.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde niveles.",
+        "explanation_feedback": "Incorrecta. El Congreso es nacional, no escolar."
+      },
+      {
+        "label": "B",
+        "text": "El concejo municipal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde niveles.",
+        "explanation_feedback": "Incorrecta. El concejo es del municipio."
+      },
+      {
+        "label": "C",
+        "text": "La Registraduría Nacional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde instituciones.",
+        "explanation_feedback": "Incorrecta. La Registraduría organiza elecciones nacionales."
+      },
+      {
+        "label": "D",
+        "text": "El consejo estudiantil.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El consejo estudiantil asegura la participación de los estudiantes en el gobierno escolar."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "91aba51b-af45-5326-8dbe-92bc3220032d",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ventas ambulantes",
+      "text": "Una alcaldía decide retirar a los vendedores ambulantes de las aceras del centro para recuperar el espacio público. Los vendedores dicen que es su único sustento. Los peatones se quejan de que no pueden caminar. La Corte Constitucional ha dicho que las autoridades pueden recuperar el espacio público, pero deben ofrecer alternativas a quienes dependen de esa actividad.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿De qué se quejan los peatones?",
+    "options": [
+      {
+        "label": "A",
+        "text": "De que no hay buses en el centro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una queja.",
+        "explanation_feedback": "Incorrecta. El texto no habla de buses."
+      },
+      {
+        "label": "B",
+        "text": "De que la Corte no los escuchó.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una queja.",
+        "explanation_feedback": "Incorrecta. El texto no dice eso."
+      },
+      {
+        "label": "C",
+        "text": "De que no pueden caminar por las aceras.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es lo que dice el texto."
+      },
+      {
+        "label": "D",
+        "text": "De que perdieron su único sustento.",
+        "is_correct": false,
+        "distractor_diagnosis": "Les atribuye el argumento de los vendedores.",
+        "explanation_feedback": "Incorrecta. Eso lo dicen los vendedores."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "9a4f4b1e-d60a-54b3-bdb7-08548aba1c47",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ventas ambulantes",
+      "text": "Una alcaldía decide retirar a los vendedores ambulantes de las aceras del centro para recuperar el espacio público. Los vendedores dicen que es su único sustento. Los peatones se quejan de que no pueden caminar. La Corte Constitucional ha dicho que las autoridades pueden recuperar el espacio público, pero deben ofrecer alternativas a quienes dependen de esa actividad.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué solución es coherente con lo dicho por la Corte Constitucional?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Multar a los peatones que se quejen.",
+        "is_correct": false,
+        "distractor_diagnosis": "Propone una medida sin sentido.",
+        "explanation_feedback": "Incorrecta. Los peatones no causan el problema."
+      },
+      {
+        "label": "B",
+        "text": "Dejar las aceras ocupadas sin ninguna regulación.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora a los peatones.",
+        "explanation_feedback": "Incorrecta. La Corte reconoce que se puede recuperar el espacio público."
+      },
+      {
+        "label": "C",
+        "text": "Recuperar las aceras y reubicar a los vendedores en espacios adecuados con apoyo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Corte permite recuperar el espacio público si se ofrecen alternativas."
+      },
+      {
+        "label": "D",
+        "text": "Retirar a los vendedores sin ofrecer ninguna alternativa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la condición de la Corte.",
+        "explanation_feedback": "Incorrecta. La Corte exige alternativas."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "d31f0455-e002-5178-8311-3bdd1939f226",
+    "subject": "SC",
+    "evidence_code": "SC.E6.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ventas ambulantes",
+      "text": "Una alcaldía decide retirar a los vendedores ambulantes de las aceras del centro para recuperar el espacio público. Los vendedores dicen que es su único sustento. Los peatones se quejan de que no pueden caminar. La Corte Constitucional ha dicho que las autoridades pueden recuperar el espacio público, pero deben ofrecer alternativas a quienes dependen de esa actividad.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué tensión entre derechos muestra este caso?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El derecho colectivo al espacio público frente al derecho al trabajo de los vendedores.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Corte busca equilibrar ambos derechos."
+      },
+      {
+        "label": "B",
+        "text": "El derecho al voto frente al derecho a la salud.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige derechos no relacionados.",
+        "explanation_feedback": "Incorrecta. El caso no trata de elecciones ni de salud."
+      },
+      {
+        "label": "C",
+        "text": "La libertad religiosa frente a la propiedad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige derechos no relacionados.",
+        "explanation_feedback": "Incorrecta. El caso no trata de religión."
+      },
+      {
+        "label": "D",
+        "text": "No hay ninguna tensión entre derechos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el conflicto.",
+        "explanation_feedback": "Incorrecta. Hay intereses legítimos enfrentados."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "5ba796c1-252c-5c06-b8c7-168d53697780",
+    "subject": "SC",
+    "evidence_code": "SC.E3.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una canción como fuente",
+      "text": "Un profesor de historia lleva a clase una canción vallenata de los años setenta que habla de la bonanza marimbera en La Guajira: el dinero fácil, las fiestas y la violencia que llegó con el tráfico de marihuana.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Para qué sirve esta canción en una clase de historia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para conocer cómo se vivió y se narró en la región un fenómeno económico y social.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las canciones muestran percepciones y experiencias de una época."
+      },
+      {
+        "label": "B",
+        "text": "Para nada, porque las canciones no son fuentes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Descalifica la fuente.",
+        "explanation_feedback": "Incorrecta. Las canciones sí son fuentes para la historia cultural."
+      },
+      {
+        "label": "C",
+        "text": "Para reemplazar todas las demás fuentes sobre el tema.",
+        "is_correct": false,
+        "distractor_diagnosis": "Sobrevalora la fuente.",
+        "explanation_feedback": "Incorrecta. Debe complementarse con otras fuentes."
+      },
+      {
+        "label": "D",
+        "text": "Para conocer cifras exactas de la producción de marihuana.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exige a la fuente algo que no da.",
+        "explanation_feedback": "Incorrecta. Una canción no da cifras confiables."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "cc816631-390c-54f4-bf79-541dc07452a6",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una canción como fuente",
+      "text": "Un profesor de historia lleva a clase una canción vallenata de los años setenta que habla de la bonanza marimbera en La Guajira: el dinero fácil, las fiestas y la violencia que llegó con el tráfico de marihuana.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué precaución debe tener el profesor al usar la canción?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Recordar que expresa la mirada del compositor y contrastarla con otras fuentes.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Toda fuente tiene una perspectiva; contrastarla evita conclusiones parciales."
+      },
+      {
+        "label": "B",
+        "text": "Presentarla como un informe oficial del Gobierno.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el tipo de fuente.",
+        "explanation_feedback": "Incorrecta. Una canción no es un informe oficial."
+      },
+      {
+        "label": "C",
+        "text": "Usarla solo si fue un éxito comercial.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde popularidad con valor histórico.",
+        "explanation_feedback": "Incorrecta. Su valor no depende de las ventas."
+      },
+      {
+        "label": "D",
+        "text": "Cambiar la letra para que sea más precisa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Altera la fuente.",
+        "explanation_feedback": "Incorrecta. Modificar una fuente la invalida."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "1dce9e4b-4de5-5075-a620-80a53a387e94",
+    "subject": "SC",
+    "evidence_code": "SC.E6.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un plan de desarrollo",
+      "text": "Un municipio tiene un presupuesto limitado y debe elegir entre tres proyectos: pavimentar la vía principal, construir un centro de salud en la zona rural o ampliar el acueducto para que llegue a veredas que hoy toman agua del río.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué información sería más útil para decidir entre los proyectos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Qué proyecto tiene el nombre más llamativo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un criterio irrelevante.",
+        "explanation_feedback": "Incorrecta. El nombre no indica su impacto."
+      },
+      {
+        "label": "B",
+        "text": "Cuántas personas se beneficiarían y qué necesidades básicas atiende cada uno.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Comparar beneficiarios y necesidades ayuda a priorizar con un presupuesto limitado."
+      },
+      {
+        "label": "C",
+        "text": "Cuál proyecto se ve más desde la plaza principal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un criterio de visibilidad.",
+        "explanation_feedback": "Incorrecta. La visibilidad no mide el beneficio."
+      },
+      {
+        "label": "D",
+        "text": "Qué proyecto prefiere el contratista más grande.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un criterio interesado.",
+        "explanation_feedback": "Incorrecta. El interés del contratista no es un criterio de bienestar."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "31262c2c-6afb-5f19-bae0-0514a7da2f89",
+    "subject": "SC",
+    "evidence_code": "SC.E6.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un plan de desarrollo",
+      "text": "Un municipio tiene un presupuesto limitado y debe elegir entre tres proyectos: pavimentar la vía principal, construir un centro de salud en la zona rural o ampliar el acueducto para que llegue a veredas que hoy toman agua del río.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si se amplía el acueducto, ¿qué efecto indirecto podría tener sobre el sistema de salud?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que el centro de salud cierre de inmediato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el efecto.",
+        "explanation_feedback": "Incorrecta. Menos casos no implican cerrar el centro."
+      },
+      {
+        "label": "B",
+        "text": "Menos enfermedades por agua contaminada y menos consultas por esa causa.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El agua potable reduce enfermedades como la diarrea."
+      },
+      {
+        "label": "C",
+        "text": "Ningún efecto, porque agua y salud no se relacionan.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la relación.",
+        "explanation_feedback": "Incorrecta. El agua segura es clave para la salud."
+      },
+      {
+        "label": "D",
+        "text": "Más enfermedades por tener agua potable.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. El agua potable reduce enfermedades."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "574c04c3-c328-5a0e-a4d1-6c4adc8148f5",
+    "subject": "SC",
+    "evidence_code": "SC.E6.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Inmigración reciente",
+      "text": "En los últimos años llegaron a Colombia casi tres millones de personas desde Venezuela. Algunos estudios señalan que muchos migrantes trabajan en la economía informal y que su llegada aumentó la demanda de servicios de salud y educación en ciudades fronterizas. Otros estudios indican que, a mediano plazo, la migración puede aumentar la producción y el consumo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué dimensiones del fenómeno migratorio se mencionan en el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Solo la cultural, por las costumbres.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una dimensión no tratada.",
+        "explanation_feedback": "Incorrecta. El texto no habla de costumbres."
+      },
+      {
+        "label": "B",
+        "text": "Solo la militar, por la frontera.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una dimensión no tratada.",
+        "explanation_feedback": "Incorrecta. El texto no habla de lo militar."
+      },
+      {
+        "label": "C",
+        "text": "La laboral, la de servicios sociales y la económica.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto habla de trabajo informal, demanda de salud y educación, y producción."
+      },
+      {
+        "label": "D",
+        "text": "Solo la deportiva, por los torneos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una dimensión no tratada.",
+        "explanation_feedback": "Incorrecta. El texto no la menciona."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "8be7ff75-2134-5a37-9455-69d8473bcaab",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Inmigración reciente",
+      "text": "En los últimos años llegaron a Colombia casi tres millones de personas desde Venezuela. Algunos estudios señalan que muchos migrantes trabajan en la economía informal y que su llegada aumentó la demanda de servicios de salud y educación en ciudades fronterizas. Otros estudios indican que, a mediano plazo, la migración puede aumentar la producción y el consumo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué el texto presenta resultados de distintos estudios?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque los efectos de la migración dependen del plazo y del aspecto que se analice.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. A corto plazo aumenta la demanda de servicios; a mediano plazo puede aumentar la producción."
+      },
+      {
+        "label": "B",
+        "text": "Porque todos los estudios dicen exactamente lo mismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora los matices.",
+        "explanation_feedback": "Incorrecta. Los estudios destacan efectos distintos."
+      },
+      {
+        "label": "C",
+        "text": "Porque solo uno de los estudios es verdadero.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que perspectivas distintas se excluyen.",
+        "explanation_feedback": "Incorrecta. Pueden ser complementarios."
+      },
+      {
+        "label": "D",
+        "text": "Porque los estudios no hablan de migración.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Todos tratan de la migración."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "d3e16f3f-6116-5494-a178-b7a6f76e0f61",
+    "subject": "SC",
+    "evidence_code": "SC.E3.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Inmigración reciente",
+      "text": "En los últimos años llegaron a Colombia casi tres millones de personas desde Venezuela. Algunos estudios señalan que muchos migrantes trabajan en la economía informal y que su llegada aumentó la demanda de servicios de salud y educación en ciudades fronterizas. Otros estudios indican que, a mediano plazo, la migración puede aumentar la producción y el consumo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál afirmación contiene un prejuicio sobre los migrantes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "«La migración aumentó la demanda de salud en la frontera.»",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un dato con un prejuicio.",
+        "explanation_feedback": "Incorrecta. Es un efecto documentado."
+      },
+      {
+        "label": "B",
+        "text": "«La migración puede aumentar la producción a mediano plazo.»",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un dato con un prejuicio.",
+        "explanation_feedback": "Incorrecta. Es un resultado de estudios."
+      },
+      {
+        "label": "C",
+        "text": "«Muchos migrantes trabajan en la economía informal.»",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un dato con un prejuicio.",
+        "explanation_feedback": "Incorrecta. Es un dato que el texto atribuye a estudios."
+      },
+      {
+        "label": "D",
+        "text": "«Todos los migrantes vienen a quitarnos el trabajo.»",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Generaliza sobre todo un grupo sin evidencia."
+      }
+    ],
+    "estimated_time_seconds": 75
+  }
+]

@@ -2,6 +2,24 @@
 
 Registro vivo. Actualizar al cierre de cada Pull Request.
 
+## Banco de 1000 preguntas - Lote de Sociales y Ciudadanas (2026-11-28)
+
+### Hecho
+- 167 preguntas originales de Sociales y Ciudadanas en `banco/lotes/2026-11-lote-010` a `-013`:
+  pensamiento social (Estado, ramas del poder, mecanismos de participación y protección, historia y
+  geografía de Colombia), interpretación de perspectivas y fuentes, y pensamiento sistémico.
+  Por competencia: SC.PSO 66, SC.PER 60, SC.SIS 41. Por dificultad: bajo 35, medio 78, alto 54.
+- Banco total: 413 preguntas (IN 226, SC 167, LC 10, MA 10).
+
+### Decisiones
+- Las fuentes "primarias" de las preguntas (cartas, discursos, titulares) son recreaciones ficticias
+  marcadas como tales; los datos de las tablas son ficticios o aproximados y lo dicen en el título.
+- Los datos institucionales (tutela de 10 días, revocatoria solo para alcaldes y gobernadores, Fiscalía en la
+  rama judicial, voto programático) siguen la Constitución de 1991 y la Ley 134 de 1994.
+
+### Siguiente paso
+Ciencias Naturales (~230); luego completar Matemáticas (~185) y Lectura Crítica (~150).
+
 ## Banco de 1000 preguntas - Lote de Inglés (2026-11-28)
 
 Meta acordada: 1000 preguntas en total, Inglés primero; el resto se reparte como el examen real
