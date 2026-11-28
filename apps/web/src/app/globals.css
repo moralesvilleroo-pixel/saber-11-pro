@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+:root {
+  --bg: #f7f8fb;
+  --surface: #ffffff;
+  --surface-2: #eef1f7;
+  --text: #141a2b;
+  --muted: #5a6478;
+  --border: #d9dee8;
+  --primary: #1f4fa8;
+  --primary-strong: #173d84;
+  --on-primary: #ffffff;
+  --ok: #157347;
+  --ok-bg: #e3f4ea;
+  --bad: #b42318;
+  --bad-bg: #fde8e6;
+  --warn-bg: #fff4d6;
+  --warn: #7a5300;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f131c;
+    --surface: #171c28;
+    --surface-2: #1f2635;
+    --text: #e8ecf4;
+    --muted: #a2abbd;
+    --border: #2d3547;
+    --primary: #7aa5ff;
+    --primary-strong: #a9c4ff;
+    --on-primary: #0f131c;
+    --ok: #6fd49b;
+    --ok-bg: #12301f;
+    --bad: #ff8f84;
+    --bad-bg: #3a1714;
+    --warn-bg: #3a2e0c;
+    --warn: #ffd877;
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-strong: var(--primary-strong);
+  --color-on-primary: var(--on-primary);
+  --color-ok: var(--ok);
+  --color-ok-bg: var(--ok-bg);
+  --color-bad: var(--bad);
+  --color-bad-bg: var(--bad-bg);
+  --color-warn: var(--warn);
+  --color-warn-bg: var(--warn-bg);
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+@utility btn {
+  @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-lg px-4 py-2 text-base font-semibold transition-colors disabled:cursor-not-allowed disabled:opacity-50;
+}
+@utility btn-primary {
+  @apply btn bg-primary text-on-primary hover:bg-primary-strong;
+}
+@utility btn-secondary {
+  @apply btn border border-border bg-surface text-text hover:bg-surface-2;
+}
+@utility card {
+  @apply rounded-xl border border-border bg-surface p-4 sm:p-6;
+}
+@utility field {
+  @apply mt-1 block w-full min-h-11 rounded-lg border border-border bg-surface px-3 py-2 text-base text-text focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/30;
+}
+@utility label {
+  @apply block text-sm font-medium text-text;
+}
+.prose-text p + p {
+  margin-top: 0.75rem;
+}

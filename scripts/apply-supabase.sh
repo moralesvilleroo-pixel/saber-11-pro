@@ -26,6 +26,8 @@ migration_applied() {
     0001_initial_schema.sql) [ "$(q "select to_regclass('public.subjects') is not null")" = t ] ;;
     0002_fsrs_step.sql)
       [ "$(q "select exists (select 1 from information_schema.columns where table_schema = 'public' and table_name = 'user_card_fsrs_state' and column_name = 'step')")" = t ] ;;
+    0003_consentimiento_y_theta.sql)
+      [ "$(q "select to_regprocedure('public.verify_parental_consent(text,inet,text)') is not null")" = t ] ;;
     *) echo "No hay regla de deteccion para $1 en scripts/apply-supabase.sh" >&2; exit 1 ;;
   esac
 }
