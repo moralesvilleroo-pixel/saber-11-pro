@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "270c3094-7df5-56ad-b20c-2447b2593e0c",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Santiago's new hobby",
+      "text": "Santiago is sixteen and lives in a small town near Manizales. Last year his uncle gave him an old pair of binoculars for his birthday. At first, Santiago didn't know what to do with them. Then one morning he saw a bright green bird in the garden and wanted to know its name. He looked for it in a book at the town library and found out it was a parrot that lives only in the Andes.\n\nNow Santiago gets up at five every Saturday and walks to the forest with two friends from school. They write down every bird they see in a notebook and take photos with a mobile phone. So far they have seen more than ninety different species. Santiago says the hardest part is being quiet for a long time. Next year he wants to study biology at university.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "How did Santiago get his binoculars?",
+    "options": [
+      {
+        "label": "A",
+        "text": "He bought them at the library.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla dos datos del texto (binoculares y biblioteca).",
+        "explanation_feedback": "Incorrecta. En la biblioteca buscó el nombre del pájaro; no compró nada allí."
+      },
+      {
+        "label": "B",
+        "text": "A friend from school lent them.",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia a los amigos del colegio con los binoculares.",
+        "explanation_feedback": "Incorrecta. Los amigos lo acompañan al bosque, pero los binoculares fueron de su tío."
+      },
+      {
+        "label": "C",
+        "text": "He found them in the garden.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona «garden» con los binoculares.",
+        "explanation_feedback": "Incorrecta. En el jardín vio el pájaro verde, no encontró los binoculares."
+      },
+      {
+        "label": "D",
+        "text": "They were a present from his uncle.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto dice que su tío se los regaló de cumpleaños («his uncle gave him… for his birthday»)."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "39bb1e66-ace2-55b9-8c79-241415c7c1be",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Santiago's new hobby",
+      "text": "Santiago is sixteen and lives in a small town near Manizales. Last year his uncle gave him an old pair of binoculars for his birthday. At first, Santiago didn't know what to do with them. Then one morning he saw a bright green bird in the garden and wanted to know its name. He looked for it in a book at the town library and found out it was a parrot that lives only in the Andes.\n\nNow Santiago gets up at five every Saturday and walks to the forest with two friends from school. They write down every bird they see in a notebook and take photos with a mobile phone. So far they have seen more than ninety different species. Santiago says the hardest part is being quiet for a long time. Next year he wants to study biology at university.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What made Santiago start using the binoculars?",
+    "options": [
+      {
+        "label": "A",
+        "text": "He wanted to know the name of a bird.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Al ver un pájaro verde en el jardín quiso saber su nombre, y así empezó."
+      },
+      {
+        "label": "B",
+        "text": "His friends asked him to go to the forest.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el orden de los hechos.",
+        "explanation_feedback": "Incorrecta. Las salidas con sus amigos vinieron después de descubrir el pájaro."
+      },
+      {
+        "label": "C",
+        "text": "He had a biology project at school.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona biología con una tarea escolar.",
+        "explanation_feedback": "Incorrecta. La biología aparece como plan futuro, no como motivo inicial."
+      },
+      {
+        "label": "D",
+        "text": "His uncle taught him how to use them.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una información que el texto no da.",
+        "explanation_feedback": "Incorrecta. El texto no dice que el tío le enseñara a usarlos."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "01527aad-fbcb-546e-9df1-7a028bb6c421",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Santiago's new hobby",
+      "text": "Santiago is sixteen and lives in a small town near Manizales. Last year his uncle gave him an old pair of binoculars for his birthday. At first, Santiago didn't know what to do with them. Then one morning he saw a bright green bird in the garden and wanted to know its name. He looked for it in a book at the town library and found out it was a parrot that lives only in the Andes.\n\nNow Santiago gets up at five every Saturday and walks to the forest with two friends from school. They write down every bird they see in a notebook and take photos with a mobile phone. So far they have seen more than ninety different species. Santiago says the hardest part is being quiet for a long time. Next year he wants to study biology at university.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What do Santiago and his friends do every Saturday?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They help his uncle in the garden.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla personajes y lugares del texto.",
+        "explanation_feedback": "Incorrecta. El texto no dice que ayuden al tío en el jardín."
+      },
+      {
+        "label": "B",
+        "text": "They visit the library to read about birds.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma una acción que hizo una sola vez.",
+        "explanation_feedback": "Incorrecta. Fue a la biblioteca una vez para buscar el nombre del loro, no cada sábado."
+      },
+      {
+        "label": "C",
+        "text": "They record the birds they see in the forest.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Caminan al bosque, anotan cada pájaro en un cuaderno y toman fotos."
+      },
+      {
+        "label": "D",
+        "text": "They sell photos of birds to tourists.",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrega información que no está en el texto.",
+        "explanation_feedback": "Incorrecta. El texto no menciona turistas ni ventas."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "9a56e352-b231-55d6-b915-cd540b681d72",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Santiago's new hobby",
+      "text": "Santiago is sixteen and lives in a small town near Manizales. Last year his uncle gave him an old pair of binoculars for his birthday. At first, Santiago didn't know what to do with them. Then one morning he saw a bright green bird in the garden and wanted to know its name. He looked for it in a book at the town library and found out it was a parrot that lives only in the Andes.\n\nNow Santiago gets up at five every Saturday and walks to the forest with two friends from school. They write down every bird they see in a notebook and take photos with a mobile phone. So far they have seen more than ninety different species. Santiago says the hardest part is being quiet for a long time. Next year he wants to study biology at university.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "According to Santiago, what is the most difficult thing about his hobby?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Staying silent for a long time.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Él dice que lo más difícil es «being quiet for a long time»."
+      },
+      {
+        "label": "B",
+        "text": "Walking a long way to the forest.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una dificultad que el texto no menciona.",
+        "explanation_feedback": "Incorrecta. El texto no dice que el camino sea largo ni difícil."
+      },
+      {
+        "label": "C",
+        "text": "Getting up at five in the morning.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un dato del texto que parece difícil, pero no es el que él señala.",
+        "explanation_feedback": "Incorrecta. Se levanta a las cinco, pero no dice que eso sea lo más difícil."
+      },
+      {
+        "label": "D",
+        "text": "Taking good photos with a phone.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona la cámara del celular con una dificultad.",
+        "explanation_feedback": "Incorrecta. Toman fotos con el celular, pero no dice que sea lo más difícil."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "acdb3015-360c-5702-8e71-ae6b86ec3c20",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Santiago's new hobby",
+      "text": "Santiago is sixteen and lives in a small town near Manizales. Last year his uncle gave him an old pair of binoculars for his birthday. At first, Santiago didn't know what to do with them. Then one morning he saw a bright green bird in the garden and wanted to know its name. He looked for it in a book at the town library and found out it was a parrot that lives only in the Andes.\n\nNow Santiago gets up at five every Saturday and walks to the forest with two friends from school. They write down every bird they see in a notebook and take photos with a mobile phone. So far they have seen more than ninety different species. Santiago says the hardest part is being quiet for a long time. Next year he wants to study biology at university.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What is the text mainly about?",
+    "options": [
+      {
+        "label": "A",
+        "text": "How to choose a good pair of binoculars.",
+        "is_correct": false,
+        "distractor_diagnosis": "Infiere un propósito instructivo que no tiene el texto.",
+        "explanation_feedback": "Incorrecta. El texto narra una experiencia; no da consejos para comprar binoculares."
+      },
+      {
+        "label": "B",
+        "text": "Why parrots only live in the Andes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma un detalle por la idea principal.",
+        "explanation_feedback": "Incorrecta. El loro de los Andes es solo un detalle del relato."
+      },
+      {
+        "label": "C",
+        "text": "What students study in biology courses.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma el plan futuro como tema central.",
+        "explanation_feedback": "Incorrecta. La biología aparece solo al final, como un plan."
+      },
+      {
+        "label": "D",
+        "text": "How a gift led a teenager to a new interest.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto cuenta cómo unos binoculares regalados llevaron a Santiago a observar aves."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "549bfa16-28ae-5307-9f4a-d0d4758cc8e1",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The school garden",
+      "text": "Two years ago, the students at Colegio La Esperanza had an idea. Behind the school there was a piece of land full of rubbish. The students asked the head teacher if they could clean it and use it to grow vegetables. She agreed, but only if they promised to look after it during the holidays too.\n\nToday the garden has tomatoes, lettuce, beans and herbs. Each class is responsible for one part of the garden for a month. The vegetables are used in the school kitchen, and the students eat them at lunch. Last month they grew so many tomatoes that they sold some to families in the neighbourhood and used the money to buy new tools.\n\nThe science teacher, Mr Rojas, also uses the garden for his classes. \"It's easier to understand how plants grow when you see it with your own eyes,\" he says.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What was behind the school before the garden?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A football field for students.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone un uso escolar común.",
+        "explanation_feedback": "Incorrecta. No era una cancha: era un terreno con basura."
+      },
+      {
+        "label": "B",
+        "text": "A small farm with animals.",
+        "is_correct": false,
+        "distractor_diagnosis": "Imagina un uso anterior que el texto no menciona.",
+        "explanation_feedback": "Incorrecta. El texto no habla de una granja ni de animales."
+      },
+      {
+        "label": "C",
+        "text": "A piece of land with a lot of rubbish.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto dice que era un terreno «full of rubbish» (lleno de basura)."
+      },
+      {
+        "label": "D",
+        "text": "An old school kitchen.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la cocina actual con el terreno.",
+        "explanation_feedback": "Incorrecta. La cocina se menciona como destino de las verduras, no como lo que había detrás."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "afcdb013-b1e3-57da-b27d-9e069b4c179e",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The school garden",
+      "text": "Two years ago, the students at Colegio La Esperanza had an idea. Behind the school there was a piece of land full of rubbish. The students asked the head teacher if they could clean it and use it to grow vegetables. She agreed, but only if they promised to look after it during the holidays too.\n\nToday the garden has tomatoes, lettuce, beans and herbs. Each class is responsible for one part of the garden for a month. The vegetables are used in the school kitchen, and the students eat them at lunch. Last month they grew so many tomatoes that they sold some to families in the neighbourhood and used the money to buy new tools.\n\nThe science teacher, Mr Rojas, also uses the garden for his classes. \"It's easier to understand how plants grow when you see it with your own eyes,\" he says.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What condition did the head teacher give the students?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They had to care for the garden in the holidays.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ella aceptó solo si prometían cuidarlo también en vacaciones."
+      },
+      {
+        "label": "B",
+        "text": "They had to get help from Mr Rojas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona al profesor con la condición.",
+        "explanation_feedback": "Incorrecta. El profesor usa el huerto en sus clases, pero no fue la condición."
+      },
+      {
+        "label": "C",
+        "text": "They had to pay for the vegetables.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una condición económica.",
+        "explanation_feedback": "Incorrecta. El texto no dice que tuvieran que pagar nada."
+      },
+      {
+        "label": "D",
+        "text": "They had to give the tomatoes to families.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma un hecho posterior como condición.",
+        "explanation_feedback": "Incorrecta. La venta a las familias ocurrió después y no fue una condición."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "9ec49988-9290-51e5-af43-06baecc48377",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The school garden",
+      "text": "Two years ago, the students at Colegio La Esperanza had an idea. Behind the school there was a piece of land full of rubbish. The students asked the head teacher if they could clean it and use it to grow vegetables. She agreed, but only if they promised to look after it during the holidays too.\n\nToday the garden has tomatoes, lettuce, beans and herbs. Each class is responsible for one part of the garden for a month. The vegetables are used in the school kitchen, and the students eat them at lunch. Last month they grew so many tomatoes that they sold some to families in the neighbourhood and used the money to buy new tools.\n\nThe science teacher, Mr Rojas, also uses the garden for his classes. \"It's easier to understand how plants grow when you see it with your own eyes,\" he says.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "How is the work in the garden organised?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Only the science class can work there.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza el uso del profesor de ciencias.",
+        "explanation_feedback": "Incorrecta. El profesor usa el huerto, pero todos los cursos participan."
+      },
+      {
+        "label": "B",
+        "text": "The head teacher does most of the work.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que la rectora trabaja en el huerto.",
+        "explanation_feedback": "Incorrecta. El texto dice que los cursos se turnan; no habla de la rectora trabajando."
+      },
+      {
+        "label": "C",
+        "text": "Families from the neighbourhood help every day.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde a los compradores con trabajadores.",
+        "explanation_feedback": "Incorrecta. Las familias compraron tomates; no trabajan en el huerto."
+      },
+      {
+        "label": "D",
+        "text": "Each class looks after one area for a month.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada curso se encarga de una parte del huerto durante un mes."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "adbb7f6c-0777-56b1-8bf9-f77c64081527",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The school garden",
+      "text": "Two years ago, the students at Colegio La Esperanza had an idea. Behind the school there was a piece of land full of rubbish. The students asked the head teacher if they could clean it and use it to grow vegetables. She agreed, but only if they promised to look after it during the holidays too.\n\nToday the garden has tomatoes, lettuce, beans and herbs. Each class is responsible for one part of the garden for a month. The vegetables are used in the school kitchen, and the students eat them at lunch. Last month they grew so many tomatoes that they sold some to families in the neighbourhood and used the money to buy new tools.\n\nThe science teacher, Mr Rojas, also uses the garden for his classes. \"It's easier to understand how plants grow when you see it with your own eyes,\" he says.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What did the students do with the extra tomatoes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They sold them and bought new tools.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Vendieron tomates a familias del barrio y compraron herramientas nuevas."
+      },
+      {
+        "label": "B",
+        "text": "They gave them to Mr Rojas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona al profesor con los tomates.",
+        "explanation_feedback": "Incorrecta. El texto no dice que se los dieran al profesor."
+      },
+      {
+        "label": "C",
+        "text": "They took them home for the holidays.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona «holidays» con los tomates.",
+        "explanation_feedback": "Incorrecta. Las vacaciones aparecen en la condición de la rectora, no en lo que hicieron con los tomates."
+      },
+      {
+        "label": "D",
+        "text": "They threw them away with the rubbish.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona «rubbish» con los tomates.",
+        "explanation_feedback": "Incorrecta. La basura era lo que había antes en el terreno."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "d3782d83-6743-506d-a130-a0df924b7262",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The school garden",
+      "text": "Two years ago, the students at Colegio La Esperanza had an idea. Behind the school there was a piece of land full of rubbish. The students asked the head teacher if they could clean it and use it to grow vegetables. She agreed, but only if they promised to look after it during the holidays too.\n\nToday the garden has tomatoes, lettuce, beans and herbs. Each class is responsible for one part of the garden for a month. The vegetables are used in the school kitchen, and the students eat them at lunch. Last month they grew so many tomatoes that they sold some to families in the neighbourhood and used the money to buy new tools.\n\nThe science teacher, Mr Rojas, also uses the garden for his classes. \"It's easier to understand how plants grow when you see it with your own eyes,\" he says.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Why does Mr Rojas use the garden in his classes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The head teacher told him to do it.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una orden que el texto no menciona.",
+        "explanation_feedback": "Incorrecta. La razón que él da es pedagógica, no una orden."
+      },
+      {
+        "label": "B",
+        "text": "Students learn better by seeing plants grow.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Él dice que es más fácil entender cómo crecen las plantas viéndolo con los propios ojos."
+      },
+      {
+        "label": "C",
+        "text": "The classroom is too small for his students.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón práctica.",
+        "explanation_feedback": "Incorrecta. El texto no habla del tamaño del salón."
+      },
+      {
+        "label": "D",
+        "text": "He wants to sell vegetables to families.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye al profesor la venta de tomates.",
+        "explanation_feedback": "Incorrecta. Fueron los estudiantes quienes vendieron los tomates."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "5d6d83ea-05a5-5ef2-9be4-a0a655fc59db",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "An email from Bogotá",
+      "text": "Hi Tom,\nI've been in Bogotá for three weeks now and I'm really enjoying it. My host family is great. Doña Marta cooks amazing food, and her son Felipe is teaching me to play tejo. It's a traditional game where you throw a heavy metal disc at a target. I'm terrible at it, but it's a lot of fun!\n\nThe weather is not what I expected. I thought Colombia was always hot, but Bogotá is high in the mountains, so it's often cold and it rains almost every afternoon. I had to buy a warm jacket in my first week.\n\nMy Spanish is getting better. At first I only understood a few words, but now I can have short conversations. My classes at the language school finish next month, and then I'm going to travel to the coast for a week before I go home.\n\nSee you soon,\nEmma",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Who is teaching Emma to play tejo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Her friend Tom.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde al destinatario con un personaje del relato.",
+        "explanation_feedback": "Incorrecta. Tom es a quien le escribe el correo; no está en Bogotá."
+      },
+      {
+        "label": "B",
+        "text": "Her host family's son.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Felipe, el hijo de su familia anfitriona, le está enseñando."
+      },
+      {
+        "label": "C",
+        "text": "Doña Marta, the mother.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde a los dos miembros de la familia.",
+        "explanation_feedback": "Incorrecta. Doña Marta cocina; quien enseña tejo es su hijo."
+      },
+      {
+        "label": "D",
+        "text": "Her teacher at the school.",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «teaching» con la escuela de idiomas.",
+        "explanation_feedback": "Incorrecta. En la escuela estudia español; el tejo se lo enseña Felipe."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "6ffb8696-ddb7-536e-8f28-1316648b05eb",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "An email from Bogotá",
+      "text": "Hi Tom,\nI've been in Bogotá for three weeks now and I'm really enjoying it. My host family is great. Doña Marta cooks amazing food, and her son Felipe is teaching me to play tejo. It's a traditional game where you throw a heavy metal disc at a target. I'm terrible at it, but it's a lot of fun!\n\nThe weather is not what I expected. I thought Colombia was always hot, but Bogotá is high in the mountains, so it's often cold and it rains almost every afternoon. I had to buy a warm jacket in my first week.\n\nMy Spanish is getting better. At first I only understood a few words, but now I can have short conversations. My classes at the language school finish next month, and then I'm going to travel to the coast for a week before I go home.\n\nSee you soon,\nEmma",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What does Emma say about tejo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "She is very good at it already.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés «I'm terrible at it».",
+        "explanation_feedback": "Incorrecta. Ella dice que juega muy mal."
+      },
+      {
+        "label": "B",
+        "text": "She enjoys it although she plays badly.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Dice «I'm terrible at it, but it's a lot of fun»."
+      },
+      {
+        "label": "C",
+        "text": "She thinks it is too dangerous.",
+        "is_correct": false,
+        "distractor_diagnosis": "Infiere peligro por el disco metálico.",
+        "explanation_feedback": "Incorrecta. Menciona que el disco es pesado, pero no dice que sea peligroso."
+      },
+      {
+        "label": "D",
+        "text": "She played it before in her country.",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrega información que no está.",
+        "explanation_feedback": "Incorrecta. El texto sugiere que es nuevo para ella: Felipe se lo enseña."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "c10282c5-97ee-5624-bffe-67120368fa63",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "An email from Bogotá",
+      "text": "Hi Tom,\nI've been in Bogotá for three weeks now and I'm really enjoying it. My host family is great. Doña Marta cooks amazing food, and her son Felipe is teaching me to play tejo. It's a traditional game where you throw a heavy metal disc at a target. I'm terrible at it, but it's a lot of fun!\n\nThe weather is not what I expected. I thought Colombia was always hot, but Bogotá is high in the mountains, so it's often cold and it rains almost every afternoon. I had to buy a warm jacket in my first week.\n\nMy Spanish is getting better. At first I only understood a few words, but now I can have short conversations. My classes at the language school finish next month, and then I'm going to travel to the coast for a week before I go home.\n\nSee you soon,\nEmma",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Why did Emma buy a jacket?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doña Marta gave her the money for it.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. El texto no dice quién pagó la chaqueta."
+      },
+      {
+        "label": "B",
+        "text": "She is going to travel to the coast.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona la compra con el viaje.",
+        "explanation_feedback": "Incorrecta. En la costa hace calor; la chaqueta es por el clima de Bogotá."
+      },
+      {
+        "label": "C",
+        "text": "She wanted a souvenir from Colombia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone un motivo de turista.",
+        "explanation_feedback": "Incorrecta. La compró por el frío, no como recuerdo."
+      },
+      {
+        "label": "D",
+        "text": "The weather in Bogotá was colder than she thought.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Pensaba que en Colombia siempre hacía calor, pero Bogotá es fría."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "9b8978e7-80be-5007-a068-26162b360902",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "An email from Bogotá",
+      "text": "Hi Tom,\nI've been in Bogotá for three weeks now and I'm really enjoying it. My host family is great. Doña Marta cooks amazing food, and her son Felipe is teaching me to play tejo. It's a traditional game where you throw a heavy metal disc at a target. I'm terrible at it, but it's a lot of fun!\n\nThe weather is not what I expected. I thought Colombia was always hot, but Bogotá is high in the mountains, so it's often cold and it rains almost every afternoon. I had to buy a warm jacket in my first week.\n\nMy Spanish is getting better. At first I only understood a few words, but now I can have short conversations. My classes at the language school finish next month, and then I'm going to travel to the coast for a week before I go home.\n\nSee you soon,\nEmma",
+      "svg": null,
+      "table": null
+    },
+    "stem": "How has Emma's Spanish changed?",
+    "options": [
+      {
+        "label": "A",
+        "text": "She has stopped going to her classes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el futuro con el presente.",
+        "explanation_feedback": "Incorrecta. Las clases terminan el próximo mes; todavía asiste."
+      },
+      {
+        "label": "B",
+        "text": "She speaks it perfectly now.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el progreso.",
+        "explanation_feedback": "Incorrecta. Ella habla de conversaciones cortas, no de un dominio perfecto."
+      },
+      {
+        "label": "C",
+        "text": "She can now have short conversations.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Al comienzo entendía pocas palabras y ahora puede tener conversaciones cortas."
+      },
+      {
+        "label": "D",
+        "text": "She still understands only a few words.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma la situación inicial como la actual.",
+        "explanation_feedback": "Incorrecta. Eso era «at first»; ahora ha mejorado."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "a4b1ffae-de0c-5571-96a3-7e60bb0c006b",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "An email from Bogotá",
+      "text": "Hi Tom,\nI've been in Bogotá for three weeks now and I'm really enjoying it. My host family is great. Doña Marta cooks amazing food, and her son Felipe is teaching me to play tejo. It's a traditional game where you throw a heavy metal disc at a target. I'm terrible at it, but it's a lot of fun!\n\nThe weather is not what I expected. I thought Colombia was always hot, but Bogotá is high in the mountains, so it's often cold and it rains almost every afternoon. I had to buy a warm jacket in my first week.\n\nMy Spanish is getting better. At first I only understood a few words, but now I can have short conversations. My classes at the language school finish next month, and then I'm going to travel to the coast for a week before I go home.\n\nSee you soon,\nEmma",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What will Emma do after her classes finish?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Start a new course in Bogotá.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un plan.",
+        "explanation_feedback": "Incorrecta. No menciona otro curso."
+      },
+      {
+        "label": "B",
+        "text": "Stay with her host family.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que se queda en Bogotá.",
+        "explanation_feedback": "Incorrecta. El plan es viajar a la costa."
+      },
+      {
+        "label": "C",
+        "text": "Spend a week on the coast.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Dice que viajará a la costa una semana antes de volver a casa."
+      },
+      {
+        "label": "D",
+        "text": "Go home immediately.",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite el viaje previo.",
+        "explanation_feedback": "Incorrecta. Antes de volver a casa piensa viajar una semana."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "5abbd928-9f4f-5809-8bcf-fb5bcd0747f8",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A young chef",
+      "text": "Mariana Ortiz is only seventeen, but she already has her own cooking channel on the internet with more than fifty thousand followers. She started cooking when she was eight, helping her grandmother prepare arepas for the family's small restaurant in Barranquilla.\n\nIn her videos, Mariana prepares traditional Colombian dishes, but she often changes the recipes to make them healthier. For example, she bakes her empanadas instead of frying them. \"I want young people to know that healthy food can also be delicious,\" she says.\n\nMariana records her videos on Sunday afternoons, when the restaurant is closed. Her younger brother holds the camera. She doesn't earn much money from the channel yet, but she has received invitations to cook at food festivals. After finishing school, she hopes to study at a cooking school in Lima.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "How did Mariana learn to cook?",
+    "options": [
+      {
+        "label": "A",
+        "text": "At a cooking school in Lima.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma un plan futuro como pasado.",
+        "explanation_feedback": "Incorrecta. Estudiar en Lima es lo que espera hacer después del colegio."
+      },
+      {
+        "label": "B",
+        "text": "At a food festival in Barranquilla.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla datos del texto.",
+        "explanation_feedback": "Incorrecta. Los festivales son invitaciones recientes, no donde aprendió."
+      },
+      {
+        "label": "C",
+        "text": "By helping her grandmother as a child.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Empezó a los ocho años ayudando a su abuela con las arepas."
+      },
+      {
+        "label": "D",
+        "text": "By watching videos on the internet.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación: ella hace videos.",
+        "explanation_feedback": "Incorrecta. Ella hace videos; no dice que aprendiera viéndolos."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "db47430a-4828-5fe3-9e99-25dc65e5c843",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A young chef",
+      "text": "Mariana Ortiz is only seventeen, but she already has her own cooking channel on the internet with more than fifty thousand followers. She started cooking when she was eight, helping her grandmother prepare arepas for the family's small restaurant in Barranquilla.\n\nIn her videos, Mariana prepares traditional Colombian dishes, but she often changes the recipes to make them healthier. For example, she bakes her empanadas instead of frying them. \"I want young people to know that healthy food can also be delicious,\" she says.\n\nMariana records her videos on Sunday afternoons, when the restaurant is closed. Her younger brother holds the camera. She doesn't earn much money from the channel yet, but she has received invitations to cook at food festivals. After finishing school, she hopes to study at a cooking school in Lima.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What is special about Mariana's recipes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "She fries everything to make it tasty.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés el ejemplo de las empanadas.",
+        "explanation_feedback": "Incorrecta. Ella hornea las empanadas en vez de freírlas."
+      },
+      {
+        "label": "B",
+        "text": "She uses her grandmother's recipes exactly.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que cambia las recetas.",
+        "explanation_feedback": "Incorrecta. El texto dice que a menudo modifica las recetas."
+      },
+      {
+        "label": "C",
+        "text": "She only cooks food from other countries.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Ella prepara platos tradicionales colombianos."
+      },
+      {
+        "label": "D",
+        "text": "She makes traditional dishes healthier.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cambia las recetas tradicionales para hacerlas más saludables, como hornear empanadas."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "0b7a8d04-19d7-5c52-9b92-5ecac4c61df8",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A young chef",
+      "text": "Mariana Ortiz is only seventeen, but she already has her own cooking channel on the internet with more than fifty thousand followers. She started cooking when she was eight, helping her grandmother prepare arepas for the family's small restaurant in Barranquilla.\n\nIn her videos, Mariana prepares traditional Colombian dishes, but she often changes the recipes to make them healthier. For example, she bakes her empanadas instead of frying them. \"I want young people to know that healthy food can also be delicious,\" she says.\n\nMariana records her videos on Sunday afternoons, when the restaurant is closed. Her younger brother holds the camera. She doesn't earn much money from the channel yet, but she has received invitations to cook at food festivals. After finishing school, she hopes to study at a cooking school in Lima.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Why does Mariana record on Sunday afternoons?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The light is better in the afternoon.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una razón técnica.",
+        "explanation_feedback": "Incorrecta. El texto no menciona la luz."
+      },
+      {
+        "label": "B",
+        "text": "The restaurant is closed then.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Graba los domingos en la tarde porque el restaurante está cerrado."
+      },
+      {
+        "label": "C",
+        "text": "Her followers watch more on Sundays.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón sobre la audiencia.",
+        "explanation_feedback": "Incorrecta. El texto no habla de cuándo ven los videos sus seguidores."
+      },
+      {
+        "label": "D",
+        "text": "Her brother has no school then.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una razón relacionada con el hermano.",
+        "explanation_feedback": "Incorrecta. El hermano sostiene la cámara, pero la razón dada es el cierre del restaurante."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "cecaac78-f1e5-5f1c-9d18-a10fd0bca4e2",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A young chef",
+      "text": "Mariana Ortiz is only seventeen, but she already has her own cooking channel on the internet with more than fifty thousand followers. She started cooking when she was eight, helping her grandmother prepare arepas for the family's small restaurant in Barranquilla.\n\nIn her videos, Mariana prepares traditional Colombian dishes, but she often changes the recipes to make them healthier. For example, she bakes her empanadas instead of frying them. \"I want young people to know that healthy food can also be delicious,\" she says.\n\nMariana records her videos on Sunday afternoons, when the restaurant is closed. Her younger brother holds the camera. She doesn't earn much money from the channel yet, but she has received invitations to cook at food festivals. After finishing school, she hopes to study at a cooking school in Lima.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What does the text say about money?",
+    "options": [
+      {
+        "label": "A",
+        "text": "She pays her brother to hold the camera.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una relación laboral.",
+        "explanation_feedback": "Incorrecta. No dice que le pague a su hermano."
+      },
+      {
+        "label": "B",
+        "text": "She doesn't make much from her channel yet.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Dice «She doesn't earn much money from the channel yet»."
+      },
+      {
+        "label": "C",
+        "text": "She is rich because of her followers.",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia muchos seguidores con mucho dinero.",
+        "explanation_feedback": "Incorrecta. El texto dice lo contrario: aún no gana mucho."
+      },
+      {
+        "label": "D",
+        "text": "She uses the money to help the restaurant.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un uso del dinero.",
+        "explanation_feedback": "Incorrecta. El texto no dice que dé dinero al restaurante."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "73465ca1-dfb7-5813-a948-00c8a01be8c1",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A young chef",
+      "text": "Mariana Ortiz is only seventeen, but she already has her own cooking channel on the internet with more than fifty thousand followers. She started cooking when she was eight, helping her grandmother prepare arepas for the family's small restaurant in Barranquilla.\n\nIn her videos, Mariana prepares traditional Colombian dishes, but she often changes the recipes to make them healthier. For example, she bakes her empanadas instead of frying them. \"I want young people to know that healthy food can also be delicious,\" she says.\n\nMariana records her videos on Sunday afternoons, when the restaurant is closed. Her younger brother holds the camera. She doesn't earn much money from the channel yet, but she has received invitations to cook at food festivals. After finishing school, she hopes to study at a cooking school in Lima.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What does Mariana want young people to understand?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Everyone should study in Lima.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza su plan personal.",
+        "explanation_feedback": "Incorrecta. Estudiar en Lima es su plan, no un consejo."
+      },
+      {
+        "label": "B",
+        "text": "Fried food is the most delicious.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice su mensaje.",
+        "explanation_feedback": "Incorrecta. Ella prefiere hornear para que sea más saludable."
+      },
+      {
+        "label": "C",
+        "text": "Healthy food can taste good too.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ella dice que quiere que los jóvenes sepan que la comida saludable también puede ser deliciosa."
+      },
+      {
+        "label": "D",
+        "text": "Cooking is a good way to earn money.",
+        "is_correct": false,
+        "distractor_diagnosis": "Se enfoca en el dinero, tema secundario.",
+        "explanation_feedback": "Incorrecta. Su mensaje es sobre comida saludable, no sobre ganar dinero."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "7bb2ac87-569e-5b1b-8528-87ac1ba45a57",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My trip to the Tatacoa Desert",
+      "text": "Last December, my family and I spent three days in the Tatacoa Desert, in Huila. I was surprised because I didn't know Colombia had a desert. It isn't a desert of sand like in films. The ground is red and grey, and there are many cactus plants.\n\nDuring the day it was very hot, so we stayed in our cabin and only went out early in the morning and late in the afternoon. My favourite part was the night. Because there are no big cities near the desert, the sky is very dark and you can see thousands of stars. We visited a small observatory where a guide showed us Saturn through a telescope. I could see its rings!\n\nIf you go, take a hat, a lot of water and sun cream. And don't forget a jacket: the nights can be cooler than you think.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Why was the writer surprised?",
+    "options": [
+      {
+        "label": "A",
+        "text": "It rained every day of the trip.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato del clima.",
+        "explanation_feedback": "Incorrecta. El texto dice que hacía mucho calor de día."
+      },
+      {
+        "label": "B",
+        "text": "There were no plants in the desert.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Menciona muchos cactus."
+      },
+      {
+        "label": "C",
+        "text": "The desert was full of sand.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la descripción.",
+        "explanation_feedback": "Incorrecta. El texto dice que no es un desierto de arena."
+      },
+      {
+        "label": "D",
+        "text": "The writer didn't know Colombia had a desert.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Dice «I didn't know Colombia had a desert»."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "2262f2b0-fba0-5fce-9056-12ff14e84500",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My trip to the Tatacoa Desert",
+      "text": "Last December, my family and I spent three days in the Tatacoa Desert, in Huila. I was surprised because I didn't know Colombia had a desert. It isn't a desert of sand like in films. The ground is red and grey, and there are many cactus plants.\n\nDuring the day it was very hot, so we stayed in our cabin and only went out early in the morning and late in the afternoon. My favourite part was the night. Because there are no big cities near the desert, the sky is very dark and you can see thousands of stars. We visited a small observatory where a guide showed us Saturn through a telescope. I could see its rings!\n\nIf you go, take a hat, a lot of water and sun cream. And don't forget a jacket: the nights can be cooler than you think.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Why did the family stay in the cabin during the day?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The guide told them to stay inside.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una indicación.",
+        "explanation_feedback": "Incorrecta. El guía aparece en el observatorio, de noche."
+      },
+      {
+        "label": "B",
+        "text": "It was too dark to see anything.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el día con la noche.",
+        "explanation_feedback": "Incorrecta. La oscuridad era de noche, no de día."
+      },
+      {
+        "label": "C",
+        "text": "It was too hot outside.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Hacía mucho calor de día, así que solo salían temprano o tarde."
+      },
+      {
+        "label": "D",
+        "text": "They were tired after the trip.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una razón no mencionada.",
+        "explanation_feedback": "Incorrecta. La razón dada es el calor."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "4f71643d-7417-5576-8093-a353a993d279",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My trip to the Tatacoa Desert",
+      "text": "Last December, my family and I spent three days in the Tatacoa Desert, in Huila. I was surprised because I didn't know Colombia had a desert. It isn't a desert of sand like in films. The ground is red and grey, and there are many cactus plants.\n\nDuring the day it was very hot, so we stayed in our cabin and only went out early in the morning and late in the afternoon. My favourite part was the night. Because there are no big cities near the desert, the sky is very dark and you can see thousands of stars. We visited a small observatory where a guide showed us Saturn through a telescope. I could see its rings!\n\nIf you go, take a hat, a lot of water and sun cream. And don't forget a jacket: the nights can be cooler than you think.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Why can you see so many stars in the Tatacoa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The guide gives everyone a telescope.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza el telescopio del observatorio.",
+        "explanation_feedback": "Incorrecta. Solo usaron un telescopio en el observatorio; las estrellas se ven a simple vista."
+      },
+      {
+        "label": "B",
+        "text": "The desert is very high in the mountains.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una razón geográfica no mencionada.",
+        "explanation_feedback": "Incorrecta. El texto explica la oscuridad por la ausencia de ciudades."
+      },
+      {
+        "label": "C",
+        "text": "There are no large cities near it.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sin ciudades grandes cerca, el cielo es muy oscuro."
+      },
+      {
+        "label": "D",
+        "text": "It is very hot during the night.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Las noches pueden ser frescas, y el calor no explica las estrellas."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "8b9dc60e-fcb7-58c5-bb0b-73c0f367cc47",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My trip to the Tatacoa Desert",
+      "text": "Last December, my family and I spent three days in the Tatacoa Desert, in Huila. I was surprised because I didn't know Colombia had a desert. It isn't a desert of sand like in films. The ground is red and grey, and there are many cactus plants.\n\nDuring the day it was very hot, so we stayed in our cabin and only went out early in the morning and late in the afternoon. My favourite part was the night. Because there are no big cities near the desert, the sky is very dark and you can see thousands of stars. We visited a small observatory where a guide showed us Saturn through a telescope. I could see its rings!\n\nIf you go, take a hat, a lot of water and sun cream. And don't forget a jacket: the nights can be cooler than you think.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What was the writer's favourite part of the trip?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The cabin.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar donde pasaban el calor.",
+        "explanation_feedback": "Incorrecta. La cabaña era para protegerse del calor."
+      },
+      {
+        "label": "B",
+        "text": "The cactus plants.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un detalle descriptivo.",
+        "explanation_feedback": "Incorrecta. Menciona los cactus, pero no como lo favorito."
+      },
+      {
+        "label": "C",
+        "text": "The red ground.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un detalle del paisaje.",
+        "explanation_feedback": "Incorrecta. Describe el suelo, pero lo favorito fue la noche."
+      },
+      {
+        "label": "D",
+        "text": "The night sky.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Dice «My favourite part was the night» y describe las estrellas."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "27b6763b-4ddb-5bdf-be02-dc308a66f3ea",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My trip to the Tatacoa Desert",
+      "text": "Last December, my family and I spent three days in the Tatacoa Desert, in Huila. I was surprised because I didn't know Colombia had a desert. It isn't a desert of sand like in films. The ground is red and grey, and there are many cactus plants.\n\nDuring the day it was very hot, so we stayed in our cabin and only went out early in the morning and late in the afternoon. My favourite part was the night. Because there are no big cities near the desert, the sky is very dark and you can see thousands of stars. We visited a small observatory where a guide showed us Saturn through a telescope. I could see its rings!\n\nIf you go, take a hat, a lot of water and sun cream. And don't forget a jacket: the nights can be cooler than you think.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What advice does the writer give at the end?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Don't go out at night because it's cold.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice su recomendación.",
+        "explanation_feedback": "Incorrecta. La noche fue su parte favorita; solo pide llevar chaqueta."
+      },
+      {
+        "label": "B",
+        "text": "Buy a telescope before you go.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza el uso del telescopio.",
+        "explanation_feedback": "Incorrecta. Usaron el telescopio del observatorio; no aconseja comprarlo."
+      },
+      {
+        "label": "C",
+        "text": "Bring things for both heat and cool nights.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Aconseja sombrero, agua y bloqueador, y también una chaqueta para las noches."
+      },
+      {
+        "label": "D",
+        "text": "Visit the desert only in December.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza la fecha del viaje.",
+        "explanation_feedback": "Incorrecta. Viajaron en diciembre, pero no lo recomienda como única fecha."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "835ea58e-99e6-5537-8ea4-307937553ca6",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Phones at the dinner table",
+      "text": "In many homes, families eat dinner while they look at their phones. A school in Cali wanted to know how this affects family life, so it asked 300 students to answer some questions.\n\nMore than half of the students said they use their phones during meals. Many of them said their parents do the same. But when the school asked them to try one week without phones at dinner, the results were interesting. Most students said they talked more with their families and learned things they didn't know about their parents. Some said the first two days were difficult and a bit boring.\n\nAfter the experiment, 60% of the families decided to keep a \"no phones\" rule at least three days a week. \"Now my dad tells us stories about when he was young,\" said one student.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Why did the school ask students questions?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To choose the best phone for students.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un propósito comercial.",
+        "explanation_feedback": "Incorrecta. El estudio no compara celulares."
+      },
+      {
+        "label": "B",
+        "text": "To learn how phones at meals affect families.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La escuela quería saber cómo afecta a la vida familiar usar el celular en la cena."
+      },
+      {
+        "label": "C",
+        "text": "To find out what students eat at home.",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda con «dinner».",
+        "explanation_feedback": "Incorrecta. La comida no es el tema; lo es el uso del celular."
+      },
+      {
+        "label": "D",
+        "text": "To ban phones in the school.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una medida escolar.",
+        "explanation_feedback": "Incorrecta. El experimento fue en casa, durante la cena."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "d6a57fa8-380f-5068-b247-32cf4dd41c4e",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Phones at the dinner table",
+      "text": "In many homes, families eat dinner while they look at their phones. A school in Cali wanted to know how this affects family life, so it asked 300 students to answer some questions.\n\nMore than half of the students said they use their phones during meals. Many of them said their parents do the same. But when the school asked them to try one week without phones at dinner, the results were interesting. Most students said they talked more with their families and learned things they didn't know about their parents. Some said the first two days were difficult and a bit boring.\n\nAfter the experiment, 60% of the families decided to keep a \"no phones\" rule at least three days a week. \"Now my dad tells us stories about when he was young,\" said one student.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What did more than half of the students say?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They use their phones while they eat.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Más de la mitad dijo que usa el celular durante las comidas."
+      },
+      {
+        "label": "B",
+        "text": "Their parents never use phones.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Muchos dijeron que sus padres hacen lo mismo."
+      },
+      {
+        "label": "C",
+        "text": "They always eat alone.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. El texto habla de comidas en familia."
+      },
+      {
+        "label": "D",
+        "text": "They don't have their own phones.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. El texto no habla de quién tiene celular."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "e03beaa8-5931-5be9-9f3f-f60b9bd173eb",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Phones at the dinner table",
+      "text": "In many homes, families eat dinner while they look at their phones. A school in Cali wanted to know how this affects family life, so it asked 300 students to answer some questions.\n\nMore than half of the students said they use their phones during meals. Many of them said their parents do the same. But when the school asked them to try one week without phones at dinner, the results were interesting. Most students said they talked more with their families and learned things they didn't know about their parents. Some said the first two days were difficult and a bit boring.\n\nAfter the experiment, 60% of the families decided to keep a \"no phones\" rule at least three days a week. \"Now my dad tells us stories about when he was young,\" said one student.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What happened during the week without phones?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Most students talked more with their families.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La mayoría dijo que habló más con su familia y aprendió cosas de sus padres."
+      },
+      {
+        "label": "B",
+        "text": "Families stopped eating dinner together.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el resultado.",
+        "explanation_feedback": "Incorrecta. Siguieron cenando juntos y conversaron más."
+      },
+      {
+        "label": "C",
+        "text": "Parents used their phones even more.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un resultado.",
+        "explanation_feedback": "Incorrecta. El texto no dice eso."
+      },
+      {
+        "label": "D",
+        "text": "All students found it boring all week.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza lo que dijeron algunos sobre dos días.",
+        "explanation_feedback": "Incorrecta. Solo algunos dijeron que los dos primeros días fueron difíciles."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "969a35b7-d979-5e59-8753-93e0b2b2c0c8",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Phones at the dinner table",
+      "text": "In many homes, families eat dinner while they look at their phones. A school in Cali wanted to know how this affects family life, so it asked 300 students to answer some questions.\n\nMore than half of the students said they use their phones during meals. Many of them said their parents do the same. But when the school asked them to try one week without phones at dinner, the results were interesting. Most students said they talked more with their families and learned things they didn't know about their parents. Some said the first two days were difficult and a bit boring.\n\nAfter the experiment, 60% of the families decided to keep a \"no phones\" rule at least three days a week. \"Now my dad tells us stories about when he was young,\" said one student.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What does \"the first two days were difficult\" tell us?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Changing the habit was hard at the start.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Indica que al principio costó dejar el celular, aunque luego mejoró."
+      },
+      {
+        "label": "B",
+        "text": "The students didn't finish the experiment.",
+        "is_correct": false,
+        "distractor_diagnosis": "Infiere un abandono no mencionado.",
+        "explanation_feedback": "Incorrecta. El texto no dice que lo dejaran."
+      },
+      {
+        "label": "C",
+        "text": "The food was bad on those days.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona «difficult» con la comida.",
+        "explanation_feedback": "Incorrecta. La dificultad era no usar el celular."
+      },
+      {
+        "label": "D",
+        "text": "The experiment lasted only two days.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el comienzo con la duración.",
+        "explanation_feedback": "Incorrecta. El experimento duró una semana."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "5a9d954f-63ef-559c-b355-fe13dc25061e",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Phones at the dinner table",
+      "text": "In many homes, families eat dinner while they look at their phones. A school in Cali wanted to know how this affects family life, so it asked 300 students to answer some questions.\n\nMore than half of the students said they use their phones during meals. Many of them said their parents do the same. But when the school asked them to try one week without phones at dinner, the results were interesting. Most students said they talked more with their families and learned things they didn't know about their parents. Some said the first two days were difficult and a bit boring.\n\nAfter the experiment, 60% of the families decided to keep a \"no phones\" rule at least three days a week. \"Now my dad tells us stories about when he was young,\" said one student.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What did 60% of the families decide?",
+    "options": [
+      {
+        "label": "A",
+        "text": "To have meals without phones on some days.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Decidieron mantener la regla «no phones» al menos tres días por semana."
+      },
+      {
+        "label": "B",
+        "text": "To repeat the questions every year.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una decisión de la escuela.",
+        "explanation_feedback": "Incorrecta. La decisión fue de las familias sobre su rutina."
+      },
+      {
+        "label": "C",
+        "text": "To never use phones at home again.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera la decisión.",
+        "explanation_feedback": "Incorrecta. La regla es para la cena y al menos tres días por semana, no siempre."
+      },
+      {
+        "label": "D",
+        "text": "To buy new phones for their children.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una decisión.",
+        "explanation_feedback": "Incorrecta. No se menciona comprar celulares."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "4409e8c0-210d-5db8-87f1-cb43a32fe48d",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Reading Club",
+      "text": "THE PUBLIC LIBRARY READING CLUB IS BACK!\n\nAre you between 13 and 17 years old? Do you love stories, or do you want to start reading more? Join our free reading club this holiday.\n\nWe meet every Wednesday from 3 to 5 p.m. in Room 2, on the first floor. Each week we read a short story or a chapter of a novel and then talk about it. You don't need to buy any books: the library gives you a copy, and you can take it home.\n\nAt the end of the holidays, members will write their own short story. The best three stories will be printed in the library's magazine.\n\nTo join, come to the information desk with a parent or guardian before 15 June. Places are limited to 20 people.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Who can join the reading club?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Anyone who works at the library.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un requisito.",
+        "explanation_feedback": "Incorrecta. El club es para jóvenes de 13 a 17 años."
+      },
+      {
+        "label": "B",
+        "text": "Teenagers from 13 to 17.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El aviso es para jóvenes entre 13 y 17 años."
+      },
+      {
+        "label": "C",
+        "text": "Only students who read a lot.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que también invita a quienes quieren empezar.",
+        "explanation_feedback": "Incorrecta. El aviso invita también a quienes quieren empezar a leer."
+      },
+      {
+        "label": "D",
+        "text": "Parents and their children.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el requisito de inscripción con los miembros.",
+        "explanation_feedback": "Incorrecta. El acudiente acompaña la inscripción, pero el club es para jóvenes."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "b3907e94-6b48-5bb8-ad78-6f61aecee874",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Reading Club",
+      "text": "THE PUBLIC LIBRARY READING CLUB IS BACK!\n\nAre you between 13 and 17 years old? Do you love stories, or do you want to start reading more? Join our free reading club this holiday.\n\nWe meet every Wednesday from 3 to 5 p.m. in Room 2, on the first floor. Each week we read a short story or a chapter of a novel and then talk about it. You don't need to buy any books: the library gives you a copy, and you can take it home.\n\nAt the end of the holidays, members will write their own short story. The best three stories will be printed in the library's magazine.\n\nTo join, come to the information desk with a parent or guardian before 15 June. Places are limited to 20 people.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What happens at each meeting?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Members read something and discuss it.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada semana leen un cuento o un capítulo y luego conversan."
+      },
+      {
+        "label": "B",
+        "text": "Members buy a new novel.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el aviso.",
+        "explanation_feedback": "Incorrecta. No hace falta comprar libros."
+      },
+      {
+        "label": "C",
+        "text": "Members write a story every week.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza la actividad final.",
+        "explanation_feedback": "Incorrecta. Escribir el cuento es al final de las vacaciones."
+      },
+      {
+        "label": "D",
+        "text": "Members print the library magazine.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la revista con la reunión.",
+        "explanation_feedback": "Incorrecta. La revista publicará los mejores cuentos al final."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "6ca4462b-7169-5c44-b338-d318ca5fa67b",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Reading Club",
+      "text": "THE PUBLIC LIBRARY READING CLUB IS BACK!\n\nAre you between 13 and 17 years old? Do you love stories, or do you want to start reading more? Join our free reading club this holiday.\n\nWe meet every Wednesday from 3 to 5 p.m. in Room 2, on the first floor. Each week we read a short story or a chapter of a novel and then talk about it. You don't need to buy any books: the library gives you a copy, and you can take it home.\n\nAt the end of the holidays, members will write their own short story. The best three stories will be printed in the library's magazine.\n\nTo join, come to the information desk with a parent or guardian before 15 June. Places are limited to 20 people.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What does the library give members?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lunch after each meeting.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un beneficio.",
+        "explanation_feedback": "Incorrecta. El aviso no menciona comida."
+      },
+      {
+        "label": "B",
+        "text": "A free magazine every week.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la revista con un obsequio semanal.",
+        "explanation_feedback": "Incorrecta. La revista publica los mejores cuentos al final."
+      },
+      {
+        "label": "C",
+        "text": "Money to buy books.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un beneficio.",
+        "explanation_feedback": "Incorrecta. No hay dinero; entregan copias."
+      },
+      {
+        "label": "D",
+        "text": "A copy of what they are going to read.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La biblioteca entrega una copia que pueden llevar a casa."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "bfd141f5-dc64-5fe8-b639-e59ab9b3f2d2",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Reading Club",
+      "text": "THE PUBLIC LIBRARY READING CLUB IS BACK!\n\nAre you between 13 and 17 years old? Do you love stories, or do you want to start reading more? Join our free reading club this holiday.\n\nWe meet every Wednesday from 3 to 5 p.m. in Room 2, on the first floor. Each week we read a short story or a chapter of a novel and then talk about it. You don't need to buy any books: the library gives you a copy, and you can take it home.\n\nAt the end of the holidays, members will write their own short story. The best three stories will be printed in the library's magazine.\n\nTo join, come to the information desk with a parent or guardian before 15 June. Places are limited to 20 people.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What will happen to the best three stories?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They will be sold at the desk.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona el mostrador con ventas.",
+        "explanation_feedback": "Incorrecta. El mostrador es para inscribirse."
+      },
+      {
+        "label": "B",
+        "text": "They will appear in the library's magazine.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los tres mejores cuentos se imprimirán en la revista de la biblioteca."
+      },
+      {
+        "label": "C",
+        "text": "They will win a trip.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un premio.",
+        "explanation_feedback": "Incorrecta. No se menciona ningún viaje."
+      },
+      {
+        "label": "D",
+        "text": "They will be read on the radio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un premio.",
+        "explanation_feedback": "Incorrecta. El aviso habla de la revista, no de radio."
+      }
+    ],
+    "estimated_time_seconds": 70
+  },
+  {
+    "id": "4f55d021-3fdb-5214-849b-c5d9d0c5b285",
+    "subject": "IN",
+    "evidence_code": "IN.E5",
+    "component_code": "IN.P5",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Reading Club",
+      "text": "THE PUBLIC LIBRARY READING CLUB IS BACK!\n\nAre you between 13 and 17 years old? Do you love stories, or do you want to start reading more? Join our free reading club this holiday.\n\nWe meet every Wednesday from 3 to 5 p.m. in Room 2, on the first floor. Each week we read a short story or a chapter of a novel and then talk about it. You don't need to buy any books: the library gives you a copy, and you can take it home.\n\nAt the end of the holidays, members will write their own short story. The best three stories will be printed in the library's magazine.\n\nTo join, come to the information desk with a parent or guardian before 15 June. Places are limited to 20 people.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "What must you do to join?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Write a short story first.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma la actividad final como requisito.",
+        "explanation_feedback": "Incorrecta. El cuento se escribe al final, no para entrar."
+      },
+      {
+        "label": "B",
+        "text": "Go to the desk with an adult before 15 June.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Hay que ir al mostrador con un padre o acudiente antes del 15 de junio."
+      },
+      {
+        "label": "C",
+        "text": "Pay at the information desk.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice «free».",
+        "explanation_feedback": "Incorrecta. El club es gratuito."
+      },
+      {
+        "label": "D",
+        "text": "Send an email to Room 2.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un medio de inscripción.",
+        "explanation_feedback": "Incorrecta. La inscripción es presencial en el mostrador."
+      }
+    ],
+    "estimated_time_seconds": 70
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "42d59bf8-0121-5396-bd91-c371336e4719",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A-",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "PLEASE DO NOT FEED THE ANIMALS",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a zoo",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Feed the animals» significa «alimentar a los animales», algo que se prohíbe en un zoológico."
+      },
+      {
+        "label": "B",
+        "text": "in a bank",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar al azar sin comprender «animals».",
+        "explanation_feedback": "Incorrecta. En un banco no hay animales a los que alimentar."
+      },
+      {
+        "label": "C",
+        "text": "in a bakery",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «feed» (alimentar) con comida y no lee «animals».",
+        "explanation_feedback": "Incorrecta. En una panadería se vende comida, pero el aviso habla de no alimentar animales."
+      },
+      {
+        "label": "D",
+        "text": "at a cinema",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar público al azar.",
+        "explanation_feedback": "Incorrecta. En un cine no hay animales; el aviso habla de no darles comida."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "3733c0db-cbd6-5b20-a87b-4c82edaec460",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A-",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "SWIMMING CAPS MUST BE WORN IN THE WATER",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a clothes shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «caps» con ropa para comprar.",
+        "explanation_feedback": "Incorrecta. El aviso obliga a usar el gorro «in the water», no habla de comprarlo."
+      },
+      {
+        "label": "B",
+        "text": "at a car wash",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda con «water» sin comprender «swimming».",
+        "explanation_feedback": "Incorrecta. En un lavadero de carros hay agua, pero nadie nada allí."
+      },
+      {
+        "label": "C",
+        "text": "at a hairdresser's",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia gorro y cabello con una peluquería.",
+        "explanation_feedback": "Incorrecta. En una peluquería se trata el cabello, pero no se entra al agua."
+      },
+      {
+        "label": "D",
+        "text": "at a swimming pool",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Swimming caps» son gorros de natación y «in the water» indica una piscina."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "2053deb9-0e27-53c1-9a0e-772235dce56f",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "QUIET PLEASE. EXAM IN PROGRESS",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "outside a classroom",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Exam in progress» significa «examen en curso»; se pone afuera de un salón donde presentan una prueba."
+      },
+      {
+        "label": "B",
+        "text": "at a football stadium",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar ruidoso sin comprender el aviso.",
+        "explanation_feedback": "Incorrecta. En un estadio nadie pide silencio por un examen."
+      },
+      {
+        "label": "C",
+        "text": "in a hospital waiting room",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «quiet» con un hospital y no lee «exam».",
+        "explanation_feedback": "Incorrecta. En un hospital se pide silencio, pero el aviso dice que hay un examen."
+      },
+      {
+        "label": "D",
+        "text": "in a music shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar al azar.",
+        "explanation_feedback": "Incorrecta. En una tienda de música no se presentan exámenes."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "680f1804-88bb-520b-be1b-b0d36187abcb",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Return trolleys here. Thank you!",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a supermarket",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los «trolleys» son los carritos de compras que se devuelven en el supermercado."
+      },
+      {
+        "label": "B",
+        "text": "at a bus stop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «trolley» con transporte (tranvía) sin atender al contexto.",
+        "explanation_feedback": "Incorrecta. En un paradero se espera el bus; no se devuelven carritos."
+      },
+      {
+        "label": "C",
+        "text": "in a restaurant",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «thank you» con atención al cliente.",
+        "explanation_feedback": "Incorrecta. En un restaurante no se usan carritos de compras."
+      },
+      {
+        "label": "D",
+        "text": "at a post office",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar de servicio al azar.",
+        "explanation_feedback": "Incorrecta. En una oficina de correo no se usan ni devuelven carritos de compras."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "db96e4ac-3db1-58d7-ac5d-8dacfc8c1fae",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Check-out time: 12:00 noon. Please leave your key at reception.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a school",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «reception» con la recepción de un colegio.",
+        "explanation_feedback": "Incorrecta. Un colegio no tiene hora de salida de habitaciones."
+      },
+      {
+        "label": "B",
+        "text": "at a car park",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «key» con las llaves del carro.",
+        "explanation_feedback": "Incorrecta. En un parqueadero no hay «check-out time» ni se entregan llaves de habitación."
+      },
+      {
+        "label": "C",
+        "text": "in a hotel",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Check-out time» es la hora de salida de la habitación y la llave se deja en recepción: es un hotel."
+      },
+      {
+        "label": "D",
+        "text": "at a supermarket",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «check-out» de un hotel con la caja (checkout) de un supermercado.",
+        "explanation_feedback": "Incorrecta. En el supermercado la caja se llama «checkout», pero allí no se entregan llaves."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "cd0a33bc-43d5-584e-925b-e43478403c25",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Wet paint. Do not sit on the benches until Monday.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a paint shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «paint» con comprar pintura.",
+        "explanation_feedback": "Incorrecta. El aviso advierte que la pintura está fresca, no la vende."
+      },
+      {
+        "label": "B",
+        "text": "in an art gallery",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «paint» con pintura artística.",
+        "explanation_feedback": "Incorrecta. Una galería exhibe pinturas, pero el aviso habla de bancas recién pintadas."
+      },
+      {
+        "label": "C",
+        "text": "in a park",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Benches» son bancas; las de un parque recién pintadas no se pueden usar."
+      },
+      {
+        "label": "D",
+        "text": "in a bedroom",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar de la casa sin leer «benches».",
+        "explanation_feedback": "Incorrecta. En una habitación no suele haber bancas públicas."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "f13e3d76-34dc-559e-a87c-2f44067640be",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Keep your seatbelt fastened while the sign is on.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "on a bicycle",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un medio de transporte sin cinturón.",
+        "explanation_feedback": "Incorrecta. Una bicicleta no tiene cinturón de seguridad ni señales luminosas."
+      },
+      {
+        "label": "B",
+        "text": "at a gym",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «belt» con un cinturón de pesas.",
+        "explanation_feedback": "Incorrecta. En un gimnasio no hay señales que indiquen abrocharse el cinturón."
+      },
+      {
+        "label": "C",
+        "text": "in a cinema",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «seat» con sillas de cine.",
+        "explanation_feedback": "Incorrecta. En el cine hay sillas, pero no cinturones de seguridad."
+      },
+      {
+        "label": "D",
+        "text": "on a plane",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En el avión se pide mantener el cinturón abrochado mientras la señal esté encendida."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "5402c9d4-54c5-5706-a735-b8830b2736f3",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Today's special: chicken soup with rice and salad.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a pharmacy",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «special» con una oferta de tienda.",
+        "explanation_feedback": "Incorrecta. En una farmacia no se ofrece un plato del día."
+      },
+      {
+        "label": "B",
+        "text": "in a restaurant",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Today's special» es el plato del día que ofrece un restaurante."
+      },
+      {
+        "label": "C",
+        "text": "at a farm",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia pollo y arroz con su origen en el campo.",
+        "explanation_feedback": "Incorrecta. En una granja se crían pollos, no se anuncia un menú."
+      },
+      {
+        "label": "D",
+        "text": "in a hospital room",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia sopa con comida para enfermos.",
+        "explanation_feedback": "Incorrecta. El aviso anuncia un plato para vender, propio de un restaurante."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "3ef0627b-179e-5419-9e0d-931668d18b70",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Platform 3: trains to the airport every 20 minutes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a bus stop",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige otro lugar de transporte sin leer «trains».",
+        "explanation_feedback": "Incorrecta. El aviso habla de trenes, no de buses."
+      },
+      {
+        "label": "B",
+        "text": "at a train station",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Platform» es el andén; desde allí salen los trenes cada 20 minutos."
+      },
+      {
+        "label": "C",
+        "text": "at the airport",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda con «airport» sin ver que el aviso informa sobre trenes que van hacia allá.",
+        "explanation_feedback": "Incorrecta. El aviso indica dónde tomar el tren para ir al aeropuerto, así que está en la estación."
+      },
+      {
+        "label": "D",
+        "text": "at a theatre",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «platform» con un escenario.",
+        "explanation_feedback": "Incorrecta. En un teatro no salen trenes."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "dfb4cd73-38ae-5293-bf21-fce7cc6a2bb1",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Please take off your shoes before entering the mats.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a martial arts gym",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las colchonetas («mats») de un gimnasio de artes marciales se pisan descalzo."
+      },
+      {
+        "label": "B",
+        "text": "in a shoe shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «shoes» con comprar zapatos.",
+        "explanation_feedback": "Incorrecta. En una zapatería uno se prueba zapatos, no se los quita para entrar a unas colchonetas."
+      },
+      {
+        "label": "C",
+        "text": "at a football field",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia deporte con fútbol.",
+        "explanation_feedback": "Incorrecta. En una cancha de fútbol se juega con guayos, no descalzo sobre colchonetas."
+      },
+      {
+        "label": "D",
+        "text": "in an office",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar cerrado al azar.",
+        "explanation_feedback": "Incorrecta. En una oficina no hay colchonetas ni se pide entrar descalzo."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "cf681cfb-664d-576f-8d29-87c34fbbc933",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Lost property: ask at the information desk on the ground floor.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at an estate agent's",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «property» (objetos personales) con «propiedad inmobiliaria».",
+        "explanation_feedback": "Incorrecta. Aquí «property» son las cosas que la gente pierde, no casas en venta."
+      },
+      {
+        "label": "B",
+        "text": "in a classroom",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar sin «information desk».",
+        "explanation_feedback": "Incorrecta. Un salón de clase no tiene mostrador de información ni varios pisos."
+      },
+      {
+        "label": "C",
+        "text": "in a shopping centre",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Lost property» son los objetos perdidos; se reclaman en información, en un centro comercial con varios pisos."
+      },
+      {
+        "label": "D",
+        "text": "in a taxi",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia objetos perdidos con dejarlos en un taxi.",
+        "explanation_feedback": "Incorrecta. Un taxi no tiene mostrador de información ni planta baja."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "56ca2186-0d55-52df-8a91-1efc66e89a63",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "No mobile phones beyond this point. Ask the nurse if you need help.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a bookshop",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar tranquilo al azar.",
+        "explanation_feedback": "Incorrecta. En una librería no hay enfermeras."
+      },
+      {
+        "label": "B",
+        "text": "at a concert",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia la prohibición de celulares con un espectáculo.",
+        "explanation_feedback": "Incorrecta. En un concierto no se pide ayuda a una enfermera."
+      },
+      {
+        "label": "C",
+        "text": "in a hospital",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La mención a la enfermera («nurse») y la restricción de celulares indican un hospital."
+      },
+      {
+        "label": "D",
+        "text": "in a phone shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «mobile phones» con una tienda de celulares.",
+        "explanation_feedback": "Incorrecta. Una tienda de celulares no prohibiría usarlos ni tiene enfermera."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "0ef1ba55-2abc-51e1-9a92-4b89ec8896ae",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Books must be returned within 14 days. Late returns: 200 pesos per day.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a printing shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia libros con imprimirlos.",
+        "explanation_feedback": "Incorrecta. Una papelería o imprenta no presta libros."
+      },
+      {
+        "label": "B",
+        "text": "in a bank",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia el cobro de dinero con un banco.",
+        "explanation_feedback": "Incorrecta. El aviso cobra por devolver libros tarde, no habla de cuentas bancarias."
+      },
+      {
+        "label": "C",
+        "text": "in a bookshop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia libros con comprarlos.",
+        "explanation_feedback": "Incorrecta. En una librería los libros se compran; no hay que devolverlos en 14 días."
+      },
+      {
+        "label": "D",
+        "text": "in a library",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En la biblioteca se prestan libros por un tiempo y se cobra multa por devolverlos tarde."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "c15957bf-d16b-514e-9586-cb7c617487ae",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Fresh fish every morning. We close at 2 p.m.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a market stall",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Un puesto de mercado que vende pescado fresco cada mañana y cierra temprano."
+      },
+      {
+        "label": "B",
+        "text": "on a beach",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia pescado con el mar.",
+        "explanation_feedback": "Incorrecta. En una playa no hay un negocio con hora de cierre que venda pescado cada día."
+      },
+      {
+        "label": "C",
+        "text": "at an aquarium",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «fish» con peces vivos que se observan.",
+        "explanation_feedback": "Incorrecta. El aviso ofrece pescado fresco para vender, no peces para mirar."
+      },
+      {
+        "label": "D",
+        "text": "in a pet shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «fish» con mascotas.",
+        "explanation_feedback": "Incorrecta. En una tienda de mascotas los peces no se anuncian como «fresh»."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "28d017ba-c5ac-5650-9a6c-dd4a1acf63b1",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Staff only. Visitors must wait in the reception area.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a bedroom",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar privado sin «reception area».",
+        "explanation_feedback": "Incorrecta. Una habitación no tiene recepción ni personal."
+      },
+      {
+        "label": "B",
+        "text": "in a park",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar abierto al azar.",
+        "explanation_feedback": "Incorrecta. Un parque es abierto y no tiene zona de recepción."
+      },
+      {
+        "label": "C",
+        "text": "in an office building",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Staff only» limita el paso a empleados; los visitantes esperan en recepción, como en una oficina."
+      },
+      {
+        "label": "D",
+        "text": "on a school bus",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un medio de transporte.",
+        "explanation_feedback": "Incorrecta. Un bus escolar no tiene zona de recepción para visitantes."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "9a2a0876-c917-56de-8844-c27a442384d0",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Danger! Deep water. Swimming is not allowed after 6 p.m.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a car wash",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda con «water».",
+        "explanation_feedback": "Incorrecta. Un lavadero de carros no tiene aguas profundas para nadar."
+      },
+      {
+        "label": "B",
+        "text": "in a bathroom",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda con «water» sin pensar en nadar.",
+        "explanation_feedback": "Incorrecta. En un baño no se nada ni hay aguas profundas."
+      },
+      {
+        "label": "C",
+        "text": "at a lake",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Deep water» y la hora límite para nadar indican un lago o una playa vigilada."
+      },
+      {
+        "label": "D",
+        "text": "in a sports shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia natación con comprar equipo.",
+        "explanation_feedback": "Incorrecta. El aviso prohíbe nadar en un lugar; no vende artículos."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "9df3fd66-9db1-5cc7-a944-dfa4440c24f0",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Sale! All T-shirts and jeans 30% off this weekend.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a hotel room",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar sin relación con vender ropa.",
+        "explanation_feedback": "Incorrecta. En una habitación de hotel no hay rebajas de ropa."
+      },
+      {
+        "label": "B",
+        "text": "in a clothes shop",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las camisetas y los jeans con 30 % de descuento se anuncian en una tienda de ropa."
+      },
+      {
+        "label": "C",
+        "text": "in a laundry",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia ropa con lavarla.",
+        "explanation_feedback": "Incorrecta. En una lavandería se lava ropa, no se vende con descuento."
+      },
+      {
+        "label": "D",
+        "text": "at a petrol station",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «30% off» con descuentos de cualquier tipo.",
+        "explanation_feedback": "Incorrecta. Una estación de gasolina no vende jeans."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "3816fdee-e806-5799-85a8-76406b7ea682",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Please switch off the projector and close the windows before you leave.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a cinema",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia proyector con cine.",
+        "explanation_feedback": "Incorrecta. En un cine el público no apaga el proyector al salir."
+      },
+      {
+        "label": "B",
+        "text": "in a car",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «windows» con las ventanas del carro.",
+        "explanation_feedback": "Incorrecta. Un carro no tiene proyector."
+      },
+      {
+        "label": "C",
+        "text": "in a garden",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar abierto sin ventanas.",
+        "explanation_feedback": "Incorrecta. Un jardín no tiene ventanas ni proyector."
+      },
+      {
+        "label": "D",
+        "text": "in a classroom",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El proyector y la instrucción de cerrar ventanas al salir apuntan a un salón de clase."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "7de78f08-366e-5078-99de-8a1d9da72ff8",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Your safety is our priority. Please hold the handrail and stand on the right.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a swimming pool",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «handrail» con las barandas de la piscina.",
+        "explanation_feedback": "Incorrecta. En la piscina no se pide pararse a la derecha."
+      },
+      {
+        "label": "B",
+        "text": "on an escalator",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sostenerse del pasamanos y pararse a la derecha son instrucciones típicas de las escaleras eléctricas."
+      },
+      {
+        "label": "C",
+        "text": "in a waiting room",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar donde se espera de pie.",
+        "explanation_feedback": "Incorrecta. En una sala de espera no hay pasamanos ni se pide quedarse a un lado."
+      },
+      {
+        "label": "D",
+        "text": "in a lift",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige otro medio para subir pisos, sin pasamanos ni lados.",
+        "explanation_feedback": "Incorrecta. En un ascensor no hay que pararse a la derecha para dejar pasar a otros."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "8d44cc4a-1d0a-5564-b687-d3bb52942708",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Tickets bought online can be collected from the machines in the foyer.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a theatre",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El «foyer» es el vestíbulo de un teatro, donde se reclaman las entradas compradas en línea."
+      },
+      {
+        "label": "B",
+        "text": "at a supermarket",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «machines» con cajas de autopago.",
+        "explanation_feedback": "Incorrecta. En un supermercado no se reclaman boletas compradas en línea."
+      },
+      {
+        "label": "C",
+        "text": "at a hairdresser's",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un servicio al azar.",
+        "explanation_feedback": "Incorrecta. Una peluquería no vende entradas."
+      },
+      {
+        "label": "D",
+        "text": "in a computer shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «online» con tecnología.",
+        "explanation_feedback": "Incorrecta. Una tienda de computadores no entrega boletas."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "6064800f-5880-515c-bfca-fb0b3befbb70",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Visitors are reminded that flash photography may damage the paintings.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a paint shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «paintings» (cuadros) con «paint» (pintura en tarro).",
+        "explanation_feedback": "Incorrecta. El aviso habla de obras de arte, no de pintura para paredes."
+      },
+      {
+        "label": "B",
+        "text": "at a photo studio",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «photography» con un estudio de fotos.",
+        "explanation_feedback": "Incorrecta. En un estudio de fotos se usa flash; el aviso pide evitarlo."
+      },
+      {
+        "label": "C",
+        "text": "at a wedding",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia fotografía con una celebración.",
+        "explanation_feedback": "Incorrecta. En una boda no hay cuadros que se dañen con el flash."
+      },
+      {
+        "label": "D",
+        "text": "in a museum",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las pinturas que se dañan con el flash se exhiben en un museo."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "f6fe75d9-bf9f-507d-b70d-60702004c939",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Passengers with only hand luggage may proceed directly to security.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "at a bank",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «security» con vigilancia.",
+        "explanation_feedback": "Incorrecta. En un banco hay vigilancia, pero no pasajeros con equipaje."
+      },
+      {
+        "label": "B",
+        "text": "in a shopping centre",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «luggage» con comprar maletas.",
+        "explanation_feedback": "Incorrecta. En un centro comercial no hay pasajeros ni control de equipaje."
+      },
+      {
+        "label": "C",
+        "text": "at a hotel",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia equipaje con hospedaje.",
+        "explanation_feedback": "Incorrecta. En un hotel se llega con maletas, pero no se pasa a un control de seguridad."
+      },
+      {
+        "label": "D",
+        "text": "at an airport",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El equipaje de mano y el control de seguridad son propios del aeropuerto."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "fe6e0259-6744-56d3-8ded-85527229e5ee",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Volunteers needed to plant trees on Saturday. Meet at the main gate at 7 a.m.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "on a school notice board",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es una convocatoria de voluntarios; se publica en una cartelera, por ejemplo la del colegio."
+      },
+      {
+        "label": "B",
+        "text": "on a medicine box",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un empaque con instrucciones.",
+        "explanation_feedback": "Incorrecta. Una caja de medicina trae dosis, no convocatorias."
+      },
+      {
+        "label": "C",
+        "text": "on a bottle of water",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un objeto donde hay textos cortos.",
+        "explanation_feedback": "Incorrecta. Una botella trae información del producto, no convocatorias."
+      },
+      {
+        "label": "D",
+        "text": "on a road sign",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «gate» con señales viales.",
+        "explanation_feedback": "Incorrecta. Una señal de tránsito no invita a sembrar árboles."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "da1b1753-2798-518b-a082-16ca572fa801",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Take one tablet twice a day after meals. Keep out of reach of children.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "on a laptop screen",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «tablet» con una tableta electrónica.",
+        "explanation_feedback": "Incorrecta. Aquí «tablet» es una pastilla, no un aparato electrónico."
+      },
+      {
+        "label": "B",
+        "text": "on a medicine box",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las instrucciones de dosis («one tablet twice a day») van en la caja de una medicina."
+      },
+      {
+        "label": "C",
+        "text": "on a restaurant menu",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «meals» con un restaurante.",
+        "explanation_feedback": "Incorrecta. Un menú ofrece comidas; no da dosis de pastillas."
+      },
+      {
+        "label": "D",
+        "text": "on a toy box",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «children» con juguetes.",
+        "explanation_feedback": "Incorrecta. Un juguete no se toma dos veces al día."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "685877ac-b851-53a3-8361-9f076434b87a",
+    "subject": "IN",
+    "evidence_code": "IN.E2",
+    "component_code": "IN.P2",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Notice",
+      "text": "Cyclists must dismount and walk across the bridge.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Where can you see this notice?",
+    "options": [
+      {
+        "label": "A",
+        "text": "in a bike shop",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia ciclistas con comprar bicicletas.",
+        "explanation_feedback": "Incorrecta. Una tienda de bicicletas no tiene puentes que cruzar."
+      },
+      {
+        "label": "B",
+        "text": "on a cycle path",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se pide a los ciclistas bajarse de la bicicleta y cruzar el puente caminando, en una ciclorruta."
+      },
+      {
+        "label": "C",
+        "text": "at a swimming pool",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar deportivo al azar.",
+        "explanation_feedback": "Incorrecta. En una piscina no hay ciclistas."
+      },
+      {
+        "label": "D",
+        "text": "on a motorway",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia vías con autopistas.",
+        "explanation_feedback": "Incorrecta. En una autopista no suelen circular ciclistas ni hay que bajarse para caminar."
+      }
+    ],
+    "estimated_time_seconds": 30
+  }
+]

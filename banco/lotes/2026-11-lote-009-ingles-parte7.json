@@ -1,0 +1,2810 @@
+[
+  {
+    "id": "2110de96-facc-50ae-9038-1fba502d38a3",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "From seed to chocolate",
+      "text": "Chocolate (1) ______ from the seeds of the cacao tree, which grows in hot, (2) ______ regions near the equator. Thousands of years ago, people in Central America (3) ______ the seeds into a bitter drink. It was so (4) ______ that the seeds were even used as money. When the drink arrived in Europe, people began to add sugar, (5) ______ it became much sweeter. Today Colombia (6) ______ some of the finest cacao in the world.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "takes",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo sin relación con el origen.",
+        "explanation_feedback": "Incorrecta. «Takes from» no expresa de dónde proviene."
+      },
+      {
+        "label": "B",
+        "text": "goes",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo de movimiento contrario.",
+        "explanation_feedback": "Incorrecta. «Go from» no expresa origen de un producto."
+      },
+      {
+        "label": "C",
+        "text": "comes",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Come from» significa «provenir de»: el chocolate viene de las semillas del cacao."
+      },
+      {
+        "label": "D",
+        "text": "makes",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «se hace de» con «make» activo.",
+        "explanation_feedback": "Incorrecta. «Chocolate makes from» no es correcto; sería «is made from»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "a31cb66c-08e5-5d6f-a0fa-ad4eb33939a7",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "From seed to chocolate",
+      "text": "Chocolate (1) ______ from the seeds of the cacao tree, which grows in hot, (2) ______ regions near the equator. Thousands of years ago, people in Central America (3) ______ the seeds into a bitter drink. It was so (4) ______ that the seeds were even used as money. When the drink arrived in Europe, people began to add sugar, (5) ______ it became much sweeter. Today Colombia (6) ______ some of the finest cacao in the world.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "humid",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cerca del ecuador, el cacao crece en zonas cálidas y húmedas."
+      },
+      {
+        "label": "B",
+        "text": "snowy",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un adjetivo que contradice «hot».",
+        "explanation_feedback": "Incorrecta. «Snowy» (nevado) no combina con «hot» ni con el ecuador."
+      },
+      {
+        "label": "C",
+        "text": "frozen",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un adjetivo que contradice «hot».",
+        "explanation_feedback": "Incorrecta. Una región no puede ser caliente y congelada a la vez."
+      },
+      {
+        "label": "D",
+        "text": "icy",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un adjetivo que contradice «hot».",
+        "explanation_feedback": "Incorrecta. «Icy» (helado) no combina con una región caliente."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "cc18ff53-a683-534c-8122-2b00310c5ff1",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "From seed to chocolate",
+      "text": "Chocolate (1) ______ from the seeds of the cacao tree, which grows in hot, (2) ______ regions near the equator. Thousands of years ago, people in Central America (3) ______ the seeds into a bitter drink. It was so (4) ______ that the seeds were even used as money. When the drink arrived in Europe, people began to add sugar, (5) ______ it became much sweeter. Today Colombia (6) ______ some of the finest cacao in the world.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "grew",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde cultivar con transformar.",
+        "explanation_feedback": "Incorrecta. «Grew the seeds into a drink» no tiene sentido."
+      },
+      {
+        "label": "B",
+        "text": "went",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo de movimiento.",
+        "explanation_feedback": "Incorrecta. «Went the seeds into» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "turned",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Turn something into something» significa convertir una cosa en otra."
+      },
+      {
+        "label": "D",
+        "text": "became",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo que no lleva objeto directo.",
+        "explanation_feedback": "Incorrecta. «Become» no lleva objeto: no se dice «became the seeds into»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "f06d4cdb-26e5-5979-858f-e15f8458f1c7",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "From seed to chocolate",
+      "text": "Chocolate (1) ______ from the seeds of the cacao tree, which grows in hot, (2) ______ regions near the equator. Thousands of years ago, people in Central America (3) ______ the seeds into a bitter drink. It was so (4) ______ that the seeds were even used as money. When the drink arrived in Europe, people began to add sugar, (5) ______ it became much sweeter. Today Colombia (6) ______ some of the finest cacao in the world.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "valuable",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si las semillas se usaban como dinero, era porque eran valiosas."
+      },
+      {
+        "label": "B",
+        "text": "cheap",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un adjetivo que contradice el uso como dinero.",
+        "explanation_feedback": "Incorrecta. Algo barato no se usaría como moneda."
+      },
+      {
+        "label": "C",
+        "text": "common",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un adjetivo que no explica el uso como dinero.",
+        "explanation_feedback": "Incorrecta. Que algo sea común no explica que se use como moneda."
+      },
+      {
+        "label": "D",
+        "text": "useless",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un adjetivo que contradice el texto.",
+        "explanation_feedback": "Incorrecta. Algo inútil no serviría como dinero."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "4f5311e0-ed4c-5aba-96e1-e9b34c029805",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "From seed to chocolate",
+      "text": "Chocolate (1) ______ from the seeds of the cacao tree, which grows in hot, (2) ______ regions near the equator. Thousands of years ago, people in Central America (3) ______ the seeds into a bitter drink. It was so (4) ______ that the seeds were even used as money. When the drink arrived in Europe, people began to add sugar, (5) ______ it became much sweeter. Today Colombia (6) ______ some of the finest cacao in the world.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "although",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de concesión.",
+        "explanation_feedback": "Incorrecta. «Although» expresa contraste, que no existe aquí."
+      },
+      {
+        "label": "B",
+        "text": "so",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «So» introduce una consecuencia: agregaron azúcar y por eso se volvió más dulce."
+      },
+      {
+        "label": "C",
+        "text": "because",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte causa y efecto.",
+        "explanation_feedback": "Incorrecta. El azúcar es la causa, no la consecuencia."
+      },
+      {
+        "label": "D",
+        "text": "but",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de contraste.",
+        "explanation_feedback": "Incorrecta. No hay contraste entre agregar azúcar y que sea más dulce."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "64db54cb-0a38-561f-b952-18ac2313294a",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "From seed to chocolate",
+      "text": "Chocolate (1) ______ from the seeds of the cacao tree, which grows in hot, (2) ______ regions near the equator. Thousands of years ago, people in Central America (3) ______ the seeds into a bitter drink. It was so (4) ______ that the seeds were even used as money. When the drink arrived in Europe, people began to add sugar, (5) ______ it became much sweeter. Today Colombia (6) ______ some of the finest cacao in the world.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "discovers",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo de hallazgo.",
+        "explanation_feedback": "Incorrecta. Colombia no «descubre» cacao cada año; lo produce."
+      },
+      {
+        "label": "B",
+        "text": "produces",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Produce» significa producir; Colombia produce cacao muy fino."
+      },
+      {
+        "label": "C",
+        "text": "invents",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo de creación de ideas.",
+        "explanation_feedback": "Incorrecta. El cacao no se inventa."
+      },
+      {
+        "label": "D",
+        "text": "builds",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo de construcción.",
+        "explanation_feedback": "Incorrecta. El cacao no se construye."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "b88d601c-17a7-5f51-9b3a-0054da6dfc4e",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Your first job interview",
+      "text": "Preparing for your first job interview can be stressful, but a few simple steps can make a big (1) ______. First, find out as much as you can (2) ______ the company. Then, think about the questions you might be asked and practise your answers out loud. On the day, make sure you arrive on (3) ______; being late gives a bad first impression. During the interview, listen carefully and don't be afraid to ask the interviewer to (4) ______ a question if you don't understand it. Finally, remember to thank them for their time. Even if you don't (5) ______ the job, every interview is a chance to learn. Many people say they (6) ______ more from their failures than from their successes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "progress",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un sustantivo incontable con «a big».",
+        "explanation_feedback": "Incorrecta. «Progress» es incontable: no se dice «a big progress»."
+      },
+      {
+        "label": "B",
+        "text": "difference",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La expresión es «make a big difference» (hacer una gran diferencia)."
+      },
+      {
+        "label": "C",
+        "text": "effect",
+        "is_correct": false,
+        "distractor_diagnosis": "Combina «effect» con «make».",
+        "explanation_feedback": "Incorrecta. Con «effect» se usa «have», no «make»."
+      },
+      {
+        "label": "D",
+        "text": "result",
+        "is_correct": false,
+        "distractor_diagnosis": "Combina «result» con «make».",
+        "explanation_feedback": "Incorrecta. «Make a big result» no es una combinación natural."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "cfa54116-6b1b-5001-b6ce-7691f0917a07",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Your first job interview",
+      "text": "Preparing for your first job interview can be stressful, but a few simple steps can make a big (1) ______. First, find out as much as you can (2) ______ the company. Then, think about the questions you might be asked and practise your answers out loud. On the day, make sure you arrive on (3) ______; being late gives a bad first impression. During the interview, listen carefully and don't be afraid to ask the interviewer to (4) ______ a question if you don't understand it. Finally, remember to thank them for their time. Even if you don't (5) ______ the job, every interview is a chance to learn. Many people say they (6) ______ more from their failures than from their successes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "of",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «de» literalmente.",
+        "explanation_feedback": "Incorrecta. No se dice «find out of the company»."
+      },
+      {
+        "label": "B",
+        "text": "for",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «for» por analogía con «look for».",
+        "explanation_feedback": "Incorrecta. «Find out for» no expresa «sobre»."
+      },
+      {
+        "label": "C",
+        "text": "with",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición de compañía.",
+        "explanation_feedback": "Incorrecta. «Find out with the company» no tiene ese sentido."
+      },
+      {
+        "label": "D",
+        "text": "about",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Find out about» significa averiguar sobre algo."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "3c005e8c-48b8-5535-bd5e-69222f37a964",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Your first job interview",
+      "text": "Preparing for your first job interview can be stressful, but a few simple steps can make a big (1) ______. First, find out as much as you can (2) ______ the company. Then, think about the questions you might be asked and practise your answers out loud. On the day, make sure you arrive on (3) ______; being late gives a bad first impression. During the interview, listen carefully and don't be afraid to ask the interviewer to (4) ______ a question if you don't understand it. Finally, remember to thank them for their time. Even if you don't (5) ______ the job, every interview is a chance to learn. Many people say they (6) ______ more from their failures than from their successes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "hour",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «a la hora» literalmente.",
+        "explanation_feedback": "Incorrecta. No se dice «on hour»."
+      },
+      {
+        "label": "B",
+        "text": "moment",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «moment» en una expresión fija distinta.",
+        "explanation_feedback": "Incorrecta. «On moment» no existe."
+      },
+      {
+        "label": "C",
+        "text": "time",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «On time» significa puntual, a la hora acordada."
+      },
+      {
+        "label": "D",
+        "text": "clock",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia la hora con el reloj.",
+        "explanation_feedback": "Incorrecta. «On clock» no es una expresión correcta."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "b1a52f64-b596-5985-b7b0-15ad9df9eabf",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Your first job interview",
+      "text": "Preparing for your first job interview can be stressful, but a few simple steps can make a big (1) ______. First, find out as much as you can (2) ______ the company. Then, think about the questions you might be asked and practise your answers out loud. On the day, make sure you arrive on (3) ______; being late gives a bad first impression. During the interview, listen carefully and don't be afraid to ask the interviewer to (4) ______ a question if you don't understand it. Finally, remember to thank them for their time. Even if you don't (5) ______ the job, every interview is a chance to learn. Many people say they (6) ______ more from their failures than from their successes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "return",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «repetir» con «devolver».",
+        "explanation_feedback": "Incorrecta. «Return a question» no significa repetirla."
+      },
+      {
+        "label": "B",
+        "text": "replace",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «repetir» con «reemplazar».",
+        "explanation_feedback": "Incorrecta. Pedir que reemplacen la pregunta no es lo que se necesita."
+      },
+      {
+        "label": "C",
+        "text": "repeat",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si no entiendes, pides que repitan («repeat») la pregunta."
+      },
+      {
+        "label": "D",
+        "text": "remind",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «repetir» con «recordar a alguien».",
+        "explanation_feedback": "Incorrecta. «Remind» es hacer que alguien recuerde algo."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "1fa4a8e6-00c1-51e9-8ffd-0a7b306123b5",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Your first job interview",
+      "text": "Preparing for your first job interview can be stressful, but a few simple steps can make a big (1) ______. First, find out as much as you can (2) ______ the company. Then, think about the questions you might be asked and practise your answers out loud. On the day, make sure you arrive on (3) ______; being late gives a bad first impression. During the interview, listen carefully and don't be afraid to ask the interviewer to (4) ______ a question if you don't understand it. Finally, remember to thank them for their time. Even if you don't (5) ______ the job, every interview is a chance to learn. Many people say they (6) ______ more from their failures than from their successes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "do",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde conseguir con realizar.",
+        "explanation_feedback": "Incorrecta. «Do the job» es hacer el trabajo, no conseguirlo."
+      },
+      {
+        "label": "B",
+        "text": "get",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Get the job» significa conseguir el empleo."
+      },
+      {
+        "label": "C",
+        "text": "pass",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la colocación de exámenes.",
+        "explanation_feedback": "Incorrecta. «Pass» va con exámenes, no con empleos."
+      },
+      {
+        "label": "D",
+        "text": "make",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «hacer» o usa una colocación inexistente.",
+        "explanation_feedback": "Incorrecta. No se dice «make the job» con ese sentido."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "78c6ec7a-5159-5346-a0e0-e26a67f07c68",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Your first job interview",
+      "text": "Preparing for your first job interview can be stressful, but a few simple steps can make a big (1) ______. First, find out as much as you can (2) ______ the company. Then, think about the questions you might be asked and practise your answers out loud. On the day, make sure you arrive on (3) ______; being late gives a bad first impression. During the interview, listen carefully and don't be afraid to ask the interviewer to (4) ______ a question if you don't understand it. Finally, remember to thank them for their time. Even if you don't (5) ______ the job, every interview is a chance to learn. Many people say they (6) ______ more from their failures than from their successes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "studied",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde aprender por experiencia con estudiar.",
+        "explanation_feedback": "Incorrecta. No se «estudia» de los fracasos."
+      },
+      {
+        "label": "B",
+        "text": "learned",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se aprende («learn») más de los fracasos."
+      },
+      {
+        "label": "C",
+        "text": "taught",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «aprender» con «enseñar».",
+        "explanation_feedback": "Incorrecta. «Taught» significa «enseñaron»."
+      },
+      {
+        "label": "D",
+        "text": "knew",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo de estado.",
+        "explanation_feedback": "Incorrecta. «Knew more from» no es natural."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "10aee8d0-1d95-5fcc-a71e-01d7cde0ba3f",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Teenagers and sleep",
+      "text": "Scientists have found that teenagers need between eight and ten hours of sleep a night. (1) ______, most of them sleep much less. One reason is biological: during adolescence, the body produces the sleep hormone later in the evening, so teenagers find it hard to fall (2) ______ before eleven. Another reason is the use of phones and computers, (3) ______ light tells the brain it is still daytime. Lack of sleep can (4) ______ concentration, mood and even school results. For this reason, some schools have decided to start classes later. (5) ______ to a study in the United States, students at these schools arrived on time more often and got better grades. Experts also (6) ______ turning off screens an hour before bed.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "Moreover",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de adición.",
+        "explanation_feedback": "Incorrecta. No se añade una idea similar; se contrasta."
+      },
+      {
+        "label": "B",
+        "text": "However",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Hay contraste: necesitan 8 a 10 horas, pero duermen mucho menos."
+      },
+      {
+        "label": "C",
+        "text": "Therefore",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de consecuencia.",
+        "explanation_feedback": "Incorrecta. Dormir menos no es consecuencia de necesitar más horas."
+      },
+      {
+        "label": "D",
+        "text": "For example",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de ejemplo.",
+        "explanation_feedback": "Incorrecta. La oración no es un ejemplo de la anterior."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "86824fb9-4656-5976-949c-afe2f8f31198",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Teenagers and sleep",
+      "text": "Scientists have found that teenagers need between eight and ten hours of sleep a night. (1) ______, most of them sleep much less. One reason is biological: during adolescence, the body produces the sleep hormone later in the evening, so teenagers find it hard to fall (2) ______ before eleven. Another reason is the use of phones and computers, (3) ______ light tells the brain it is still daytime. Lack of sleep can (4) ______ concentration, mood and even school results. For this reason, some schools have decided to start classes later. (5) ______ to a study in the United States, students at these schools arrived on time more often and got better grades. Experts also (6) ______ turning off screens an hour before bed.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "sleeping",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing tras «fall».",
+        "explanation_feedback": "Incorrecta. No se dice «fall sleeping»."
+      },
+      {
+        "label": "B",
+        "text": "slept",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el participio.",
+        "explanation_feedback": "Incorrecta. «Fall slept» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "asleep",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La expresión es «fall asleep» (quedarse dormido)."
+      },
+      {
+        "label": "D",
+        "text": "sleepy",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «dormido» con «soñoliento».",
+        "explanation_feedback": "Incorrecta. «Fall sleepy» no existe; «sleepy» va con «feel» o «be»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "39b5a8e8-5a1c-554f-bb04-a66b1e7621ab",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Teenagers and sleep",
+      "text": "Scientists have found that teenagers need between eight and ten hours of sleep a night. (1) ______, most of them sleep much less. One reason is biological: during adolescence, the body produces the sleep hormone later in the evening, so teenagers find it hard to fall (2) ______ before eleven. Another reason is the use of phones and computers, (3) ______ light tells the brain it is still daytime. Lack of sleep can (4) ______ concentration, mood and even school results. For this reason, some schools have decided to start classes later. (5) ______ to a study in the United States, students at these schools arrived on time more often and got better grades. Experts also (6) ______ turning off screens an hour before bed.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "that",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «that» tras una coma.",
+        "explanation_feedback": "Incorrecta. «That» no se usa después de coma en oraciones explicativas, y no indica posesión."
+      },
+      {
+        "label": "B",
+        "text": "which",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «which» sin indicar posesión.",
+        "explanation_feedback": "Incorrecta. «Which light» no conecta bien con «phones and computers»."
+      },
+      {
+        "label": "C",
+        "text": "who",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «who» para cosas.",
+        "explanation_feedback": "Incorrecta. «Who» se usa con personas."
+      },
+      {
+        "label": "D",
+        "text": "whose",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Whose» indica posesión: la luz de los teléfonos y computadores."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "ec0d1441-741d-58cb-8dee-e431c74670f5",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Teenagers and sleep",
+      "text": "Scientists have found that teenagers need between eight and ten hours of sleep a night. (1) ______, most of them sleep much less. One reason is biological: during adolescence, the body produces the sleep hormone later in the evening, so teenagers find it hard to fall (2) ______ before eleven. Another reason is the use of phones and computers, (3) ______ light tells the brain it is still daytime. Lack of sleep can (4) ______ concentration, mood and even school results. For this reason, some schools have decided to start classes later. (5) ______ to a study in the United States, students at these schools arrived on time more often and got better grades. Experts also (6) ______ turning off screens an hour before bed.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "help",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un verbo que contradice el sentido.",
+        "explanation_feedback": "Incorrecta. La falta de sueño no ayuda a la concentración."
+      },
+      {
+        "label": "B",
+        "text": "affect",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Affect» (verbo) significa afectar."
+      },
+      {
+        "label": "C",
+        "text": "effect",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el sustantivo «effect» con el verbo «affect».",
+        "explanation_feedback": "Incorrecta. Después de «can» va un verbo: «affect»."
+      },
+      {
+        "label": "D",
+        "text": "increase",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un verbo que contradice el sentido.",
+        "explanation_feedback": "Incorrecta. Dormir poco no aumenta la concentración ni mejora el ánimo."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "372d3a59-e60c-5cf5-a357-e3e8dadb9109",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Teenagers and sleep",
+      "text": "Scientists have found that teenagers need between eight and ten hours of sleep a night. (1) ______, most of them sleep much less. One reason is biological: during adolescence, the body produces the sleep hormone later in the evening, so teenagers find it hard to fall (2) ______ before eleven. Another reason is the use of phones and computers, (3) ______ light tells the brain it is still daytime. Lack of sleep can (4) ______ concentration, mood and even school results. For this reason, some schools have decided to start classes later. (5) ______ to a study in the United States, students at these schools arrived on time more often and got better grades. Experts also (6) ______ turning off screens an hour before bed.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "According",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «According to a study» significa «según un estudio»."
+      },
+      {
+        "label": "B",
+        "text": "Thanks",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye los resultados al estudio.",
+        "explanation_feedback": "Incorrecta. El estudio no causó la mejora; solo la reportó."
+      },
+      {
+        "label": "C",
+        "text": "Owing",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «owing to», que indica causa.",
+        "explanation_feedback": "Incorrecta. «Owing to» expresa causa, no fuente de información."
+      },
+      {
+        "label": "D",
+        "text": "Due",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «due to», que indica causa.",
+        "explanation_feedback": "Incorrecta. «Due to a study» diría que el estudio causó la mejora."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "1e7bb647-a8f0-5030-a1a6-869cd05b72fa",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Teenagers and sleep",
+      "text": "Scientists have found that teenagers need between eight and ten hours of sleep a night. (1) ______, most of them sleep much less. One reason is biological: during adolescence, the body produces the sleep hormone later in the evening, so teenagers find it hard to fall (2) ______ before eleven. Another reason is the use of phones and computers, (3) ______ light tells the brain it is still daytime. Lack of sleep can (4) ______ concentration, mood and even school results. For this reason, some schools have decided to start classes later. (5) ______ to a study in the United States, students at these schools arrived on time more often and got better grades. Experts also (6) ______ turning off screens an hour before bed.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "recommend",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Recommend + verbo -ing»: «recommend turning off»."
+      },
+      {
+        "label": "B",
+        "text": "advise to",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrega «to» antes de -ing.",
+        "explanation_feedback": "Incorrecta. Se dice «advise turning off», sin «to»."
+      },
+      {
+        "label": "C",
+        "text": "suggest to",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrega «to» antes de -ing.",
+        "explanation_feedback": "Incorrecta. Se dice «suggest turning off», sin «to»."
+      },
+      {
+        "label": "D",
+        "text": "tell",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «tell» sin objeto de persona.",
+        "explanation_feedback": "Incorrecta. «Tell» necesita a quién se le dice (tell people to…)."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "eb892214-32d1-5204-afe3-9e475528b1a8",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Think before you click",
+      "text": "False information spreads faster online than true information, (1) ______ to a large study of social media. The researchers believe this happens because false stories are often more surprising, and people enjoy sharing things that seem new. (2) ______ checking whether a story is true, many users share it within seconds of reading the headline. To (3) ______ this problem, some schools now teach students how to evaluate sources. They learn to ask who wrote the article, what evidence it (4) ______, and whether other reliable sources report the same thing. It sounds simple, but it requires patience. As one teacher explains, \"The goal is not to make students (5) ______ everything, but to help them think before they click.\" In a world full of information, this skill may be (6) ______ important as reading and writing.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "according",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «According to a study» presenta la fuente de la información."
+      },
+      {
+        "label": "B",
+        "text": "thanks",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye el fenómeno al estudio.",
+        "explanation_feedback": "Incorrecta. El estudio no causa que se difunda información falsa."
+      },
+      {
+        "label": "C",
+        "text": "related",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una expresión de relación general.",
+        "explanation_feedback": "Incorrecta. «Related to a study» no presenta una fuente."
+      },
+      {
+        "label": "D",
+        "text": "due",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una expresión de causa.",
+        "explanation_feedback": "Incorrecta. «Due to a study» diría que el estudio es la causa."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "b4e1e7f1-4df0-55a8-b679-8e9398bc80b1",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Think before you click",
+      "text": "False information spreads faster online than true information, (1) ______ to a large study of social media. The researchers believe this happens because false stories are often more surprising, and people enjoy sharing things that seem new. (2) ______ checking whether a story is true, many users share it within seconds of reading the headline. To (3) ______ this problem, some schools now teach students how to evaluate sources. They learn to ask who wrote the article, what evidence it (4) ______, and whether other reliable sources report the same thing. It sounds simple, but it requires patience. As one teacher explains, \"The goal is not to make students (5) ______ everything, but to help them think before they click.\" In a world full of information, this skill may be (6) ______ important as reading and writing.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "As well",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una expresión de adición incompleta.",
+        "explanation_feedback": "Incorrecta. «As well checking» no es correcto."
+      },
+      {
+        "label": "B",
+        "text": "Because of",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una expresión de causa.",
+        "explanation_feedback": "Incorrecta. No comparten la noticia por verificarla; lo hacen sin verificar."
+      },
+      {
+        "label": "C",
+        "text": "In spite",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite «of» y cambia el sentido.",
+        "explanation_feedback": "Incorrecta. «In spite» necesita «of», y expresa concesión, no sustitución."
+      },
+      {
+        "label": "D",
+        "text": "Instead of",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Instead of checking» significa «en lugar de verificar»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "4f609854-2566-5bea-9da5-1e20058ba2a4",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Think before you click",
+      "text": "False information spreads faster online than true information, (1) ______ to a large study of social media. The researchers believe this happens because false stories are often more surprising, and people enjoy sharing things that seem new. (2) ______ checking whether a story is true, many users share it within seconds of reading the headline. To (3) ______ this problem, some schools now teach students how to evaluate sources. They learn to ask who wrote the article, what evidence it (4) ______, and whether other reliable sources report the same thing. It sounds simple, but it requires patience. As one teacher explains, \"The goal is not to make students (5) ______ everything, but to help them think before they click.\" In a world full of information, this skill may be (6) ______ important as reading and writing.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "grow",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo que cambia el sentido.",
+        "explanation_feedback": "Incorrecta. Las escuelas no quieren hacer crecer el problema."
+      },
+      {
+        "label": "B",
+        "text": "happen",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo intransitivo.",
+        "explanation_feedback": "Incorrecta. «Happen this problem» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "rise",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo intransitivo.",
+        "explanation_feedback": "Incorrecta. «Rise» no lleva objeto."
+      },
+      {
+        "label": "D",
+        "text": "tackle",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Tackle a problem» significa enfrentar un problema."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "f9c9b3e7-ca83-5b2a-95e8-511e0dfac2a7",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Think before you click",
+      "text": "False information spreads faster online than true information, (1) ______ to a large study of social media. The researchers believe this happens because false stories are often more surprising, and people enjoy sharing things that seem new. (2) ______ checking whether a story is true, many users share it within seconds of reading the headline. To (3) ______ this problem, some schools now teach students how to evaluate sources. They learn to ask who wrote the article, what evidence it (4) ______, and whether other reliable sources report the same thing. It sounds simple, but it requires patience. As one teacher explains, \"The goal is not to make students (5) ______ everything, but to help them think before they click.\" In a world full of information, this skill may be (6) ______ important as reading and writing.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "gives up",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo frasal que significa rendirse.",
+        "explanation_feedback": "Incorrecta. «Give up» significa abandonar o rendirse."
+      },
+      {
+        "label": "B",
+        "text": "makes",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «make» con «evidence».",
+        "explanation_feedback": "Incorrecta. No se dice «make evidence» para aportar pruebas."
+      },
+      {
+        "label": "C",
+        "text": "provides",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Provide evidence» significa aportar pruebas."
+      },
+      {
+        "label": "D",
+        "text": "takes",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo sin la colocación adecuada.",
+        "explanation_feedback": "Incorrecta. Un artículo no «takes evidence»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "5a2353c9-7c17-520c-8b19-f7ba8dd11b16",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Think before you click",
+      "text": "False information spreads faster online than true information, (1) ______ to a large study of social media. The researchers believe this happens because false stories are often more surprising, and people enjoy sharing things that seem new. (2) ______ checking whether a story is true, many users share it within seconds of reading the headline. To (3) ______ this problem, some schools now teach students how to evaluate sources. They learn to ask who wrote the article, what evidence it (4) ______, and whether other reliable sources report the same thing. It sounds simple, but it requires patience. As one teacher explains, \"The goal is not to make students (5) ______ everything, but to help them think before they click.\" In a world full of information, this skill may be (6) ______ important as reading and writing.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "doubted",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el pasado tras «make someone».",
+        "explanation_feedback": "Incorrecta. «Make students doubted» no es correcto."
+      },
+      {
+        "label": "B",
+        "text": "doubting",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing tras «make someone».",
+        "explanation_feedback": "Incorrecta. «Make» + persona va con verbo base."
+      },
+      {
+        "label": "C",
+        "text": "doubt",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Tras «make someone» va el verbo base: «make students doubt»."
+      },
+      {
+        "label": "D",
+        "text": "to doubt",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrega «to» tras «make someone».",
+        "explanation_feedback": "Incorrecta. En voz activa, «make» no lleva «to»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "05c2b5dd-5e4e-5cb5-a72e-17c6d7a99de5",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Think before you click",
+      "text": "False information spreads faster online than true information, (1) ______ to a large study of social media. The researchers believe this happens because false stories are often more surprising, and people enjoy sharing things that seem new. (2) ______ checking whether a story is true, many users share it within seconds of reading the headline. To (3) ______ this problem, some schools now teach students how to evaluate sources. They learn to ask who wrote the article, what evidence it (4) ______, and whether other reliable sources report the same thing. It sounds simple, but it requires patience. As one teacher explains, \"The goal is not to make students (5) ______ everything, but to help them think before they click.\" In a world full of information, this skill may be (6) ______ important as reading and writing.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "as",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La comparación de igualdad es «as important as»."
+      },
+      {
+        "label": "B",
+        "text": "more",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa comparativo de superioridad con «as».",
+        "explanation_feedback": "Incorrecta. «More… as» mezcla dos estructuras; sería «more… than»."
+      },
+      {
+        "label": "C",
+        "text": "too",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «too» (demasiado).",
+        "explanation_feedback": "Incorrecta. «Too important as» no es correcto."
+      },
+      {
+        "label": "D",
+        "text": "so",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «so» en una comparación afirmativa.",
+        "explanation_feedback": "Incorrecta. En afirmativo se dice «as… as»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "1b1cb9e5-a1a5-54af-a99c-792cb8ec06a3",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A letter of complaint",
+      "text": "Dear Sir or Madam,\nI am writing to complain (1) ______ a pair of headphones I bought from your online shop on 3 March. When the package arrived, the box was (2) ______ and the left headphone did not work. I contacted your customer service the same day, but I have not received a (3) ______ yet. I would be grateful if you could (4) ______ the headphones or give me my money back. I have (5) ______ a photo of the damaged box to this email. I look forward to (6) ______ from you.\nYours faithfully,\nCarlos Méndez",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "with",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «with».",
+        "explanation_feedback": "Incorrecta. «Complain with» no se usa para el objeto de la queja."
+      },
+      {
+        "label": "B",
+        "text": "to",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el objeto con la persona a quien se le reclama.",
+        "explanation_feedback": "Incorrecta. «Complain to» va con la persona (complain to the manager)."
+      },
+      {
+        "label": "C",
+        "text": "about",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se dice «complain about something» (quejarse de algo)."
+      },
+      {
+        "label": "D",
+        "text": "at",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición de lugar.",
+        "explanation_feedback": "Incorrecta. «Complain at» no es correcto aquí."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "fe07a71e-4311-5535-8445-a6bdfa53e4b7",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A letter of complaint",
+      "text": "Dear Sir or Madam,\nI am writing to complain (1) ______ a pair of headphones I bought from your online shop on 3 March. When the package arrived, the box was (2) ______ and the left headphone did not work. I contacted your customer service the same day, but I have not received a (3) ______ yet. I would be grateful if you could (4) ______ the headphones or give me my money back. I have (5) ______ a photo of the damaged box to this email. I look forward to (6) ______ from you.\nYours faithfully,\nCarlos Méndez",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "injured",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un adjetivo para personas.",
+        "explanation_feedback": "Incorrecta. «Injured» se usa con personas heridas."
+      },
+      {
+        "label": "B",
+        "text": "hurt",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un adjetivo para personas.",
+        "explanation_feedback": "Incorrecta. «Hurt» se refiere a personas o animales."
+      },
+      {
+        "label": "C",
+        "text": "damaged",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Para objetos se usa «damaged» (dañado)."
+      },
+      {
+        "label": "D",
+        "text": "wounded",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un adjetivo de heridas.",
+        "explanation_feedback": "Incorrecta. «Wounded» describe heridas, por ejemplo en combate."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "e0c6b447-198f-581e-86a8-4d7875d26e93",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A letter of complaint",
+      "text": "Dear Sir or Madam,\nI am writing to complain (1) ______ a pair of headphones I bought from your online shop on 3 March. When the package arrived, the box was (2) ______ and the left headphone did not work. I contacted your customer service the same day, but I have not received a (3) ______ yet. I would be grateful if you could (4) ______ the headphones or give me my money back. I have (5) ______ a photo of the damaged box to this email. I look forward to (6) ______ from you.\nYours faithfully,\nCarlos Méndez",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "respond",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo donde va un sustantivo.",
+        "explanation_feedback": "Incorrecta. Después de «a» hace falta un sustantivo."
+      },
+      {
+        "label": "B",
+        "text": "return",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde respuesta con devolución.",
+        "explanation_feedback": "Incorrecta. «A return» es una devolución, no una respuesta."
+      },
+      {
+        "label": "C",
+        "text": "reply",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Reply» es un sustantivo: «a reply» (una respuesta)."
+      },
+      {
+        "label": "D",
+        "text": "answered",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un participio donde va un sustantivo.",
+        "explanation_feedback": "Incorrecta. «A answered» no es correcto."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "93c9bb2c-69d9-52ed-b3af-4b6e9717c8f6",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A letter of complaint",
+      "text": "Dear Sir or Madam,\nI am writing to complain (1) ______ a pair of headphones I bought from your online shop on 3 March. When the package arrived, the box was (2) ______ and the left headphone did not work. I contacted your customer service the same day, but I have not received a (3) ______ yet. I would be grateful if you could (4) ______ the headphones or give me my money back. I have (5) ______ a photo of the damaged box to this email. I look forward to (6) ______ from you.\nYours faithfully,\nCarlos Méndez",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "remove",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «reemplazar» con «quitar».",
+        "explanation_feedback": "Incorrecta. «Remove» significa retirar."
+      },
+      {
+        "label": "B",
+        "text": "repeat",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «reemplazar» con «repetir».",
+        "explanation_feedback": "Incorrecta. No se «repiten» unos audífonos."
+      },
+      {
+        "label": "C",
+        "text": "replace",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Pide que reemplacen («replace») los audífonos o que devuelvan el dinero."
+      },
+      {
+        "label": "D",
+        "text": "refuse",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «reemplazar» con «rechazar».",
+        "explanation_feedback": "Incorrecta. Pedir que los rechacen no tiene sentido."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "6d32609d-a97a-588b-8883-c5ec8e141295",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A letter of complaint",
+      "text": "Dear Sir or Madam,\nI am writing to complain (1) ______ a pair of headphones I bought from your online shop on 3 March. When the package arrived, the box was (2) ______ and the left headphone did not work. I contacted your customer service the same day, but I have not received a (3) ______ yet. I would be grateful if you could (4) ______ the headphones or give me my money back. I have (5) ______ a photo of the damaged box to this email. I look forward to (6) ______ from you.\nYours faithfully,\nCarlos Méndez",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "attached",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En un correo, los archivos se adjuntan: «attach a photo to an email»."
+      },
+      {
+        "label": "B",
+        "text": "joined",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «unir» literalmente.",
+        "explanation_feedback": "Incorrecta. «Join» no se usa para adjuntar archivos."
+      },
+      {
+        "label": "C",
+        "text": "stuck",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «pegar».",
+        "explanation_feedback": "Incorrecta. «Stick» es pegar físicamente."
+      },
+      {
+        "label": "D",
+        "text": "tied",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «amarrar».",
+        "explanation_feedback": "Incorrecta. «Tie» es amarrar."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "a1f92744-8930-52be-a337-c21e5bd2d9bd",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A letter of complaint",
+      "text": "Dear Sir or Madam,\nI am writing to complain (1) ______ a pair of headphones I bought from your online shop on 3 March. When the package arrived, the box was (2) ______ and the left headphone did not work. I contacted your customer service the same day, but I have not received a (3) ______ yet. I would be grateful if you could (4) ______ the headphones or give me my money back. I have (5) ______ a photo of the damaged box to this email. I look forward to (6) ______ from you.\nYours faithfully,\nCarlos Méndez",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "heard",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el participio.",
+        "explanation_feedback": "Incorrecta. «Look forward to heard» no es correcto."
+      },
+      {
+        "label": "B",
+        "text": "hearing",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En «look forward to», «to» es preposición y va seguido de -ing."
+      },
+      {
+        "label": "C",
+        "text": "be heard",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa voz pasiva.",
+        "explanation_feedback": "Incorrecta. La expresión correcta es «hearing from you»."
+      },
+      {
+        "label": "D",
+        "text": "hear",
+        "is_correct": false,
+        "distractor_diagnosis": "Trata «to» como infinitivo.",
+        "explanation_feedback": "Incorrecta. En esta expresión «to» es preposición: va «hearing»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "b5f6fb0e-1c3c-5827-a403-1fc249f75573",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The river of five colours",
+      "text": "Caño Cristales, in the Serranía de La Macarena, is often called \"the river of five colours\". Between July and November, a plant that grows on the rocks (1) ______ bright red, creating an amazing mix of colours together with the yellow sand, the green plants and the blue water. For many years, the area was very difficult to (2) ______ because of the armed conflict. Today, thousands of tourists visit it every year, but there are strict rules to (3) ______ the river. Visitors must go with a local guide, they are not allowed to use sun cream in the water, and the number of people per day is (4) ______. These rules may seem strict, but they exist (5) ______ the plant is very sensitive to chemicals. Thanks to them, the river has kept its colours, and the local community (6) ______ money from tourism.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "gets on",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo frasal de otra función.",
+        "explanation_feedback": "Incorrecta. «Get on» significa subirse o llevarse bien."
+      },
+      {
+        "label": "B",
+        "text": "makes",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «make» sin objeto.",
+        "explanation_feedback": "Incorrecta. «The plant makes bright red» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "turns",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Turn + color» significa ponerse de ese color."
+      },
+      {
+        "label": "D",
+        "text": "puts",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo de colocar.",
+        "explanation_feedback": "Incorrecta. «Puts bright red» no tiene sentido."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "98f32772-e19b-5261-9e48-876bb91fe712",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The river of five colours",
+      "text": "Caño Cristales, in the Serranía de La Macarena, is often called \"the river of five colours\". Between July and November, a plant that grows on the rocks (1) ______ bright red, creating an amazing mix of colours together with the yellow sand, the green plants and the blue water. For many years, the area was very difficult to (2) ______ because of the armed conflict. Today, thousands of tourists visit it every year, but there are strict rules to (3) ______ the river. Visitors must go with a local guide, they are not allowed to use sun cream in the water, and the number of people per day is (4) ______. These rules may seem strict, but they exist (5) ______ the plant is very sensitive to chemicals. Thanks to them, the river has kept its colours, and the local community (6) ______ money from tourism.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "reach",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Reach» significa llegar a un lugar y lleva objeto directo."
+      },
+      {
+        "label": "B",
+        "text": "arrive",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «arrive» sin preposición.",
+        "explanation_feedback": "Incorrecta. Se diría «arrive at» o «arrive in»."
+      },
+      {
+        "label": "C",
+        "text": "achieve",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde llegar con lograr.",
+        "explanation_feedback": "Incorrecta. «Achieve» es lograr una meta, no llegar a un lugar."
+      },
+      {
+        "label": "D",
+        "text": "get",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «get» sin «to».",
+        "explanation_feedback": "Incorrecta. Para lugares se dice «get to»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "aef1bb4c-91c9-5ed0-98d2-1df8f85a7f34",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The river of five colours",
+      "text": "Caño Cristales, in the Serranía de La Macarena, is often called \"the river of five colours\". Between July and November, a plant that grows on the rocks (1) ______ bright red, creating an amazing mix of colours together with the yellow sand, the green plants and the blue water. For many years, the area was very difficult to (2) ______ because of the armed conflict. Today, thousands of tourists visit it every year, but there are strict rules to (3) ______ the river. Visitors must go with a local guide, they are not allowed to use sun cream in the water, and the number of people per day is (4) ______. These rules may seem strict, but they exist (5) ______ the plant is very sensitive to chemicals. Thanks to them, the river has kept its colours, and the local community (6) ______ money from tourism.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "prevent",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo que significa impedir.",
+        "explanation_feedback": "Incorrecta. «Prevent the river» diría impedir el río."
+      },
+      {
+        "label": "B",
+        "text": "forbid",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo que significa prohibir.",
+        "explanation_feedback": "Incorrecta. No se prohíbe el río; se protege."
+      },
+      {
+        "label": "C",
+        "text": "avoid",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo que significa evitar.",
+        "explanation_feedback": "Incorrecta. Las reglas no buscan evitar el río."
+      },
+      {
+        "label": "D",
+        "text": "protect",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las reglas existen para proteger el río."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "12eb6582-b3f0-59ad-92d7-276526b85bf5",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The river of five colours",
+      "text": "Caño Cristales, in the Serranía de La Macarena, is often called \"the river of five colours\". Between July and November, a plant that grows on the rocks (1) ______ bright red, creating an amazing mix of colours together with the yellow sand, the green plants and the blue water. For many years, the area was very difficult to (2) ______ because of the armed conflict. Today, thousands of tourists visit it every year, but there are strict rules to (3) ______ the river. Visitors must go with a local guide, they are not allowed to use sun cream in the water, and the number of people per day is (4) ______. These rules may seem strict, but they exist (5) ______ the plant is very sensitive to chemicals. Thanks to them, the river has kept its colours, and the local community (6) ______ money from tourism.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "limited",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Is limited» significa que hay un límite de visitantes por día."
+      },
+      {
+        "label": "B",
+        "text": "closed",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un adjetivo para lugares.",
+        "explanation_feedback": "Incorrecta. Un número no se «cierra»."
+      },
+      {
+        "label": "C",
+        "text": "reduced to",
+        "is_correct": false,
+        "distractor_diagnosis": "Deja la expresión incompleta.",
+        "explanation_feedback": "Incorrecta. «Reduced to» necesita un número después."
+      },
+      {
+        "label": "D",
+        "text": "finished",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un adjetivo que no tiene sentido aquí.",
+        "explanation_feedback": "Incorrecta. El número de personas no está «terminado»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "43d91108-9532-583e-996c-c0cc3593f809",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The river of five colours",
+      "text": "Caño Cristales, in the Serranía de La Macarena, is often called \"the river of five colours\". Between July and November, a plant that grows on the rocks (1) ______ bright red, creating an amazing mix of colours together with the yellow sand, the green plants and the blue water. For many years, the area was very difficult to (2) ______ because of the armed conflict. Today, thousands of tourists visit it every year, but there are strict rules to (3) ______ the river. Visitors must go with a local guide, they are not allowed to use sun cream in the water, and the number of people per day is (4) ______. These rules may seem strict, but they exist (5) ______ the plant is very sensitive to chemicals. Thanks to them, the river has kept its colours, and the local community (6) ______ money from tourism.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "unless",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de condición negativa.",
+        "explanation_feedback": "Incorrecta. «Unless» significa «a menos que»."
+      },
+      {
+        "label": "B",
+        "text": "although",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de concesión.",
+        "explanation_feedback": "Incorrecta. No hay contraste entre la sensibilidad y las reglas."
+      },
+      {
+        "label": "C",
+        "text": "so that",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de finalidad.",
+        "explanation_feedback": "Incorrecta. La sensibilidad de la planta no es la finalidad de las reglas."
+      },
+      {
+        "label": "D",
+        "text": "because",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las reglas existen porque la planta es muy sensible a los químicos."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "b5ec914d-f566-59cd-bfca-12daf652bc39",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The river of five colours",
+      "text": "Caño Cristales, in the Serranía de La Macarena, is often called \"the river of five colours\". Between July and November, a plant that grows on the rocks (1) ______ bright red, creating an amazing mix of colours together with the yellow sand, the green plants and the blue water. For many years, the area was very difficult to (2) ______ because of the armed conflict. Today, thousands of tourists visit it every year, but there are strict rules to (3) ______ the river. Visitors must go with a local guide, they are not allowed to use sun cream in the water, and the number of people per day is (4) ______. These rules may seem strict, but they exist (5) ______ the plant is very sensitive to chemicals. Thanks to them, the river has kept its colours, and the local community (6) ______ money from tourism.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "earns",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Earn money» significa ganar dinero trabajando."
+      },
+      {
+        "label": "B",
+        "text": "pays",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido.",
+        "explanation_feedback": "Incorrecta. La comunidad recibe dinero, no lo paga."
+      },
+      {
+        "label": "C",
+        "text": "spends",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido.",
+        "explanation_feedback": "Incorrecta. «Spend» es gastar."
+      },
+      {
+        "label": "D",
+        "text": "wins",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «win», que va con premios o juegos.",
+        "explanation_feedback": "Incorrecta. «Win money» es ganar en un juego o concurso."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "9a8f63a6-a36a-58ac-8b30-21ae6bbf323b",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Never too late",
+      "text": "It is often said that children learn languages more easily than adults. (1) ______ this is partly true for pronunciation, adults actually have several advantages. They usually have better study habits, a larger vocabulary in their own language, and a clearer idea of (2) ______ they want to learn. The main difficulty for many adults is not their brain but their fear of (3) ______ mistakes in front of others. Children rarely worry about sounding silly, so they (4) ______ more risks when they speak. Teachers therefore recommend that adult learners focus on communication rather than perfection. \"Nobody (5) ______ you to speak like a native speaker,\" says one teacher. \"What matters is that people understand you.\" With regular practice, it is never too late to (6) ______ a new language.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "Because",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de causa.",
+        "explanation_feedback": "Incorrecta. No hay relación causal entre las dos ideas."
+      },
+      {
+        "label": "B",
+        "text": "Although",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Although» introduce una concesión: aunque sea cierto en pronunciación, los adultos tienen ventajas."
+      },
+      {
+        "label": "C",
+        "text": "Despite",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «despite» delante de una oración.",
+        "explanation_feedback": "Incorrecta. «Despite» va con sustantivo o -ing, no con «this is…»."
+      },
+      {
+        "label": "D",
+        "text": "However",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «however» para unir dos oraciones con coma.",
+        "explanation_feedback": "Incorrecta. «However» no subordina una oración a otra así."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "d5843d08-999f-5b8b-8efc-7043193152ea",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Never too late",
+      "text": "It is often said that children learn languages more easily than adults. (1) ______ this is partly true for pronunciation, adults actually have several advantages. They usually have better study habits, a larger vocabulary in their own language, and a clearer idea of (2) ______ they want to learn. The main difficulty for many adults is not their brain but their fear of (3) ______ mistakes in front of others. Children rarely worry about sounding silly, so they (4) ______ more risks when they speak. Teachers therefore recommend that adult learners focus on communication rather than perfection. \"Nobody (5) ______ you to speak like a native speaker,\" says one teacher. \"What matters is that people understand you.\" With regular practice, it is never too late to (6) ______ a new language.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "whose",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un posesivo.",
+        "explanation_feedback": "Incorrecta. «Whose» necesita un sustantivo poseído."
+      },
+      {
+        "label": "B",
+        "text": "why",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «A clearer idea of why they want to learn» habla de sus razones para aprender."
+      },
+      {
+        "label": "C",
+        "text": "whom",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un pronombre de persona.",
+        "explanation_feedback": "Incorrecta. «Of whom they want to learn» cambia el sentido a personas."
+      },
+      {
+        "label": "D",
+        "text": "which",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «which» sin un sustantivo de referencia.",
+        "explanation_feedback": "Incorrecta. «Of which they want to learn» no tiene sentido aquí."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "86c780d1-aef2-5795-9593-ce3a3725fad0",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Never too late",
+      "text": "It is often said that children learn languages more easily than adults. (1) ______ this is partly true for pronunciation, adults actually have several advantages. They usually have better study habits, a larger vocabulary in their own language, and a clearer idea of (2) ______ they want to learn. The main difficulty for many adults is not their brain but their fear of (3) ______ mistakes in front of others. Children rarely worry about sounding silly, so they (4) ______ more risks when they speak. Teachers therefore recommend that adult learners focus on communication rather than perfection. \"Nobody (5) ______ you to speak like a native speaker,\" says one teacher. \"What matters is that people understand you.\" With regular practice, it is never too late to (6) ______ a new language.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "making",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La colocación es «make mistakes», y tras «of» va -ing."
+      },
+      {
+        "label": "B",
+        "text": "taking",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «take» con «mistakes».",
+        "explanation_feedback": "Incorrecta. «Take mistakes» no es una colocación."
+      },
+      {
+        "label": "C",
+        "text": "having",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «have» con «mistakes».",
+        "explanation_feedback": "Incorrecta. No se dice «have mistakes» con este sentido."
+      },
+      {
+        "label": "D",
+        "text": "doing",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «hacer» como «do».",
+        "explanation_feedback": "Incorrecta. Con «mistakes» se usa «make»."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "cc16e18d-0e26-5447-bba2-a9769d3ddcb6",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Never too late",
+      "text": "It is often said that children learn languages more easily than adults. (1) ______ this is partly true for pronunciation, adults actually have several advantages. They usually have better study habits, a larger vocabulary in their own language, and a clearer idea of (2) ______ they want to learn. The main difficulty for many adults is not their brain but their fear of (3) ______ mistakes in front of others. Children rarely worry about sounding silly, so they (4) ______ more risks when they speak. Teachers therefore recommend that adult learners focus on communication rather than perfection. \"Nobody (5) ______ you to speak like a native speaker,\" says one teacher. \"What matters is that people understand you.\" With regular practice, it is never too late to (6) ______ a new language.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "do",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «do» con «risks».",
+        "explanation_feedback": "Incorrecta. No se dice «do risks»."
+      },
+      {
+        "label": "B",
+        "text": "make",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «make» con «risks».",
+        "explanation_feedback": "Incorrecta. No se dice «make risks»."
+      },
+      {
+        "label": "C",
+        "text": "give",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «give» con «risks».",
+        "explanation_feedback": "Incorrecta. No se dice «give risks»."
+      },
+      {
+        "label": "D",
+        "text": "take",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La colocación es «take risks» (correr riesgos)."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "d455c748-3cd5-5069-8259-ffacc8204121",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Never too late",
+      "text": "It is often said that children learn languages more easily than adults. (1) ______ this is partly true for pronunciation, adults actually have several advantages. They usually have better study habits, a larger vocabulary in their own language, and a clearer idea of (2) ______ they want to learn. The main difficulty for many adults is not their brain but their fear of (3) ______ mistakes in front of others. Children rarely worry about sounding silly, so they (4) ______ more risks when they speak. Teachers therefore recommend that adult learners focus on communication rather than perfection. \"Nobody (5) ______ you to speak like a native speaker,\" says one teacher. \"What matters is that people understand you.\" With regular practice, it is never too late to (6) ______ a new language.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "expects",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Expect someone to do something» significa esperar que alguien haga algo."
+      },
+      {
+        "label": "B",
+        "text": "hopes",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «hope» con objeto + infinitivo.",
+        "explanation_feedback": "Incorrecta. No se dice «hopes you to»."
+      },
+      {
+        "label": "C",
+        "text": "waits",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «esperar» (aguardar) con «esperar que».",
+        "explanation_feedback": "Incorrecta. «Wait» es aguardar y no lleva esta estructura."
+      },
+      {
+        "label": "D",
+        "text": "looks",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo de percepción.",
+        "explanation_feedback": "Incorrecta. «Looks you to» no es correcto."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "7be23218-fa69-52d8-84dd-501340e21f39",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B+",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Never too late",
+      "text": "It is often said that children learn languages more easily than adults. (1) ______ this is partly true for pronunciation, adults actually have several advantages. They usually have better study habits, a larger vocabulary in their own language, and a clearer idea of (2) ______ they want to learn. The main difficulty for many adults is not their brain but their fear of (3) ______ mistakes in front of others. Children rarely worry about sounding silly, so they (4) ______ more risks when they speak. Teachers therefore recommend that adult learners focus on communication rather than perfection. \"Nobody (5) ______ you to speak like a native speaker,\" says one teacher. \"What matters is that people understand you.\" With regular practice, it is never too late to (6) ______ a new language.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "take off",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo frasal sin relación.",
+        "explanation_feedback": "Incorrecta. «Take off» es despegar o quitarse ropa."
+      },
+      {
+        "label": "B",
+        "text": "give up",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido.",
+        "explanation_feedback": "Incorrecta. «Give up» es abandonar, lo contrario del mensaje."
+      },
+      {
+        "label": "C",
+        "text": "pick out",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde verbos frasales con «pick».",
+        "explanation_feedback": "Incorrecta. «Pick out» es escoger entre varios."
+      },
+      {
+        "label": "D",
+        "text": "pick up",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Pick up a language» significa aprender un idioma de manera informal."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "f5719932-9be1-52a5-b48c-7a8043a4a37a",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Voices of the countryside",
+      "text": "In many rural areas of Colombia, community radio stations play an important (1) ______ in people's lives. They are run by local volunteers and broadcast news, music and programmes in local languages. For farmers, the radio is often the quickest way to find (2) ______ about the weather or the price of their products. During emergencies, such as floods, stations can warn people (3) ______ the danger. Many young people also take (4) ______ in the stations, learning to write scripts, interview guests and use recording equipment. (5) ______ the internet is growing, many listeners say they will never stop listening to their local radio, because it talks about their own (6) ______ and problems.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "paper",
+        "is_correct": false,
+        "distractor_diagnosis": "Falso amigo: «papel» no se traduce «paper» en este sentido.",
+        "explanation_feedback": "Incorrecta. «Paper» es papel físico; el papel o función es «role»."
+      },
+      {
+        "label": "B",
+        "text": "game",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «play» como jugar.",
+        "explanation_feedback": "Incorrecta. «Play a game» es jugar un juego, no cumplir una función."
+      },
+      {
+        "label": "C",
+        "text": "work",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «work» con «play».",
+        "explanation_feedback": "Incorrecta. «Play an important work» no es correcto."
+      },
+      {
+        "label": "D",
+        "text": "role",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La colocación es «play an important role» (cumplir un papel importante)."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "1e43d27c-b698-59fd-b18a-c7a6a1f29f9d",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Voices of the countryside",
+      "text": "In many rural areas of Colombia, community radio stations play an important (1) ______ in people's lives. They are run by local volunteers and broadcast news, music and programmes in local languages. For farmers, the radio is often the quickest way to find (2) ______ about the weather or the price of their products. During emergencies, such as floods, stations can warn people (3) ______ the danger. Many young people also take (4) ______ in the stations, learning to write scripts, interview guests and use recording equipment. (5) ______ the internet is growing, many listeners say they will never stop listening to their local radio, because it talks about their own (6) ______ and problems.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "up",
+        "is_correct": false,
+        "distractor_diagnosis": "Combina «find» con «up».",
+        "explanation_feedback": "Incorrecta. «Find up» no existe."
+      },
+      {
+        "label": "B",
+        "text": "out",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Find out» significa averiguar o enterarse."
+      },
+      {
+        "label": "C",
+        "text": "off",
+        "is_correct": false,
+        "distractor_diagnosis": "Combina «find» con «off».",
+        "explanation_feedback": "Incorrecta. «Find off» no existe."
+      },
+      {
+        "label": "D",
+        "text": "on",
+        "is_correct": false,
+        "distractor_diagnosis": "Combina «find» con «on».",
+        "explanation_feedback": "Incorrecta. «Find on» no significa averiguar."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "69c912ce-5480-562e-beb4-5011a9a0a18d",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Voices of the countryside",
+      "text": "In many rural areas of Colombia, community radio stations play an important (1) ______ in people's lives. They are run by local volunteers and broadcast news, music and programmes in local languages. For farmers, the radio is often the quickest way to find (2) ______ about the weather or the price of their products. During emergencies, such as floods, stations can warn people (3) ______ the danger. Many young people also take (4) ______ in the stations, learning to write scripts, interview guests and use recording equipment. (5) ______ the internet is growing, many listeners say they will never stop listening to their local radio, because it talks about their own (6) ______ and problems.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "in",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición de lugar.",
+        "explanation_feedback": "Incorrecta. «Warn people in the danger» no tiene sentido."
+      },
+      {
+        "label": "B",
+        "text": "for",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «por» o «para».",
+        "explanation_feedback": "Incorrecta. «Warn people for» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "to",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «to» sin verbo.",
+        "explanation_feedback": "Incorrecta. «Warn people to» necesitaría un verbo (to leave)."
+      },
+      {
+        "label": "D",
+        "text": "about",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se dice «warn someone about something» (advertir sobre algo)."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "c96e6051-ff20-5467-824d-84282deedb99",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Voices of the countryside",
+      "text": "In many rural areas of Colombia, community radio stations play an important (1) ______ in people's lives. They are run by local volunteers and broadcast news, music and programmes in local languages. For farmers, the radio is often the quickest way to find (2) ______ about the weather or the price of their products. During emergencies, such as floods, stations can warn people (3) ______ the danger. Many young people also take (4) ______ in the stations, learning to write scripts, interview guests and use recording equipment. (5) ______ the internet is growing, many listeners say they will never stop listening to their local radio, because it talks about their own (6) ______ and problems.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "place",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «take place», que significa ocurrir.",
+        "explanation_feedback": "Incorrecta. «Take place» es tener lugar; no se usa con personas."
+      },
+      {
+        "label": "B",
+        "text": "care",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «take care», que significa cuidar.",
+        "explanation_feedback": "Incorrecta. «Take care in the stations» no significa participar."
+      },
+      {
+        "label": "C",
+        "text": "notice",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «take notice», que significa prestar atención.",
+        "explanation_feedback": "Incorrecta. No expresa participación."
+      },
+      {
+        "label": "D",
+        "text": "part",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Take part in» significa participar."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "dfaff05d-e155-5f18-8488-826644efdd2b",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Voices of the countryside",
+      "text": "In many rural areas of Colombia, community radio stations play an important (1) ______ in people's lives. They are run by local volunteers and broadcast news, music and programmes in local languages. For farmers, the radio is often the quickest way to find (2) ______ about the weather or the price of their products. During emergencies, such as floods, stations can warn people (3) ______ the danger. Many young people also take (4) ______ in the stations, learning to write scripts, interview guests and use recording equipment. (5) ______ the internet is growing, many listeners say they will never stop listening to their local radio, because it talks about their own (6) ______ and problems.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "Despite",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «despite» delante de una oración.",
+        "explanation_feedback": "Incorrecta. «Despite» va con sustantivo o -ing."
+      },
+      {
+        "label": "B",
+        "text": "Unless",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una condición negativa.",
+        "explanation_feedback": "Incorrecta. «Unless» significa «a menos que» y no tiene sentido aquí."
+      },
+      {
+        "label": "C",
+        "text": "Because",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un conector de causa.",
+        "explanation_feedback": "Incorrecta. El crecimiento de internet no es la razón para seguir escuchando radio."
+      },
+      {
+        "label": "D",
+        "text": "Although",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Hay concesión: aunque internet crece, siguen escuchando la radio."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "f8a81884-a2f2-541d-88ab-79a5380270fa",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Voices of the countryside",
+      "text": "In many rural areas of Colombia, community radio stations play an important (1) ______ in people's lives. They are run by local volunteers and broadcast news, music and programmes in local languages. For farmers, the radio is often the quickest way to find (2) ______ about the weather or the price of their products. During emergencies, such as floods, stations can warn people (3) ______ the danger. Many young people also take (4) ______ in the stations, learning to write scripts, interview guests and use recording equipment. (5) ______ the internet is growing, many listeners say they will never stop listening to their local radio, because it talks about their own (6) ______ and problems.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "communicate",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo donde va un sustantivo.",
+        "explanation_feedback": "Incorrecta. Después de «their own» va un sustantivo."
+      },
+      {
+        "label": "B",
+        "text": "common",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un adjetivo sin sustantivo.",
+        "explanation_feedback": "Incorrecta. «Their own common» queda incompleto."
+      },
+      {
+        "label": "C",
+        "text": "commonly",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un adverbio.",
+        "explanation_feedback": "Incorrecta. Un adverbio no puede ir después de «their own»."
+      },
+      {
+        "label": "D",
+        "text": "community",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Hace falta un sustantivo: «their own community» (su propia comunidad)."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "88f79574-505a-561e-a820-45f8a5297494",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A bike for every student",
+      "text": "In some rural parts of Colombia, students walk more than an hour to reach their school. A programme in Boyacá decided to (1) ______ this by giving bicycles to students who live far away. The idea was simple, but the results were (2) ______. In the first year, the number of students who missed classes went (3) ______ by almost a third. Teachers also noticed that students arrived less tired and were more (4) ______ during lessons. Each student has to look (5) ______ their bicycle, and a local mechanic visits the schools every month to repair the ones that are broken. Other regions are now thinking (6) ______ starting similar programmes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "rise",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo intransitivo.",
+        "explanation_feedback": "Incorrecta. «Rise» no lleva objeto."
+      },
+      {
+        "label": "B",
+        "text": "change",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El programa quiso cambiar («change») esa situación."
+      },
+      {
+        "label": "C",
+        "text": "happen",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo intransitivo.",
+        "explanation_feedback": "Incorrecta. «Happen this» no es correcto."
+      },
+      {
+        "label": "D",
+        "text": "arrive",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo intransitivo de movimiento.",
+        "explanation_feedback": "Incorrecta. «Arrive this» no es correcto."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "279c6f74-b4f1-5791-a0b3-6ffa5920be64",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A bike for every student",
+      "text": "In some rural parts of Colombia, students walk more than an hour to reach their school. A programme in Boyacá decided to (1) ______ this by giving bicycles to students who live far away. The idea was simple, but the results were (2) ______. In the first year, the number of students who missed classes went (3) ______ by almost a third. Teachers also noticed that students arrived less tired and were more (4) ______ during lessons. Each student has to look (5) ______ their bicycle, and a local mechanic visits the schools every month to repair the ones that are broken. Other regions are now thinking (6) ______ starting similar programmes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "impressive",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El contraste «simple, but…» pide un adjetivo positivo: impresionantes."
+      },
+      {
+        "label": "B",
+        "text": "disappointing",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora los resultados positivos del texto.",
+        "explanation_feedback": "Incorrecta. Los resultados fueron buenos, no decepcionantes."
+      },
+      {
+        "label": "C",
+        "text": "expensive",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un adjetivo sin apoyo en el texto.",
+        "explanation_feedback": "Incorrecta. El texto no habla de costos de los resultados."
+      },
+      {
+        "label": "D",
+        "text": "impressed",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde -ed con -ing/-ive.",
+        "explanation_feedback": "Incorrecta. «Impressed» describe a quien siente la impresión, no a los resultados."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "7d7da583-0c9a-5b3a-9eea-15195e6330b9",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A bike for every student",
+      "text": "In some rural parts of Colombia, students walk more than an hour to reach their school. A programme in Boyacá decided to (1) ______ this by giving bicycles to students who live far away. The idea was simple, but the results were (2) ______. In the first year, the number of students who missed classes went (3) ______ by almost a third. Teachers also noticed that students arrived less tired and were more (4) ______ during lessons. Each student has to look (5) ______ their bicycle, and a local mechanic visits the schools every month to repair the ones that are broken. Other regions are now thinking (6) ______ starting similar programmes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "on",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo frasal de otra función.",
+        "explanation_feedback": "Incorrecta. «Go on» es continuar."
+      },
+      {
+        "label": "B",
+        "text": "down",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Go down» significa disminuir: bajó la inasistencia."
+      },
+      {
+        "label": "C",
+        "text": "off",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un verbo frasal de otra función.",
+        "explanation_feedback": "Incorrecta. «Go off» es sonar (una alarma) o dañarse un alimento."
+      },
+      {
+        "label": "D",
+        "text": "up",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido.",
+        "explanation_feedback": "Incorrecta. «Go up» es aumentar, y la inasistencia bajó."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "6341c79e-8ebf-5459-adb1-d258bc0c85ab",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A bike for every student",
+      "text": "In some rural parts of Colombia, students walk more than an hour to reach their school. A programme in Boyacá decided to (1) ______ this by giving bicycles to students who live far away. The idea was simple, but the results were (2) ______. In the first year, the number of students who missed classes went (3) ______ by almost a third. Teachers also noticed that students arrived less tired and were more (4) ______ during lessons. Each student has to look (5) ______ their bicycle, and a local mechanic visits the schools every month to repair the ones that are broken. Other regions are now thinking (6) ______ starting similar programmes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "bored",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la mejora descrita.",
+        "explanation_feedback": "Incorrecta. Llegar menos cansados no hace que se aburran más."
+      },
+      {
+        "label": "B",
+        "text": "focused",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Focused» significa concentrado, lo que se espera si llegan menos cansados."
+      },
+      {
+        "label": "C",
+        "text": "absent",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice que están en clase.",
+        "explanation_feedback": "Incorrecta. No se puede estar ausente «during lessons»."
+      },
+      {
+        "label": "D",
+        "text": "sleepy",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice «less tired».",
+        "explanation_feedback": "Incorrecta. Si llegan menos cansados, no estarían más soñolientos."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "2a52113a-fe19-544a-ac87-f5e8edc25d40",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A bike for every student",
+      "text": "In some rural parts of Colombia, students walk more than an hour to reach their school. A programme in Boyacá decided to (1) ______ this by giving bicycles to students who live far away. The idea was simple, but the results were (2) ______. In the first year, the number of students who missed classes went (3) ______ by almost a third. Teachers also noticed that students arrived less tired and were more (4) ______ during lessons. Each student has to look (5) ______ their bicycle, and a local mechanic visits the schools every month to repair the ones that are broken. Other regions are now thinking (6) ______ starting similar programmes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "at",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «look at», que significa mirar.",
+        "explanation_feedback": "Incorrecta. Mirar la bicicleta no es cuidarla."
+      },
+      {
+        "label": "B",
+        "text": "for",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «look for», que significa buscar.",
+        "explanation_feedback": "Incorrecta. Buscar la bicicleta no es la responsabilidad descrita."
+      },
+      {
+        "label": "C",
+        "text": "after",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Look after» significa cuidar."
+      },
+      {
+        "label": "D",
+        "text": "up",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «look up», que significa buscar información.",
+        "explanation_feedback": "Incorrecta. «Look up» se usa con datos, no con objetos que se cuidan."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "245d8aca-a560-5a5a-b544-4ec12f9f7c1e",
+    "subject": "IN",
+    "evidence_code": "IN.E7",
+    "component_code": "IN.P7",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A bike for every student",
+      "text": "In some rural parts of Colombia, students walk more than an hour to reach their school. A programme in Boyacá decided to (1) ______ this by giving bicycles to students who live far away. The idea was simple, but the results were (2) ______. In the first year, the number of students who missed classes went (3) ______ by almost a third. Teachers also noticed that students arrived less tired and were more (4) ______ during lessons. Each student has to look (5) ______ their bicycle, and a local mechanic visits the schools every month to repair the ones that are broken. Other regions are now thinking (6) ______ starting similar programmes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the word or words that best fill gap (6).",
+    "options": [
+      {
+        "label": "A",
+        "text": "about",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se dice «think about doing something» (pensar en hacer algo)."
+      },
+      {
+        "label": "B",
+        "text": "on",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «think on».",
+        "explanation_feedback": "Incorrecta. «Think on» no es la forma habitual."
+      },
+      {
+        "label": "C",
+        "text": "in",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «pensar en» literalmente.",
+        "explanation_feedback": "Incorrecta. En inglés no se dice «think in» con este sentido."
+      },
+      {
+        "label": "D",
+        "text": "to",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «to» tras «think».",
+        "explanation_feedback": "Incorrecta. «Think to starting» no es correcto."
+      }
+    ],
+    "estimated_time_seconds": 50
+  }
+]
