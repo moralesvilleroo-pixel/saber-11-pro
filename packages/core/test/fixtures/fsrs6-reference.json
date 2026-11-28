@@ -1,0 +1,287 @@
+{
+ "_fuente": "Generado con py-fsrs 6.x (Scheduler(enable_fuzzing=False), parametros por defecto). Inicio 2026-01-01T12:00Z; offsets en minutos.",
+ "escenarios": {
+  "aprendizaje_basico": [
+   {
+    "rating": 3,
+    "offsetMin": 0,
+    "state": "Learning",
+    "step": 1,
+    "stability": 2.3065,
+    "difficulty": 2.118103970459016,
+    "dueOffsetMin": 10.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 1,
+    "state": "Review",
+    "step": null,
+    "stability": 2.3065,
+    "difficulty": 2.111214235785395,
+    "dueOffsetMin": 2881.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 11,
+    "state": "Review",
+    "step": null,
+    "stability": 2.3065,
+    "difficulty": 2.1043313908464483,
+    "dueOffsetMin": 2891.0
+   }
+  ],
+  "facil_directo": [
+   {
+    "rating": 4,
+    "offsetMin": 0,
+    "state": "Review",
+    "step": null,
+    "stability": 8.2956,
+    "difficulty": 1.0,
+    "dueOffsetMin": 11520.0
+   }
+  ],
+  "dificil_y_olvido": [
+   {
+    "rating": 2,
+    "offsetMin": 0,
+    "state": "Learning",
+    "step": 0,
+    "stability": 1.2931,
+    "difficulty": 5.112170705601056,
+    "dueOffsetMin": 5.5
+   },
+   {
+    "rating": 3,
+    "offsetMin": 8,
+    "state": "Learning",
+    "step": 1,
+    "stability": 1.3358997622047517,
+    "difficulty": 5.102286904192293,
+    "dueOffsetMin": 18.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 30,
+    "state": "Review",
+    "step": null,
+    "stability": 1.3771622371865915,
+    "difficulty": 5.0924129865849395,
+    "dueOffsetMin": 1470.0
+   },
+   {
+    "rating": 1,
+    "offsetMin": 7200,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 0.4675331006193734,
+    "difficulty": 8.372137889578998,
+    "dueOffsetMin": 7210.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 7210,
+    "state": "Review",
+    "step": null,
+    "stability": 0.5164471247972093,
+    "difficulty": 8.358994120986257,
+    "dueOffsetMin": 8650.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 12960,
+    "state": "Review",
+    "step": null,
+    "stability": 2.7361704041580697,
+    "difficulty": 8.345863496162108,
+    "dueOffsetMin": 17280.0
+   }
+  ],
+  "ease_hell": [
+   {
+    "rating": 3,
+    "offsetMin": 0,
+    "state": "Learning",
+    "step": 1,
+    "stability": 2.3065,
+    "difficulty": 2.118103970459016,
+    "dueOffsetMin": 10.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 1,
+    "state": "Review",
+    "step": null,
+    "stability": 2.3065,
+    "difficulty": 2.111214235785395,
+    "dueOffsetMin": 2881.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 11,
+    "state": "Review",
+    "step": null,
+    "stability": 2.3065,
+    "difficulty": 2.1043313908464483,
+    "dueOffsetMin": 2891.0
+   },
+   {
+    "rating": 1,
+    "offsetMin": 4320,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 0.6078235186608499,
+    "difficulty": 7.389975788014609,
+    "dueOffsetMin": 4330.0
+   },
+   {
+    "rating": 1,
+    "offsetMin": 7200,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 0.24230839164516826,
+    "difficulty": 9.12733115898188,
+    "dueOffsetMin": 7210.0
+   },
+   {
+    "rating": 1,
+    "offsetMin": 10080,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 0.12231520367062627,
+    "difficulty": 9.698388055402301,
+    "dueOffsetMin": 10090.0
+   },
+   {
+    "rating": 1,
+    "offsetMin": 12960,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 0.07124950756891561,
+    "difficulty": 9.886090574068795,
+    "dueOffsetMin": 12970.0
+   },
+   {
+    "rating": 1,
+    "offsetMin": 15840,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 0.04576206171171712,
+    "difficulty": 9.947787115577347,
+    "dueOffsetMin": 15850.0
+   },
+   {
+    "rating": 1,
+    "offsetMin": 18720,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 0.03157661658010742,
+    "difficulty": 9.968066349234725,
+    "dueOffsetMin": 18730.0
+   }
+  ],
+  "repasos_tardios": [
+   {
+    "rating": 3,
+    "offsetMin": 0,
+    "state": "Learning",
+    "step": 1,
+    "stability": 2.3065,
+    "difficulty": 2.118103970459016,
+    "dueOffsetMin": 10.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 1,
+    "state": "Review",
+    "step": null,
+    "stability": 2.3065,
+    "difficulty": 2.111214235785395,
+    "dueOffsetMin": 2881.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 11,
+    "state": "Review",
+    "step": null,
+    "stability": 2.3065,
+    "difficulty": 2.1043313908464483,
+    "dueOffsetMin": 2891.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 43200,
+    "state": "Review",
+    "step": null,
+    "stability": 37.08556526979488,
+    "difficulty": 2.0974554287524403,
+    "dueOffsetMin": 96480.0
+   },
+   {
+    "rating": 2,
+    "offsetMin": 129600,
+    "state": "Review",
+    "step": null,
+    "stability": 118.11996953200205,
+    "difficulty": 4.739151024325689,
+    "dueOffsetMin": 299520.0
+   },
+   {
+    "rating": 4,
+    "offsetMin": 288000,
+    "state": "Review",
+    "step": null,
+    "stability": 438.254732965771,
+    "difficulty": 2.966448821514439,
+    "dueOffsetMin": 918720.0
+   }
+  ],
+  "mismo_dia_en_review": [
+   {
+    "rating": 4,
+    "offsetMin": 0,
+    "state": "Review",
+    "step": null,
+    "stability": 8.2956,
+    "difficulty": 1.0,
+    "dueOffsetMin": 11520.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 300,
+    "state": "Review",
+    "step": null,
+    "stability": 8.2956,
+    "difficulty": 1.0,
+    "dueOffsetMin": 11820.0
+   },
+   {
+    "rating": 1,
+    "offsetMin": 360,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 2.5625081682260777,
+    "difficulty": 7.0269895692968385,
+    "dueOffsetMin": 370.0
+   },
+   {
+    "rating": 2,
+    "offsetMin": 370,
+    "state": "Relearning",
+    "step": 0,
+    "stability": 2.5625081682260777,
+    "difficulty": 8.011605503110008,
+    "dueOffsetMin": 385.0
+   },
+   {
+    "rating": 3,
+    "offsetMin": 2880,
+    "state": "Review",
+    "step": null,
+    "stability": 4.24604871751249,
+    "difficulty": 7.998822266903736,
+    "dueOffsetMin": 8640.0
+   }
+  ]
+ }
+}

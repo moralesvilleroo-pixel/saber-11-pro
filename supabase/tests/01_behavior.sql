@@ -55,12 +55,12 @@ select public.sync_offline_batch('{
  "attempts":[
    {"id":"60000000-0000-0000-0000-000000000001","session_id":"50000000-0000-0000-0000-000000000001","question_id":"40000000-0000-0000-0000-000000000001","question_version":1,"selected_option":"B","rating_1_to_4":3,"response_time_ms":40000,"session_mode":"interleaved","answered_at":"2026-11-27T10:01:00Z"},
    {"id":"60000000-0000-0000-0000-000000000002","session_id":"50000000-0000-0000-0000-000000000001","question_id":"40000000-0000-0000-0000-000000000002","question_version":1,"selected_option":"B","rating_1_to_4":3,"response_time_ms":40000,"session_mode":"interleaved","answered_at":"2026-11-27T10:02:00Z"}],
- "fsrs_states":[{"question_id":"40000000-0000-0000-0000-000000000001","stability":3.1,"difficulty":5.2,"retrievability_cache":0.9,"elapsed_days":0,"scheduled_days":3,"reps":1,"lapses":0,"state":"Review","due_at":"2026-11-30T10:00:00Z","last_review_at":"2026-11-27T10:01:00Z","updated_at":"2026-11-27T10:01:00Z"}]}') as sync1;
+ "fsrs_states":[{"question_id":"40000000-0000-0000-0000-000000000001","stability":3.1,"difficulty":5.2,"retrievability_cache":0.9,"elapsed_days":0,"scheduled_days":3,"reps":1,"lapses":0,"state":"Review","step":null,"due_at":"2026-11-30T10:00:00Z","last_review_at":"2026-11-27T10:01:00Z","updated_at":"2026-11-27T10:01:00Z"}]}') as sync1;
 -- reenvio identico: idempotente
 select public.sync_offline_batch('{"attempts":[{"id":"60000000-0000-0000-0000-000000000001","session_id":null,"question_id":"40000000-0000-0000-0000-000000000001","question_version":1,"selected_option":"A","rating_1_to_4":1,"response_time_ms":1,"session_mode":"interleaved","answered_at":"2026-11-27T10:01:00Z"}],
- "fsrs_states":[{"question_id":"40000000-0000-0000-0000-000000000001","stability":0.1,"difficulty":9,"retrievability_cache":0.1,"elapsed_days":0,"scheduled_days":0,"reps":9,"lapses":9,"state":"Relearning","due_at":"2026-11-27T10:00:00Z","last_review_at":"2026-11-27T09:00:00Z","updated_at":"2026-11-27T09:00:00Z"}]}') as sync_reenvio_viejo;
+ "fsrs_states":[{"question_id":"40000000-0000-0000-0000-000000000001","stability":0.1,"difficulty":9,"retrievability_cache":0.1,"elapsed_days":0,"scheduled_days":0,"reps":9,"lapses":9,"state":"Relearning","step":0,"due_at":"2026-11-27T10:00:00Z","last_review_at":"2026-11-27T09:00:00Z","updated_at":"2026-11-27T09:00:00Z"}]}') as sync_reenvio_viejo;
 select id, is_correct from public.attempt_logs;
-select stability, reps, state from public.user_card_fsrs_state;
+select stability, reps, state, step from public.user_card_fsrs_state;
 select id, status, version from public.get_questions_since('MA', 0);
 reset role;
 
@@ -78,3 +78,9 @@ reset role;
 -- version sube al editar
 update public.questions set irt_b = 0.5 where id='40000000-0000-0000-0000-000000000001';
 select version from public.questions where id='40000000-0000-0000-0000-000000000001';
+
+-- 0002: un estado en Learning sin paso es invalido
+do $$ begin
+  update public.user_card_fsrs_state set state = 'Learning', step = null;
+  raise exception 'FALLO: Learning sin paso';
+exception when check_violation then raise notice 'OK estado FSRS exige paso fuera de Review'; end $$;

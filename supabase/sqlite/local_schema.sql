@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS schema_meta (
   key   TEXT PRIMARY KEY,
   value TEXT NOT NULL
 );
-INSERT OR IGNORE INTO schema_meta (key, value) VALUES ('local_schema_version', '1');
+INSERT OR IGNORE INTO schema_meta (key, value) VALUES ('local_schema_version', '2');
 
 -- Taxonomia (se descarga completa; es pequena) --------------------------------
 
@@ -97,6 +97,7 @@ CREATE TABLE IF NOT EXISTS user_card_fsrs_state (
   reps                 INTEGER NOT NULL DEFAULT 0,
   lapses               INTEGER NOT NULL DEFAULT 0,
   state                TEXT NOT NULL DEFAULT 'New' CHECK (state IN ('New', 'Learning', 'Review', 'Relearning')),
+  step                 INTEGER CHECK (step >= 0), -- null en Review (migracion 0002)
   due_at               TEXT NOT NULL,
   last_review_at       TEXT,
   updated_at           TEXT NOT NULL,
