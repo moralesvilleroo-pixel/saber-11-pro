@@ -74,8 +74,8 @@ a Supabase, cuando la taxonomía tenga afirmaciones y evidencias. Después, sema
 - [x] 2026-11-27 · Proyecto Supabase creado; migración 0001 y `seed.sql` aplicados.
 - [x] 2026-11-27 · SMTP de Brevo conectado a Supabase Auth (probado con una invitación).
 - [ ] Traducir al español las plantillas de correo de Auth y fijar el Site URL cuando exista la web.
-- [ ] Sembrar `co_public_holidays` con los festivos de Colombia 2026-2027 (los plazos ARCO hoy
-      solo excluyen fines de semana).
+- [ ] Correr `supabase/seed_festivos_co.sql` en Supabase (festivos de Colombia 2026-2027, para que
+      los plazos ARCO no cuenten festivos). Agregar 2028 antes de que termine 2027.
 - [ ] Edge Function de consentimiento parental: envía token al acudiente, guarda el hash en
       `parental_consents` y marca `verified` con service_role. Redactar la Política de Tratamiento.
 
