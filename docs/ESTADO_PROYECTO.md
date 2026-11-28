@@ -2,6 +2,25 @@
 
 Registro vivo. Actualizar al cierre de cada Pull Request.
 
+## Banco de 1000 preguntas - Lectura Crítica y cierre (2026-11-28)
+
+### Hecho
+- 194 preguntas originales de Lectura Crítica en `banco/lotes/2026-11-lote-024` a `-027`: literarios 59
+  (cuentos, poemas, teatro, fábula), informativos 55 (columnas, divulgación, reseña, carta de lector),
+  filosóficos 40 (Aristóteles, Rawls, Descartes y Hume, Platón, Kant, Epicuro, San Agustín, Popper) y
+  discontinuos 40 (tiras cómicas en SVG, infografías, afiches, horarios, etiquetas, cuadros comparativos).
+  Por competencia: local 48 (25 %), global 78 (40 %), reflexión 68 (35 %). Dificultad: bajo 40, medio 80, alto 74.
+- 39 preguntas de Ciencias Naturales centradas en indagación (`2026-11-lote-028`) para cerrar la meta.
+- **Banco total: 1000 preguntas** (IN 226, CN 220, LC 204, MA 183, SC 167).
+
+### Decisiones
+- Todos los textos son originales; los de filosofía son divulgación escrita para la prueba a partir de ideas
+  de dominio público, y lo dicen al final del texto. Personas, productos y datos de los textos son ficticios.
+- Las tiras cómicas son SVG generados (globos y personajes simples) de menos de 4 KB.
+
+### Siguiente paso
+Fusionar #7, #8, #9 y #10 en orden y correr "Cargar a Supabase". Después: semanas 5-6 (Prompt 6).
+
 ## Banco de 1000 preguntas - Lote de Matemáticas (2026-11-28)
 
 ### Hecho
