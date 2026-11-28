@@ -1,0 +1,2861 @@
+[
+  {
+    "id": "de6444c1-13fd-5876-9621-32e5f4991c72",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una matrícula negada",
+      "text": "Andrés tiene 15 años y usa silla de ruedas. Su familia intentó matricularlo en el colegio público de su barrio, pero la rectora se negó: dijo que el edificio no tenía rampas y que era mejor que estudiara en otro municipio, a dos horas de distancia. La familia considera que se están vulnerando el derecho de Andrés a la educación y su derecho a no ser discriminado, y quiere una solución rápida.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué mecanismo es el más adecuado para proteger de manera rápida los derechos de Andrés?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La acción popular, porque protege derechos de toda la comunidad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde derechos individuales con derechos colectivos.",
+        "explanation_feedback": "Incorrecta. La acción popular protege derechos colectivos (ambiente, espacio público); aquí se afectan derechos de una persona concreta."
+      },
+      {
+        "label": "B",
+        "text": "La acción de tutela, porque protege derechos fundamentales amenazados por una autoridad.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La tutela (art. 86 de la Constitución) procede cuando una autoridad vulnera o amenaza derechos fundamentales, como la educación de un menor y la igualdad."
+      },
+      {
+        "label": "C",
+        "text": "La revocatoria del mandato contra la rectora del colegio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un mecanismo de participación política con uno de protección de derechos.",
+        "explanation_feedback": "Incorrecta. La revocatoria se aplica a alcaldes y gobernadores elegidos por voto popular, no a una rectora."
+      },
+      {
+        "label": "D",
+        "text": "La acción de cumplimiento, para que el colegio construya las rampas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un mecanismo que exige cumplir una norma, no proteger un derecho fundamental.",
+        "explanation_feedback": "Incorrecta. La acción de cumplimiento exige que una autoridad cumpla una ley o acto administrativo; para derechos fundamentales procede la tutela."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "a85d0b0f-9e79-5616-b14b-3a46b93ee8c5",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una matrícula negada",
+      "text": "Andrés tiene 15 años y usa silla de ruedas. Su familia intentó matricularlo en el colegio público de su barrio, pero la rectora se negó: dijo que el edificio no tenía rampas y que era mejor que estudiara en otro municipio, a dos horas de distancia. La familia considera que se están vulnerando el derecho de Andrés a la educación y su derecho a no ser discriminado, y quiere una solución rápida.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según la Constitución, ¿cuánto tiempo puede pasar como máximo entre la presentación de una tutela y la decisión del juez?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tres meses.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con otros plazos legales.",
+        "explanation_feedback": "Incorrecta. La Constitución fija diez días para resolver la tutela."
+      },
+      {
+        "label": "B",
+        "text": "Seis meses.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone el tiempo de un proceso judicial ordinario.",
+        "explanation_feedback": "Incorrecta. La tutela es un mecanismo rápido: el plazo es de diez días."
+      },
+      {
+        "label": "C",
+        "text": "Un año.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone un plazo largo de procesos ordinarios.",
+        "explanation_feedback": "Incorrecta. El plazo máximo es de diez días."
+      },
+      {
+        "label": "D",
+        "text": "Diez días.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El artículo 86 dice que no pueden pasar más de diez días entre la solicitud y su resolución."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "e331bbb6-5006-5bbd-8f97-a3f19bc33925",
+    "subject": "SC",
+    "evidence_code": "SC.E1.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una matrícula negada",
+      "text": "Andrés tiene 15 años y usa silla de ruedas. Su familia intentó matricularlo en el colegio público de su barrio, pero la rectora se negó: dijo que el edificio no tenía rampas y que era mejor que estudiara en otro municipio, a dos horas de distancia. La familia considera que se están vulnerando el derecho de Andrés a la educación y su derecho a no ser discriminado, y quiere una solución rápida.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué el caso de Andrés se relaciona con el modelo de Estado social de derecho?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque el Estado solo debe evitar intervenir en la vida de los ciudadanos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Describe un Estado liberal clásico, no el Estado social.",
+        "explanation_feedback": "Incorrecta. El Estado social no solo se abstiene: también actúa para garantizar condiciones materiales."
+      },
+      {
+        "label": "B",
+        "text": "Porque el Estado debe dejar que cada colegio decida libremente a quién recibe.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde autonomía institucional con ausencia de deberes del Estado.",
+        "explanation_feedback": "Incorrecta. La autonomía de un colegio público no le permite discriminar; el Estado social exige garantizar el derecho."
+      },
+      {
+        "label": "C",
+        "text": "Porque las leyes solo se aplican a quienes pueden pagar un colegio privado.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido del modelo.",
+        "explanation_feedback": "Incorrecta. El Estado social de derecho busca justamente que los derechos no dependan de la capacidad de pago."
+      },
+      {
+        "label": "D",
+        "text": "Porque el Estado debe crear condiciones reales para que las personas en situación de desventaja ejerzan sus derechos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El componente «social» obliga al Estado a actuar para que la igualdad sea real, con protección especial a quienes están en debilidad manifiesta."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "4e718255-ee4e-5dd0-9b7c-a546fbfd88f1",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El río de San Rafael",
+      "text": "En el municipio ficticio de San Rafael, una curtiembre vierte desechos al río del que toman agua varios barrios. Los peces han muerto y muchos vecinos tienen problemas en la piel. Un grupo de habitantes quiere que un juez ordene detener la contaminación y recuperar el río, pero no sabe a qué entidad acudir para recibir orientación sobre sus derechos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué mecanismo judicial corresponde para proteger el río y la salud de la comunidad?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La acción popular, porque protege derechos colectivos como el ambiente sano.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El artículo 88 de la Constitución creó las acciones populares para proteger derechos e intereses colectivos, entre ellos el ambiente."
+      },
+      {
+        "label": "B",
+        "text": "El derecho de petición ante la curtiembre.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un mecanismo para solicitar información o actuaciones, no una orden judicial.",
+        "explanation_feedback": "Incorrecta. El derecho de petición no lleva a que un juez ordene detener la contaminación."
+      },
+      {
+        "label": "C",
+        "text": "El plebiscito, para que el pueblo vote si se cierra la curtiembre.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde participación política con protección judicial.",
+        "explanation_feedback": "Incorrecta. El plebiscito lo convoca el presidente sobre decisiones del Ejecutivo; no resuelve una afectación al ambiente."
+      },
+      {
+        "label": "D",
+        "text": "El habeas corpus, porque las personas están siendo afectadas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde mecanismos: el habeas corpus protege la libertad personal.",
+        "explanation_feedback": "Incorrecta. El habeas corpus se usa cuando alguien es privado ilegalmente de la libertad."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "3ad3f2da-c796-52be-a244-2f6b64b8151c",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El río de San Rafael",
+      "text": "En el municipio ficticio de San Rafael, una curtiembre vierte desechos al río del que toman agua varios barrios. Los peces han muerto y muchos vecinos tienen problemas en la piel. Un grupo de habitantes quiere que un juez ordene detener la contaminación y recuperar el río, pero no sabe a qué entidad acudir para recibir orientación sobre sus derechos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿A qué entidad pueden acudir los habitantes para recibir orientación sobre cómo defender sus derechos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Al Banco de la República.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una entidad sin relación con derechos.",
+        "explanation_feedback": "Incorrecta. El Banco de la República maneja la política monetaria."
+      },
+      {
+        "label": "B",
+        "text": "A la Defensoría del Pueblo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Defensoría del Pueblo orienta e instruye a las personas en el ejercicio y la defensa de sus derechos humanos."
+      },
+      {
+        "label": "C",
+        "text": "A la Contraloría General.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde control fiscal con defensa de derechos.",
+        "explanation_feedback": "Incorrecta. La Contraloría vigila el manejo de los recursos públicos."
+      },
+      {
+        "label": "D",
+        "text": "A la Registraduría Nacional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde funciones de la organización electoral.",
+        "explanation_feedback": "Incorrecta. La Registraduría organiza elecciones y lleva el registro civil."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "535573c5-ac13-56aa-9fd3-156ea4bd94d9",
+    "subject": "SC",
+    "evidence_code": "SC.E6.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El río de San Rafael",
+      "text": "En el municipio ficticio de San Rafael, una curtiembre vierte desechos al río del que toman agua varios barrios. Los peces han muerto y muchos vecinos tienen problemas en la piel. Un grupo de habitantes quiere que un juez ordene detener la contaminación y recuperar el río, pero no sabe a qué entidad acudir para recibir orientación sobre sus derechos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si el alcalde cierra la curtiembre sin ningún plan adicional, ¿qué dimensión del problema quedaría sin atender?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La cultural, porque los vecinos dejarían de hablar del río.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye un efecto sin relación con la medida.",
+        "explanation_feedback": "Incorrecta. El cierre no cambia por sí mismo prácticas culturales; el efecto evidente es económico."
+      },
+      {
+        "label": "B",
+        "text": "La económica, porque los trabajadores de la curtiembre perderían su empleo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cerrar la fuente resuelve parte de lo ambiental, pero genera efectos económicos sobre los empleados que habría que considerar."
+      },
+      {
+        "label": "C",
+        "text": "La ambiental, porque el río seguiría igual de contaminado para siempre.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que detener el vertimiento ataca la causa ambiental.",
+        "explanation_feedback": "Incorrecta. Cerrar la curtiembre detiene la fuente de contaminación, aunque recuperar el río tome tiempo."
+      },
+      {
+        "label": "D",
+        "text": "La jurídica, porque cerrar una empresa es siempre ilegal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza sin fundamento.",
+        "explanation_feedback": "Incorrecta. Una autoridad puede ordenar el cierre si hay daño ambiental, siguiendo el debido proceso."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "59117dce-813a-50b8-aad2-e90dfa2f2916",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Promesas de campaña",
+      "text": "Hace un año, los habitantes de un municipio eligieron a una alcaldesa que prometió construir un acueducto veredal. Desde entonces no ha iniciado la obra ni ha explicado por qué. Un grupo de ciudadanos que votó por ella está reuniendo firmas para pedir que deje el cargo antes de terminar su periodo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué mecanismo de participación están usando estos ciudadanos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La revocatoria del mandato.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La revocatoria permite a los ciudadanos dar por terminado el mandato de un alcalde o gobernador que incumple."
+      },
+      {
+        "label": "B",
+        "text": "El cabildo abierto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde mecanismos de participación local.",
+        "explanation_feedback": "Incorrecta. El cabildo abierto es una sesión pública del concejo para discutir asuntos de interés, no para retirar a un alcalde."
+      },
+      {
+        "label": "C",
+        "text": "El referendo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la aprobación de normas con la remoción de mandatarios.",
+        "explanation_feedback": "Incorrecta. El referendo sirve para aprobar o derogar normas."
+      },
+      {
+        "label": "D",
+        "text": "La acción de tutela.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un mecanismo de protección de derechos con uno de participación.",
+        "explanation_feedback": "Incorrecta. La tutela protege derechos fundamentales; no retira a un funcionario elegido."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "a2264602-03ac-596b-9fc4-a5022a6ac42b",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Promesas de campaña",
+      "text": "Hace un año, los habitantes de un municipio eligieron a una alcaldesa que prometió construir un acueducto veredal. Desde entonces no ha iniciado la obra ni ha explicado por qué. Un grupo de ciudadanos que votó por ella está reuniendo firmas para pedir que deje el cargo antes de terminar su periodo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿A cuál de estos funcionarios se le puede aplicar ese mismo mecanismo en Colombia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A un gobernador.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En Colombia la revocatoria del mandato procede contra alcaldes y gobernadores."
+      },
+      {
+        "label": "B",
+        "text": "A un magistrado.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde cargos elegidos con cargos designados.",
+        "explanation_feedback": "Incorrecta. Los magistrados no son elegidos por voto popular, y la revocatoria no los cubre."
+      },
+      {
+        "label": "C",
+        "text": "Al presidente.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que todo cargo elegido por voto puede revocarse.",
+        "explanation_feedback": "Incorrecta. La revocatoria no procede contra el presidente."
+      },
+      {
+        "label": "D",
+        "text": "A un senador.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que todo cargo elegido por voto puede revocarse.",
+        "explanation_feedback": "Incorrecta. La revocatoria no se aplica a congresistas."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "df23e931-acd2-535c-b741-0b7a6f7c1324",
+    "subject": "SC",
+    "evidence_code": "SC.E1.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Promesas de campaña",
+      "text": "Hace un año, los habitantes de un municipio eligieron a una alcaldesa que prometió construir un acueducto veredal. Desde entonces no ha iniciado la obra ni ha explicado por qué. Un grupo de ciudadanos que votó por ella está reuniendo firmas para pedir que deje el cargo antes de terminar su periodo.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué idea de la Constitución de 1991 explica que la alcaldesa deba cumplir lo que prometió?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La inmunidad: los elegidos no responden por sus decisiones.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye a la Constitución una idea opuesta.",
+        "explanation_feedback": "Incorrecta. La Constitución busca lo contrario: que los elegidos respondan ante los ciudadanos."
+      },
+      {
+        "label": "B",
+        "text": "El centralismo: el presidente decide las obras de cada municipio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconoce la autonomía territorial.",
+        "explanation_feedback": "Incorrecta. Los municipios tienen autonomía; la alcaldesa responde por su programa."
+      },
+      {
+        "label": "C",
+        "text": "El voto programático: quien elige impone al elegido el programa que presentó.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El artículo 259 establece que el elegido queda obligado con el programa de gobierno que inscribió."
+      },
+      {
+        "label": "D",
+        "text": "La neutralidad: el Estado no debe construir obras públicas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice las funciones del Estado.",
+        "explanation_feedback": "Incorrecta. Construir infraestructura sí es función del Estado."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "3a0d370e-99f0-56ac-ad20-980a59751ab6",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las ramas del poder público",
+      "text": "La Constitución colombiana organiza el poder público en tres ramas: legislativa, ejecutiva y judicial. Además, existen órganos autónomos e independientes, como los de control (Ministerio Público y Contraloría) y los de la organización electoral. La idea es que ninguna autoridad concentre todo el poder y que unas puedan vigilar a otras.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué institución hace las leyes en Colombia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El Congreso de la República.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La rama legislativa, formada por el Senado y la Cámara de Representantes, hace las leyes."
+      },
+      {
+        "label": "B",
+        "text": "La Corte Constitucional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde revisar leyes con hacerlas.",
+        "explanation_feedback": "Incorrecta. La Corte decide si una ley se ajusta a la Constitución, pero no la hace."
+      },
+      {
+        "label": "C",
+        "text": "La Procuraduría General.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un órgano de control con la rama legislativa.",
+        "explanation_feedback": "Incorrecta. La Procuraduría vigila la conducta de los servidores públicos."
+      },
+      {
+        "label": "D",
+        "text": "La Presidencia de la República.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde presentar proyectos con aprobarlos.",
+        "explanation_feedback": "Incorrecta. El Gobierno puede presentar proyectos, pero quien aprueba las leyes es el Congreso."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "ec2315eb-fc14-5ab3-9200-cc278e4ce866",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las ramas del poder público",
+      "text": "La Constitución colombiana organiza el poder público en tres ramas: legislativa, ejecutiva y judicial. Además, existen órganos autónomos e independientes, como los de control (Ministerio Público y Contraloría) y los de la organización electoral. La idea es que ninguna autoridad concentre todo el poder y que unas puedan vigilar a otras.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un funcionario de una gobernación usó su cargo para favorecer a un familiar en un contrato. ¿Qué entidad puede abrirle una investigación disciplinaria?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El Banco de la República.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una entidad sin funciones de control.",
+        "explanation_feedback": "Incorrecta. El Banco de la República maneja la política monetaria."
+      },
+      {
+        "label": "B",
+        "text": "La Procuraduría General de la Nación.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Procuraduría ejerce la vigilancia de la conducta oficial y adelanta investigaciones disciplinarias."
+      },
+      {
+        "label": "C",
+        "text": "El Congreso de la República.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde control político con control disciplinario.",
+        "explanation_feedback": "Incorrecta. El Congreso hace control político al Gobierno, no investiga disciplinariamente a funcionarios de una gobernación."
+      },
+      {
+        "label": "D",
+        "text": "La Registraduría Nacional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde órganos autónomos.",
+        "explanation_feedback": "Incorrecta. La Registraduría organiza las elecciones."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "cc7df21d-2cbe-5eea-a6db-eaa4bbf6d313",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las ramas del poder público",
+      "text": "La Constitución colombiana organiza el poder público en tres ramas: legislativa, ejecutiva y judicial. Además, existen órganos autónomos e independientes, como los de control (Ministerio Público y Contraloría) y los de la organización electoral. La idea es que ninguna autoridad concentre todo el poder y que unas puedan vigilar a otras.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué entidad vigila que los recursos públicos se gasten de manera correcta?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La Fiscalía General.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde investigación penal con control fiscal.",
+        "explanation_feedback": "Incorrecta. La Fiscalía investiga delitos; el control del gasto lo hace la Contraloría."
+      },
+      {
+        "label": "B",
+        "text": "El Consejo Nacional Electoral.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde órganos autónomos.",
+        "explanation_feedback": "Incorrecta. El CNE vigila la actividad electoral y los partidos."
+      },
+      {
+        "label": "C",
+        "text": "La Contraloría General de la República.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Contraloría ejerce el control fiscal sobre el manejo de los bienes y recursos públicos."
+      },
+      {
+        "label": "D",
+        "text": "La Defensoría del Pueblo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde defensa de derechos con control fiscal.",
+        "explanation_feedback": "Incorrecta. La Defensoría promueve y defiende los derechos humanos."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "ce44297f-35e5-54df-8771-c52e4f0f6eae",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las ramas del poder público",
+      "text": "La Constitución colombiana organiza el poder público en tres ramas: legislativa, ejecutiva y judicial. Además, existen órganos autónomos e independientes, como los de control (Ministerio Público y Contraloría) y los de la organización electoral. La idea es que ninguna autoridad concentre todo el poder y que unas puedan vigilar a otras.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de estas entidades hace parte de la rama judicial?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La Registraduría Nacional del Estado Civil.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la organización electoral con la rama judicial.",
+        "explanation_feedback": "Incorrecta. La Registraduría hace parte de la organización electoral."
+      },
+      {
+        "label": "B",
+        "text": "La Contraloría General de la República.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un órgano de control con la rama judicial.",
+        "explanation_feedback": "Incorrecta. La Contraloría es un órgano de control autónomo."
+      },
+      {
+        "label": "C",
+        "text": "La Fiscalía General de la Nación.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Constitución ubica a la Fiscalía dentro de la rama judicial."
+      },
+      {
+        "label": "D",
+        "text": "La Procuraduría General de la Nación.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un órgano de control con la rama judicial.",
+        "explanation_feedback": "Incorrecta. La Procuraduría pertenece al Ministerio Público, que es un órgano de control."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "2afe20e7-0631-5306-ad2b-472aa410b598",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las ramas del poder público",
+      "text": "La Constitución colombiana organiza el poder público en tres ramas: legislativa, ejecutiva y judicial. Además, existen órganos autónomos e independientes, como los de control (Ministerio Público y Contraloría) y los de la organización electoral. La idea es que ninguna autoridad concentre todo el poder y que unas puedan vigilar a otras.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué entidad organiza las elecciones y expide la cédula de ciudadanía?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La Contraloría General de la República.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde órganos autónomos.",
+        "explanation_feedback": "Incorrecta. La Contraloría vigila los recursos públicos."
+      },
+      {
+        "label": "B",
+        "text": "El Ministerio de Educación.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una entidad del Ejecutivo sin esa función.",
+        "explanation_feedback": "Incorrecta. El Ministerio de Educación orienta la política educativa."
+      },
+      {
+        "label": "C",
+        "text": "La Policía Nacional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia la cédula con seguridad.",
+        "explanation_feedback": "Incorrecta. La Policía no expide cédulas ni organiza elecciones."
+      },
+      {
+        "label": "D",
+        "text": "La Registraduría Nacional del Estado Civil.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Registraduría organiza los procesos electorales y la identificación de las personas."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "a9bfae63-5118-54d6-aea0-2e2c52a056c5",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las ramas del poder público",
+      "text": "La Constitución colombiana organiza el poder público en tres ramas: legislativa, ejecutiva y judicial. Además, existen órganos autónomos e independientes, como los de control (Ministerio Público y Contraloría) y los de la organización electoral. La idea es que ninguna autoridad concentre todo el poder y que unas puedan vigilar a otras.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es el propósito principal de dividir el poder público en ramas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Evitar que una sola autoridad concentre el poder y permitir controles mutuos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto lo dice: que ninguna autoridad concentre todo el poder y que unas vigilen a otras."
+      },
+      {
+        "label": "B",
+        "text": "Que haya más empleos públicos en el Estado.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye un propósito sin relación con el modelo.",
+        "explanation_feedback": "Incorrecta. La división del poder responde a limitar el poder, no a crear empleos."
+      },
+      {
+        "label": "C",
+        "text": "Que cada rama trabaje sin relación ni control de las demás.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la idea de controles mutuos.",
+        "explanation_feedback": "Incorrecta. Las ramas colaboran y se controlan; no actúan aisladas."
+      },
+      {
+        "label": "D",
+        "text": "Que el presidente pueda dirigir a los jueces y al Congreso.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la separación de poderes.",
+        "explanation_feedback": "Incorrecta. La división busca justamente que el presidente no controle a las otras ramas."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "22803ac1-8b5a-51b0-98a3-0f111354df2c",
+    "subject": "SC",
+    "evidence_code": "SC.E1.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las ramas del poder público",
+      "text": "La Constitución colombiana organiza el poder público en tres ramas: legislativa, ejecutiva y judicial. Además, existen órganos autónomos e independientes, como los de control (Ministerio Público y Contraloría) y los de la organización electoral. La idea es que ninguna autoridad concentre todo el poder y que unas puedan vigilar a otras.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál situación es un ejemplo de control entre las ramas del poder?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El presidente nombra a sus ministros para dirigir cada sector.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde una función del Ejecutivo con control.",
+        "explanation_feedback": "Incorrecta. Nombrar ministros es una facultad del presidente, no un control sobre otra rama."
+      },
+      {
+        "label": "B",
+        "text": "Un juez decide un pleito entre dos vecinos por un lindero.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la función ordinaria de un juez con control entre ramas.",
+        "explanation_feedback": "Incorrecta. Resolver un pleito entre particulares no controla a otra rama."
+      },
+      {
+        "label": "C",
+        "text": "La Corte Constitucional declara que una ley aprobada por el Congreso es contraria a la Constitución.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Un órgano judicial revisa la obra del legislativo: es un control entre ramas."
+      },
+      {
+        "label": "D",
+        "text": "El Congreso elige a sus propias mesas directivas al inicio de cada año.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la organización interna de una rama con el control entre ramas.",
+        "explanation_feedback": "Incorrecta. Elegir sus mesas directivas es un asunto interno del Congreso."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "890231c8-e5f3-5e01-b4fd-d6cd99c17476",
+    "subject": "SC",
+    "evidence_code": "SC.E1.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Estado social de derecho",
+      "text": "El artículo 1 de la Constitución de 1991 define a Colombia como un Estado social de derecho. Que sea «de derecho» significa que todas las autoridades, incluidos los gobernantes, deben actuar según la Constitución y las leyes. Que sea «social» significa que el Estado no solo debe respetar las libertades, sino también actuar para que todas las personas tengan condiciones dignas de vida, en especial las que están en situación de desventaja.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué situación muestra el componente «de derecho» del modelo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El Estado entrega subsidios a familias de bajos ingresos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el componente social con el de derecho.",
+        "explanation_feedback": "Incorrecta. Los subsidios muestran el componente «social»."
+      },
+      {
+        "label": "B",
+        "text": "Un municipio construye un comedor para adultos mayores.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el componente social con el de derecho.",
+        "explanation_feedback": "Incorrecta. Ese es un ejemplo del componente «social»."
+      },
+      {
+        "label": "C",
+        "text": "Un ministro es sancionado por tomar una decisión que la ley no le permitía.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El componente «de derecho» implica que también los gobernantes están sometidos a la ley."
+      },
+      {
+        "label": "D",
+        "text": "Los ciudadanos celebran una fiesta tradicional en la plaza.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una práctica cultural sin relación.",
+        "explanation_feedback": "Incorrecta. Una fiesta no muestra la sujeción de las autoridades a la ley."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "58edd58a-1cd2-58c6-933f-3b8ed41365e2",
+    "subject": "SC",
+    "evidence_code": "SC.E1.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Estado social de derecho",
+      "text": "El artículo 1 de la Constitución de 1991 define a Colombia como un Estado social de derecho. Que sea «de derecho» significa que todas las autoridades, incluidos los gobernantes, deben actuar según la Constitución y las leyes. Que sea «social» significa que el Estado no solo debe respetar las libertades, sino también actuar para que todas las personas tengan condiciones dignas de vida, en especial las que están en situación de desventaja.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según el texto, ¿cuál medida responde mejor al componente «social» del Estado?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Una ley que obliga a todas las personas a pagar el mismo impuesto sin importar su ingreso.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que igualdad formal es lo mismo que igualdad material.",
+        "explanation_feedback": "Incorrecta. Tratar igual a quienes están en condiciones distintas no responde al componente social."
+      },
+      {
+        "label": "B",
+        "text": "Una norma que prohíbe a la policía entrar a una casa sin orden judicial.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la protección de libertades con el componente social.",
+        "explanation_feedback": "Incorrecta. Esa norma protege una libertad; es parte del Estado de derecho."
+      },
+      {
+        "label": "C",
+        "text": "Una reforma que permite al presidente gobernar sin control del Congreso.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el modelo.",
+        "explanation_feedback": "Incorrecta. Eso iría contra la separación de poderes y no tiene relación con lo social."
+      },
+      {
+        "label": "D",
+        "text": "Un programa que da transporte gratuito a estudiantes rurales que viven lejos del colegio.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El Estado actúa para crear condiciones reales de acceso a un derecho para quienes están en desventaja."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "8f1cd7ae-2e6e-5200-93fe-fb791cdcf30d",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Mecanismos de participación ciudadana",
+      "text": "La Constitución de 1991 y la Ley 134 de 1994 crearon varios mecanismos para que la ciudadanía participe en las decisiones públicas, además del voto. Entre ellos están el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa popular legislativa y normativa, y la revocatoria del mandato.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Los habitantes de un barrio quieren que el concejo municipal discuta en una sesión pública, con su participación, el cierre de un parque. ¿Qué mecanismo deben usar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La acción de tutela.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde participación con protección judicial.",
+        "explanation_feedback": "Incorrecta. La tutela es para proteger derechos fundamentales ante un juez."
+      },
+      {
+        "label": "B",
+        "text": "El plebiscito.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde mecanismos locales con nacionales.",
+        "explanation_feedback": "Incorrecta. El plebiscito lo convoca el presidente sobre decisiones del Ejecutivo."
+      },
+      {
+        "label": "C",
+        "text": "El cabildo abierto.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El cabildo abierto es una sesión pública del concejo en la que los habitantes participan para discutir asuntos de interés de la comunidad."
+      },
+      {
+        "label": "D",
+        "text": "La revocatoria del mandato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde discutir un tema con retirar a un mandatario.",
+        "explanation_feedback": "Incorrecta. La revocatoria busca terminar el mandato de un alcalde o gobernador."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "d87806e7-4ebe-5bda-a061-97f6d7f42cc6",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Mecanismos de participación ciudadana",
+      "text": "La Constitución de 1991 y la Ley 134 de 1994 crearon varios mecanismos para que la ciudadanía participe en las decisiones públicas, además del voto. Entre ellos están el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa popular legislativa y normativa, y la revocatoria del mandato.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "El presidente convoca a los ciudadanos para que apoyen o rechacen una decisión de su gobierno. ¿Qué mecanismo es?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El plebiscito.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En el plebiscito, el presidente somete a consideración del pueblo una decisión del Ejecutivo."
+      },
+      {
+        "label": "B",
+        "text": "El cabildo abierto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un mecanismo local con uno nacional.",
+        "explanation_feedback": "Incorrecta. El cabildo abierto es una sesión pública de un concejo o asamblea."
+      },
+      {
+        "label": "C",
+        "text": "La iniciativa popular.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte quién propone.",
+        "explanation_feedback": "Incorrecta. La iniciativa popular la presentan los ciudadanos, no el presidente."
+      },
+      {
+        "label": "D",
+        "text": "El referendo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde decisiones del Ejecutivo con normas.",
+        "explanation_feedback": "Incorrecta. El referendo se usa para aprobar o derogar una norma, como una ley."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "0475f230-87c8-5be1-954b-7d23c000a160",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Mecanismos de participación ciudadana",
+      "text": "La Constitución de 1991 y la Ley 134 de 1994 crearon varios mecanismos para que la ciudadanía participe en las decisiones públicas, además del voto. Entre ellos están el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa popular legislativa y normativa, y la revocatoria del mandato.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un grupo de ciudadanos recoge firmas para presentar un proyecto de ley ante el Congreso. ¿Qué mecanismo usan?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La consulta popular.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde proponer una ley con responder una pregunta.",
+        "explanation_feedback": "Incorrecta. En la consulta popular se responde una pregunta sobre un asunto de interés."
+      },
+      {
+        "label": "B",
+        "text": "El voto programático.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un principio con un mecanismo.",
+        "explanation_feedback": "Incorrecta. El voto programático obliga al elegido con su programa; no sirve para presentar leyes."
+      },
+      {
+        "label": "C",
+        "text": "La iniciativa popular legislativa.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Permite que los ciudadanos presenten proyectos de ley, con el respaldo de un número mínimo de firmas."
+      },
+      {
+        "label": "D",
+        "text": "La revocatoria del mandato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia la recolección de firmas solo con la revocatoria.",
+        "explanation_feedback": "Incorrecta. La revocatoria también usa firmas, pero busca retirar a un mandatario."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "ad957b4e-3db7-53d6-b453-61125fd03a9a",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Mecanismos de participación ciudadana",
+      "text": "La Constitución de 1991 y la Ley 134 de 1994 crearon varios mecanismos para que la ciudadanía participe en las decisiones públicas, además del voto. Entre ellos están el plebiscito, el referendo, la consulta popular, el cabildo abierto, la iniciativa popular legislativa y normativa, y la revocatoria del mandato.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "En un municipio se pregunta a los habitantes si están de acuerdo con que se hagan actividades mineras en su territorio. ¿Qué mecanismo es?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La acción de cumplimiento.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde participación con un mecanismo judicial.",
+        "explanation_feedback": "Incorrecta. La acción de cumplimiento se presenta ante un juez."
+      },
+      {
+        "label": "B",
+        "text": "El referendo derogatorio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde preguntar por un asunto con derogar una norma.",
+        "explanation_feedback": "Incorrecta. El referendo derogatorio busca dejar sin efecto una norma."
+      },
+      {
+        "label": "C",
+        "text": "El habeas data.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la protección de datos personales.",
+        "explanation_feedback": "Incorrecta. El habeas data protege la información personal."
+      },
+      {
+        "label": "D",
+        "text": "La consulta popular.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En la consulta popular se somete a la ciudadanía una pregunta sobre un asunto de importancia para el municipio, departamento o nación."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "e7d707a4-35d7-507e-8a33-6a41cb9770ab",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una respuesta que no llega",
+      "text": "Laura, estudiante de grado 11, envió una solicitud escrita a la secretaría de educación de su municipio para pedir información sobre las becas para estudiar en la universidad. Han pasado dos meses y no ha recibido ninguna respuesta.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué derecho ejerció Laura al enviar su solicitud?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El habeas corpus.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la protección de la libertad.",
+        "explanation_feedback": "Incorrecta. El habeas corpus protege a quien está privado ilegalmente de la libertad."
+      },
+      {
+        "label": "B",
+        "text": "El derecho de petición.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El derecho de petición permite presentar solicitudes respetuosas a las autoridades y obtener una respuesta pronta."
+      },
+      {
+        "label": "C",
+        "text": "El derecho a la huelga.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un derecho laboral.",
+        "explanation_feedback": "Incorrecta. La huelga es un derecho de los trabajadores."
+      },
+      {
+        "label": "D",
+        "text": "El derecho al sufragio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde participación electoral con solicitudes a autoridades.",
+        "explanation_feedback": "Incorrecta. El sufragio es el derecho a votar."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "2377c7f2-887c-5e9f-8d23-38db07284358",
+    "subject": "SC",
+    "evidence_code": "SC.E1.4",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una respuesta que no llega",
+      "text": "Laura, estudiante de grado 11, envió una solicitud escrita a la secretaría de educación de su municipio para pedir información sobre las becas para estudiar en la universidad. Han pasado dos meses y no ha recibido ninguna respuesta.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si la secretaría sigue sin responder, ¿qué puede hacer Laura para que un juez proteja su derecho?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Presentar una acción popular, porque las becas son para todos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un derecho individual con uno colectivo.",
+        "explanation_feedback": "Incorrecta. Laura reclama su propio derecho a recibir respuesta, no un derecho colectivo."
+      },
+      {
+        "label": "B",
+        "text": "Esperar a que el alcalde termine su periodo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que no existe ningún mecanismo.",
+        "explanation_feedback": "Incorrecta. Laura sí tiene un mecanismo judicial para exigir la respuesta."
+      },
+      {
+        "label": "C",
+        "text": "Presentar una acción de tutela, porque el derecho de petición es fundamental.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Como el derecho de petición es fundamental, la falta de respuesta puede reclamarse mediante tutela."
+      },
+      {
+        "label": "D",
+        "text": "Pedir un plebiscito sobre las becas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un reclamo individual con participación política.",
+        "explanation_feedback": "Incorrecta. El plebiscito lo convoca el presidente."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "664aa5c7-7e10-5afa-a978-ad905064c534",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "El precio de la papa",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Producción y precio de la papa en un mercado mayorista regional (datos ficticios)",
+        "headers": [
+          "Mes",
+          "Toneladas que llegaron",
+          "Precio por bulto (pesos)"
+        ],
+        "rows": [
+          [
+            "Enero",
+            8000,
+            95000
+          ],
+          [
+            "Febrero",
+            9500,
+            80000
+          ],
+          [
+            "Marzo",
+            14000,
+            52000
+          ],
+          [
+            "Abril",
+            6000,
+            110000
+          ]
+        ]
+      }
+    },
+    "stem": "¿En qué mes el precio de la papa fue más bajo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Enero.",
+        "is_correct": false,
+        "distractor_diagnosis": "No compara todos los valores.",
+        "explanation_feedback": "Incorrecta. En enero costó 95.000 pesos, más que en marzo."
+      },
+      {
+        "label": "B",
+        "text": "Marzo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En marzo el bulto costó 52.000 pesos, el menor valor de la tabla."
+      },
+      {
+        "label": "C",
+        "text": "Febrero.",
+        "is_correct": false,
+        "distractor_diagnosis": "No compara todos los valores.",
+        "explanation_feedback": "Incorrecta. En febrero costó 80.000 pesos, más que en marzo."
+      },
+      {
+        "label": "D",
+        "text": "Abril.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el mayor precio con el menor.",
+        "explanation_feedback": "Incorrecta. En abril el precio fue el más alto: 110.000 pesos."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "b773a8d0-e42f-5beb-a9be-5384e9431f39",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "El precio de la papa",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Producción y precio de la papa en un mercado mayorista regional (datos ficticios)",
+        "headers": [
+          "Mes",
+          "Toneladas que llegaron",
+          "Precio por bulto (pesos)"
+        ],
+        "rows": [
+          [
+            "Enero",
+            8000,
+            95000
+          ],
+          [
+            "Febrero",
+            9500,
+            80000
+          ],
+          [
+            "Marzo",
+            14000,
+            52000
+          ],
+          [
+            "Abril",
+            6000,
+            110000
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué concepto económico explica mejor la relación entre las dos columnas de la tabla?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La inflación: todos los precios de la economía subieron cada mes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un precio particular con el nivel general de precios.",
+        "explanation_feedback": "Incorrecta. La tabla muestra un solo producto cuyo precio sube y baja; no muestra un aumento general."
+      },
+      {
+        "label": "B",
+        "text": "El desempleo: los campesinos dejaron de trabajar en marzo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una causa que la tabla no muestra.",
+        "explanation_feedback": "Incorrecta. La tabla no tiene datos de empleo; en marzo llegó más papa, no menos."
+      },
+      {
+        "label": "C",
+        "text": "El monopolio: un solo vendedor fijó el precio todo el año.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una estructura de mercado no indicada.",
+        "explanation_feedback": "Incorrecta. Si un solo vendedor fijara el precio, no variaría tanto con la cantidad."
+      },
+      {
+        "label": "D",
+        "text": "La ley de la oferta y la demanda: cuando llega más producto, el precio tiende a bajar.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En marzo llegó la mayor cantidad y el precio fue el más bajo; en abril llegó poco y el precio subió."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "ea4116d3-21aa-52b2-a859-0b750fc45e54",
+    "subject": "SC",
+    "evidence_code": "SC.E5.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "El precio de la papa",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Producción y precio de la papa en un mercado mayorista regional (datos ficticios)",
+        "headers": [
+          "Mes",
+          "Toneladas que llegaron",
+          "Precio por bulto (pesos)"
+        ],
+        "rows": [
+          [
+            "Enero",
+            8000,
+            95000
+          ],
+          [
+            "Febrero",
+            9500,
+            80000
+          ],
+          [
+            "Marzo",
+            14000,
+            52000
+          ],
+          [
+            "Abril",
+            6000,
+            110000
+          ]
+        ]
+      }
+    },
+    "stem": "Un gobernador propone comprar parte de la cosecha cuando hay exceso y venderla cuando escasea. Según la tabla, ¿qué busca esa medida?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Eliminar por completo el mercado mayorista.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el alcance de la medida.",
+        "explanation_feedback": "Incorrecta. La medida interviene en el mercado, pero no lo elimina."
+      },
+      {
+        "label": "B",
+        "text": "Reducir las variaciones bruscas del precio que afectan a productores y consumidores.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Retirar producto cuando sobra y ofrecerlo cuando falta ayuda a estabilizar el precio."
+      },
+      {
+        "label": "C",
+        "text": "Que los campesinos dejen de cultivar papa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye un efecto opuesto.",
+        "explanation_feedback": "Incorrecta. La medida protege a los productores de precios muy bajos."
+      },
+      {
+        "label": "D",
+        "text": "Subir el precio de la papa todos los meses.",
+        "is_correct": false,
+        "distractor_diagnosis": "Interpreta la medida como un alza permanente.",
+        "explanation_feedback": "Incorrecta. Vender cuando escasea frena la subida; el objetivo es estabilizar, no subir siempre."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "fbd141fd-2dcb-5f96-bb19-ce29d691c26c",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un país diverso",
+      "text": "El artículo 7 de la Constitución de 1991 dice que el Estado reconoce y protege la diversidad étnica y cultural de la Nación colombiana. El artículo 10 establece que el castellano es el idioma oficial, pero que las lenguas y dialectos de los grupos étnicos también son oficiales en sus territorios, y que la enseñanza en las comunidades con tradiciones lingüísticas propias será bilingüe.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según el texto, ¿qué reconoce la Constitución de 1991?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que las culturas indígenas deben desaparecer con el tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. La Constitución protege la diversidad, no busca eliminarla."
+      },
+      {
+        "label": "B",
+        "text": "Que solo existe una cultura nacional que todos comparten.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la idea de diversidad.",
+        "explanation_feedback": "Incorrecta. El texto habla de diversidad étnica y cultural."
+      },
+      {
+        "label": "C",
+        "text": "Que todos los colombianos deben hablar únicamente castellano.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que las lenguas étnicas son oficiales en sus territorios.",
+        "explanation_feedback": "Incorrecta. El artículo 10 reconoce otras lenguas oficiales en los territorios de los grupos étnicos."
+      },
+      {
+        "label": "D",
+        "text": "Que en Colombia conviven diversos pueblos y culturas que el Estado debe proteger.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El artículo 7 reconoce y protege la diversidad étnica y cultural."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "0654de2a-ab31-583a-97d2-6ffdbfc6b5a9",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un país diverso",
+      "text": "El artículo 7 de la Constitución de 1991 dice que el Estado reconoce y protege la diversidad étnica y cultural de la Nación colombiana. El artículo 10 establece que el castellano es el idioma oficial, pero que las lenguas y dialectos de los grupos étnicos también son oficiales en sus territorios, y que la enseñanza en las comunidades con tradiciones lingüísticas propias será bilingüe.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué medida aplica lo establecido en el artículo 10?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Un colegio de un resguardo wayuu enseña en wayuunaiki y en castellano.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La enseñanza bilingüe en comunidades con lengua propia aplica directamente el artículo 10."
+      },
+      {
+        "label": "B",
+        "text": "Un canal de televisión transmite en castellano todo el día.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un hecho sin relación con el artículo.",
+        "explanation_feedback": "Incorrecta. Usar castellano no aplica la protección de lenguas étnicas."
+      },
+      {
+        "label": "C",
+        "text": "Una alcaldía prohíbe los letreros en lenguas indígenas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el artículo.",
+        "explanation_feedback": "Incorrecta. Prohibir las lenguas indígenas va contra su carácter oficial en sus territorios."
+      },
+      {
+        "label": "D",
+        "text": "Un colegio de Bogotá exige que todos los estudiantes aprendan inglés.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde bilingüismo con lengua extranjera.",
+        "explanation_feedback": "Incorrecta. El artículo 10 se refiere a lenguas de grupos étnicos, no al inglés."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "6f9378c3-38f8-530a-8852-ef8da0e83304",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Dónde reside la soberanía?",
+      "text": "«La soberanía reside exclusivamente en el pueblo, del cual emana el poder público. El pueblo la ejerce en forma directa o por medio de sus representantes, en los términos que la Constitución establece.» (Constitución Política de Colombia, artículo 3)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según el artículo, ¿de dónde proviene el poder público?",
+    "options": [
+      {
+        "label": "A",
+        "text": "De la Corte Constitucional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde a quien interpreta la Constitución con el origen del poder.",
+        "explanation_feedback": "Incorrecta. La Corte guarda la Constitución, pero el poder emana del pueblo."
+      },
+      {
+        "label": "B",
+        "text": "Del presidente.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde a quien ejerce el poder con su origen.",
+        "explanation_feedback": "Incorrecta. El presidente ejerce poder como representante, pero el poder emana del pueblo."
+      },
+      {
+        "label": "C",
+        "text": "Del pueblo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El artículo dice que el poder público emana del pueblo, en quien reside la soberanía."
+      },
+      {
+        "label": "D",
+        "text": "De las Fuerzas Militares.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el uso de la fuerza con la soberanía.",
+        "explanation_feedback": "Incorrecta. El artículo no menciona a las Fuerzas Militares."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "55bb42d4-0f35-5dd9-ad13-c7f17b80df11",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Dónde reside la soberanía?",
+      "text": "«La soberanía reside exclusivamente en el pueblo, del cual emana el poder público. El pueblo la ejerce en forma directa o por medio de sus representantes, en los términos que la Constitución establece.» (Constitución Política de Colombia, artículo 3)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es un ejemplo de ejercicio directo de la soberanía, según el artículo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Los ciudadanos votan en un referendo para aprobar una norma.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En el referendo el pueblo decide por sí mismo, sin intermediarios."
+      },
+      {
+        "label": "B",
+        "text": "El Congreso aprueba una ley de presupuesto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el ejercicio por representantes con el directo.",
+        "explanation_feedback": "Incorrecta. El Congreso actúa como representante del pueblo."
+      },
+      {
+        "label": "C",
+        "text": "Un juez dicta sentencia en un proceso penal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una función judicial.",
+        "explanation_feedback": "Incorrecta. Una sentencia no es ejercicio directo de la soberanía popular."
+      },
+      {
+        "label": "D",
+        "text": "El presidente nombra a un ministro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una función del Ejecutivo.",
+        "explanation_feedback": "Incorrecta. Nombrar ministros es una facultad del presidente."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "12342001-6d3b-56e0-865e-70f43a171f00",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Midiendo el desempleo",
+      "text": "La tasa de desempleo se calcula dividiendo el número de personas desocupadas entre la población económicamente activa (las personas que trabajan o buscan trabajo) y multiplicando por 100. En una ciudad ficticia hay 400.000 personas económicamente activas, de las cuales 40.000 buscan trabajo y no lo encuentran.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es la tasa de desempleo de la ciudad?",
+    "options": [
+      {
+        "label": "A",
+        "text": "40 %.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma el número de desocupados en miles como porcentaje.",
+        "explanation_feedback": "Incorrecta. 40.000 no es 40 %: hay que dividirlo entre 400.000."
+      },
+      {
+        "label": "B",
+        "text": "10 %.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 40.000 ÷ 400.000 = 0,1; por 100 da 10 %."
+      },
+      {
+        "label": "C",
+        "text": "4 %.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide mal entre las cifras.",
+        "explanation_feedback": "Incorrecta. 40.000 ÷ 400.000 es 0,1, que equivale a 10 %."
+      },
+      {
+        "label": "D",
+        "text": "90 %.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula el porcentaje de ocupados.",
+        "explanation_feedback": "Incorrecta. 90 % sería la proporción de quienes sí tienen trabajo."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "a84d2e3e-2c93-5585-a288-cae80b52e211",
+    "subject": "SC",
+    "evidence_code": "SC.E1.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Midiendo el desempleo",
+      "text": "La tasa de desempleo se calcula dividiendo el número de personas desocupadas entre la población económicamente activa (las personas que trabajan o buscan trabajo) y multiplicando por 100. En una ciudad ficticia hay 400.000 personas económicamente activas, de las cuales 40.000 buscan trabajo y no lo encuentran.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si 20.000 desocupados dejan de buscar trabajo porque se desaniman, ¿qué pasa con la tasa calculada?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Llega a cero, porque nadie busca trabajo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el efecto.",
+        "explanation_feedback": "Incorrecta. Aún quedan 20.000 personas buscando trabajo."
+      },
+      {
+        "label": "B",
+        "text": "Baja, aunque no se haya creado ningún empleo nuevo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Salen del numerador y del denominador: 20.000 ÷ 380.000 ≈ 5,3 %; la tasa baja sin nuevos empleos."
+      },
+      {
+        "label": "C",
+        "text": "Sigue igual, porque las personas son las mismas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la definición de población activa.",
+        "explanation_feedback": "Incorrecta. La definición cambia quién cuenta en el cálculo."
+      },
+      {
+        "label": "D",
+        "text": "Sube, porque hay más personas sin trabajo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que siguen contando como desocupados.",
+        "explanation_feedback": "Incorrecta. Quien deja de buscar ya no cuenta en la población activa."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "45ae4712-121a-54e1-9b98-b7a6fa87f1c6",
+    "subject": "SC",
+    "evidence_code": "SC.E2.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Momentos de la historia de Colombia",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Algunos hechos de la historia de Colombia",
+        "headers": [
+          "Año",
+          "Hecho"
+        ],
+        "rows": [
+          [
+            "1810",
+            "Grito de independencia en Santa Fe (20 de julio)"
+          ],
+          [
+            "1819",
+            "Batalla de Boyacá"
+          ],
+          [
+            "1886",
+            "Nueva Constitución de carácter centralista"
+          ],
+          [
+            "1948",
+            "Asesinato de Jorge Eliécer Gaitán y «Bogotazo»"
+          ],
+          [
+            "1958-1974",
+            "Frente Nacional"
+          ],
+          [
+            "1991",
+            "Nueva Constitución Política"
+          ],
+          [
+            "2016",
+            "Firma del Acuerdo de Paz con las FARC-EP"
+          ]
+        ]
+      }
+    },
+    "stem": "¿Cuántos años estuvo vigente la Constitución de 1886 antes de ser reemplazada?",
+    "options": [
+      {
+        "label": "A",
+        "text": "105 años.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se adoptó en 1886 y fue reemplazada en 1991: 1991 − 1886 = 105."
+      },
+      {
+        "label": "B",
+        "text": "72 años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta con una fecha equivocada (1958).",
+        "explanation_feedback": "Incorrecta. El Frente Nacional no reemplazó la Constitución; eso ocurrió en 1991."
+      },
+      {
+        "label": "C",
+        "text": "130 años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta con 2016.",
+        "explanation_feedback": "Incorrecta. En 2016 se firmó el Acuerdo de Paz; la Constitución se reemplazó en 1991."
+      },
+      {
+        "label": "D",
+        "text": "62 años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta con 1948.",
+        "explanation_feedback": "Incorrecta. El Bogotazo no reemplazó la Constitución."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "e8a2a149-01d1-5832-9a27-894a8a403d2e",
+    "subject": "SC",
+    "evidence_code": "SC.E2.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Momentos de la historia de Colombia",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Algunos hechos de la historia de Colombia",
+        "headers": [
+          "Año",
+          "Hecho"
+        ],
+        "rows": [
+          [
+            "1810",
+            "Grito de independencia en Santa Fe (20 de julio)"
+          ],
+          [
+            "1819",
+            "Batalla de Boyacá"
+          ],
+          [
+            "1886",
+            "Nueva Constitución de carácter centralista"
+          ],
+          [
+            "1948",
+            "Asesinato de Jorge Eliécer Gaitán y «Bogotazo»"
+          ],
+          [
+            "1958-1974",
+            "Frente Nacional"
+          ],
+          [
+            "1991",
+            "Nueva Constitución Política"
+          ],
+          [
+            "2016",
+            "Firma del Acuerdo de Paz con las FARC-EP"
+          ]
+        ]
+      }
+    },
+    "stem": "¿En qué consistió el Frente Nacional?",
+    "options": [
+      {
+        "label": "A",
+        "text": "En un acuerdo de paz entre el Gobierno y las FARC-EP.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con el acuerdo de 2016.",
+        "explanation_feedback": "Incorrecta. Ese acuerdo se firmó en 2016."
+      },
+      {
+        "label": "B",
+        "text": "En un acuerdo para que liberales y conservadores se alternaran la presidencia y repartieran los cargos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Fue un pacto entre los dos partidos tradicionales para alternarse el poder entre 1958 y 1974."
+      },
+      {
+        "label": "C",
+        "text": "En una asamblea que redactó la Constitución de 1991.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la Asamblea Constituyente.",
+        "explanation_feedback": "Incorrecta. La Asamblea Nacional Constituyente se reunió en 1991."
+      },
+      {
+        "label": "D",
+        "text": "En la guerra de independencia contra España.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde periodos históricos.",
+        "explanation_feedback": "Incorrecta. La independencia ocurrió en 1810-1819."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "a7f017db-9271-5f60-9708-61fc5bc1e986",
+    "subject": "SC",
+    "evidence_code": "SC.E2.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Momentos de la historia de Colombia",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Algunos hechos de la historia de Colombia",
+        "headers": [
+          "Año",
+          "Hecho"
+        ],
+        "rows": [
+          [
+            "1810",
+            "Grito de independencia en Santa Fe (20 de julio)"
+          ],
+          [
+            "1819",
+            "Batalla de Boyacá"
+          ],
+          [
+            "1886",
+            "Nueva Constitución de carácter centralista"
+          ],
+          [
+            "1948",
+            "Asesinato de Jorge Eliécer Gaitán y «Bogotazo»"
+          ],
+          [
+            "1958-1974",
+            "Frente Nacional"
+          ],
+          [
+            "1991",
+            "Nueva Constitución Política"
+          ],
+          [
+            "2016",
+            "Firma del Acuerdo de Paz con las FARC-EP"
+          ]
+        ]
+      }
+    },
+    "stem": "Algunos historiadores dicen que el Frente Nacional redujo la violencia entre partidos, pero dejó por fuera a otros movimientos políticos. ¿Qué relación tiene esto con la Constitución de 1991?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La Constitución de 1991 buscó abrir la participación política a más grupos y ciudadanos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La nueva Constitución amplió los mecanismos de participación y la pluralidad política frente al bipartidismo cerrado."
+      },
+      {
+        "label": "B",
+        "text": "La Constitución de 1991 no tuvo relación con la participación política.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconoce uno de sus ejes.",
+        "explanation_feedback": "Incorrecta. La participación ciudadana fue un eje central de la Constitución de 1991."
+      },
+      {
+        "label": "C",
+        "text": "La Constitución de 1991 prohibió los partidos Liberal y Conservador.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el cambio.",
+        "explanation_feedback": "Incorrecta. La Constitución no prohibió esos partidos; permitió que existieran más."
+      },
+      {
+        "label": "D",
+        "text": "La Constitución de 1991 restableció el Frente Nacional por otros dieciséis años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una continuidad.",
+        "explanation_feedback": "Incorrecta. La Constitución de 1991 no restableció el Frente Nacional."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "f33ccc10-30ea-520e-9b8c-04b16eccde64",
+    "subject": "SC",
+    "evidence_code": "SC.E2.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Momentos de la historia de Colombia",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Algunos hechos de la historia de Colombia",
+        "headers": [
+          "Año",
+          "Hecho"
+        ],
+        "rows": [
+          [
+            "1810",
+            "Grito de independencia en Santa Fe (20 de julio)"
+          ],
+          [
+            "1819",
+            "Batalla de Boyacá"
+          ],
+          [
+            "1886",
+            "Nueva Constitución de carácter centralista"
+          ],
+          [
+            "1948",
+            "Asesinato de Jorge Eliécer Gaitán y «Bogotazo»"
+          ],
+          [
+            "1958-1974",
+            "Frente Nacional"
+          ],
+          [
+            "1991",
+            "Nueva Constitución Política"
+          ],
+          [
+            "2016",
+            "Firma del Acuerdo de Paz con las FARC-EP"
+          ]
+        ]
+      }
+    },
+    "stem": "Un movimiento estudiantil propuso en 1990 incluir en las elecciones un voto adicional para convocar una Asamblea Constituyente. ¿Con qué hecho de la tabla se relaciona?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Con la Constitución de 1886.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde las constituciones.",
+        "explanation_feedback": "Incorrecta. La propuesta llevó a reemplazar la de 1886, no a crearla."
+      },
+      {
+        "label": "B",
+        "text": "Con el Acuerdo de Paz de 2016.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la fecha.",
+        "explanation_feedback": "Incorrecta. La propuesta de 1990 llevó a la Constitución de 1991."
+      },
+      {
+        "label": "C",
+        "text": "Con el Frente Nacional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la fecha.",
+        "explanation_feedback": "Incorrecta. El Frente Nacional terminó en 1974."
+      },
+      {
+        "label": "D",
+        "text": "Con la nueva Constitución Política de 1991.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La «séptima papeleta» impulsó la Asamblea Nacional Constituyente, que redactó la Constitución de 1991."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "6888b1bf-7461-557f-98b5-79af7c0d602e",
+    "subject": "SC",
+    "evidence_code": "SC.E2.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Momentos de la historia de Colombia",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Algunos hechos de la historia de Colombia",
+        "headers": [
+          "Año",
+          "Hecho"
+        ],
+        "rows": [
+          [
+            "1810",
+            "Grito de independencia en Santa Fe (20 de julio)"
+          ],
+          [
+            "1819",
+            "Batalla de Boyacá"
+          ],
+          [
+            "1886",
+            "Nueva Constitución de carácter centralista"
+          ],
+          [
+            "1948",
+            "Asesinato de Jorge Eliécer Gaitán y «Bogotazo»"
+          ],
+          [
+            "1958-1974",
+            "Frente Nacional"
+          ],
+          [
+            "1991",
+            "Nueva Constitución Política"
+          ],
+          [
+            "2016",
+            "Firma del Acuerdo de Paz con las FARC-EP"
+          ]
+        ]
+      }
+    },
+    "stem": "¿Cuál de estos hechos ocurrió en el siglo XIX?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El «Bogotazo».",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde siglos.",
+        "explanation_feedback": "Incorrecta. El Bogotazo fue en 1948, en el siglo XX."
+      },
+      {
+        "label": "B",
+        "text": "El Frente Nacional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde siglos.",
+        "explanation_feedback": "Incorrecta. El Frente Nacional fue en el siglo XX."
+      },
+      {
+        "label": "C",
+        "text": "El Acuerdo de Paz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde siglos.",
+        "explanation_feedback": "Incorrecta. El Acuerdo de Paz se firmó en 2016, en el siglo XXI."
+      },
+      {
+        "label": "D",
+        "text": "La Batalla de Boyacá.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Batalla de Boyacá fue en 1819, es decir, en el siglo XIX (1801-1900)."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "98773289-4a90-5c04-a229-c77964bae39d",
+    "subject": "SC",
+    "evidence_code": "SC.E2.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "De campo a ciudad",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Porcentaje de la población colombiana que vivía en zonas urbanas (cifras aproximadas de los censos)",
+        "headers": [
+          "Año del censo",
+          "Población urbana (%)"
+        ],
+        "rows": [
+          [
+            "1938",
+            31
+          ],
+          [
+            "1951",
+            39
+          ],
+          [
+            "1964",
+            53
+          ],
+          [
+            "1973",
+            61
+          ],
+          [
+            "1993",
+            71
+          ],
+          [
+            "2018",
+            77
+          ]
+        ]
+      }
+    },
+    "stem": "Según la tabla, ¿entre qué censos la población urbana pasó a ser la mayoría?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Entre 1993 y 2018.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma un periodo en que ya era mayoría.",
+        "explanation_feedback": "Incorrecta. Desde 1964 era más de la mitad."
+      },
+      {
+        "label": "B",
+        "text": "Entre 1973 y 1993.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma un periodo en que ya era mayoría.",
+        "explanation_feedback": "Incorrecta. En 1973 ya era 61 %."
+      },
+      {
+        "label": "C",
+        "text": "Entre 1938 y 1951.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal el umbral del 50 %.",
+        "explanation_feedback": "Incorrecta. En 1951 todavía era 39 %, menos de la mitad."
+      },
+      {
+        "label": "D",
+        "text": "Entre 1951 y 1964.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En 1951 era 39 % (menos de la mitad) y en 1964, 53 % (más de la mitad)."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "d805cd8a-d792-5b2b-be1d-5454274c2851",
+    "subject": "SC",
+    "evidence_code": "SC.E2.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "De campo a ciudad",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Porcentaje de la población colombiana que vivía en zonas urbanas (cifras aproximadas de los censos)",
+        "headers": [
+          "Año del censo",
+          "Población urbana (%)"
+        ],
+        "rows": [
+          [
+            "1938",
+            31
+          ],
+          [
+            "1951",
+            39
+          ],
+          [
+            "1964",
+            53
+          ],
+          [
+            "1973",
+            61
+          ],
+          [
+            "1993",
+            71
+          ],
+          [
+            "2018",
+            77
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué combinación de factores ayuda a explicar el gran aumento de la población urbana entre 1938 y 1973?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La llegada masiva de inmigrantes europeos al campo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un fenómeno migratorio.",
+        "explanation_feedback": "Incorrecta. No hubo una inmigración europea masiva que explique el cambio."
+      },
+      {
+        "label": "B",
+        "text": "El aumento de tierras disponibles para cultivar en todo el país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da un factor que retendría población en el campo.",
+        "explanation_feedback": "Incorrecta. Más tierras disponibles retendrían gente en el campo, no la expulsarían."
+      },
+      {
+        "label": "C",
+        "text": "La prohibición legal de vivir en zonas rurales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una norma.",
+        "explanation_feedback": "Incorrecta. Nunca existió una prohibición así."
+      },
+      {
+        "label": "D",
+        "text": "La violencia en el campo y la búsqueda de empleo en ciudades que se industrializaban.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La violencia bipartidista expulsó población rural, y la industria y los servicios urbanos atrajeron trabajadores."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "3274690e-ee1e-5670-b903-9ba76349df07",
+    "subject": "SC",
+    "evidence_code": "SC.E6.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "De campo a ciudad",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Porcentaje de la población colombiana que vivía en zonas urbanas (cifras aproximadas de los censos)",
+        "headers": [
+          "Año del censo",
+          "Población urbana (%)"
+        ],
+        "rows": [
+          [
+            "1938",
+            31
+          ],
+          [
+            "1951",
+            39
+          ],
+          [
+            "1964",
+            53
+          ],
+          [
+            "1973",
+            61
+          ],
+          [
+            "1993",
+            71
+          ],
+          [
+            "2018",
+            77
+          ]
+        ]
+      }
+    },
+    "stem": "Si una ciudad recibe muchos migrantes del campo en pocos años sin planificación, ¿qué efecto es más probable?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Disminuye la demanda de vivienda en la ciudad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. Más habitantes aumentan la demanda de vivienda."
+      },
+      {
+        "label": "B",
+        "text": "Se reduce la población total de la ciudad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el supuesto.",
+        "explanation_feedback": "Incorrecta. Si llegan migrantes, la población aumenta."
+      },
+      {
+        "label": "C",
+        "text": "Crecen barrios sin servicios públicos completos en las periferias.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El crecimiento rápido y sin planificación suele generar asentamientos informales con déficit de servicios."
+      },
+      {
+        "label": "D",
+        "text": "Desaparecen los problemas de transporte.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el efecto.",
+        "explanation_feedback": "Incorrecta. Más población suele aumentar la presión sobre el transporte."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "07b2b1be-b2c2-57c1-add1-aa7852d5430b",
+    "subject": "SC",
+    "evidence_code": "SC.E2.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las regiones naturales",
+      "text": "Colombia suele dividirse en seis regiones naturales: Caribe, Andina, Pacífica, Orinoquía, Amazonía e Insular. La región Pacífica es una de las más lluviosas del mundo y está cubierta en gran parte por selva húmeda. La Orinoquía tiene extensas llanuras de pastos naturales. La región Andina, atravesada por tres cordilleras, concentra la mayor parte de la población y de las ciudades grandes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué la ganadería extensiva es una actividad tradicional en la Orinoquía?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque es la región más lluviosa del mundo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye a la Orinoquía rasgos de la región Pacífica.",
+        "explanation_feedback": "Incorrecta. El texto dice eso de la región Pacífica."
+      },
+      {
+        "label": "B",
+        "text": "Porque está formada por islas en el mar Caribe.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la región Insular.",
+        "explanation_feedback": "Incorrecta. La región Insular está formada por islas; la Orinoquía es continental."
+      },
+      {
+        "label": "C",
+        "text": "Porque sus amplias llanuras de pastos naturales facilitan criar ganado en grandes extensiones.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las llanuras con pastos naturales son el escenario típico de la ganadería extensiva."
+      },
+      {
+        "label": "D",
+        "text": "Porque allí se concentran las ciudades más grandes del país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye rasgos de la región Andina.",
+        "explanation_feedback": "Incorrecta. Las ciudades grandes están sobre todo en la región Andina."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "2b4c0fe1-6809-53c0-a206-02ce59973f94",
+    "subject": "SC",
+    "evidence_code": "SC.E2.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las regiones naturales",
+      "text": "Colombia suele dividirse en seis regiones naturales: Caribe, Andina, Pacífica, Orinoquía, Amazonía e Insular. La región Pacífica es una de las más lluviosas del mundo y está cubierta en gran parte por selva húmeda. La Orinoquía tiene extensas llanuras de pastos naturales. La región Andina, atravesada por tres cordilleras, concentra la mayor parte de la población y de las ciudades grandes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué característica geográfica ayuda a explicar que la región Andina concentre gran parte de la población?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sus pisos térmicos ofrecen climas templados aptos para vivir y cultivar.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La altitud crea climas variados y moderados que favorecieron el poblamiento y la agricultura."
+      },
+      {
+        "label": "B",
+        "text": "Es la región con menos montañas del país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. La región está atravesada por tres cordilleras."
+      },
+      {
+        "label": "C",
+        "text": "Es una región sin ríos ni fuentes de agua.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una característica.",
+        "explanation_feedback": "Incorrecta. La región Andina tiene muchos ríos, como el Magdalena y el Cauca."
+      },
+      {
+        "label": "D",
+        "text": "Tiene el clima más caliente y húmedo del país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye rasgos de otras regiones.",
+        "explanation_feedback": "Incorrecta. La región Andina tiene climas variados por la altitud, muchos de ellos templados o fríos."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "67313eee-cadd-5bd8-896f-55d22e0321c5",
+    "subject": "SC",
+    "evidence_code": "SC.E2.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Las regiones naturales",
+      "text": "Colombia suele dividirse en seis regiones naturales: Caribe, Andina, Pacífica, Orinoquía, Amazonía e Insular. La región Pacífica es una de las más lluviosas del mundo y está cubierta en gran parte por selva húmeda. La Orinoquía tiene extensas llanuras de pastos naturales. La región Andina, atravesada por tres cordilleras, concentra la mayor parte de la población y de las ciudades grandes.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "En la región Pacífica, muchas viviendas tradicionales se construyen sobre pilotes de madera. ¿Con qué característica del espacio se relaciona esta práctica?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Con la escasez de árboles para construir.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. La región está cubierta en gran parte por selva."
+      },
+      {
+        "label": "B",
+        "text": "Con las lluvias abundantes y los ríos que crecen e inundan las orillas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Elevar las casas protege de inundaciones en una región muy lluviosa con ríos caudalosos."
+      },
+      {
+        "label": "C",
+        "text": "Con la presencia de grandes desiertos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una característica.",
+        "explanation_feedback": "Incorrecta. La región Pacífica es muy húmeda, no desértica."
+      },
+      {
+        "label": "D",
+        "text": "Con los fuertes inviernos con nieve de la región.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye un clima que no corresponde.",
+        "explanation_feedback": "Incorrecta. La región Pacífica es cálida; no tiene nieve."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "87a6f2ab-bb61-54a1-b237-7a17622c36b5",
+    "subject": "SC",
+    "evidence_code": "SC.E2.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Nieve en el trópico",
+      "text": "Colombia está ubicada cerca de la línea del ecuador, por lo que no tiene las cuatro estaciones de las zonas templadas. Sin embargo, en la Sierra Nevada de Santa Marta, a pocos kilómetros del mar Caribe, hay picos cubiertos de nieve. La temperatura baja, en promedio, unos 6 °C por cada 1.000 metros de altura.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué explica que haya nieve en la Sierra Nevada a pesar de estar cerca del ecuador?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que está lejos de la línea del ecuador.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto dice que Colombia está cerca del ecuador."
+      },
+      {
+        "label": "B",
+        "text": "Su cercanía al mar Caribe.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye el frío al mar.",
+        "explanation_feedback": "Incorrecta. El mar Caribe es cálido; la nieve se explica por la altitud."
+      },
+      {
+        "label": "C",
+        "text": "La gran altura de sus picos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La temperatura baja con la altitud: a más de 5.000 metros hace frío suficiente para la nieve."
+      },
+      {
+        "label": "D",
+        "text": "Que allí sí hay invierno con estaciones.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto dice que Colombia no tiene cuatro estaciones."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "6f54c976-73ab-5424-8920-d8f9f646ca41",
+    "subject": "SC",
+    "evidence_code": "SC.E2.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Nieve en el trópico",
+      "text": "Colombia está ubicada cerca de la línea del ecuador, por lo que no tiene las cuatro estaciones de las zonas templadas. Sin embargo, en la Sierra Nevada de Santa Marta, a pocos kilómetros del mar Caribe, hay picos cubiertos de nieve. La temperatura baja, en promedio, unos 6 °C por cada 1.000 metros de altura.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si en la costa la temperatura promedio es de 28 °C, ¿cuál sería aproximadamente la temperatura a 3.000 metros de altura, según el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "31 °C.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma en lugar de restar.",
+        "explanation_feedback": "Incorrecta. Con la altura la temperatura baja, no sube."
+      },
+      {
+        "label": "B",
+        "text": "10 °C.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se restan unos 6 °C por cada 1.000 m: 28 − (3 × 6) = 10 °C."
+      },
+      {
+        "label": "C",
+        "text": "−2 °C.",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta 6 °C cinco veces.",
+        "explanation_feedback": "Incorrecta. A 3.000 m se restan tres veces 6 °C, no cinco."
+      },
+      {
+        "label": "D",
+        "text": "22 °C.",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta solo una vez 6 °C.",
+        "explanation_feedback": "Incorrecta. Hay que restar 6 °C por cada mil metros: tres veces."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "389119f7-7669-596e-8238-0af7f5a67128",
+    "subject": "SC",
+    "evidence_code": "SC.E2.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Puertos sobre el Magdalena",
+      "text": "Durante la Colonia y gran parte del siglo XIX, el río Magdalena fue la principal vía para llevar personas y mercancías entre la costa Caribe y el interior andino. Poblaciones ribereñas como Mompox y Honda crecieron como puertos y centros de comercio. Cuando a comienzos del siglo XX se construyeron ferrocarriles y luego carreteras, y el cauce del río cambió en algunos tramos, varias de esas poblaciones perdieron importancia.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué Mompox y Honda crecieron durante la Colonia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque eran las capitales de los virreinatos de América.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera su papel político.",
+        "explanation_feedback": "Incorrecta. El texto explica su crecimiento por el comercio fluvial."
+      },
+      {
+        "label": "B",
+        "text": "Porque allí se construyó el primer ferrocarril del país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación.",
+        "explanation_feedback": "Incorrecta. Los ferrocarriles más bien les restaron importancia."
+      },
+      {
+        "label": "C",
+        "text": "Porque tenían grandes minas de oro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una causa.",
+        "explanation_feedback": "Incorrecta. El texto no habla de minas."
+      },
+      {
+        "label": "D",
+        "text": "Porque estaban sobre la principal ruta de transporte entre la costa y el interior.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Su ubicación sobre el Magdalena las convirtió en puertos y centros de comercio."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "51633950-31fa-5aa3-a40b-5c8391abb81a",
+    "subject": "SC",
+    "evidence_code": "SC.E2.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Puertos sobre el Magdalena",
+      "text": "Durante la Colonia y gran parte del siglo XIX, el río Magdalena fue la principal vía para llevar personas y mercancías entre la costa Caribe y el interior andino. Poblaciones ribereñas como Mompox y Honda crecieron como puertos y centros de comercio. Cuando a comienzos del siglo XX se construyeron ferrocarriles y luego carreteras, y el cauce del río cambió en algunos tramos, varias de esas poblaciones perdieron importancia.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué muestra el caso de estas poblaciones sobre la relación entre espacio y economía?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Los cambios en las rutas de transporte pueden transformar la importancia económica de un lugar.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cuando el transporte se trasladó a ferrocarriles y carreteras, los puertos ribereños perdieron peso."
+      },
+      {
+        "label": "B",
+        "text": "La importancia de una ciudad nunca cambia con el tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto muestra que perdieron importancia."
+      },
+      {
+        "label": "C",
+        "text": "Las carreteras siempre benefician a todas las poblaciones por igual.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza sin apoyo.",
+        "explanation_feedback": "Incorrecta. El texto muestra que algunas poblaciones perdieron con el cambio de rutas."
+      },
+      {
+        "label": "D",
+        "text": "Los ríos no tienen ninguna influencia en la economía.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El río fue clave para su crecimiento."
+      }
+    ],
+    "estimated_time_seconds": 75
+  }
+]

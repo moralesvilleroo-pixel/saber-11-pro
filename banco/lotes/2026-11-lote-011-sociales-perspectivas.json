@@ -1,0 +1,2758 @@
+[
+  {
+    "id": "f71ad666-fea1-5262-ac96-4a277e410b37",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una vía por el páramo",
+      "text": "El departamento planea pavimentar una vía que cruza un páramo para unir dos municipios. Estas son algunas opiniones:\nTransportador: «Hoy gastamos seis horas en un trayecto de ochenta kilómetros. Con la vía, los productos llegarían frescos y más baratos.»\nBióloga: «El páramo regula el agua que consumen miles de personas. Una vía trae tráfico, basuras y nuevos asentamientos.»\nCampesina de la zona: «Necesitamos sacar la papa y llevar a los niños al colegio, pero también vivimos del agua del páramo.»\nAlcalde: «La obra generará empleo durante la construcción y atraerá turismo.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué le preocupa principalmente a la bióloga?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El empleo que se generaría durante la construcción.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye a la bióloga el argumento del alcalde.",
+        "explanation_feedback": "Incorrecta. Ese es el argumento del alcalde."
+      },
+      {
+        "label": "B",
+        "text": "La falta de colegios en la zona rural.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye a la bióloga una parte de lo que dice la campesina.",
+        "explanation_feedback": "Incorrecta. Eso lo menciona la campesina."
+      },
+      {
+        "label": "C",
+        "text": "El tiempo que tardan los productos en llegar al mercado.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye a la bióloga la preocupación del transportador.",
+        "explanation_feedback": "Incorrecta. Esa es la preocupación del transportador."
+      },
+      {
+        "label": "D",
+        "text": "Los efectos de la vía sobre el páramo y el agua que este regula.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ella destaca que el páramo regula el agua y que la vía traería tráfico, basuras y asentamientos."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "cd4655b8-b855-5af0-bd23-3f85c712a408",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una vía por el páramo",
+      "text": "El departamento planea pavimentar una vía que cruza un páramo para unir dos municipios. Estas son algunas opiniones:\nTransportador: «Hoy gastamos seis horas en un trayecto de ochenta kilómetros. Con la vía, los productos llegarían frescos y más baratos.»\nBióloga: «El páramo regula el agua que consumen miles de personas. Una vía trae tráfico, basuras y nuevos asentamientos.»\nCampesina de la zona: «Necesitamos sacar la papa y llevar a los niños al colegio, pero también vivimos del agua del páramo.»\nAlcalde: «La obra generará empleo durante la construcción y atraerá turismo.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué tiene de particular la posición de la campesina frente a las demás?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Reconoce a la vez beneficios de la vía y riesgos para el páramo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ella necesita la vía para sacar productos y llevar a los niños al colegio, pero depende del agua del páramo."
+      },
+      {
+        "label": "B",
+        "text": "Coincide totalmente con el transportador.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora su preocupación por el agua.",
+        "explanation_feedback": "Incorrecta. A diferencia del transportador, ella menciona el agua del páramo."
+      },
+      {
+        "label": "C",
+        "text": "Apoya la vía solo por el turismo que traería.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye el argumento del alcalde.",
+        "explanation_feedback": "Incorrecta. El turismo lo menciona el alcalde."
+      },
+      {
+        "label": "D",
+        "text": "Rechaza la vía porque no necesita transporte.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la primera parte de su opinión.",
+        "explanation_feedback": "Incorrecta. Ella dice que necesita sacar la papa y llevar a los niños al colegio."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "3541d549-baad-546d-9c59-46c6d705b58f",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una vía por el páramo",
+      "text": "El departamento planea pavimentar una vía que cruza un páramo para unir dos municipios. Estas son algunas opiniones:\nTransportador: «Hoy gastamos seis horas en un trayecto de ochenta kilómetros. Con la vía, los productos llegarían frescos y más baratos.»\nBióloga: «El páramo regula el agua que consumen miles de personas. Una vía trae tráfico, basuras y nuevos asentamientos.»\nCampesina de la zona: «Necesitamos sacar la papa y llevar a los niños al colegio, pero también vivimos del agua del páramo.»\nAlcalde: «La obra generará empleo durante la construcción y atraerá turismo.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué propuesta tendría en cuenta las perspectivas de la bióloga y de la campesina?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mejorar la vía existente sin ampliarla, con controles al tráfico y a nuevas construcciones en el páramo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Atiende la necesidad de transporte de la campesina y limita los riesgos que señala la bióloga."
+      },
+      {
+        "label": "B",
+        "text": "Pavimentar sin estudios para terminar la obra cuanto antes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Prioriza la rapidez del transportador.",
+        "explanation_feedback": "Incorrecta. Sin estudios no se atiende la preocupación ambiental."
+      },
+      {
+        "label": "C",
+        "text": "Cancelar cualquier mejora y prohibir el paso por la zona.",
+        "is_correct": false,
+        "distractor_diagnosis": "Responde solo a la bióloga.",
+        "explanation_feedback": "Incorrecta. Ignora la necesidad de transporte de la campesina."
+      },
+      {
+        "label": "D",
+        "text": "Construir una autopista de cuatro carriles para atraer más turistas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Responde solo al alcalde.",
+        "explanation_feedback": "Incorrecta. Una autopista aumentaría los riesgos que señala la bióloga."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "c1505160-dc37-5006-b717-733ace234b61",
+    "subject": "SC",
+    "evidence_code": "SC.E4.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una vía por el páramo",
+      "text": "El departamento planea pavimentar una vía que cruza un páramo para unir dos municipios. Estas son algunas opiniones:\nTransportador: «Hoy gastamos seis horas en un trayecto de ochenta kilómetros. Con la vía, los productos llegarían frescos y más baratos.»\nBióloga: «El páramo regula el agua que consumen miles de personas. Una vía trae tráfico, basuras y nuevos asentamientos.»\nCampesina de la zona: «Necesitamos sacar la papa y llevar a los niños al colegio, pero también vivimos del agua del páramo.»\nAlcalde: «La obra generará empleo durante la construcción y atraerá turismo.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué explica mejor que el transportador y la bióloga valoren la vía de forma distinta?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El transportador vive dentro del páramo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. El texto no dice dónde vive el transportador."
+      },
+      {
+        "label": "B",
+        "text": "Uno de los dos miente sobre los efectos de la vía.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone mala fe en lugar de perspectivas distintas.",
+        "explanation_feedback": "Incorrecta. Ambos pueden tener razón sobre aspectos diferentes."
+      },
+      {
+        "label": "C",
+        "text": "La bióloga no usa vías para movilizarse.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. El texto no dice eso; su posición viene de su conocimiento del páramo."
+      },
+      {
+        "label": "D",
+        "text": "Sus actividades y conocimientos les hacen fijarse en aspectos diferentes del mismo proyecto.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El oficio de cada uno orienta su atención: uno al tiempo y costo del transporte, la otra a los ecosistemas."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "3e4f2d19-d836-5a2f-9e85-16585525d39b",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una encuesta en el colegio",
+      "text": "Para un artículo del periódico escolar, un estudiante preguntó a 20 compañeros de su curso si estaban de acuerdo con eliminar el uniforme. Dieciséis dijeron que sí. El titular del artículo fue: «Los jóvenes colombianos rechazan el uniforme escolar».",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es el principal problema del titular?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ningún estudiante debería opinar sobre el uniforme.",
+        "is_correct": false,
+        "distractor_diagnosis": "Descalifica a los participantes.",
+        "explanation_feedback": "Incorrecta. Los estudiantes sí pueden opinar; el problema es generalizar."
+      },
+      {
+        "label": "B",
+        "text": "Dieciséis de veinte es una minoría.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal la proporción.",
+        "explanation_feedback": "Incorrecta. Dieciséis de veinte es el 80 %, una mayoría en ese grupo."
+      },
+      {
+        "label": "C",
+        "text": "Generaliza a todos los jóvenes del país una opinión de solo 20 estudiantes de un curso.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Una muestra de 20 compañeros de un curso no representa a todos los jóvenes colombianos."
+      },
+      {
+        "label": "D",
+        "text": "Usa porcentajes cuando debía usar números.",
+        "is_correct": false,
+        "distractor_diagnosis": "Se fija en la forma y no en la generalización.",
+        "explanation_feedback": "Incorrecta. El problema no es el formato de los datos sino el alcance de la conclusión."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "b1697b45-af54-58eb-acf4-163cf5afd66c",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una encuesta en el colegio",
+      "text": "Para un artículo del periódico escolar, un estudiante preguntó a 20 compañeros de su curso si estaban de acuerdo con eliminar el uniforme. Dieciséis dijeron que sí. El titular del artículo fue: «Los jóvenes colombianos rechazan el uniforme escolar».",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué conclusión sí podría sostenerse con esos datos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Los profesores también quieren eliminar el uniforme.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye opiniones a quienes no respondieron.",
+        "explanation_feedback": "Incorrecta. No se preguntó a los profesores."
+      },
+      {
+        "label": "B",
+        "text": "La mayoría de los estudiantes del colegio rechaza el uniforme.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza al colegio sin datos de otros cursos.",
+        "explanation_feedback": "Incorrecta. Solo se preguntó en un curso."
+      },
+      {
+        "label": "C",
+        "text": "El Ministerio de Educación debe eliminar el uniforme.",
+        "is_correct": false,
+        "distractor_diagnosis": "Salta de una opinión a una decisión nacional.",
+        "explanation_feedback": "Incorrecta. Veinte respuestas no sustentan una política nacional."
+      },
+      {
+        "label": "D",
+        "text": "La mayoría de los encuestados de ese curso está de acuerdo con eliminar el uniforme.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La conclusión se limita al grupo que realmente respondió."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "59253be3-ba3b-5e07-8bcf-044eb859a06b",
+    "subject": "SC",
+    "evidence_code": "SC.E3.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Carta de un artesano (recreación)",
+      "text": "«Bogotá, 1850. Señor Presidente: los artesanos de esta ciudad vemos con angustia cómo llegan cada mes barcos con zapatos, telas y muebles fabricados en Inglaterra, que se venden más baratos que los nuestros porque casi no pagan impuestos al entrar. Pedimos que se aumenten los aranceles a esas mercancías para que nuestros talleres no se cierren y nuestras familias no pasen hambre.»\n(Texto creado con fines educativos a partir de las discusiones de la época.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿En qué debate económico de mediados del siglo XIX se ubica esta carta?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Entre el uso del petróleo y el del carbón.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ubica la carta en otra época y tema.",
+        "explanation_feedback": "Incorrecta. La carta habla de manufacturas importadas."
+      },
+      {
+        "label": "B",
+        "text": "Entre la monarquía y la república.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ubica la carta en un debate político anterior.",
+        "explanation_feedback": "Incorrecta. La carta trata de impuestos a importaciones, no de la forma de gobierno."
+      },
+      {
+        "label": "C",
+        "text": "Entre la reforma agraria y la industrialización del siglo XX.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ubica la carta en otro siglo.",
+        "explanation_feedback": "Incorrecta. La carta es de 1850 y trata de aranceles."
+      },
+      {
+        "label": "D",
+        "text": "Entre el libre comercio y la protección de la producción nacional.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El artesano pide subir los aranceles a productos importados para proteger su trabajo frente al libre comercio."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "e0030a4e-90e6-51db-b083-935a9bd616a5",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Carta de un artesano (recreación)",
+      "text": "«Bogotá, 1850. Señor Presidente: los artesanos de esta ciudad vemos con angustia cómo llegan cada mes barcos con zapatos, telas y muebles fabricados en Inglaterra, que se venden más baratos que los nuestros porque casi no pagan impuestos al entrar. Pedimos que se aumenten los aranceles a esas mercancías para que nuestros talleres no se cierren y nuestras familias no pasen hambre.»\n(Texto creado con fines educativos a partir de las discusiones de la época.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué grupo de la época probablemente estaría en desacuerdo con la petición del artesano?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Los comerciantes que importaban y vendían productos ingleses.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Subir los aranceles encarecería sus mercancías y reduciría sus ventas."
+      },
+      {
+        "label": "B",
+        "text": "Las familias de los artesanos de Bogotá.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que la carta defiende a esas familias.",
+        "explanation_feedback": "Incorrecta. La carta habla en nombre de esas familias."
+      },
+      {
+        "label": "C",
+        "text": "Los dueños de talleres de zapatos en Bogotá.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que son parte del grupo que firma.",
+        "explanation_feedback": "Incorrecta. Ellos se beneficiarían de la medida."
+      },
+      {
+        "label": "D",
+        "text": "Los artesanos de otras ciudades del país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que otros artesanos tendrían intereses opuestos.",
+        "explanation_feedback": "Incorrecta. Otros artesanos probablemente compartirían la petición."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "601c1838-5a64-5fee-a912-860439b32802",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Carta de un artesano (recreación)",
+      "text": "«Bogotá, 1850. Señor Presidente: los artesanos de esta ciudad vemos con angustia cómo llegan cada mes barcos con zapatos, telas y muebles fabricados en Inglaterra, que se venden más baratos que los nuestros porque casi no pagan impuestos al entrar. Pedimos que se aumenten los aranceles a esas mercancías para que nuestros talleres no se cierren y nuestras familias no pasen hambre.»\n(Texto creado con fines educativos a partir de las discusiones de la época.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un estudiante quiere usar esta carta para afirmar que todos los colombianos de 1850 querían aranceles altos. ¿Por qué no es suficiente?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque en 1850 no existían impuestos a las importaciones.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la fuente.",
+        "explanation_feedback": "Incorrecta. La carta menciona impuestos a las importaciones."
+      },
+      {
+        "label": "B",
+        "text": "Porque la carta fue escrita en Inglaterra.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal la fuente.",
+        "explanation_feedback": "Incorrecta. La carta fue escrita en Bogotá."
+      },
+      {
+        "label": "C",
+        "text": "Porque la carta expresa los intereses de un grupo concreto, no de toda la población.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Una fuente muestra la posición de quien la escribe; para generalizar se necesitarían otras fuentes."
+      },
+      {
+        "label": "D",
+        "text": "Porque las cartas nunca sirven como fuentes históricas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Descalifica todo un tipo de fuente.",
+        "explanation_feedback": "Incorrecta. Las cartas sí son fuentes, pero tienen alcances limitados."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "6a39abfb-5a12-5d20-9127-24c0befa02f2",
+    "subject": "SC",
+    "evidence_code": "SC.E3.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Opiniones en una red social",
+      "text": "Comentario 1: «Los jóvenes de hoy no quieren trabajar; solo piensan en el celular.»\nComentario 2: «Según el DANE, en el último año aumentó el número de jóvenes que ni estudian ni trabajan; habría que analizar por qué.»\nComentario 3: «Los del campo no saben de tecnología, por eso no vale la pena llevarles internet.»\n(Comentarios inventados con fines educativos.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué tienen en común los comentarios 1 y 3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ambos citan estadísticas oficiales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde los comentarios con el 2.",
+        "explanation_feedback": "Incorrecta. El que cita una fuente es el comentario 2."
+      },
+      {
+        "label": "B",
+        "text": "Ambos hablan de la misma región del país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un rasgo común.",
+        "explanation_feedback": "Incorrecta. Ninguno menciona una región específica."
+      },
+      {
+        "label": "C",
+        "text": "Atribuyen una característica negativa a todo un grupo sin pruebas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ambos generalizan sobre «los jóvenes» y «los del campo», es decir, expresan prejuicios."
+      },
+      {
+        "label": "D",
+        "text": "Ambos proponen analizar las causas de un problema.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye la actitud del comentario 2.",
+        "explanation_feedback": "Incorrecta. Es el comentario 2 el que propone analizar causas."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "8668832e-cded-5909-8717-513b6cac22ca",
+    "subject": "SC",
+    "evidence_code": "SC.E3.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Opiniones en una red social",
+      "text": "Comentario 1: «Los jóvenes de hoy no quieren trabajar; solo piensan en el celular.»\nComentario 2: «Según el DANE, en el último año aumentó el número de jóvenes que ni estudian ni trabajan; habría que analizar por qué.»\nComentario 3: «Los del campo no saben de tecnología, por eso no vale la pena llevarles internet.»\n(Comentarios inventados con fines educativos.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué intención se puede reconocer en el comentario 3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Proponer clases de tecnología en las zonas rurales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una propuesta.",
+        "explanation_feedback": "Incorrecta. El comentario no propone formación; descarta invertir."
+      },
+      {
+        "label": "B",
+        "text": "Justificar que no se invierta en internet para el campo con base en un prejuicio.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Usa un prejuicio sobre los campesinos para concluir que no vale la pena llevarles internet."
+      },
+      {
+        "label": "C",
+        "text": "Defender el derecho de los campesinos a la tecnología.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la intención.",
+        "explanation_feedback": "Incorrecta. El comentario concluye lo contrario."
+      },
+      {
+        "label": "D",
+        "text": "Mostrar datos sobre el acceso a internet en el campo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que presenta información.",
+        "explanation_feedback": "Incorrecta. El comentario no da datos; afirma una generalización."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "c5f1ea79-1520-5fc5-99c1-4b40bf5fc01a",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Opiniones en una red social",
+      "text": "Comentario 1: «Los jóvenes de hoy no quieren trabajar; solo piensan en el celular.»\nComentario 2: «Según el DANE, en el último año aumentó el número de jóvenes que ni estudian ni trabajan; habría que analizar por qué.»\nComentario 3: «Los del campo no saben de tecnología, por eso no vale la pena llevarles internet.»\n(Comentarios inventados con fines educativos.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué el comentario 2 es más útil para un debate que el comentario 1?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque es más corto y fácil de leer.",
+        "is_correct": false,
+        "distractor_diagnosis": "Se fija en la forma.",
+        "explanation_feedback": "Incorrecta. La extensión no hace más útil un argumento."
+      },
+      {
+        "label": "B",
+        "text": "Porque se apoya en una fuente y plantea buscar causas, en lugar de culpar a un grupo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cita un dato verificable y propone análisis, mientras que el 1 solo generaliza."
+      },
+      {
+        "label": "C",
+        "text": "Porque usa palabras más emocionales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde emoción con solidez.",
+        "explanation_feedback": "Incorrecta. Las palabras emocionales no hacen más útil un argumento."
+      },
+      {
+        "label": "D",
+        "text": "Porque dice que los jóvenes no quieren trabajar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye al 2 la idea del 1.",
+        "explanation_feedback": "Incorrecta. Eso lo dice el comentario 1."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "e14c031f-1a1f-58dd-a5e4-67f2fcf5c7b4",
+    "subject": "SC",
+    "evidence_code": "SC.E4.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El agua de La Guajira",
+      "text": "En una zona de La Guajira con sequías frecuentes, distintos actores discuten cómo garantizar el agua:\nAutoridad wayuu: «El agua es sagrada y nuestros pozos tradicionales deben ser respetados. Cualquier proyecto debe consultarse con nuestras comunidades.»\nEmpresa minera: «Nuestra operación genera regalías y empleos. Usamos agua bajo los permisos que nos dio el Estado.»\nFuncionario del Gobierno: «Instalaremos plantas desalinizadoras y carrotanques mientras construimos un acueducto regional.»\nMédica de un puesto de salud: «Los niños llegan con diarrea y desnutrición; el agua que consumen muchas veces no es potable.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué influye principalmente en la posición de la autoridad wayuu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Su cosmovisión, en la que el agua tiene un valor sagrado y colectivo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Su argumento parte de que el agua es sagrada y de su derecho a ser consultados."
+      },
+      {
+        "label": "B",
+        "text": "El interés de recibir regalías mineras.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye el argumento de la empresa.",
+        "explanation_feedback": "Incorrecta. Las regalías las menciona la empresa."
+      },
+      {
+        "label": "C",
+        "text": "La necesidad de cumplir un plan de gobierno.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye el rol del funcionario.",
+        "explanation_feedback": "Incorrecta. Ese es el enfoque del funcionario."
+      },
+      {
+        "label": "D",
+        "text": "Su formación médica sobre enfermedades.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye el rol de la médica.",
+        "explanation_feedback": "Incorrecta. Ese enfoque es el de la médica."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "66e397ac-32b9-58fc-b620-6ff7543047e7",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El agua de La Guajira",
+      "text": "En una zona de La Guajira con sequías frecuentes, distintos actores discuten cómo garantizar el agua:\nAutoridad wayuu: «El agua es sagrada y nuestros pozos tradicionales deben ser respetados. Cualquier proyecto debe consultarse con nuestras comunidades.»\nEmpresa minera: «Nuestra operación genera regalías y empleos. Usamos agua bajo los permisos que nos dio el Estado.»\nFuncionario del Gobierno: «Instalaremos plantas desalinizadoras y carrotanques mientras construimos un acueducto regional.»\nMédica de un puesto de salud: «Los niños llegan con diarrea y desnutrición; el agua que consumen muchas veces no es potable.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué solución responde a la exigencia de la autoridad wayuu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Construir el acueducto sin informar a las comunidades para ahorrar tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la exigencia.",
+        "explanation_feedback": "Incorrecta. Ignorar a las comunidades va contra lo que pide la autoridad wayuu."
+      },
+      {
+        "label": "B",
+        "text": "Aumentar las regalías que paga la empresa al municipio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Responde al interés de la empresa o del Estado.",
+        "explanation_feedback": "Incorrecta. Más regalías no garantizan la consulta que pide la autoridad wayuu."
+      },
+      {
+        "label": "C",
+        "text": "Diseñar los proyectos de agua mediante consulta previa con las comunidades.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La autoridad wayuu exige que cualquier proyecto se consulte con sus comunidades."
+      },
+      {
+        "label": "D",
+        "text": "Cerrar los pozos tradicionales y reemplazarlos por carrotanques.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la exigencia.",
+        "explanation_feedback": "Incorrecta. La autoridad wayuu pide respetar los pozos."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "1e3714d8-4805-5c9b-82e5-dadccef572bf",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El agua de La Guajira",
+      "text": "En una zona de La Guajira con sequías frecuentes, distintos actores discuten cómo garantizar el agua:\nAutoridad wayuu: «El agua es sagrada y nuestros pozos tradicionales deben ser respetados. Cualquier proyecto debe consultarse con nuestras comunidades.»\nEmpresa minera: «Nuestra operación genera regalías y empleos. Usamos agua bajo los permisos que nos dio el Estado.»\nFuncionario del Gobierno: «Instalaremos plantas desalinizadoras y carrotanques mientras construimos un acueducto regional.»\nMédica de un puesto de salud: «Los niños llegan con diarrea y desnutrición; el agua que consumen muchas veces no es potable.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué aporta la médica a la discusión que no aportan los demás?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Una propuesta para construir un acueducto regional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye la propuesta del funcionario.",
+        "explanation_feedback": "Incorrecta. Esa propuesta es del funcionario."
+      },
+      {
+        "label": "B",
+        "text": "Evidencia sobre los efectos del agua no potable en la salud de los niños.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ella describe consecuencias concretas en la salud que observa en su trabajo."
+      },
+      {
+        "label": "C",
+        "text": "Una defensa de los permisos de uso de agua de la empresa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye el argumento de la empresa.",
+        "explanation_feedback": "Incorrecta. Eso lo dice la empresa."
+      },
+      {
+        "label": "D",
+        "text": "Una explicación del valor sagrado del agua.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye el argumento wayuu.",
+        "explanation_feedback": "Incorrecta. Eso lo dice la autoridad wayuu."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "9a4ba2a7-602e-551d-b1d1-f167b5ec2afa",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El agua de La Guajira",
+      "text": "En una zona de La Guajira con sequías frecuentes, distintos actores discuten cómo garantizar el agua:\nAutoridad wayuu: «El agua es sagrada y nuestros pozos tradicionales deben ser respetados. Cualquier proyecto debe consultarse con nuestras comunidades.»\nEmpresa minera: «Nuestra operación genera regalías y empleos. Usamos agua bajo los permisos que nos dio el Estado.»\nFuncionario del Gobierno: «Instalaremos plantas desalinizadoras y carrotanques mientras construimos un acueducto regional.»\nMédica de un puesto de salud: «Los niños llegan con diarrea y desnutrición; el agua que consumen muchas veces no es potable.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué combinación de medidas atendería las preocupaciones de la médica y de la autoridad wayuu?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Agua potable de emergencia para los niños y un acueducto definido en consulta con las comunidades.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Atiende la urgencia sanitaria y el derecho a la consulta al mismo tiempo."
+      },
+      {
+        "label": "B",
+        "text": "Trasladar a las comunidades a la ciudad más cercana.",
+        "is_correct": false,
+        "distractor_diagnosis": "Propone una medida que desconoce el territorio.",
+        "explanation_feedback": "Incorrecta. Desconoce el vínculo de las comunidades con su territorio."
+      },
+      {
+        "label": "C",
+        "text": "Solo campañas para que las familias hiervan el agua.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da una solución parcial.",
+        "explanation_feedback": "Incorrecta. No resuelve el acceso al agua ni la consulta."
+      },
+      {
+        "label": "D",
+        "text": "Más empleos en la mina y nuevas plantas desalinizadoras sin consulta.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la exigencia wayuu.",
+        "explanation_feedback": "Incorrecta. Las plantas sin consulta no atienden a la autoridad wayuu."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "d51f6fd6-8b4f-5ce8-81a2-fe614f18e8e7",
+    "subject": "SC",
+    "evidence_code": "SC.E3.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos relatos de una huelga (recreación)",
+      "text": "Fuente A, periódico de la época: «Agitadores llevaron a los trabajadores a abandonar sus labores, causando graves pérdidas a la empresa y desorden en la región.»\nFuente B, testimonio de un trabajador recogido años después: «Trabajábamos doce horas, nos pagaban con vales que solo servían en las tiendas de la compañía y no teníamos hospital. Paramos porque nadie nos escuchaba.»\n(Fuentes recreadas con fines educativos.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué intención se puede reconocer en el uso de la palabra «agitadores» en la fuente A?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Presentar la huelga como obra de unos pocos y quitarle legitimidad a los reclamos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Llamar «agitadores» a los organizadores sugiere que la huelga no respondía a problemas reales."
+      },
+      {
+        "label": "B",
+        "text": "Describir con exactitud las condiciones laborales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone neutralidad en la fuente.",
+        "explanation_feedback": "Incorrecta. La fuente A no menciona las condiciones de trabajo."
+      },
+      {
+        "label": "C",
+        "text": "Explicar por qué los trabajadores pararon.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye a la fuente A el contenido de la B.",
+        "explanation_feedback": "Incorrecta. Las razones del paro las da la fuente B."
+      },
+      {
+        "label": "D",
+        "text": "Defender las peticiones de los trabajadores.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la intención.",
+        "explanation_feedback": "Incorrecta. La fuente A culpa a los huelguistas por las pérdidas."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "1852f9c0-c575-5f12-8f6f-83d1a72538fd",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos relatos de una huelga (recreación)",
+      "text": "Fuente A, periódico de la época: «Agitadores llevaron a los trabajadores a abandonar sus labores, causando graves pérdidas a la empresa y desorden en la región.»\nFuente B, testimonio de un trabajador recogido años después: «Trabajábamos doce horas, nos pagaban con vales que solo servían en las tiendas de la compañía y no teníamos hospital. Paramos porque nadie nos escuchaba.»\n(Fuentes recreadas con fines educativos.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué limitación tiene la fuente B para explicar lo ocurrido?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No sirve porque la escribió un trabajador y no un periodista.",
+        "is_correct": false,
+        "distractor_diagnosis": "Descalifica la fuente por el autor.",
+        "explanation_feedback": "Incorrecta. Un testimonio de un trabajador sí es una fuente válida."
+      },
+      {
+        "label": "B",
+        "text": "No menciona ninguna condición de trabajo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal la fuente.",
+        "explanation_feedback": "Incorrecta. La fuente B describe jornadas, pagos y falta de hospital."
+      },
+      {
+        "label": "C",
+        "text": "Es un recuerdo personal registrado años después, que puede tener olvidos o una sola mirada.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Los testimonios tardíos son valiosos, pero conviene contrastarlos con otras fuentes."
+      },
+      {
+        "label": "D",
+        "text": "Contradice todos los documentos de la época.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa información.",
+        "explanation_feedback": "Incorrecta. No se sabe si contradice todos los documentos."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "f251a604-0a61-5125-8f65-74e8ac963c16",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos relatos de una huelga (recreación)",
+      "text": "Fuente A, periódico de la época: «Agitadores llevaron a los trabajadores a abandonar sus labores, causando graves pérdidas a la empresa y desorden en la región.»\nFuente B, testimonio de un trabajador recogido años después: «Trabajábamos doce horas, nos pagaban con vales que solo servían en las tiendas de la compañía y no teníamos hospital. Paramos porque nadie nos escuchaba.»\n(Fuentes recreadas con fines educativos.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si se comparan las dos fuentes, ¿en qué se diferencian sus perspectivas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ambas coinciden en culpar a los trabajadores.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la fuente B.",
+        "explanation_feedback": "Incorrecta. La fuente B justifica el paro."
+      },
+      {
+        "label": "B",
+        "text": "Ninguna de las dos fuentes menciona a la empresa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal las fuentes.",
+        "explanation_feedback": "Incorrecta. Ambas mencionan a la empresa o la compañía."
+      },
+      {
+        "label": "C",
+        "text": "La A habla de salarios y la B del desorden en la región.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el contenido.",
+        "explanation_feedback": "Incorrecta. La A habla de desorden y la B de salarios y condiciones."
+      },
+      {
+        "label": "D",
+        "text": "La A enfatiza las pérdidas de la empresa y la B las condiciones de los trabajadores.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada fuente pone el foco en los intereses del grupo con el que se identifica."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "d3a7b289-b7d4-55a8-a656-4ae0bf474080",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El parque del barrio",
+      "text": "La junta de acción comunal de un barrio discute qué hacer con un lote vacío:\nDon Hernando, 70 años: «Necesitamos un parque con bancas y sombra para caminar tranquilos.»\nValentina, 16 años: «Lo que falta es una cancha; los jóvenes no tenemos dónde hacer deporte.»\nMarta, madre de dos niños pequeños: «Un parque infantil cerrado, para que los niños jueguen seguros.»\nComerciante: «Mejor un parqueadero; los clientes no tienen dónde dejar el carro.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué propone Valentina para el lote?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Un parqueadero para clientes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde su propuesta con la del comerciante.",
+        "explanation_feedback": "Incorrecta. Eso lo propone el comerciante."
+      },
+      {
+        "label": "B",
+        "text": "Un parque infantil cerrado.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde su propuesta con la de Marta.",
+        "explanation_feedback": "Incorrecta. Eso lo propone Marta."
+      },
+      {
+        "label": "C",
+        "text": "Un parque con bancas y sombra.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde su propuesta con la de don Hernando.",
+        "explanation_feedback": "Incorrecta. Eso lo propone don Hernando."
+      },
+      {
+        "label": "D",
+        "text": "Una cancha para hacer deporte.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ella dice que los jóvenes no tienen dónde hacer deporte."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "b7b98777-d7e9-5de9-915b-b9e52b7a34fe",
+    "subject": "SC",
+    "evidence_code": "SC.E4.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El parque del barrio",
+      "text": "La junta de acción comunal de un barrio discute qué hacer con un lote vacío:\nDon Hernando, 70 años: «Necesitamos un parque con bancas y sombra para caminar tranquilos.»\nValentina, 16 años: «Lo que falta es una cancha; los jóvenes no tenemos dónde hacer deporte.»\nMarta, madre de dos niños pequeños: «Un parque infantil cerrado, para que los niños jueguen seguros.»\nComerciante: «Mejor un parqueadero; los clientes no tienen dónde dejar el carro.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué explica mejor que cada persona proponga algo distinto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Todos quieren lo mismo, pero lo dicen distinto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que las propuestas son distintas.",
+        "explanation_feedback": "Incorrecta. Las propuestas son diferentes: cancha, parque, parqueadero."
+      },
+      {
+        "label": "B",
+        "text": "La junta les pidió que no se pusieran de acuerdo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. El texto no dice eso."
+      },
+      {
+        "label": "C",
+        "text": "Sus edades y roles hacen que tengan necesidades diferentes.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Un adulto mayor, una joven, una madre y un comerciante viven el barrio de maneras distintas."
+      },
+      {
+        "label": "D",
+        "text": "Ninguno conoce bien el barrio donde vive.",
+        "is_correct": false,
+        "distractor_diagnosis": "Descalifica a los participantes.",
+        "explanation_feedback": "Incorrecta. Todos hablan desde su experiencia en el barrio."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "7634c138-fc2b-597d-9235-e92cdbb09f6c",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El parque del barrio",
+      "text": "La junta de acción comunal de un barrio discute qué hacer con un lote vacío:\nDon Hernando, 70 años: «Necesitamos un parque con bancas y sombra para caminar tranquilos.»\nValentina, 16 años: «Lo que falta es una cancha; los jóvenes no tenemos dónde hacer deporte.»\nMarta, madre de dos niños pequeños: «Un parque infantil cerrado, para que los niños jueguen seguros.»\nComerciante: «Mejor un parqueadero; los clientes no tienen dónde dejar el carro.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué propuesta tendría en cuenta a la mayoría de las personas que hablaron?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Un espacio con zona infantil, una pequeña cancha y caminos con bancas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Combina las necesidades de don Hernando, Valentina y Marta."
+      },
+      {
+        "label": "B",
+        "text": "Un parqueadero con una banca a la entrada.",
+        "is_correct": false,
+        "distractor_diagnosis": "Prioriza al comerciante.",
+        "explanation_feedback": "Incorrecta. Solo responde a una persona."
+      },
+      {
+        "label": "C",
+        "text": "Dejar el lote vacío para evitar discusiones.",
+        "is_correct": false,
+        "distractor_diagnosis": "Evita el conflicto sin resolverlo.",
+        "explanation_feedback": "Incorrecta. No atiende ninguna de las necesidades."
+      },
+      {
+        "label": "D",
+        "text": "Una cancha grande que ocupe todo el lote.",
+        "is_correct": false,
+        "distractor_diagnosis": "Prioriza solo a Valentina.",
+        "explanation_feedback": "Incorrecta. Deja por fuera a don Hernando y a Marta."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "88df723c-b1a0-5c28-9ef9-eeed1dbef5a5",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un informe sobre deforestación",
+      "text": "Un informe de una organización ambiental afirma: «La deforestación en la Amazonía colombiana aumentó por la expansión de la ganadería y los cultivos ilícitos.» El informe incluye imágenes satelitales de varios años, pero no explica cómo se calcularon las cifras de hectáreas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué haría falta para usar este informe con más confianza en un trabajo de clase?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Copiar la conclusión sin revisar nada, porque viene de expertos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Acepta la fuente sin evaluarla.",
+        "explanation_feedback": "Incorrecta. Incluso las fuentes expertas deben contrastarse."
+      },
+      {
+        "label": "B",
+        "text": "Conocer la metodología usada y contrastar las cifras con otras fuentes, como el monitoreo oficial.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Saber cómo se calcularon las cifras y compararlas con otras fuentes da más solidez."
+      },
+      {
+        "label": "C",
+        "text": "Descartarlo porque toda organización ambiental exagera.",
+        "is_correct": false,
+        "distractor_diagnosis": "Descalifica la fuente por quién la produce.",
+        "explanation_feedback": "Incorrecta. Una fuente no se descarta por su autor; se evalúa su método."
+      },
+      {
+        "label": "D",
+        "text": "Usar solo las imágenes, porque una imagen nunca necesita explicación.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que las imágenes hablan solas.",
+        "explanation_feedback": "Incorrecta. Las imágenes también requieren saber cómo se interpretan."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "fc75b8b9-d650-5459-a4ac-995923a104f1",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un informe sobre deforestación",
+      "text": "Un informe de una organización ambiental afirma: «La deforestación en la Amazonía colombiana aumentó por la expansión de la ganadería y los cultivos ilícitos.» El informe incluye imágenes satelitales de varios años, pero no explica cómo se calcularon las cifras de hectáreas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué aporta de valor el informe, a pesar de su limitación?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Una explicación detallada de cómo se calcularon las cifras.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto dice que no explica el cálculo."
+      },
+      {
+        "label": "B",
+        "text": "Imágenes satelitales que permiten observar cambios en la cobertura de bosque.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las imágenes de varios años son evidencia útil sobre la pérdida de bosque."
+      },
+      {
+        "label": "C",
+        "text": "Entrevistas con todos los ganaderos de la región.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa contenido.",
+        "explanation_feedback": "Incorrecta. El informe no menciona entrevistas."
+      },
+      {
+        "label": "D",
+        "text": "La opinión del Gobierno sobre la deforestación.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa contenido.",
+        "explanation_feedback": "Incorrecta. El informe es de una organización ambiental."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "f461acec-824e-56bf-abe1-fbdd2d5c533c",
+    "subject": "SC",
+    "evidence_code": "SC.E3.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un discurso de campaña (ficticio)",
+      "text": "«Nuestra ciudad era tranquila hasta que llegaron los de afuera. Desde entonces hay más robos y menos trabajo. Si votan por mí, haré que esta ciudad vuelva a ser de los nuestros.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué prejuicio contiene el discurso?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Supone que los votantes no saben leer.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un prejuicio.",
+        "explanation_feedback": "Incorrecta. El discurso no habla de la educación de los votantes."
+      },
+      {
+        "label": "B",
+        "text": "Afirma que la ciudad nunca fue tranquila.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés el discurso.",
+        "explanation_feedback": "Incorrecta. El discurso dice que antes era tranquila."
+      },
+      {
+        "label": "C",
+        "text": "Defiende los derechos de las personas migrantes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido.",
+        "explanation_feedback": "Incorrecta. El discurso rechaza a «los de afuera»."
+      },
+      {
+        "label": "D",
+        "text": "Culpa a las personas que llegaron de otros lugares de los robos y del desempleo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Asocia sin pruebas a los migrantes con el delito y la falta de trabajo."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "833cea87-9eee-5789-a219-efa6b35e3c3f",
+    "subject": "SC",
+    "evidence_code": "SC.E3.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un discurso de campaña (ficticio)",
+      "text": "«Nuestra ciudad era tranquila hasta que llegaron los de afuera. Desde entonces hay más robos y menos trabajo. Si votan por mí, haré que esta ciudad vuelva a ser de los nuestros.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué estrategia usa el candidato para ganar apoyo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Reconocer los aportes de quienes llegaron a la ciudad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el mensaje.",
+        "explanation_feedback": "Incorrecta. El discurso culpa a quienes llegaron."
+      },
+      {
+        "label": "B",
+        "text": "Crear un enemigo común para unir a sus votantes en torno a él.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Divide entre «los nuestros» y «los de afuera» y se presenta como quien resolverá el problema."
+      },
+      {
+        "label": "C",
+        "text": "Proponer un plan detallado de empleo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una propuesta.",
+        "explanation_feedback": "Incorrecta. El discurso no explica ningún plan."
+      },
+      {
+        "label": "D",
+        "text": "Presentar estadísticas de seguridad verificables.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que el discurso usa datos.",
+        "explanation_feedback": "Incorrecta. El discurso no presenta cifras ni fuentes."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "edefefeb-2abb-5d1b-8f32-6d4833d364b9",
+    "subject": "SC",
+    "evidence_code": "SC.E4.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un discurso de campaña (ficticio)",
+      "text": "«Nuestra ciudad era tranquila hasta que llegaron los de afuera. Desde entonces hay más robos y menos trabajo. Si votan por mí, haré que esta ciudad vuelva a ser de los nuestros.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué un discurso así podría tener éxito entre algunos votantes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque los votantes siempre eligen al candidato más joven.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una regla.",
+        "explanation_feedback": "Incorrecta. El texto no habla de la edad del candidato."
+      },
+      {
+        "label": "B",
+        "text": "Porque la ley obliga a votar por quien promete seguridad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una norma.",
+        "explanation_feedback": "Incorrecta. No existe tal obligación."
+      },
+      {
+        "label": "C",
+        "text": "Porque ofrece una explicación simple a problemas complejos que generan miedo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Señalar a un grupo como culpable da una respuesta fácil a la inseguridad y el desempleo."
+      },
+      {
+        "label": "D",
+        "text": "Porque se basa en estudios económicos rigurosos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que el discurso usa evidencia.",
+        "explanation_feedback": "Incorrecta. El discurso no menciona estudios."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "ebb38342-2e61-51f6-97ac-3150a2ff6078",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Trabajo infantil en la cosecha",
+      "text": "En una vereda cafetera, algunos niños de 12 y 13 años faltan al colegio durante la cosecha para ayudar a recoger café.\nPadre de familia: «Si no ayudan, no alcanzamos a recoger y perdemos la cosecha. Así aprendí yo.»\nRectora: «Pierden semanas de clase y muchos terminan repitiendo el año.»\nFuncionaria del ICBF: «La ley prohíbe el trabajo de menores de 15 años; es nuestro deber proteger sus derechos.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿En qué se diferencia la perspectiva del padre de la de la rectora?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El padre se enfoca en la economía familiar y la rectora en la educación de los niños.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada uno evalúa la situación desde su responsabilidad principal."
+      },
+      {
+        "label": "B",
+        "text": "Ambos piensan que los niños deberían dejar de estudiar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la posición de la rectora.",
+        "explanation_feedback": "Incorrecta. La rectora defiende que no pierdan clases."
+      },
+      {
+        "label": "C",
+        "text": "El padre cita la ley y la rectora la tradición.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte los argumentos.",
+        "explanation_feedback": "Incorrecta. El padre apela a la tradición («Así aprendí yo»); la ley la cita la funcionaria."
+      },
+      {
+        "label": "D",
+        "text": "Ninguno menciona a los niños en sus argumentos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal el texto.",
+        "explanation_feedback": "Incorrecta. Ambos hablan de los niños."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "054f44e8-1a39-511d-a4cd-2011edaa4854",
+    "subject": "SC",
+    "evidence_code": "SC.E4.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Trabajo infantil en la cosecha",
+      "text": "En una vereda cafetera, algunos niños de 12 y 13 años faltan al colegio durante la cosecha para ayudar a recoger café.\nPadre de familia: «Si no ayudan, no alcanzamos a recoger y perdemos la cosecha. Así aprendí yo.»\nRectora: «Pierden semanas de clase y muchos terminan repitiendo el año.»\nFuncionaria del ICBF: «La ley prohíbe el trabajo de menores de 15 años; es nuestro deber proteger sus derechos.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué influye en la frase del padre «Así aprendí yo»?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Una tradición familiar que considera normal que los niños trabajen en la cosecha.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Apela a su propia experiencia y a la costumbre como justificación."
+      },
+      {
+        "label": "B",
+        "text": "El deseo de que sus hijos pierdan el año.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye una intención que no expresa.",
+        "explanation_feedback": "Incorrecta. El padre no dice que quiera eso; su preocupación es la cosecha."
+      },
+      {
+        "label": "C",
+        "text": "Un estudio científico sobre el aprendizaje infantil.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una base científica.",
+        "explanation_feedback": "Incorrecta. El padre habla de su experiencia, no de estudios."
+      },
+      {
+        "label": "D",
+        "text": "Una norma del Ministerio de Educación.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una norma.",
+        "explanation_feedback": "Incorrecta. No cita ninguna norma."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "f299672f-1a1c-5b2b-ba73-d225e918ccff",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Trabajo infantil en la cosecha",
+      "text": "En una vereda cafetera, algunos niños de 12 y 13 años faltan al colegio durante la cosecha para ayudar a recoger café.\nPadre de familia: «Si no ayudan, no alcanzamos a recoger y perdemos la cosecha. Así aprendí yo.»\nRectora: «Pierden semanas de clase y muchos terminan repitiendo el año.»\nFuncionaria del ICBF: «La ley prohíbe el trabajo de menores de 15 años; es nuestro deber proteger sus derechos.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué medida atendería tanto la preocupación del padre como los derechos de los niños?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Permitir que los niños trabajen si sacan buenas notas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconoce la prohibición legal.",
+        "explanation_feedback": "Incorrecta. La ley prohíbe el trabajo de menores de 15 años."
+      },
+      {
+        "label": "B",
+        "text": "Multar a las familias sin ofrecer ninguna alternativa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atiende solo la norma.",
+        "explanation_feedback": "Incorrecta. No resuelve el problema económico del padre."
+      },
+      {
+        "label": "C",
+        "text": "Cerrar el colegio durante toda la cosecha.",
+        "is_correct": false,
+        "distractor_diagnosis": "Sacrifica la educación.",
+        "explanation_feedback": "Incorrecta. Los niños seguirían perdiendo clases."
+      },
+      {
+        "label": "D",
+        "text": "Apoyar a las familias para contratar recolectores adultos y ajustar el calendario escolar con refuerzos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Resuelve la falta de mano de obra sin que los niños trabajen ni pierdan clases."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "9fa66b19-016c-5e11-b015-f89113961ab3",
+    "subject": "SC",
+    "evidence_code": "SC.E3.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos mapas de Colombia",
+      "text": "Un mapa de 1890 muestra a Panamá como parte de Colombia y gran parte de la Amazonía sin nombres de poblaciones. Un mapa de 2020 no incluye a Panamá y muestra en la Amazonía resguardos indígenas, parques nacionales y municipios.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué hecho histórico explica la diferencia sobre Panamá entre los dos mapas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La independencia de España en 1810.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la fecha.",
+        "explanation_feedback": "Incorrecta. En 1890 Colombia ya era independiente y Panamá seguía siendo parte de ella."
+      },
+      {
+        "label": "B",
+        "text": "La Constitución de 1991.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la fecha.",
+        "explanation_feedback": "Incorrecta. Panamá se separó mucho antes, en 1903."
+      },
+      {
+        "label": "C",
+        "text": "El Frente Nacional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la fecha.",
+        "explanation_feedback": "Incorrecta. El Frente Nacional fue entre 1958 y 1974."
+      },
+      {
+        "label": "D",
+        "text": "La separación de Panamá en 1903.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Panamá se separó de Colombia en 1903, por eso aparece en el mapa de 1890 y no en el de 2020."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "a9866a77-9da8-5297-8439-488c4ca0965a",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos mapas de Colombia",
+      "text": "Un mapa de 1890 muestra a Panamá como parte de Colombia y gran parte de la Amazonía sin nombres de poblaciones. Un mapa de 2020 no incluye a Panamá y muestra en la Amazonía resguardos indígenas, parques nacionales y municipios.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué no se puede concluir solo a partir de que el mapa de 1890 no tenga nombres en la Amazonía?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que los mapas cambian con el tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Esa sí es una conclusión razonable.",
+        "explanation_feedback": "Incorrecta. Comparar los dos mapas sí muestra cambios."
+      },
+      {
+        "label": "B",
+        "text": "Que el mapa de 1890 tenía menos información sobre esa región.",
+        "is_correct": false,
+        "distractor_diagnosis": "Esa sí es una conclusión razonable.",
+        "explanation_feedback": "Incorrecta. Esa conclusión sí se puede sacar del mapa."
+      },
+      {
+        "label": "C",
+        "text": "Que el mapa de 2020 muestra resguardos indígenas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Esa es información directa.",
+        "explanation_feedback": "Incorrecta. El texto dice que el mapa de 2020 los muestra."
+      },
+      {
+        "label": "D",
+        "text": "Que en la Amazonía no vivía nadie en esa época.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Que un mapa no registre poblaciones no prueba que no existieran; puede reflejar lo que el Estado conocía o reconocía."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "49164588-9465-5ece-93ee-ea893ece15ed",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Uniformes y libertad",
+      "text": "Columna de opinión de una estudiante (ficticia): «Los uniformes nos quitan la posibilidad de expresar quiénes somos. Además, muchas familias tienen que comprar uniformes costosos que solo venden en un almacén. Un colegio que enseña la libertad debería empezar por respetar cómo nos vestimos.»\nRespuesta del rector: «El uniforme evita que los estudiantes sean juzgados por la ropa que pueden comprar y ayuda a identificar quién pertenece al colegio por seguridad.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿En qué coinciden la estudiante y el rector, aunque lleguen a conclusiones distintas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ambos hablan de la seguridad del colegio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye a la estudiante el argumento del rector.",
+        "explanation_feedback": "Incorrecta. La seguridad la menciona solo el rector."
+      },
+      {
+        "label": "B",
+        "text": "Ambos defienden la libertad de expresión.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye al rector el argumento de la estudiante.",
+        "explanation_feedback": "Incorrecta. La libre expresión la menciona solo la estudiante."
+      },
+      {
+        "label": "C",
+        "text": "Ambos quieren eliminar el uniforme.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la posición del rector.",
+        "explanation_feedback": "Incorrecta. El rector defiende el uniforme."
+      },
+      {
+        "label": "D",
+        "text": "Ambos se preocupan por el costo o la desigualdad económica entre familias.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ella menciona uniformes costosos; él, que se juzgue a los estudiantes por la ropa que pueden comprar."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "84acb9c6-02b7-5b89-a15d-3e62991e1930",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Uniformes y libertad",
+      "text": "Columna de opinión de una estudiante (ficticia): «Los uniformes nos quitan la posibilidad de expresar quiénes somos. Además, muchas familias tienen que comprar uniformes costosos que solo venden en un almacén. Un colegio que enseña la libertad debería empezar por respetar cómo nos vestimos.»\nRespuesta del rector: «El uniforme evita que los estudiantes sean juzgados por la ropa que pueden comprar y ayuda a identificar quién pertenece al colegio por seguridad.»",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué dato ayudaría a evaluar el argumento de la estudiante sobre el costo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Saber cuántos años lleva el rector en el cargo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un dato irrelevante.",
+        "explanation_feedback": "Incorrecta. La antigüedad del rector no evalúa el argumento."
+      },
+      {
+        "label": "B",
+        "text": "Contar cuántas columnas de opinión publica el periódico.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un dato irrelevante.",
+        "explanation_feedback": "Incorrecta. No informa sobre el costo de los uniformes."
+      },
+      {
+        "label": "C",
+        "text": "Comparar el precio del uniforme con lo que gastan las familias en ropa de diario.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ese dato permitiría saber si el uniforme realmente es más costoso."
+      },
+      {
+        "label": "D",
+        "text": "Saber cuál es el color favorito de los estudiantes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un dato irrelevante.",
+        "explanation_feedback": "Incorrecta. El color no dice nada sobre el costo."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "df0e6799-643f-517e-8a43-8910b2efbe98",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La consulta en el municipio minero",
+      "text": "En un municipio, una empresa quiere abrir una mina de oro. Parte de la población dice que traerá empleo e impuestos; otra parte teme que contamine las fuentes de agua de las que dependen los cultivos. El concejo convocó una consulta popular y el 70 % de los votantes dijo no a la minería.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué temen quienes se oponen a la mina?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que se contaminen las fuentes de agua de los cultivos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto dice que temen la contaminación del agua de la que dependen los cultivos."
+      },
+      {
+        "label": "B",
+        "text": "Que no haya suficientes empleos en la mina.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde los argumentos a favor.",
+        "explanation_feedback": "Incorrecta. El empleo lo mencionan quienes apoyan la mina."
+      },
+      {
+        "label": "C",
+        "text": "Que el oro pierda valor en el mercado.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un argumento.",
+        "explanation_feedback": "Incorrecta. El texto no menciona el precio del oro."
+      },
+      {
+        "label": "D",
+        "text": "Que el municipio reciba demasiados impuestos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde los argumentos a favor.",
+        "explanation_feedback": "Incorrecta. Los impuestos son un argumento a favor."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "18b87566-53db-5b42-b8c7-1397c6f1acb8",
+    "subject": "SC",
+    "evidence_code": "SC.E4.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La consulta en el municipio minero",
+      "text": "En un municipio, una empresa quiere abrir una mina de oro. Parte de la población dice que traerá empleo e impuestos; otra parte teme que contamine las fuentes de agua de las que dependen los cultivos. El concejo convocó una consulta popular y el 70 % de los votantes dijo no a la minería.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué tipo de actividad económica probablemente tienen quienes votaron no?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La banca internacional.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una actividad sin relación.",
+        "explanation_feedback": "Incorrecta. El texto no da pistas sobre banca."
+      },
+      {
+        "label": "B",
+        "text": "La agricultura, que depende del agua.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Su preocupación por el agua de los cultivos sugiere que viven de la agricultura."
+      },
+      {
+        "label": "C",
+        "text": "La venta de maquinaria minera.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone intereses opuestos a su voto.",
+        "explanation_feedback": "Incorrecta. Ese grupo se beneficiaría de la mina."
+      },
+      {
+        "label": "D",
+        "text": "La minería de oro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que los mineros se oponen a su actividad.",
+        "explanation_feedback": "Incorrecta. Quienes viven de la minería tenderían a apoyarla."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "a4c27d8e-2616-5199-991b-b786f5d2df43",
+    "subject": "SC",
+    "evidence_code": "SC.E6.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La consulta en el municipio minero",
+      "text": "En un municipio, una empresa quiere abrir una mina de oro. Parte de la población dice que traerá empleo e impuestos; otra parte teme que contamine las fuentes de agua de las que dependen los cultivos. El concejo convocó una consulta popular y el 70 % de los votantes dijo no a la minería.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué dimensiones del problema están en tensión en esta situación?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La religiosa, por las creencias, y la deportiva.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige dimensiones sin relación.",
+        "explanation_feedback": "Incorrecta. El texto no habla de religión ni deporte."
+      },
+      {
+        "label": "B",
+        "text": "Solo la política, porque hubo una votación.",
+        "is_correct": false,
+        "distractor_diagnosis": "Reduce el problema a una dimensión.",
+        "explanation_feedback": "Incorrecta. La votación fue el mecanismo; el conflicto es económico y ambiental."
+      },
+      {
+        "label": "C",
+        "text": "La económica, por el empleo y los impuestos, y la ambiental, por el agua.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La discusión enfrenta beneficios económicos con riesgos ambientales."
+      },
+      {
+        "label": "D",
+        "text": "La militar y la de las relaciones internacionales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige dimensiones sin relación.",
+        "explanation_feedback": "Incorrecta. El texto no menciona ejército ni otros países."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "b7cf1d03-adba-5f4f-a9b5-b75b10b7e7db",
+    "subject": "SC",
+    "evidence_code": "SC.E3.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Lenguaje en las noticias",
+      "text": "Titular 1: «Invasores se toman un lote en la periferia.»\nTitular 2: «Familias sin vivienda ocupan un lote en la periferia.»\nAmbos titulares se refieren al mismo hecho.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué diferencia hay entre los dos titulares?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El primero presenta a las personas de forma negativa y el segundo destaca su necesidad.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Invasores» sugiere ilegitimidad; «familias sin vivienda» resalta la necesidad."
+      },
+      {
+        "label": "B",
+        "text": "El primero describe un hecho distinto al segundo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora que hablan del mismo hecho.",
+        "explanation_feedback": "Incorrecta. El texto dice que se refieren al mismo hecho."
+      },
+      {
+        "label": "C",
+        "text": "El segundo usa un lenguaje más agresivo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la valoración.",
+        "explanation_feedback": "Incorrecta. El lenguaje negativo está en el primero."
+      },
+      {
+        "label": "D",
+        "text": "Ninguno muestra una valoración sobre las personas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la carga de las palabras.",
+        "explanation_feedback": "Incorrecta. La elección de palabras sí transmite una valoración."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "99fb906d-cf14-5d31-8fdd-19e1e63fe5e1",
+    "subject": "SC",
+    "evidence_code": "SC.E3.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Lenguaje en las noticias",
+      "text": "Titular 1: «Invasores se toman un lote en la periferia.»\nTitular 2: «Familias sin vivienda ocupan un lote en la periferia.»\nAmbos titulares se refieren al mismo hecho.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué intención podría tener un medio que elige el titular 1?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Explicar las causas de la falta de vivienda.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa contenido.",
+        "explanation_feedback": "Incorrecta. El titular no habla de causas."
+      },
+      {
+        "label": "B",
+        "text": "Despertar solidaridad con las familias.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye la intención del titular 2.",
+        "explanation_feedback": "Incorrecta. Esa intención corresponde mejor al titular 2."
+      },
+      {
+        "label": "C",
+        "text": "Generar rechazo hacia las personas que ocupan el lote.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La palabra «invasores» predispone al lector en contra de quienes ocupan el lote."
+      },
+      {
+        "label": "D",
+        "text": "Informar sin ninguna valoración.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone neutralidad.",
+        "explanation_feedback": "Incorrecta. La palabra elegida tiene una carga negativa."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "7542f0c4-a7a7-53f7-bfc9-50aef8477074",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La vía bloqueada",
+      "text": "Comunidades indígenas del Cauca bloquearon durante una semana la vía Panamericana. Dicen que el Gobierno no ha cumplido acuerdos firmados sobre tierras y salud. Los transportadores reportan pérdidas porque la carga no puede pasar. El Gobierno pide levantar el bloqueo para empezar a negociar, y las comunidades responden que solo lo levantarán cuando haya compromisos con fechas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué bloquearon la vía las comunidades indígenas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque la vía estaba dañada por las lluvias.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un motivo.",
+        "explanation_feedback": "Incorrecta. El bloqueo fue una forma de protesta."
+      },
+      {
+        "label": "B",
+        "text": "Porque consideran que el Gobierno incumplió acuerdos sobre tierras y salud.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto dice que reclaman el incumplimiento de acuerdos firmados."
+      },
+      {
+        "label": "C",
+        "text": "Porque querían cobrar peaje a los transportadores.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un motivo.",
+        "explanation_feedback": "Incorrecta. El texto no habla de peajes."
+      },
+      {
+        "label": "D",
+        "text": "Porque el Gobierno les pidió que lo hicieran.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la relación.",
+        "explanation_feedback": "Incorrecta. El Gobierno pide levantar el bloqueo."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "d090a781-a005-5aca-b016-f793d9c92a8d",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La vía bloqueada",
+      "text": "Comunidades indígenas del Cauca bloquearon durante una semana la vía Panamericana. Dicen que el Gobierno no ha cumplido acuerdos firmados sobre tierras y salud. Los transportadores reportan pérdidas porque la carga no puede pasar. El Gobierno pide levantar el bloqueo para empezar a negociar, y las comunidades responden que solo lo levantarán cuando haya compromisos con fechas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿En qué se diferencian las condiciones que ponen el Gobierno y las comunidades?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El Gobierno quiere levantar el bloqueo antes de negociar y las comunidades quieren compromisos antes de levantarlo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada parte quiere que la otra ceda primero."
+      },
+      {
+        "label": "B",
+        "text": "Ambos quieren mantener el bloqueo indefinidamente.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la posición del Gobierno.",
+        "explanation_feedback": "Incorrecta. El Gobierno pide levantarlo."
+      },
+      {
+        "label": "C",
+        "text": "El Gobierno exige fechas y las comunidades se niegan a negociar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte las posiciones.",
+        "explanation_feedback": "Incorrecta. Son las comunidades quienes piden compromisos con fechas."
+      },
+      {
+        "label": "D",
+        "text": "Las comunidades piden dinero y el Gobierno pide tierras.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte y deforma los reclamos.",
+        "explanation_feedback": "Incorrecta. Las tierras las piden las comunidades."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "500a1ba7-8f82-5cb3-a7b7-0552470f4543",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La vía bloqueada",
+      "text": "Comunidades indígenas del Cauca bloquearon durante una semana la vía Panamericana. Dicen que el Gobierno no ha cumplido acuerdos firmados sobre tierras y salud. Los transportadores reportan pérdidas porque la carga no puede pasar. El Gobierno pide levantar el bloqueo para empezar a negociar, y las comunidades responden que solo lo levantarán cuando haya compromisos con fechas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué salida tiene en cuenta las posiciones de las tres partes mencionadas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Desviar la carga por otro país mientras pasa el conflicto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Propone una salida poco viable que no resuelve el conflicto.",
+        "explanation_feedback": "Incorrecta. No atiende los reclamos ni la negociación."
+      },
+      {
+        "label": "B",
+        "text": "Mantener el bloqueo hasta que el Gobierno cumpla todo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atiende solo a las comunidades.",
+        "explanation_feedback": "Incorrecta. Ignora las pérdidas de los transportadores."
+      },
+      {
+        "label": "C",
+        "text": "Desalojar la vía con la fuerza pública sin negociar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atiende solo la urgencia de la vía.",
+        "explanation_feedback": "Incorrecta. Ignora los reclamos de las comunidades."
+      },
+      {
+        "label": "D",
+        "text": "Abrir un paso humanitario para la carga mientras se firma un cronograma verificable de cumplimiento.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Reduce las pérdidas de los transportadores, da garantías a las comunidades y abre la negociación que pide el Gobierno."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "e930824b-3f22-5386-814a-8f2c84c88985",
+    "subject": "SC",
+    "evidence_code": "SC.E3.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una constitución federal (fragmento adaptado)",
+      "text": "«Los Estados soberanos de Antioquia, Bolívar, Boyacá, Cauca, Cundinamarca, Magdalena, Panamá, Santander y Tolima se unen y confederan para siempre, y forman una nación libre, soberana e independiente, bajo el nombre de Estados Unidos de Colombia.»\n(Adaptado del artículo 1 de la Constitución de Rionegro, 1863.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué modelo de organización del Estado expresa este fragmento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Una monarquía con un rey como jefe de Estado.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde formas de gobierno.",
+        "explanation_feedback": "Incorrecta. El fragmento no menciona un rey."
+      },
+      {
+        "label": "B",
+        "text": "Un modelo federal, en el que los estados conservan amplia autonomía.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Habla de estados «soberanos» que se unen: es la base del federalismo de 1863."
+      },
+      {
+        "label": "C",
+        "text": "Un Estado social de derecho como el de 1991.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde épocas.",
+        "explanation_feedback": "Incorrecta. Ese modelo es de la Constitución de 1991."
+      },
+      {
+        "label": "D",
+        "text": "Un modelo centralista, en el que todo se decide desde la capital.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la Constitución de 1886.",
+        "explanation_feedback": "Incorrecta. La de 1886 fue centralista; este fragmento muestra lo contrario."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "88d3d60a-eb41-5107-9800-f37e84c3bacc",
+    "subject": "SC",
+    "evidence_code": "SC.E3.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una constitución federal (fragmento adaptado)",
+      "text": "«Los Estados soberanos de Antioquia, Bolívar, Boyacá, Cauca, Cundinamarca, Magdalena, Panamá, Santander y Tolima se unen y confederan para siempre, y forman una nación libre, soberana e independiente, bajo el nombre de Estados Unidos de Colombia.»\n(Adaptado del artículo 1 de la Constitución de Rionegro, 1863.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué grupo político del siglo XIX defendía con más fuerza el modelo que muestra este fragmento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Los realistas que apoyaban a la Corona española.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde épocas.",
+        "explanation_feedback": "Incorrecta. En 1863 la independencia ya se había consolidado."
+      },
+      {
+        "label": "B",
+        "text": "Los regeneradores, que impulsaron la Constitución de 1886.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde a los defensores del centralismo.",
+        "explanation_feedback": "Incorrecta. La Regeneración impulsó el centralismo de 1886."
+      },
+      {
+        "label": "C",
+        "text": "Los liberales radicales, que buscaban limitar el poder del gobierno central.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La Constitución de Rionegro fue obra del liberalismo radical, partidario del federalismo."
+      },
+      {
+        "label": "D",
+        "text": "Los partidos de izquierda del siglo XX.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde épocas.",
+        "explanation_feedback": "Incorrecta. El fragmento es de 1863."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "9b15e538-2b9b-5c5e-a377-d5c88bfa70a4",
+    "subject": "SC",
+    "evidence_code": "SC.E2.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Una constitución federal (fragmento adaptado)",
+      "text": "«Los Estados soberanos de Antioquia, Bolívar, Boyacá, Cauca, Cundinamarca, Magdalena, Panamá, Santander y Tolima se unen y confederan para siempre, y forman una nación libre, soberana e independiente, bajo el nombre de Estados Unidos de Colombia.»\n(Adaptado del artículo 1 de la Constitución de Rionegro, 1863.)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de los estados nombrados ya no hace parte de Colombia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tolima.",
+        "is_correct": false,
+        "distractor_diagnosis": "No reconoce la continuidad del territorio.",
+        "explanation_feedback": "Incorrecta. Tolima sigue siendo un departamento de Colombia."
+      },
+      {
+        "label": "B",
+        "text": "Boyacá.",
+        "is_correct": false,
+        "distractor_diagnosis": "No reconoce la continuidad del territorio.",
+        "explanation_feedback": "Incorrecta. Boyacá sigue siendo un departamento de Colombia."
+      },
+      {
+        "label": "C",
+        "text": "Antioquia.",
+        "is_correct": false,
+        "distractor_diagnosis": "No reconoce la continuidad del territorio.",
+        "explanation_feedback": "Incorrecta. Antioquia sigue siendo un departamento de Colombia."
+      },
+      {
+        "label": "D",
+        "text": "Panamá.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Panamá se separó de Colombia en 1903."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "c43f97d7-e8a5-5989-b06c-d14364d9155c",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Murales en el centro",
+      "text": "En el centro de una ciudad, un colectivo de jóvenes pintó murales sobre la historia del barrio. Algunos comerciantes dicen que ensucian las fachadas y espantan a los clientes. Una guía turística afirma que desde que aparecieron los murales llegan más visitantes. La alcaldía estudia crear un reglamento.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué opina la guía turística de los murales?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que la alcaldía debe prohibirlos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una opinión.",
+        "explanation_feedback": "Incorrecta. Ella no habla de prohibirlos."
+      },
+      {
+        "label": "B",
+        "text": "Que deben borrarse de inmediato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una opinión.",
+        "explanation_feedback": "Incorrecta. Ella no propone borrarlos."
+      },
+      {
+        "label": "C",
+        "text": "Que atraen más visitantes al centro.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Ella afirma que desde que aparecieron llegan más visitantes."
+      },
+      {
+        "label": "D",
+        "text": "Que ensucian las fachadas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye la opinión de los comerciantes.",
+        "explanation_feedback": "Incorrecta. Eso lo dicen algunos comerciantes."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "0957a891-b08d-5579-aaf9-e520b2275276",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Murales en el centro",
+      "text": "En el centro de una ciudad, un colectivo de jóvenes pintó murales sobre la historia del barrio. Algunos comerciantes dicen que ensucian las fachadas y espantan a los clientes. Una guía turística afirma que desde que aparecieron los murales llegan más visitantes. La alcaldía estudia crear un reglamento.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué reglamento tendría en cuenta a comerciantes y artistas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uno que cobre un impuesto a los turistas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Propone algo sin relación.",
+        "explanation_feedback": "Incorrecta. No resuelve la tensión entre comerciantes y artistas."
+      },
+      {
+        "label": "B",
+        "text": "Uno que prohíba cualquier pintura en el centro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Responde solo a los comerciantes.",
+        "explanation_feedback": "Incorrecta. Deja sin espacio a los artistas."
+      },
+      {
+        "label": "C",
+        "text": "Uno que permita murales en muros acordados con los propietarios.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Protege la decisión de los dueños de las fachadas y da espacio a los artistas."
+      },
+      {
+        "label": "D",
+        "text": "Uno que permita pintar cualquier fachada sin permiso.",
+        "is_correct": false,
+        "distractor_diagnosis": "Responde solo a los artistas.",
+        "explanation_feedback": "Incorrecta. Ignora a los propietarios."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "dbdc4c97-dcf7-5a62-8748-2632f081de09",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Qué fuente usar?",
+      "text": "Para una exposición sobre el voto femenino en Colombia, un grupo encontró: (1) el texto del Acto Legislativo 3 de 1954, que reconoció a las mujeres el derecho a votar; (2) un video de un canal de entretenimiento con «datos curiosos» de la historia, sin autores ni referencias; (3) un libro de una historiadora con notas a pie de página y fuentes de archivo; (4) un comentario anónimo en un foro.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es la fuente menos confiable para la exposición?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El texto del Acto Legislativo de 1954.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconfía de un documento oficial.",
+        "explanation_feedback": "Incorrecta. Es una fuente primaria oficial muy útil."
+      },
+      {
+        "label": "B",
+        "text": "El comentario anónimo en un foro.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. No se sabe quién lo escribió ni en qué se basa."
+      },
+      {
+        "label": "C",
+        "text": "El libro de la historiadora.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconfía de una fuente académica.",
+        "explanation_feedback": "Incorrecta. Tiene autoría, notas y fuentes de archivo."
+      },
+      {
+        "label": "D",
+        "text": "Todas son igual de confiables.",
+        "is_correct": false,
+        "distractor_diagnosis": "No evalúa las fuentes.",
+        "explanation_feedback": "Incorrecta. Las fuentes tienen distintos niveles de confiabilidad."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "ed3fdbb7-7f5d-5820-b910-2ad051735510",
+    "subject": "SC",
+    "evidence_code": "SC.E3.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Qué fuente usar?",
+      "text": "Para una exposición sobre el voto femenino en Colombia, un grupo encontró: (1) el texto del Acto Legislativo 3 de 1954, que reconoció a las mujeres el derecho a votar; (2) un video de un canal de entretenimiento con «datos curiosos» de la historia, sin autores ni referencias; (3) un libro de una historiadora con notas a pie de página y fuentes de archivo; (4) un comentario anónimo en un foro.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué tipo de fuente es el texto del Acto Legislativo 3 de 1954?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Una fuente secundaria, porque la escribió un historiador.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con el libro.",
+        "explanation_feedback": "Incorrecta. El libro es la fuente secundaria."
+      },
+      {
+        "label": "B",
+        "text": "Una fuente primaria, porque es un documento producido en la época del hecho.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Fue creado en 1954 como parte del hecho que se estudia."
+      },
+      {
+        "label": "C",
+        "text": "Una fuente terciaria, como una enciclopedia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde categorías.",
+        "explanation_feedback": "Incorrecta. Es un documento original de la época."
+      },
+      {
+        "label": "D",
+        "text": "Una opinión personal sin valor histórico.",
+        "is_correct": false,
+        "distractor_diagnosis": "Desconoce su carácter oficial.",
+        "explanation_feedback": "Incorrecta. Es una norma oficial."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "8108e418-4239-5a43-8fea-4e53f5e87359",
+    "subject": "SC",
+    "evidence_code": "SC.E3.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Qué fuente usar?",
+      "text": "Para una exposición sobre el voto femenino en Colombia, un grupo encontró: (1) el texto del Acto Legislativo 3 de 1954, que reconoció a las mujeres el derecho a votar; (2) un video de un canal de entretenimiento con «datos curiosos» de la historia, sin autores ni referencias; (3) un libro de una historiadora con notas a pie de página y fuentes de archivo; (4) un comentario anónimo en un foro.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Para qué sirve más el libro de la historiadora que el Acto Legislativo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para entretener al público con datos curiosos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye el propósito del video.",
+        "explanation_feedback": "Incorrecta. Ese es el propósito del video."
+      },
+      {
+        "label": "B",
+        "text": "Para entender el contexto y los debates que llevaron al voto femenino.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Una investigación con fuentes de archivo explica causas, actores y debates."
+      },
+      {
+        "label": "C",
+        "text": "Para conocer el texto exacto de la norma.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye al libro lo que da mejor la fuente primaria.",
+        "explanation_feedback": "Incorrecta. El texto exacto está en el Acto Legislativo."
+      },
+      {
+        "label": "D",
+        "text": "Para saber qué opinan usuarios anónimos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Le atribuye el contenido del foro.",
+        "explanation_feedback": "Incorrecta. Eso lo daría el foro."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "25e2a68d-f197-5e13-840f-75d26fc2b09f",
+    "subject": "SC",
+    "evidence_code": "SC.E4.1",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Turismo en el archipiélago",
+      "text": "En San Andrés, el número de turistas ha crecido mucho. Los hoteleros celebran el aumento de ingresos. Líderes del pueblo raizal, que tiene su propia lengua (el creole) y tradiciones, dicen que el turismo masivo encarece la vida, presiona el agua dulce y reduce los espacios de su cultura. Funcionarios ambientales advierten sobre el daño a los arrecifes de coral.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué preocupa a los funcionarios ambientales?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El daño a los arrecifes de coral.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto dice que advierten sobre el daño a los arrecifes."
+      },
+      {
+        "label": "B",
+        "text": "El aumento de ingresos de los hoteles.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con lo que celebran los hoteleros.",
+        "explanation_feedback": "Incorrecta. Eso lo celebran los hoteleros."
+      },
+      {
+        "label": "C",
+        "text": "La pérdida de la lengua creole.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la preocupación raizal.",
+        "explanation_feedback": "Incorrecta. Eso lo plantean los líderes raizales."
+      },
+      {
+        "label": "D",
+        "text": "La falta de turistas en la isla.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto dice que los turistas han aumentado."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "58f8ec95-95a5-5fbf-b4e7-faefa8e72ba4",
+    "subject": "SC",
+    "evidence_code": "SC.E4.2",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Turismo en el archipiélago",
+      "text": "En San Andrés, el número de turistas ha crecido mucho. Los hoteleros celebran el aumento de ingresos. Líderes del pueblo raizal, que tiene su propia lengua (el creole) y tradiciones, dicen que el turismo masivo encarece la vida, presiona el agua dulce y reduce los espacios de su cultura. Funcionarios ambientales advierten sobre el daño a los arrecifes de coral.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué la perspectiva raizal incluye aspectos culturales que los hoteleros no mencionan?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque para el pueblo raizal la isla es su territorio ancestral y base de su identidad.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Su relación con el territorio va más allá de lo económico: incluye lengua, tradiciones y modos de vida."
+      },
+      {
+        "label": "B",
+        "text": "Porque los hoteleros no viven en la isla.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. El texto no dice dónde viven los hoteleros."
+      },
+      {
+        "label": "C",
+        "text": "Porque la cultura no tiene relación con el turismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Los raizales dicen que el turismo reduce espacios de su cultura."
+      },
+      {
+        "label": "D",
+        "text": "Porque los raizales no trabajan en turismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza sin datos.",
+        "explanation_feedback": "Incorrecta. El texto no dice eso."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "c6c6a692-3d6f-5d49-aa03-659865826fd9",
+    "subject": "SC",
+    "evidence_code": "SC.E4.3",
+    "component_code": null,
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Turismo en el archipiélago",
+      "text": "En San Andrés, el número de turistas ha crecido mucho. Los hoteleros celebran el aumento de ingresos. Líderes del pueblo raizal, que tiene su propia lengua (el creole) y tradiciones, dicen que el turismo masivo encarece la vida, presiona el agua dulce y reduce los espacios de su cultura. Funcionarios ambientales advierten sobre el daño a los arrecifes de coral.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué medida atendería a la vez las preocupaciones raizales y ambientales?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Prohibir que los raizales participen en el turismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Excluye a la comunidad.",
+        "explanation_feedback": "Incorrecta. Va contra la participación raizal."
+      },
+      {
+        "label": "B",
+        "text": "Limitar el número de visitantes y promover un turismo gestionado con la comunidad raizal.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Reduce la presión sobre el agua y los corales y da participación a los raizales."
+      },
+      {
+        "label": "C",
+        "text": "Construir más hoteles para recibir más turistas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Responde solo a los hoteleros.",
+        "explanation_feedback": "Incorrecta. Aumentaría la presión que preocupa a raizales y ambientalistas."
+      },
+      {
+        "label": "D",
+        "text": "Trasladar los arrecifes a otra zona del mar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Propone una medida inviable.",
+        "explanation_feedback": "Incorrecta. Los arrecifes no se trasladan."
+      }
+    ],
+    "estimated_time_seconds": 75
+  }
+]
