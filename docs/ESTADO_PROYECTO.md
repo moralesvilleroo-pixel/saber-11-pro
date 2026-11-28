@@ -2,6 +2,37 @@
 
 Registro vivo. Actualizar al cierre de cada Pull Request.
 
+## Banco de 1000 preguntas - Lote de Inglés (2026-11-28)
+
+Meta acordada: 1000 preguntas en total, Inglés primero; el resto se reparte como el examen real
+(LC 41, MA 50, SC 50, CN 58, IN 55 de 254): unas 160 LC, 195 MA, 195 SC, 230 CN y 220 IN.
+
+### Hecho
+- 226 preguntas originales de Inglés en `banco/lotes/2026-11-lote-003` a `-009` (una por parte):
+  Parte 1: 24 (A-/A1/A2), Parte 2: 25, Parte 3: 24, Parte 4: 40 (8 textos con 5 espacios),
+  Parte 5: 35 (7 textos), Parte 6: 24 (4 textos B1), Parte 7: 54 (9 textos B1/B+ con 6 espacios).
+  Banco total: 246 preguntas (IN 226, LC 10, MA 10).
+- Contenido en inglés; diagnóstico de cada distractor y retroalimentación en español. La clave queda
+  repartida en A-D por igual dentro de cada lote.
+- El demo incluye las partes 1, 3 y 5 de Inglés. `QuestionCard` marca con `lang="en"` el texto en inglés
+  (lectores de pantalla).
+
+### Decisiones
+- **Formato de 4 opciones en todas las partes**: el validador exige A-D. Las partes 1 y 2 (que en el examen
+  usan listas de 8 palabras o lugares) se adaptan a 4 opciones con un distractor del mismo campo semántico.
+- **Dificultad por nivel MCER**: A-/A1 bajo, A2 medio, B1/B+ alto (b = -1.2 / 0 / 1.3, c = 0.25).
+- **Textos con contexto colombiano** (Tatacoa, Caño Cristales, La Guajira, Boyacá), escritos desde cero.
+  Ninguno viene de cuadernillos del Icfes ni de exámenes de Cambridge.
+- Los scripts que generan los lotes están fuera del repo; la fuente de verdad son los JSON de `banco/lotes`.
+
+### Pendiente
+- [ ] Sociales y Ciudadanas, Ciencias Naturales, y completar Matemáticas y Lectura Crítica (~754 preguntas).
+- [ ] Correr "Cargar a Supabase" para subir el lote de Inglés.
+- [ ] Calibrar a, b y c con respuestas reales cuando haya datos.
+
+### Siguiente paso
+Lotes de Sociales y Ciudadanas y de Ciencias Naturales (con ellas ya hay Puntaje Global proyectado).
+
 ## Semanas 3-4 - MVP web no comercial (2026-11-28)
 
 ### Hecho
@@ -33,7 +64,7 @@ Registro vivo. Actualizar al cierre de cada Pull Request.
 ### Pendiente
 - [ ] Correr "Cargar a Supabase" (aplica 0003), crear el proyecto en Vercel y configurar Auth (ver `docs/DESPLIEGUE_WEB.md`).
 - [ ] Definir el responsable del tratamiento (`NEXT_PUBLIC_RESPONSABLE_*`) y revisar la política con un abogado.
-- [ ] Más preguntas: SC, CN e IN (sin ellas no hay Puntaje Global proyectado).
+- [x] Inglés: 226 preguntas (ver la sección del banco). Faltan SC y CN para el Puntaje Global.
 - [ ] Probar con estudiantes reales y ajustar.
 
 ### Siguiente paso

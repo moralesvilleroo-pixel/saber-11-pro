@@ -38,6 +38,8 @@ interface Props {
 }
 
 export function QuestionCard({ question: q, index, total, selected, revealed, onSelect }: Props) {
+  // Los textos de Inglés van en inglés; la retroalimentación sigue en español.
+  const lang = q.subject === "IN" ? "en" : undefined;
   return (
     <article className="card" aria-labelledby={`stem-${q.questionId}`}>
       <p className="text-sm font-medium text-muted">
@@ -45,7 +47,7 @@ export function QuestionCard({ question: q, index, total, selected, revealed, on
       </p>
 
       {(q.context.title || q.context.text || q.context.table || q.context.svg) && (
-        <section className="mt-3 rounded-lg bg-surface-2 p-4">
+        <section lang={lang} className="mt-3 rounded-lg bg-surface-2 p-4">
           {q.context.title && <h2 className="font-semibold">{q.context.title}</h2>}
           {q.context.text && (
             <div className="prose-text mt-2 leading-relaxed">
@@ -85,7 +87,7 @@ export function QuestionCard({ question: q, index, total, selected, revealed, on
         </section>
       )}
 
-      <h3 id={`stem-${q.questionId}`} className="mt-4 text-lg font-semibold leading-snug">
+      <h3 id={`stem-${q.questionId}`} lang={lang} className="mt-4 text-lg font-semibold leading-snug">
         {q.stem}
       </h3>
 
@@ -108,7 +110,7 @@ export function QuestionCard({ question: q, index, total, selected, revealed, on
                 <span className="mt-0.5 inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-border bg-surface font-semibold">
                   {o.label}
                 </span>
-                <span className="leading-relaxed">{o.text}</span>
+                <span lang={lang} className="leading-relaxed">{o.text}</span>
               </button>
               {revealed && (
                 <p

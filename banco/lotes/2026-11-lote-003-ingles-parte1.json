@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "3b213bf7-6f62-534b-8059-77113ba29c12",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Jobs",
+      "text": "This person helps sick animals and works in a clinic for pets.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "nurse",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «clinic» con salud humana y no lee «animals».",
+        "explanation_feedback": "Incorrecta. «nurse» significa «enfermero». La pista es «sick animals» (animales enfermos) y «pets» (mascotas)."
+      },
+      {
+        "label": "B",
+        "text": "waiter",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una profesión de servicio sin relación con el contexto.",
+        "explanation_feedback": "Incorrecta. «waiter» significa «mesero». La pista es «sick animals» (animales enfermos) y «pets» (mascotas)."
+      },
+      {
+        "label": "C",
+        "text": "farmer",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona «animals» con la granja sin atender a «sick» ni «clinic».",
+        "explanation_feedback": "Incorrecta. «farmer» significa «granjero». La pista es «sick animals» (animales enfermos) y «pets» (mascotas)."
+      },
+      {
+        "label": "D",
+        "text": "vet",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «vet» significa «veterinario». Es quien atiende animales enfermos, justo lo que dice la descripción."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "83c578d0-f2be-530f-ad45-4b222eb2fcf6",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Jobs",
+      "text": "This person drives people around the city and they pay at the end of the trip.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "taxi driver",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «taxi driver» significa «taxista». Conduce, lleva pasajeros por la ciudad y cobra al final del viaje."
+      },
+      {
+        "label": "B",
+        "text": "pilot",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «trip» con viaje en avión; un piloto no «drives» por la ciudad.",
+        "explanation_feedback": "Incorrecta. «pilot» significa «piloto». La pista es «drives people» y «pay at the end of the trip»."
+      },
+      {
+        "label": "C",
+        "text": "cashier",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda solo con «pay» y olvida «drives people».",
+        "explanation_feedback": "Incorrecta. «cashier» significa «cajero». La pista es «drives people» y «pay at the end of the trip»."
+      },
+      {
+        "label": "D",
+        "text": "mechanic",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona carros con arreglarlos, no con conducirlos.",
+        "explanation_feedback": "Incorrecta. «mechanic» significa «mecánico». La pista es «drives people» y «pay at the end of the trip»."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "60ce9d79-526d-58a1-a2aa-f2159b859cf2",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Jobs",
+      "text": "This person writes news stories for a newspaper or a website.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "postman",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona «newspaper» con repartir papel o correo.",
+        "explanation_feedback": "Incorrecta. «postman» significa «cartero». La pista es «writes news stories» (escribe noticias)."
+      },
+      {
+        "label": "B",
+        "text": "journalist",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «journalist» significa «periodista». Escribe noticias para un periódico o un sitio web."
+      },
+      {
+        "label": "C",
+        "text": "librarian",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia textos escritos con libros, pero no con escribir noticias.",
+        "explanation_feedback": "Incorrecta. «librarian» significa «bibliotecario». La pista es «writes news stories» (escribe noticias)."
+      },
+      {
+        "label": "D",
+        "text": "painter",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde crear algo (escribir) con un oficio artístico distinto.",
+        "explanation_feedback": "Incorrecta. «painter» significa «pintor». La pista es «writes news stories» (escribe noticias)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "93bdd903-cfee-53ec-800f-2309f4f40b41",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Places",
+      "text": "You go here to borrow books and read in silence.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "bookshop",
+        "is_correct": false,
+        "distractor_diagnosis": "Falso amigo: «library» parece «librería», pero en una librería se compran libros, no se prestan.",
+        "explanation_feedback": "Incorrecta. «bookshop» significa «librería». La pista es «borrow books» (pedir libros prestados)."
+      },
+      {
+        "label": "B",
+        "text": "library",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «library» significa «biblioteca». Allí se prestan libros y se lee en silencio."
+      },
+      {
+        "label": "C",
+        "text": "museum",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia el silencio con un museo y no lee «borrow books».",
+        "explanation_feedback": "Incorrecta. «museum» significa «museo». La pista es «borrow books» (pedir libros prestados)."
+      },
+      {
+        "label": "D",
+        "text": "classroom",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona leer con estudiar en clase.",
+        "explanation_feedback": "Incorrecta. «classroom» significa «salón de clase». La pista es «borrow books» (pedir libros prestados)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "31ee7a34-ac1b-5a5b-8b22-ca64151b7397",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Places",
+      "text": "People go here when they are very ill or have an accident.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "gym",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona salud con ejercicio sin leer «ill».",
+        "explanation_feedback": "Incorrecta. «gym» significa «gimnasio». La pista es «very ill» (muy enfermo) y «accident»."
+      },
+      {
+        "label": "B",
+        "text": "bank",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar público sin relación con «ill» ni «accident».",
+        "explanation_feedback": "Incorrecta. «bank» significa «banco». La pista es «very ill» (muy enfermo) y «accident»."
+      },
+      {
+        "label": "C",
+        "text": "hospital",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «hospital» significa «hospital». Es el lugar al que se va con una enfermedad grave o tras un accidente."
+      },
+      {
+        "label": "D",
+        "text": "pharmacy",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia enfermedad con comprar medicinas, no con atención por un accidente.",
+        "explanation_feedback": "Incorrecta. «pharmacy» significa «farmacia». La pista es «very ill» (muy enfermo) y «accident»."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "1087ed08-d980-5994-9b75-7b64cc13a5c8",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Places",
+      "text": "You can see wild animals like lions and elephants here, and children love visiting it.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "farm",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia animales con la granja, donde no hay leones.",
+        "explanation_feedback": "Incorrecta. «farm» significa «granja». La pista es «wild animals like lions and elephants»."
+      },
+      {
+        "label": "B",
+        "text": "aquarium",
+        "is_correct": false,
+        "distractor_diagnosis": "Conoce que hay animales, pero un acuario muestra peces, no leones.",
+        "explanation_feedback": "Incorrecta. «aquarium» significa «acuario». La pista es «wild animals like lions and elephants»."
+      },
+      {
+        "label": "C",
+        "text": "park",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona «children love visiting» con un parque.",
+        "explanation_feedback": "Incorrecta. «park» significa «parque». La pista es «wild animals like lions and elephants»."
+      },
+      {
+        "label": "D",
+        "text": "zoo",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «zoo» significa «zoológico». Allí se ven animales salvajes como leones y elefantes."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "7f87683c-3041-54f9-9ca8-9fd201b79ef2",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A-",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Things at home",
+      "text": "You sleep on this every night.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "table",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige otro mueble sin leer «sleep».",
+        "explanation_feedback": "Incorrecta. «table» significa «mesa». La pista es «sleep on» (dormir sobre)."
+      },
+      {
+        "label": "B",
+        "text": "chair",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige otro mueble sin leer «sleep».",
+        "explanation_feedback": "Incorrecta. «chair» significa «silla». La pista es «sleep on» (dormir sobre)."
+      },
+      {
+        "label": "C",
+        "text": "bed",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «bed» significa «cama». Es el mueble en el que se duerme."
+      },
+      {
+        "label": "D",
+        "text": "door",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un objeto de la casa al azar.",
+        "explanation_feedback": "Incorrecta. «door» significa «puerta». La pista es «sleep on» (dormir sobre)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "9ad8513e-a3a7-5201-b098-4b62131c9b92",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A-",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Things at home",
+      "text": "You use this to keep food and drinks cold.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "oven",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia comida con cocinar y pasa por alto «cold».",
+        "explanation_feedback": "Incorrecta. «oven» significa «horno». La pista es «keep food and drinks cold» (mantener frío)."
+      },
+      {
+        "label": "B",
+        "text": "sink",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona la cocina con lavar.",
+        "explanation_feedback": "Incorrecta. «sink» significa «lavaplatos». La pista es «keep food and drinks cold» (mantener frío)."
+      },
+      {
+        "label": "C",
+        "text": "fridge",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «fridge» significa «nevera». Mantiene fríos los alimentos y las bebidas."
+      },
+      {
+        "label": "D",
+        "text": "cupboard",
+        "is_correct": false,
+        "distractor_diagnosis": "Sabe que guarda comida, pero una alacena no la enfría.",
+        "explanation_feedback": "Incorrecta. «cupboard» significa «alacena». La pista es «keep food and drinks cold» (mantener frío)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "1607e59c-d6a2-50e5-b035-8aa5a3cabb5e",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Things at home",
+      "text": "You look into this to see your face before you go out.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "window",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «look into» con mirar por la ventana.",
+        "explanation_feedback": "Incorrecta. «window» significa «ventana». La pista es «see your face» (ver tu cara)."
+      },
+      {
+        "label": "B",
+        "text": "lamp",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia ver con la luz.",
+        "explanation_feedback": "Incorrecta. «lamp» significa «lámpara». La pista es «see your face» (ver tu cara)."
+      },
+      {
+        "label": "C",
+        "text": "picture",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona ver una cara con una foto o un cuadro.",
+        "explanation_feedback": "Incorrecta. «picture» significa «cuadro». La pista es «see your face» (ver tu cara)."
+      },
+      {
+        "label": "D",
+        "text": "mirror",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «mirror» significa «espejo». En el espejo te ves la cara."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "1d017f6e-1fb5-57f2-a2ec-bb40137b9ea1",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "School",
+      "text": "You use this to remove pencil marks from your notebook.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "sharpener",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «pencil» con sacarle punta.",
+        "explanation_feedback": "Incorrecta. «sharpener» significa «tajalápiz». La pista es «remove pencil marks» (quitar marcas de lápiz)."
+      },
+      {
+        "label": "B",
+        "text": "eraser",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «eraser» significa «borrador». Sirve para quitar lo escrito con lápiz."
+      },
+      {
+        "label": "C",
+        "text": "ruler",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige otro útil escolar sin leer «remove».",
+        "explanation_feedback": "Incorrecta. «ruler» significa «regla». La pista es «remove pencil marks» (quitar marcas de lápiz)."
+      },
+      {
+        "label": "D",
+        "text": "glue",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un útil que une cosas en vez de quitarlas.",
+        "explanation_feedback": "Incorrecta. «glue» significa «pegante». La pista es «remove pencil marks» (quitar marcas de lápiz)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "0f522fe3-c4ef-5377-b272-e5e8b404b6b6",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "School",
+      "text": "This is a book where you find the meaning of words.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "diary",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde dos palabras parecidas: «diary» es un cuaderno personal.",
+        "explanation_feedback": "Incorrecta. «diary» significa «diario». La pista es «the meaning of words» (el significado de las palabras)."
+      },
+      {
+        "label": "B",
+        "text": "atlas",
+        "is_correct": false,
+        "distractor_diagnosis": "Sabe que es un libro de consulta, pero un atlas trae mapas.",
+        "explanation_feedback": "Incorrecta. «atlas» significa «atlas». La pista es «the meaning of words» (el significado de las palabras)."
+      },
+      {
+        "label": "C",
+        "text": "novel",
+        "is_correct": false,
+        "distractor_diagnosis": "Sabe que es un libro, pero una novela cuenta una historia.",
+        "explanation_feedback": "Incorrecta. «novel» significa «novela». La pista es «the meaning of words» (el significado de las palabras)."
+      },
+      {
+        "label": "D",
+        "text": "dictionary",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «dictionary» significa «diccionario». Es el libro donde se busca qué significan las palabras."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "929959ff-d18a-5b44-86fe-2ae6ecfdf88a",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Food",
+      "text": "This yellow fruit is long and monkeys love it.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "pineapple",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia fruta tropical amarilla, pero la piña no es larga.",
+        "explanation_feedback": "Incorrecta. «pineapple» significa «piña». La pista es «yellow», «long» y «monkeys love it»."
+      },
+      {
+        "label": "B",
+        "text": "banana",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «banana» significa «banano». Es una fruta amarilla y alargada que comen los monos."
+      },
+      {
+        "label": "C",
+        "text": "lemon",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda con «yellow» y olvida «long».",
+        "explanation_feedback": "Incorrecta. «lemon» significa «limón». La pista es «yellow», «long» y «monkeys love it»."
+      },
+      {
+        "label": "D",
+        "text": "orange",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige otra fruta común sin revisar el color ni la forma.",
+        "explanation_feedback": "Incorrecta. «orange» significa «naranja». La pista es «yellow», «long» y «monkeys love it»."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "f652dacc-e5d3-5284-8de9-72783e7b426a",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Food",
+      "text": "This is a hot drink made from beans. Many adults have it in the morning.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "coffee",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «coffee» significa «café». Es la bebida caliente que se prepara con granos y se toma en la mañana."
+      },
+      {
+        "label": "B",
+        "text": "juice",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una bebida de desayuno que no es caliente ni de granos.",
+        "explanation_feedback": "Incorrecta. «juice» significa «jugo». La pista es «hot drink made from beans» (bebida caliente hecha de granos)."
+      },
+      {
+        "label": "C",
+        "text": "milk",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una bebida de desayuno que no se hace con granos.",
+        "explanation_feedback": "Incorrecta. «milk» significa «leche». La pista es «hot drink made from beans» (bebida caliente hecha de granos)."
+      },
+      {
+        "label": "D",
+        "text": "soup",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia «hot» con algo caliente que se come, no se bebe de granos.",
+        "explanation_feedback": "Incorrecta. «soup» significa «sopa». La pista es «hot drink made from beans» (bebida caliente hecha de granos)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "695d2ba9-7ca5-5026-a26c-7b4ff6abc351",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Weather",
+      "text": "Water falls from the clouds and you need an umbrella.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "snow",
+        "is_correct": false,
+        "distractor_diagnosis": "Sabe que cae de las nubes, pero la nieve es hielo y no pide paraguas.",
+        "explanation_feedback": "Incorrecta. «snow» significa «nieve». La pista es «water falls from the clouds» y «umbrella»."
+      },
+      {
+        "label": "B",
+        "text": "fog",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia nubes con niebla, que no cae como agua.",
+        "explanation_feedback": "Incorrecta. «fog» significa «niebla». La pista es «water falls from the clouds» y «umbrella»."
+      },
+      {
+        "label": "C",
+        "text": "rain",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «rain» significa «lluvia». Es el agua que cae de las nubes; por eso se usa paraguas."
+      },
+      {
+        "label": "D",
+        "text": "wind",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige otro fenómeno del clima sin leer «water falls».",
+        "explanation_feedback": "Incorrecta. «wind» significa «viento». La pista es «water falls from the clouds» y «umbrella»."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "abf9d583-9d6c-50fb-9210-17ea37339285",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Transport",
+      "text": "It has two wheels, no engine, and you move it with your legs.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "bus",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un medio de transporte sin revisar las pistas.",
+        "explanation_feedback": "Incorrecta. «bus» significa «bus». La pista es «two wheels», «no engine» y «with your legs»."
+      },
+      {
+        "label": "B",
+        "text": "motorbike",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda con «two wheels» y no lee «no engine».",
+        "explanation_feedback": "Incorrecta. «motorbike» significa «moto». La pista es «two wheels», «no engine» y «with your legs»."
+      },
+      {
+        "label": "C",
+        "text": "scooter",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia un vehículo pequeño, pero suele tener motor.",
+        "explanation_feedback": "Incorrecta. «scooter» significa «patineta eléctrica». La pista es «two wheels», «no engine» y «with your legs»."
+      },
+      {
+        "label": "D",
+        "text": "bicycle",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «bicycle» significa «bicicleta». Tiene dos ruedas, no tiene motor y se mueve pedaleando."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "32aa8bf2-199a-506b-982d-97520c227c58",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Body and health",
+      "text": "You have ten of these on your hands and you use them to write and hold things.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "teeth",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una parte del cuerpo que también se cuenta.",
+        "explanation_feedback": "Incorrecta. «teeth» significa «dientes». La pista es «ten of these on your hands»."
+      },
+      {
+        "label": "B",
+        "text": "toes",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde dedos de la mano con dedos del pie («toes»).",
+        "explanation_feedback": "Incorrecta. «toes» significa «dedos del pie». La pista es «ten of these on your hands»."
+      },
+      {
+        "label": "C",
+        "text": "arms",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige otra parte del cuerpo sin leer «ten».",
+        "explanation_feedback": "Incorrecta. «arms» significa «brazos». La pista es «ten of these on your hands»."
+      },
+      {
+        "label": "D",
+        "text": "fingers",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «fingers» significa «dedos de la mano». Hay diez en las manos y con ellos se escribe y se agarra."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "62c47ab5-e06a-51fc-aafc-475c9578cf0c",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Jobs",
+      "text": "This person designs buildings and draws plans before the builders start working.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "engineer",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige una profesión cercana, pero la descripción enfatiza diseñar y dibujar planos del edificio.",
+        "explanation_feedback": "Incorrecta. «engineer» significa «ingeniero». La pista es «designs buildings» y «draws plans» (diseña edificios y dibuja planos)."
+      },
+      {
+        "label": "B",
+        "text": "architect",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «architect» significa «arquitecto». Diseña edificios y hace los planos antes de la obra."
+      },
+      {
+        "label": "C",
+        "text": "builder",
+        "is_correct": false,
+        "distractor_diagnosis": "Se queda con «builders» y no ve que la persona trabaja antes que ellos.",
+        "explanation_feedback": "Incorrecta. «builder» significa «obrero de construcción». La pista es «designs buildings» y «draws plans» (diseña edificios y dibuja planos)."
+      },
+      {
+        "label": "D",
+        "text": "plumber",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia construcción con instalaciones de agua.",
+        "explanation_feedback": "Incorrecta. «plumber» significa «plomero». La pista es «designs buildings» y «draws plans» (diseña edificios y dibuja planos)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "2a22d9d8-7997-5afa-a565-06c6eb054323",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Places",
+      "text": "You leave your car here for a few hours and sometimes you have to pay for it.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "motorway",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un lugar relacionado con carros pero donde no se deja el carro.",
+        "explanation_feedback": "Incorrecta. «motorway» significa «autopista». La pista es «leave your car here» (dejas tu carro aquí)."
+      },
+      {
+        "label": "B",
+        "text": "car park",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «car park» significa «parqueadero». Es el lugar donde se deja el carro unas horas, a veces pagando."
+      },
+      {
+        "label": "C",
+        "text": "garage",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia carro con el taller, donde se repara, no donde se estaciona por horas.",
+        "explanation_feedback": "Incorrecta. «garage» significa «taller». La pista es «leave your car here» (dejas tu carro aquí)."
+      },
+      {
+        "label": "D",
+        "text": "petrol station",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona carro y pagar con echar gasolina.",
+        "explanation_feedback": "Incorrecta. «petrol station» significa «estación de gasolina». La pista es «leave your car here» (dejas tu carro aquí)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "2f63ddef-a5f9-594f-960d-6c8237dbb9f8",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Things",
+      "text": "You put letters or documents inside this before you send them by post.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "envelope",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «envelope» significa «sobre». Se meten cartas o documentos en él para enviarlos por correo."
+      },
+      {
+        "label": "B",
+        "text": "folder",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia guardar documentos con una carpeta, que no se envía por correo.",
+        "explanation_feedback": "Incorrecta. «folder» significa «carpeta». La pista es «put letters inside» y «send them by post»."
+      },
+      {
+        "label": "C",
+        "text": "parcel",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona enviar con un paquete, que no es donde se meten cartas.",
+        "explanation_feedback": "Incorrecta. «parcel» significa «paquete». La pista es «put letters inside» y «send them by post»."
+      },
+      {
+        "label": "D",
+        "text": "stamp",
+        "is_correct": false,
+        "distractor_diagnosis": "Sabe que se usa para enviar por correo, pero la estampilla se pega afuera.",
+        "explanation_feedback": "Incorrecta. «stamp» significa «estampilla». La pista es «put letters inside» y «send them by post»."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "b62d68ac-6c92-540a-aa2e-d4b8f4668aa3",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Nature",
+      "text": "This is a very large area of trees, often with many kinds of animals living in it.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "forest",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «forest» significa «bosque». Es una gran extensión de árboles donde viven muchos animales."
+      },
+      {
+        "label": "B",
+        "text": "field",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia naturaleza con un campo, que no está cubierto de árboles.",
+        "explanation_feedback": "Incorrecta. «field» significa «campo abierto». La pista es «very large area of trees» (gran extensión de árboles)."
+      },
+      {
+        "label": "C",
+        "text": "garden",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia árboles con un jardín, que es pequeño.",
+        "explanation_feedback": "Incorrecta. «garden» significa «jardín». La pista es «very large area of trees» (gran extensión de árboles)."
+      },
+      {
+        "label": "D",
+        "text": "desert",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un ecosistema sin leer «trees».",
+        "explanation_feedback": "Incorrecta. «desert» significa «desierto». La pista es «very large area of trees» (gran extensión de árboles)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "ff54dc01-74b1-5efc-b3df-d5737edf8569",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Travel",
+      "text": "You need this official document with your photo to travel to another country.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "ticket",
+        "is_correct": false,
+        "distractor_diagnosis": "Sabe que se necesita para viajar, pero no es un documento oficial con foto.",
+        "explanation_feedback": "Incorrecta. «ticket» significa «tiquete». La pista es «official document» y «travel to another country»."
+      },
+      {
+        "label": "B",
+        "text": "map",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia viajar con ubicarse.",
+        "explanation_feedback": "Incorrecta. «map» significa «mapa». La pista es «official document» y «travel to another country»."
+      },
+      {
+        "label": "C",
+        "text": "passport",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «passport» significa «pasaporte». Es el documento oficial con foto para viajar a otro país."
+      },
+      {
+        "label": "D",
+        "text": "suitcase",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia viajar con el equipaje.",
+        "explanation_feedback": "Incorrecta. «suitcase» significa «maleta». La pista es «official document» y «travel to another country»."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "03757b9f-7bc4-5077-b63a-c430c58ec5d3",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Technology",
+      "text": "You use this small device to take photos and make videos, but you cannot call people with it.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "camera",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «camera» significa «cámara». Toma fotos y videos, pero no sirve para llamar."
+      },
+      {
+        "label": "B",
+        "text": "printer",
+        "is_correct": false,
+        "distractor_diagnosis": "Asocia fotos con imprimirlas.",
+        "explanation_feedback": "Incorrecta. «printer» significa «impresora». La pista es «take photos» y «cannot call people»."
+      },
+      {
+        "label": "C",
+        "text": "mobile phone",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma fotos, pero la descripción dice que no sirve para llamar.",
+        "explanation_feedback": "Incorrecta. «mobile phone» significa «celular». La pista es «take photos» y «cannot call people»."
+      },
+      {
+        "label": "D",
+        "text": "keyboard",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un aparato tecnológico sin leer las pistas.",
+        "explanation_feedback": "Incorrecta. «keyboard» significa «teclado». La pista es «take photos» y «cannot call people»."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "cc08f77f-d438-5456-a112-a59ee904fa01",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Free time",
+      "text": "This is a person who watches a match or a show, but does not play or perform in it.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "referee",
+        "is_correct": false,
+        "distractor_diagnosis": "Está en el partido, pero no solo mira: dirige el juego.",
+        "explanation_feedback": "Incorrecta. «referee» significa «árbitro». La pista es «watches» pero «does not play or perform» (mira, pero no juega ni actúa)."
+      },
+      {
+        "label": "B",
+        "text": "coach",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona partido con el entrenador, que dirige al equipo.",
+        "explanation_feedback": "Incorrecta. «coach» significa «entrenador». La pista es «watches» pero «does not play or perform» (mira, pero no juega ni actúa)."
+      },
+      {
+        "label": "C",
+        "text": "spectator",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «spectator» significa «espectador». Mira un partido o un espectáculo sin participar en él."
+      },
+      {
+        "label": "D",
+        "text": "player",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige a quien juega, justo lo que la descripción excluye.",
+        "explanation_feedback": "Incorrecta. «player» significa «jugador». La pista es «watches» pero «does not play or perform» (mira, pero no juega ni actúa)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  },
+  {
+    "id": "fa53416d-d48b-517b-a316-61fb79eea706",
+    "subject": "IN",
+    "evidence_code": "IN.E1",
+    "component_code": "IN.P1",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Food",
+      "text": "This is the meal people eat in the middle of the day.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Read the description. Which word does it describe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "lunch",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «lunch» significa «almuerzo». Es la comida del mediodía."
+      },
+      {
+        "label": "B",
+        "text": "breakfast",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde las comidas del día: el desayuno es en la mañana.",
+        "explanation_feedback": "Incorrecta. «breakfast» significa «desayuno». La pista es «in the middle of the day» (a mitad del día)."
+      },
+      {
+        "label": "C",
+        "text": "dinner",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde las comidas del día: «dinner» es en la noche.",
+        "explanation_feedback": "Incorrecta. «dinner» significa «comida de la noche». La pista es «in the middle of the day» (a mitad del día)."
+      },
+      {
+        "label": "D",
+        "text": "snack",
+        "is_correct": false,
+        "distractor_diagnosis": "Sabe que se come entre horas, pero un snack no es la comida principal del mediodía.",
+        "explanation_feedback": "Incorrecta. «snack» significa «refrigerio». La pista es «in the middle of the day» (a mitad del día)."
+      }
+    ],
+    "estimated_time_seconds": 30
+  }
+]

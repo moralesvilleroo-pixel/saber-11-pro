@@ -2,6 +2,9 @@ import "server-only";
 // Muestra fija para el modo demo. Al sumar lotes al banco no hace falta tocar esto: la cuenta los baja de Supabase.
 import lote001 from "../../../../../banco/lotes/2026-11-lote-001-lectura-critica.json";
 import lote002 from "../../../../../banco/lotes/2026-11-lote-002-matematicas.json";
+import lote003 from "../../../../../banco/lotes/2026-11-lote-003-ingles-parte1.json";
+import lote005 from "../../../../../banco/lotes/2026-11-lote-005-ingles-parte3.json";
+import lote007 from "../../../../../banco/lotes/2026-11-lote-007-ingles-parte5.json";
 import taxonomy from "../../../../../docs/MBE_TAXONOMIA.json";
 import { questionFromRow, type EvidenceInfo } from "./mapping";
 import type { StudyQuestion } from "./types";
@@ -33,7 +36,7 @@ function evidenceIndex(): Map<string, EvidenceInfo> {
 /** Preguntas de muestra para el modo demo (las mismas del banco, sin pasar por Supabase). */
 export function demoBank(): StudyQuestion[] {
   const evidences = evidenceIndex();
-  return ([...lote001, ...lote002] as LoteItem[]).flatMap((it) => {
+  return ([...lote001, ...lote002, ...lote003, ...lote005, ...lote007] as LoteItem[]).flatMap((it) => {
     const q = questionFromRow(
       {
         id: it.id,

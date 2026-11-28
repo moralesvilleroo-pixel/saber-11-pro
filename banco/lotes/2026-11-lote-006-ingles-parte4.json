@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "5de111cf-e03a-5048-9409-f8d693e29e1b",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My weekend",
+      "text": "Last Saturday I (1) ______ up early because my cousins were coming to visit. They live (2) ______ Medellín, so they don't come very often. We went to the park and played football for two hours. My cousin Laura is (3) ______ player in her team. In the afternoon we (4) ______ lunch at my grandmother's house. She cooked a delicious sancocho, and everybody asked for (5) ______ more.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "waking",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la forma -ing sin verbo auxiliar.",
+        "explanation_feedback": "Incorrecta. «I waking» no es una oración completa: le falta el auxiliar."
+      },
+      {
+        "label": "B",
+        "text": "woke",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Last Saturday» exige pasado simple, y el pasado de «wake» es «woke»."
+      },
+      {
+        "label": "C",
+        "text": "wakes",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la tercera persona del presente con «I».",
+        "explanation_feedback": "Incorrecta. «Wakes» es para he/she/it y en presente; aquí el sujeto es «I» y la acción es pasada."
+      },
+      {
+        "label": "D",
+        "text": "wake",
+        "is_correct": false,
+        "distractor_diagnosis": "No conjuga en pasado pese a «Last Saturday».",
+        "explanation_feedback": "Incorrecta. «Wake» es presente; «Last Saturday» pide pasado."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "becd3247-c0be-5e5f-ba82-7837afd22e53",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My weekend",
+      "text": "Last Saturday I (1) ______ up early because my cousins were coming to visit. They live (2) ______ Medellín, so they don't come very often. We went to the park and played football for two hours. My cousin Laura is (3) ______ player in her team. In the afternoon we (4) ______ lunch at my grandmother's house. She cooked a delicious sancocho, and everybody asked for (5) ______ more.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "at",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la preposición de puntos o direcciones exactas.",
+        "explanation_feedback": "Incorrecta. «At» va con direcciones exactas (at 25 Main Street), no con ciudades."
+      },
+      {
+        "label": "B",
+        "text": "on",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la preposición de superficies o calles.",
+        "explanation_feedback": "Incorrecta. «On» va con calles (on Bolívar Street), no con ciudades."
+      },
+      {
+        "label": "C",
+        "text": "in",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con ciudades se usa «in»: «live in Medellín»."
+      },
+      {
+        "label": "D",
+        "text": "to",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la preposición de movimiento con un verbo de estado.",
+        "explanation_feedback": "Incorrecta. «To» indica dirección (go to); «live» no expresa movimiento."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "938985a8-96aa-5677-8526-1edb863f714c",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My weekend",
+      "text": "Last Saturday I (1) ______ up early because my cousins were coming to visit. They live (2) ______ Medellín, so they don't come very often. We went to the park and played football for two hours. My cousin Laura is (3) ______ player in her team. In the afternoon we (4) ______ lunch at my grandmother's house. She cooked a delicious sancocho, and everybody asked for (5) ______ more.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "best of",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrega una preposición que no corresponde.",
+        "explanation_feedback": "Incorrecta. «Best of player» no es correcto; se dice «the best player»."
+      },
+      {
+        "label": "B",
+        "text": "better",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el comparativo sin un segundo elemento de comparación.",
+        "explanation_feedback": "Incorrecta. «Better» compara dos cosas y pediría «than»; aquí se habla de todo el equipo."
+      },
+      {
+        "label": "C",
+        "text": "good",
+        "is_correct": false,
+        "distractor_diagnosis": "Deja el adjetivo sin artículo ni grado.",
+        "explanation_feedback": "Incorrecta. «Laura is good player» necesita artículo, y la idea es de superlativo («in her team»)."
+      },
+      {
+        "label": "D",
+        "text": "the best",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El superlativo de «good» es «the best»: la mejor jugadora del equipo."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "70f088dc-3036-54dc-a823-c5309e344f11",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My weekend",
+      "text": "Last Saturday I (1) ______ up early because my cousins were coming to visit. They live (2) ______ Medellín, so they don't come very often. We went to the park and played football for two hours. My cousin Laura is (3) ______ player in her team. In the afternoon we (4) ______ lunch at my grandmother's house. She cooked a delicious sancocho, and everybody asked for (5) ______ more.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "have",
+        "is_correct": false,
+        "distractor_diagnosis": "Cambia al presente en medio de una narración pasada.",
+        "explanation_feedback": "Incorrecta. El relato está en pasado; «have» rompe la secuencia."
+      },
+      {
+        "label": "B",
+        "text": "had",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La narración está en pasado y «have lunch» pasa a «had lunch»."
+      },
+      {
+        "label": "C",
+        "text": "has",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa tercera persona con «we».",
+        "explanation_feedback": "Incorrecta. «Has» va con he/she/it; el sujeto es «we»."
+      },
+      {
+        "label": "D",
+        "text": "having",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing sin auxiliar.",
+        "explanation_feedback": "Incorrecta. «We having» no es correcto sin «were»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "8a9ed3a5-6e68-5183-9233-3f29cef639b0",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "My weekend",
+      "text": "Last Saturday I (1) ______ up early because my cousins were coming to visit. They live (2) ______ Medellín, so they don't come very often. We went to the park and played football for two hours. My cousin Laura is (3) ______ player in her team. In the afternoon we (4) ______ lunch at my grandmother's house. She cooked a delicious sancocho, and everybody asked for (5) ______ more.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "some",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En peticiones y ofrecimientos se usa «some»: «asked for some more»."
+      },
+      {
+        "label": "B",
+        "text": "a",
+        "is_correct": false,
+        "distractor_diagnosis": "Pone el artículo indefinido antes de «more».",
+        "explanation_feedback": "Incorrecta. «A more» no es correcto en inglés."
+      },
+      {
+        "label": "C",
+        "text": "any",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «any» en una oración afirmativa.",
+        "explanation_feedback": "Incorrecta. «Any» se usa sobre todo en preguntas y negaciones; aquí es una petición afirmativa."
+      },
+      {
+        "label": "D",
+        "text": "many",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «many» con un sustantivo incontable (comida).",
+        "explanation_feedback": "Incorrecta. «Many» va con contables en plural; se habla de más sancocho, que es incontable."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "4ec7dff9-07ca-56ff-bb9e-a5cd55049bbc",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A message from Daniel",
+      "text": "Hi Sofía,\nI'm writing (1) ______ tell you about my new school. It's bigger (2) ______ my old one and it has a great library. My classes start at seven, so I (3) ______ get up at five thirty. I don't like that! My new classmates are very friendly. Two of (4) ______ are in the music club with me. Write back soon and tell me (5) ______ your family is.\nLove,\nDaniel",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "at",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición de lugar.",
+        "explanation_feedback": "Incorrecta. «At» indica lugar o tiempo, no propósito."
+      },
+      {
+        "label": "B",
+        "text": "of",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición sin función aquí.",
+        "explanation_feedback": "Incorrecta. «Writing of tell» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "for",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «para» como «for» delante de un verbo.",
+        "explanation_feedback": "Incorrecta. Delante de un verbo, el propósito se expresa con «to», no con «for»."
+      },
+      {
+        "label": "D",
+        "text": "to",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Para expresar propósito se usa el infinitivo con «to»: «I'm writing to tell you»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "f182966e-5605-50f4-9335-d5fe422e7f3c",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A message from Daniel",
+      "text": "Hi Sofía,\nI'm writing (1) ______ tell you about my new school. It's bigger (2) ______ my old one and it has a great library. My classes start at seven, so I (3) ______ get up at five thirty. I don't like that! My new classmates are very friendly. Two of (4) ______ are in the music club with me. Write back soon and tell me (5) ______ your family is.\nLove,\nDaniel",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "than",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Después de un comparativo («bigger») va «than»."
+      },
+      {
+        "label": "B",
+        "text": "of",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «de» literalmente.",
+        "explanation_feedback": "Incorrecta. En inglés no se dice «bigger of»; se dice «bigger than»."
+      },
+      {
+        "label": "C",
+        "text": "as",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla la estructura de igualdad «as… as».",
+        "explanation_feedback": "Incorrecta. «As» se usa en «as big as»; con «bigger» va «than»."
+      },
+      {
+        "label": "D",
+        "text": "that",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde «than» con «that», que suenan parecido.",
+        "explanation_feedback": "Incorrecta. «That» no se usa para comparar; el comparativo pide «than»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "3fde95d9-0525-5f3b-acb5-3236901e7222",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A message from Daniel",
+      "text": "Hi Sofía,\nI'm writing (1) ______ tell you about my new school. It's bigger (2) ______ my old one and it has a great library. My classes start at seven, so I (3) ______ get up at five thirty. I don't like that! My new classmates are very friendly. Two of (4) ______ are in the music club with me. Write back soon and tell me (5) ______ your family is.\nLove,\nDaniel",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "have to",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Have to» expresa obligación con el sujeto «I»."
+      },
+      {
+        "label": "B",
+        "text": "has to",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la forma de tercera persona.",
+        "explanation_feedback": "Incorrecta. «Has to» va con he/she/it; aquí el sujeto es «I»."
+      },
+      {
+        "label": "C",
+        "text": "must to",
+        "is_correct": false,
+        "distractor_diagnosis": "Añade «to» después de «must».",
+        "explanation_feedback": "Incorrecta. «Must» va sin «to»: se diría «I must get up»."
+      },
+      {
+        "label": "D",
+        "text": "should to",
+        "is_correct": false,
+        "distractor_diagnosis": "Añade «to» después de «should».",
+        "explanation_feedback": "Incorrecta. «Should» va sin «to»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "73247c92-79c8-50e6-bd89-32f92bc813b3",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A message from Daniel",
+      "text": "Hi Sofía,\nI'm writing (1) ______ tell you about my new school. It's bigger (2) ______ my old one and it has a great library. My classes start at seven, so I (3) ______ get up at five thirty. I don't like that! My new classmates are very friendly. Two of (4) ______ are in the music club with me. Write back soon and tell me (5) ______ your family is.\nLove,\nDaniel",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "theirs",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el pronombre posesivo.",
+        "explanation_feedback": "Incorrecta. «Two of theirs» significaría «dos de los suyos», no «dos de ellos»."
+      },
+      {
+        "label": "B",
+        "text": "they",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el pronombre sujeto después de una preposición.",
+        "explanation_feedback": "Incorrecta. «They» es sujeto; después de «of» va «them»."
+      },
+      {
+        "label": "C",
+        "text": "their",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un posesivo sin sustantivo.",
+        "explanation_feedback": "Incorrecta. «Their» necesita un sustantivo detrás (their books)."
+      },
+      {
+        "label": "D",
+        "text": "them",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Después de «of» se usa el pronombre objeto «them»: «two of them»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "300611fe-51ca-527e-b3d1-554b5a2f1a6b",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A message from Daniel",
+      "text": "Hi Sofía,\nI'm writing (1) ______ tell you about my new school. It's bigger (2) ______ my old one and it has a great library. My classes start at seven, so I (3) ______ get up at five thirty. I don't like that! My new classmates are very friendly. Two of (4) ______ are in the music club with me. Write back soon and tell me (5) ______ your family is.\nLove,\nDaniel",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "what",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «cómo» como «what».",
+        "explanation_feedback": "Incorrecta. «What your family is» no pregunta por su estado; se usa «how»."
+      },
+      {
+        "label": "B",
+        "text": "who",
+        "is_correct": false,
+        "distractor_diagnosis": "Pregunta por personas.",
+        "explanation_feedback": "Incorrecta. «Who your family is» preguntaría quiénes son, no cómo están."
+      },
+      {
+        "label": "C",
+        "text": "which",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un interrogativo de elección.",
+        "explanation_feedback": "Incorrecta. «Which» pide escoger entre opciones; no encaja aquí."
+      },
+      {
+        "label": "D",
+        "text": "how",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Tell me how your family is» pregunta cómo está la familia."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "52ba2a44-b83d-5ea9-84a7-e3afa318b908",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Amazing animals: the hummingbird",
+      "text": "Hummingbirds are (1) ______ smallest birds in the world. Colombia has more than 160 species, more than (2) ______ other country. A hummingbird can move its wings up to 80 times (3) ______ second. Because it uses so much energy, it (4) ______ to eat very often. It visits hundreds of flowers every day. Some hummingbirds (5) ______ thousands of kilometres every year to find warmer places.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "an",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «an» ante una consonante y con superlativo.",
+        "explanation_feedback": "Incorrecta. «An» va antes de sonido vocálico, y el superlativo exige «the»."
+      },
+      {
+        "label": "B",
+        "text": "some",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un cuantificador en lugar del artículo.",
+        "explanation_feedback": "Incorrecta. «Some smallest» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "a",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el artículo indefinido con un superlativo.",
+        "explanation_feedback": "Incorrecta. Con un superlativo no se usa «a»."
+      },
+      {
+        "label": "D",
+        "text": "the",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El superlativo va con «the»: «the smallest»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "dee911b3-e7e7-5c84-890d-5e6db76f6ef3",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Amazing animals: the hummingbird",
+      "text": "Hummingbirds are (1) ______ smallest birds in the world. Colombia has more than 160 species, more than (2) ______ other country. A hummingbird can move its wings up to 80 times (3) ______ second. Because it uses so much energy, it (4) ______ to eat very often. It visits hundreds of flowers every day. Some hummingbirds (5) ______ thousands of kilometres every year to find warmer places.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "every",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «every» en una comparación con «other».",
+        "explanation_feedback": "Incorrecta. La expresión fija es «any other», no «every other» en este contexto."
+      },
+      {
+        "label": "B",
+        "text": "some",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «some» en una comparación general.",
+        "explanation_feedback": "Incorrecta. «More than some other country» no expresa la idea de «cualquier»."
+      },
+      {
+        "label": "C",
+        "text": "no",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una negación que contradice la idea.",
+        "explanation_feedback": "Incorrecta. «More than no other country» no tiene sentido."
+      },
+      {
+        "label": "D",
+        "text": "any",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «More than any other country» significa «más que cualquier otro país»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "4881b4e5-ec03-5ac0-8904-d41d896254bb",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Amazing animals: the hummingbird",
+      "text": "Hummingbirds are (1) ______ smallest birds in the world. Colombia has more than 160 species, more than (2) ______ other country. A hummingbird can move its wings up to 80 times (3) ______ second. Because it uses so much energy, it (4) ______ to eat very often. It visits hundreds of flowers every day. Some hummingbirds (5) ______ thousands of kilometres every year to find warmer places.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "a",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Times a second» significa «veces por segundo»."
+      },
+      {
+        "label": "B",
+        "text": "an",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «an» ante consonante.",
+        "explanation_feedback": "Incorrecta. «Second» empieza con sonido consonante; no va «an»."
+      },
+      {
+        "label": "C",
+        "text": "on",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición de tiempo.",
+        "explanation_feedback": "Incorrecta. «On second» no es correcto; se dice «a second» o «per second»."
+      },
+      {
+        "label": "D",
+        "text": "the",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el artículo definido.",
+        "explanation_feedback": "Incorrecta. «80 times the second» no significa «por segundo»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "08302f45-3dbd-5ddb-8097-ec5069532cac",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Amazing animals: the hummingbird",
+      "text": "Hummingbirds are (1) ______ smallest birds in the world. Colombia has more than 160 species, more than (2) ______ other country. A hummingbird can move its wings up to 80 times (3) ______ second. Because it uses so much energy, it (4) ______ to eat very often. It visits hundreds of flowers every day. Some hummingbirds (5) ______ thousands of kilometres every year to find warmer places.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "is need",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla «is» con el verbo base.",
+        "explanation_feedback": "Incorrecta. «Is need» no es correcto en inglés."
+      },
+      {
+        "label": "B",
+        "text": "need",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite la -s de tercera persona.",
+        "explanation_feedback": "Incorrecta. Con «it» se dice «needs»."
+      },
+      {
+        "label": "C",
+        "text": "needs",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con «it» el presente simple lleva -s: «it needs»."
+      },
+      {
+        "label": "D",
+        "text": "needing",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing sin auxiliar.",
+        "explanation_feedback": "Incorrecta. «It needing» no es correcto."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "9e0cab5c-90a5-562c-988f-ae526c07c968",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Amazing animals: the hummingbird",
+      "text": "Hummingbirds are (1) ______ smallest birds in the world. Colombia has more than 160 species, more than (2) ______ other country. A hummingbird can move its wings up to 80 times (3) ______ second. Because it uses so much energy, it (4) ______ to eat very often. It visits hundreds of flowers every day. Some hummingbirds (5) ______ thousands of kilometres every year to find warmer places.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "is travel",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «is» con sujeto plural y verbo base.",
+        "explanation_feedback": "Incorrecta. «Is travel» no es correcto."
+      },
+      {
+        "label": "B",
+        "text": "travelling",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing sin auxiliar.",
+        "explanation_feedback": "Incorrecta. «Hummingbirds travelling» no forma una oración completa."
+      },
+      {
+        "label": "C",
+        "text": "travel",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con sujeto plural («Some hummingbirds») el verbo va sin -s."
+      },
+      {
+        "label": "D",
+        "text": "travels",
+        "is_correct": false,
+        "distractor_diagnosis": "Añade -s con un sujeto plural.",
+        "explanation_feedback": "Incorrecta. La -s es para he/she/it; el sujeto es plural."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "22c0d532-d518-5c98-a862-ee8dc8a4a3ca",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A note on the fridge",
+      "text": "Mum,\nI (1) ______ at Camila's house. We are doing our science project together. Her mother (2) ______ me home at eight o'clock. There (3) ______ some rice in the fridge for dinner. Please don't wait for me. I (4) ______ hungry because we are going to eat pizza here. See you later!\n(5) ______ love,\nValentina",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "is",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «is» con «I».",
+        "explanation_feedback": "Incorrecta. «Is» va con he/she/it."
+      },
+      {
+        "label": "B",
+        "text": "be",
+        "is_correct": false,
+        "distractor_diagnosis": "Deja el verbo sin conjugar.",
+        "explanation_feedback": "Incorrecta. «I be» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "am",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con «I» se usa «am»: «I am at Camila's house»."
+      },
+      {
+        "label": "D",
+        "text": "are",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «are» con «I».",
+        "explanation_feedback": "Incorrecta. «Are» va con you/we/they."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "da8cdbc8-78d2-5b96-95c8-ded1cdf58b65",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A note on the fridge",
+      "text": "Mum,\nI (1) ______ at Camila's house. We are doing our science project together. Her mother (2) ______ me home at eight o'clock. There (3) ______ some rice in the fridge for dinner. Please don't wait for me. I (4) ______ hungry because we are going to eat pizza here. See you later!\n(5) ______ love,\nValentina",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "will bring",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Will» va seguido del verbo base: «will bring»."
+      },
+      {
+        "label": "B",
+        "text": "will bringing",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing después de «will».",
+        "explanation_feedback": "Incorrecta. Después de «will» no se usa -ing."
+      },
+      {
+        "label": "C",
+        "text": "will to bring",
+        "is_correct": false,
+        "distractor_diagnosis": "Añade «to» después de «will».",
+        "explanation_feedback": "Incorrecta. «Will» va sin «to»."
+      },
+      {
+        "label": "D",
+        "text": "will brings",
+        "is_correct": false,
+        "distractor_diagnosis": "Añade -s después de «will».",
+        "explanation_feedback": "Incorrecta. Después de «will» el verbo no lleva -s."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "013c8313-154e-5a63-a1a5-ae8f40aa9462",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A note on the fridge",
+      "text": "Mum,\nI (1) ______ at Camila's house. We are doing our science project together. Her mother (2) ______ me home at eight o'clock. There (3) ______ some rice in the fridge for dinner. Please don't wait for me. I (4) ______ hungry because we are going to eat pizza here. See you later!\n(5) ______ love,\nValentina",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "be",
+        "is_correct": false,
+        "distractor_diagnosis": "Deja el verbo sin conjugar.",
+        "explanation_feedback": "Incorrecta. «There be» no es correcto."
+      },
+      {
+        "label": "B",
+        "text": "am",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «am» con «there».",
+        "explanation_feedback": "Incorrecta. «There am» no existe."
+      },
+      {
+        "label": "C",
+        "text": "is",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Rice» es incontable y va con singular: «There is some rice»."
+      },
+      {
+        "label": "D",
+        "text": "are",
+        "is_correct": false,
+        "distractor_diagnosis": "Trata «rice» como plural contable.",
+        "explanation_feedback": "Incorrecta. «Rice» es incontable, así que no se usa «there are»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "50a02c10-ebac-589f-8c03-dc8871a23d2e",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A note on the fridge",
+      "text": "Mum,\nI (1) ______ at Camila's house. We are doing our science project together. Her mother (2) ______ me home at eight o'clock. There (3) ______ some rice in the fridge for dinner. Please don't wait for me. I (4) ______ hungry because we are going to eat pizza here. See you later!\n(5) ______ love,\nValentina",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "isn't",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «isn't» con «I».",
+        "explanation_feedback": "Incorrecta. «Isn't» va con he/she/it."
+      },
+      {
+        "label": "B",
+        "text": "am not",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La negación con «I» y «be» es «I am not»."
+      },
+      {
+        "label": "C",
+        "text": "don't",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «don't» con un adjetivo.",
+        "explanation_feedback": "Incorrecta. «Hungry» es adjetivo y va con «be»: «I am not hungry»."
+      },
+      {
+        "label": "D",
+        "text": "not am",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el orden de la negación.",
+        "explanation_feedback": "Incorrecta. El orden es «am not», no «not am»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "aa0256f5-08f4-5843-a14d-d3ddaaf4cd3b",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A1",
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A note on the fridge",
+      "text": "Mum,\nI (1) ______ at Camila's house. We are doing our science project together. Her mother (2) ______ me home at eight o'clock. There (3) ______ some rice in the fridge for dinner. Please don't wait for me. I (4) ______ hungry because we are going to eat pizza here. See you later!\n(5) ______ love,\nValentina",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lot of",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite el artículo o la -s.",
+        "explanation_feedback": "Incorrecta. Se dice «lots of» o «a lot of», no «lot of»."
+      },
+      {
+        "label": "B",
+        "text": "Lots of",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Lots of love» es una despedida cariñosa habitual."
+      },
+      {
+        "label": "C",
+        "text": "Much of",
+        "is_correct": false,
+        "distractor_diagnosis": "Agrega «of» a «much».",
+        "explanation_feedback": "Incorrecta. «Much of love» no se usa."
+      },
+      {
+        "label": "D",
+        "text": "Many",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «many» con un incontable.",
+        "explanation_feedback": "Incorrecta. «Love» es incontable; «many» no corresponde."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "3c9342cb-2781-548a-ad75-52a66282b92e",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The town market",
+      "text": "Every Sunday, my town has a big market in the main square. Farmers from the villages (1) ______ there very early to sell fruit, vegetables and cheese. I usually go with my grandfather, (2) ______ knows everybody. He always buys oranges from Don Jorge because his oranges are (3) ______ than the ones in the supermarket. Last Sunday it rained a lot, so there (4) ______ many people. But we still went, and we (5) ______ a lovely time.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "is arrive",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla «is» con verbo base.",
+        "explanation_feedback": "Incorrecta. «Is arrive» no es correcto."
+      },
+      {
+        "label": "B",
+        "text": "arriving",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing sin auxiliar.",
+        "explanation_feedback": "Incorrecta. «Farmers arriving there» no es una oración completa."
+      },
+      {
+        "label": "C",
+        "text": "arrive",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Para una costumbre («Every Sunday») con sujeto plural se usa el presente simple sin -s."
+      },
+      {
+        "label": "D",
+        "text": "arrives",
+        "is_correct": false,
+        "distractor_diagnosis": "Añade -s con un sujeto plural.",
+        "explanation_feedback": "Incorrecta. «Farmers» es plural; no lleva -s."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "d2b7b9e5-9247-5a52-ab4f-2ffeb0b6dde3",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The town market",
+      "text": "Every Sunday, my town has a big market in the main square. Farmers from the villages (1) ______ there very early to sell fruit, vegetables and cheese. I usually go with my grandfather, (2) ______ knows everybody. He always buys oranges from Don Jorge because his oranges are (3) ______ than the ones in the supermarket. Last Sunday it rained a lot, so there (4) ______ many people. But we still went, and we (5) ______ a lovely time.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "which",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «which» para una persona.",
+        "explanation_feedback": "Incorrecta. «Which» se usa con cosas o animales."
+      },
+      {
+        "label": "B",
+        "text": "where",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un relativo de lugar.",
+        "explanation_feedback": "Incorrecta. «Where» se refiere a lugares, no a personas."
+      },
+      {
+        "label": "C",
+        "text": "what",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «what» como pronombre relativo.",
+        "explanation_feedback": "Incorrecta. «What» no funciona como relativo después de un sustantivo."
+      },
+      {
+        "label": "D",
+        "text": "who",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Para hablar de una persona («my grandfather») se usa «who»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "eec96c4f-402b-5209-a136-21aaa4b9d79d",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The town market",
+      "text": "Every Sunday, my town has a big market in the main square. Farmers from the villages (1) ______ there very early to sell fruit, vegetables and cheese. I usually go with my grandfather, (2) ______ knows everybody. He always buys oranges from Don Jorge because his oranges are (3) ______ than the ones in the supermarket. Last Sunday it rained a lot, so there (4) ______ many people. But we still went, and we (5) ______ a lovely time.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "sweetest",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el superlativo con «than».",
+        "explanation_feedback": "Incorrecta. El superlativo no va con «than»."
+      },
+      {
+        "label": "B",
+        "text": "sweeter",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Antes de «than» va el comparativo: «sweeter»."
+      },
+      {
+        "label": "C",
+        "text": "sweet",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite el grado comparativo.",
+        "explanation_feedback": "Incorrecta. Con «than» el adjetivo debe estar en comparativo."
+      },
+      {
+        "label": "D",
+        "text": "more sweet",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «more» con un adjetivo corto.",
+        "explanation_feedback": "Incorrecta. Los adjetivos de una sílaba forman el comparativo con -er."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "d6c5b009-c620-5e47-8062-e5b86c1ac2ab",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The town market",
+      "text": "Every Sunday, my town has a big market in the main square. Farmers from the villages (1) ______ there very early to sell fruit, vegetables and cheese. I usually go with my grandfather, (2) ______ knows everybody. He always buys oranges from Don Jorge because his oranges are (3) ______ than the ones in the supermarket. Last Sunday it rained a lot, so there (4) ______ many people. But we still went, and we (5) ______ a lovely time.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "aren't",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa presente con «Last Sunday».",
+        "explanation_feedback": "Incorrecta. «Last Sunday» pide pasado."
+      },
+      {
+        "label": "B",
+        "text": "wasn't",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa singular con «many people».",
+        "explanation_feedback": "Incorrecta. «People» es plural: va «weren't»."
+      },
+      {
+        "label": "C",
+        "text": "didn't",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «didn't» con «there».",
+        "explanation_feedback": "Incorrecta. Con «there» se usa el verbo «be»: «there weren't»."
+      },
+      {
+        "label": "D",
+        "text": "weren't",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Pasado de «there are» en negativo con plural («many people»): «there weren't»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "cd159e5b-eab9-552b-a38b-878442703365",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "The town market",
+      "text": "Every Sunday, my town has a big market in the main square. Farmers from the villages (1) ______ there very early to sell fruit, vegetables and cheese. I usually go with my grandfather, (2) ______ knows everybody. He always buys oranges from Don Jorge because his oranges are (3) ______ than the ones in the supermarket. Last Sunday it rained a lot, so there (4) ______ many people. But we still went, and we (5) ______ a lovely time.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "had",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La expresión es «have a lovely time», en pasado «had»."
+      },
+      {
+        "label": "B",
+        "text": "did",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «pasar» como «do».",
+        "explanation_feedback": "Incorrecta. No se dice «did a lovely time»; se dice «had»."
+      },
+      {
+        "label": "C",
+        "text": "have",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa presente en un relato pasado.",
+        "explanation_feedback": "Incorrecta. El relato del domingo pasado va en pasado."
+      },
+      {
+        "label": "D",
+        "text": "made",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «pasarla» como «make».",
+        "explanation_feedback": "Incorrecta. «Made a lovely time» no se usa en inglés."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "bbc76375-84a3-5aed-8c5a-3fc8bbe0bf30",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Learning to swim",
+      "text": "I (1) ______ afraid of water since I was a child. Last year, I finally decided to take swimming lessons. My teacher, Andrés, was very patient. At first, I couldn't put my face in the water, but he told me not (2) ______ worried. After a month, I was able (3) ______ across the pool. Now I go swimming twice a week. If I (4) ______ started earlier, I would have enjoyed many more holidays at the beach. I am really glad I didn't (5) ______ up.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "was being",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el pasado continuo con «since».",
+        "explanation_feedback": "Incorrecta. «Was being» no expresa algo que dura hasta hoy."
+      },
+      {
+        "label": "B",
+        "text": "had being",
+        "is_correct": false,
+        "distractor_diagnosis": "Combina «had» con -ing.",
+        "explanation_feedback": "Incorrecta. «Had being» no existe; sería «had been», y aquí hace falta el presente perfecto."
+      },
+      {
+        "label": "C",
+        "text": "am",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce del español «estoy… desde».",
+        "explanation_feedback": "Incorrecta. En inglés, con «since» no se usa el presente simple; se usa «have been»."
+      },
+      {
+        "label": "D",
+        "text": "have been",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con «since» y una situación que sigue hasta hoy se usa el presente perfecto: «I have been»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "26760b64-82a5-5770-9b6e-5aa97a4ab23c",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Learning to swim",
+      "text": "I (1) ______ afraid of water since I was a child. Last year, I finally decided to take swimming lessons. My teacher, Andrés, was very patient. At first, I couldn't put my face in the water, but he told me not (2) ______ worried. After a month, I was able (3) ______ across the pool. Now I go swimming twice a week. If I (4) ______ started earlier, I would have enjoyed many more holidays at the beach. I am really glad I didn't (5) ______ up.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "to being",
+        "is_correct": false,
+        "distractor_diagnosis": "Combina «to» con -ing.",
+        "explanation_feedback": "Incorrecta. «To being» no es correcto aquí."
+      },
+      {
+        "label": "B",
+        "text": "being",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing tras «not».",
+        "explanation_feedback": "Incorrecta. La estructura es «tell someone (not) to + verbo»."
+      },
+      {
+        "label": "C",
+        "text": "to be",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Tell someone not to do something»: «not to be worried»."
+      },
+      {
+        "label": "D",
+        "text": "be",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite «to».",
+        "explanation_feedback": "Incorrecta. Después de «told me not» va el infinitivo con «to»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "9af0b273-bdbe-5ef5-96de-d79e8f7816ef",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Learning to swim",
+      "text": "I (1) ______ afraid of water since I was a child. Last year, I finally decided to take swimming lessons. My teacher, Andrés, was very patient. At first, I couldn't put my face in the water, but he told me not (2) ______ worried. After a month, I was able (3) ______ across the pool. Now I go swimming twice a week. If I (4) ______ started earlier, I would have enjoyed many more holidays at the beach. I am really glad I didn't (5) ______ up.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "swam",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa pasado tras «able».",
+        "explanation_feedback": "Incorrecta. Después de «able to» va el verbo base."
+      },
+      {
+        "label": "B",
+        "text": "swimming",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing tras «able».",
+        "explanation_feedback": "Incorrecta. «Able swimming» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "swim",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite «to».",
+        "explanation_feedback": "Incorrecta. «Able» exige «to»."
+      },
+      {
+        "label": "D",
+        "text": "to swim",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Be able to» va seguido del verbo base: «able to swim»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "c883d400-7e91-52bf-95ff-3d065f37d1d6",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Learning to swim",
+      "text": "I (1) ______ afraid of water since I was a child. Last year, I finally decided to take swimming lessons. My teacher, Andrés, was very patient. At first, I couldn't put my face in the water, but he told me not (2) ______ worried. After a month, I was able (3) ______ across the pool. Now I go swimming twice a week. If I (4) ______ started earlier, I would have enjoyed many more holidays at the beach. I am really glad I didn't (5) ______ up.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "have",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa presente en una condición sobre el pasado.",
+        "explanation_feedback": "Incorrecta. La segunda parte («would have enjoyed») pide «had»."
+      },
+      {
+        "label": "B",
+        "text": "had",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El tercer condicional usa «if + had + participio»: «If I had started»."
+      },
+      {
+        "label": "C",
+        "text": "has",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «has» con «I».",
+        "explanation_feedback": "Incorrecta. «Has» va con he/she/it, y además el tiempo no corresponde."
+      },
+      {
+        "label": "D",
+        "text": "would",
+        "is_correct": false,
+        "distractor_diagnosis": "Pone «would» dentro de la condición.",
+        "explanation_feedback": "Incorrecta. «Would» va en la consecuencia, no después de «if»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "24c99c55-1b2a-5472-980f-464e76dcd7fa",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Learning to swim",
+      "text": "I (1) ______ afraid of water since I was a child. Last year, I finally decided to take swimming lessons. My teacher, Andrés, was very patient. At first, I couldn't put my face in the water, but he told me not (2) ______ worried. After a month, I was able (3) ______ across the pool. Now I go swimming twice a week. If I (4) ______ started earlier, I would have enjoyed many more holidays at the beach. I am really glad I didn't (5) ______ up.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "given",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el participio tras «didn't».",
+        "explanation_feedback": "Incorrecta. El participio va con «have», no con «didn't»."
+      },
+      {
+        "label": "B",
+        "text": "give",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Después de «didn't» va el verbo base: «didn't give up» (no me rendí)."
+      },
+      {
+        "label": "C",
+        "text": "gave",
+        "is_correct": false,
+        "distractor_diagnosis": "Pone el verbo en pasado después de «didn't».",
+        "explanation_feedback": "Incorrecta. «Didn't» ya marca el pasado; el verbo va en forma base."
+      },
+      {
+        "label": "D",
+        "text": "giving",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing tras «didn't».",
+        "explanation_feedback": "Incorrecta. Después de «didn't» no se usa -ing."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "8a13c56d-3d24-5ca1-b619-c09697cee2bc",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Recycling at school",
+      "text": "Our school started a recycling project two years ago. Since then, students (1) ______ more than three tonnes of plastic. Every classroom has three bins, and each one is used for a different material. The plastic (2) ______ to a local company that turns it into chairs and tables. The project was the idea of a group of students (3) ______ wanted to reduce waste in the cafeteria. At first, not many people were interested, but now almost everyone takes part. Our head teacher says that if we continue like this, we (4) ______ be able to buy new computers with the money we save. We are proud (5) ______ what we have achieved.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "have collected",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «Since then» indica algo que va desde el pasado hasta hoy: presente perfecto «have collected»."
+      },
+      {
+        "label": "B",
+        "text": "collect",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa presente simple con «since».",
+        "explanation_feedback": "Incorrecta. «Since» pide presente perfecto."
+      },
+      {
+        "label": "C",
+        "text": "collecting",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa -ing sin auxiliar.",
+        "explanation_feedback": "Incorrecta. «Students collecting» no es una oración completa."
+      },
+      {
+        "label": "D",
+        "text": "has collected",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «has» con un sujeto plural.",
+        "explanation_feedback": "Incorrecta. «Students» es plural: va «have»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "714d1c52-434e-5f76-ba76-89d222f0d411",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Recycling at school",
+      "text": "Our school started a recycling project two years ago. Since then, students (1) ______ more than three tonnes of plastic. Every classroom has three bins, and each one is used for a different material. The plastic (2) ______ to a local company that turns it into chairs and tables. The project was the idea of a group of students (3) ______ wanted to reduce waste in the cafeteria. At first, not many people were interested, but now almost everyone takes part. Our head teacher says that if we continue like this, we (4) ______ be able to buy new computers with the money we save. We are proud (5) ______ what we have achieved.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "sends",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa voz activa con un sujeto que no hace la acción.",
+        "explanation_feedback": "Incorrecta. El plástico no envía nada; es enviado."
+      },
+      {
+        "label": "B",
+        "text": "is sent",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El plástico no se envía solo: hace falta la voz pasiva «is sent» (es enviado)."
+      },
+      {
+        "label": "C",
+        "text": "send",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la forma base con un sujeto singular.",
+        "explanation_feedback": "Incorrecta. Además de no ser pasiva, «send» no concuerda con «the plastic»."
+      },
+      {
+        "label": "D",
+        "text": "is sending",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa presente continuo activo.",
+        "explanation_feedback": "Incorrecta. «The plastic is sending» diría que el plástico envía algo."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "de39943d-01cf-585b-977e-abd618b20d6c",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Recycling at school",
+      "text": "Our school started a recycling project two years ago. Since then, students (1) ______ more than three tonnes of plastic. Every classroom has three bins, and each one is used for a different material. The plastic (2) ______ to a local company that turns it into chairs and tables. The project was the idea of a group of students (3) ______ wanted to reduce waste in the cafeteria. At first, not many people were interested, but now almost everyone takes part. Our head teacher says that if we continue like this, we (4) ______ be able to buy new computers with the money we save. We are proud (5) ______ what we have achieved.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "which",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «which» para personas.",
+        "explanation_feedback": "Incorrecta. «Which» se usa con cosas."
+      },
+      {
+        "label": "B",
+        "text": "whose",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un relativo posesivo.",
+        "explanation_feedback": "Incorrecta. «Whose» indica posesión (whose idea…), no es sujeto de «wanted»."
+      },
+      {
+        "label": "C",
+        "text": "who",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Para personas («students») se usa «who» como sujeto de la oración relativa."
+      },
+      {
+        "label": "D",
+        "text": "whom",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «whom» como sujeto.",
+        "explanation_feedback": "Incorrecta. «Whom» es objeto; aquí hace falta el sujeto «who»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "d4e50e7e-2496-50a1-a0b3-9c9a2f024481",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Recycling at school",
+      "text": "Our school started a recycling project two years ago. Since then, students (1) ______ more than three tonnes of plastic. Every classroom has three bins, and each one is used for a different material. The plastic (2) ______ to a local company that turns it into chairs and tables. The project was the idea of a group of students (3) ______ wanted to reduce waste in the cafeteria. At first, not many people were interested, but now almost everyone takes part. Our head teacher says that if we continue like this, we (4) ______ be able to buy new computers with the money we save. We are proud (5) ______ what we have achieved.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "will",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En el primer condicional («if we continue») la consecuencia va con «will»."
+      },
+      {
+        "label": "B",
+        "text": "did",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa pasado para una consecuencia futura.",
+        "explanation_feedback": "Incorrecta. «Did be able» no es correcto."
+      },
+      {
+        "label": "C",
+        "text": "would",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el segundo condicional con «continue» en presente.",
+        "explanation_feedback": "Incorrecta. Con «if + presente», la consecuencia va con «will»."
+      },
+      {
+        "label": "D",
+        "text": "are",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «are» antes de «be able».",
+        "explanation_feedback": "Incorrecta. «We are be able» no es correcto."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "003ffaa4-4aaa-5b81-a6b5-a8cea2c1f6a3",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "B1",
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "Recycling at school",
+      "text": "Our school started a recycling project two years ago. Since then, students (1) ______ more than three tonnes of plastic. Every classroom has three bins, and each one is used for a different material. The plastic (2) ______ to a local company that turns it into chairs and tables. The project was the idea of a group of students (3) ______ wanted to reduce waste in the cafeteria. At first, not many people were interested, but now almost everyone takes part. Our head teacher says that if we continue like this, we (4) ______ be able to buy new computers with the money we save. We are proud (5) ______ what we have achieved.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "for",
+        "is_correct": false,
+        "distractor_diagnosis": "Traduce «de» como «for».",
+        "explanation_feedback": "Incorrecta. Se dice «proud of», no «proud for»."
+      },
+      {
+        "label": "B",
+        "text": "with",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «with» por analogía con «pleased with».",
+        "explanation_feedback": "Incorrecta. Con «proud» va «of»."
+      },
+      {
+        "label": "C",
+        "text": "of",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La expresión es «proud of» (orgulloso de)."
+      },
+      {
+        "label": "D",
+        "text": "about",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «about» por analogía con «happy about».",
+        "explanation_feedback": "Incorrecta. Con «proud» la preposición correcta es «of»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "be419933-83f6-5303-9cae-5268fcd3b178",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A strange day",
+      "text": "Yesterday was a strange day. I (1) ______ to school when it started to rain very hard. I didn't have an umbrella, so I ran into a small shop. The woman (2) ______ worked there gave me a towel and a cup of hot chocolate. We talked for twenty minutes. (3) ______ I left, the sun was shining again. When I arrived at school, my teacher asked me (4) ______ I was late. I told her the story, and she smiled. I think I will go back to that shop (5) ______ say thank you.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (1).",
+    "options": [
+      {
+        "label": "A",
+        "text": "was walking",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Una acción en curso interrumpida por otra («when it started») va en pasado continuo: «I was walking»."
+      },
+      {
+        "label": "B",
+        "text": "was walk",
+        "is_correct": false,
+        "distractor_diagnosis": "Omite -ing en el pasado continuo.",
+        "explanation_feedback": "Incorrecta. El pasado continuo es «was + verbo -ing»."
+      },
+      {
+        "label": "C",
+        "text": "am walking",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa presente en un relato de ayer.",
+        "explanation_feedback": "Incorrecta. «Yesterday» pide pasado."
+      },
+      {
+        "label": "D",
+        "text": "were walking",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «were» con «I».",
+        "explanation_feedback": "Incorrecta. Con «I» se usa «was»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "11f3c96e-e906-5161-a27f-60bace67c7c5",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A strange day",
+      "text": "Yesterday was a strange day. I (1) ______ to school when it started to rain very hard. I didn't have an umbrella, so I ran into a small shop. The woman (2) ______ worked there gave me a towel and a cup of hot chocolate. We talked for twenty minutes. (3) ______ I left, the sun was shining again. When I arrived at school, my teacher asked me (4) ______ I was late. I told her the story, and she smiled. I think I will go back to that shop (5) ______ say thank you.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (2).",
+    "options": [
+      {
+        "label": "A",
+        "text": "who",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Para una persona («the woman») se usa «who»."
+      },
+      {
+        "label": "B",
+        "text": "where",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un relativo de lugar.",
+        "explanation_feedback": "Incorrecta. «Where» se refiere a lugares."
+      },
+      {
+        "label": "C",
+        "text": "what",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «what» como relativo.",
+        "explanation_feedback": "Incorrecta. «What» no se usa después de un sustantivo como relativo."
+      },
+      {
+        "label": "D",
+        "text": "whose",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un relativo posesivo.",
+        "explanation_feedback": "Incorrecta. «Whose» indica posesión, no es sujeto de «worked»."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "de3b5c04-4fae-502a-8999-7e7360bc108f",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A strange day",
+      "text": "Yesterday was a strange day. I (1) ______ to school when it started to rain very hard. I didn't have an umbrella, so I ran into a small shop. The woman (2) ______ worked there gave me a towel and a cup of hot chocolate. We talked for twenty minutes. (3) ______ I left, the sun was shining again. When I arrived at school, my teacher asked me (4) ______ I was late. I told her the story, and she smiled. I think I will go back to that shop (5) ______ say thank you.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (3).",
+    "options": [
+      {
+        "label": "A",
+        "text": "Then",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un adverbio como conector de subordinación.",
+        "explanation_feedback": "Incorrecta. «Then I left, the sun…» une mal las dos ideas."
+      },
+      {
+        "label": "B",
+        "text": "When",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «When I left» (cuando salí) marca el momento en que ya brillaba el sol."
+      },
+      {
+        "label": "C",
+        "text": "During",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición delante de una oración.",
+        "explanation_feedback": "Incorrecta. «During» va con un sustantivo (during the class), no con «I left»."
+      },
+      {
+        "label": "D",
+        "text": "Since",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «since» con pasado continuo en la principal.",
+        "explanation_feedback": "Incorrecta. «Since I left» pediría presente perfecto y cambia el sentido."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "2d25b61c-1a1e-57ac-a4cd-e401b0603f12",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A strange day",
+      "text": "Yesterday was a strange day. I (1) ______ to school when it started to rain very hard. I didn't have an umbrella, so I ran into a small shop. The woman (2) ______ worked there gave me a towel and a cup of hot chocolate. We talked for twenty minutes. (3) ______ I left, the sun was shining again. When I arrived at school, my teacher asked me (4) ______ I was late. I told her the story, and she smiled. I think I will go back to that shop (5) ______ say thank you.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (4).",
+    "options": [
+      {
+        "label": "A",
+        "text": "what",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «what» para preguntar por la causa.",
+        "explanation_feedback": "Incorrecta. «What I was late» no es correcto."
+      },
+      {
+        "label": "B",
+        "text": "who",
+        "is_correct": false,
+        "distractor_diagnosis": "Pregunta por una persona.",
+        "explanation_feedback": "Incorrecta. No se pregunta quién; se pregunta por qué."
+      },
+      {
+        "label": "C",
+        "text": "why",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En una pregunta indirecta sobre la causa se usa «why»: «asked me why I was late»."
+      },
+      {
+        "label": "D",
+        "text": "which",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un interrogativo de elección.",
+        "explanation_feedback": "Incorrecta. «Which I was late» no tiene sentido."
+      }
+    ],
+    "estimated_time_seconds": 40
+  },
+  {
+    "id": "e86c2685-38a1-5c61-963f-c49d46a5767f",
+    "subject": "IN",
+    "evidence_code": "IN.E4",
+    "component_code": "IN.P4",
+    "cefr_level": "A2",
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "cefr_part",
+    "context": {
+      "title": "A strange day",
+      "text": "Yesterday was a strange day. I (1) ______ to school when it started to rain very hard. I didn't have an umbrella, so I ran into a small shop. The woman (2) ______ worked there gave me a towel and a cup of hot chocolate. We talked for twenty minutes. (3) ______ I left, the sun was shining again. When I arrived at school, my teacher asked me (4) ______ I was late. I told her the story, and she smiled. I think I will go back to that shop (5) ______ say thank you.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Choose the correct word or words for gap (5).",
+    "options": [
+      {
+        "label": "A",
+        "text": "for",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa «for» delante de un verbo.",
+        "explanation_feedback": "Incorrecta. Delante de un verbo, el propósito se expresa con «to»."
+      },
+      {
+        "label": "B",
+        "text": "to",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Para expresar propósito se usa «to + verbo»: «to say thank you»."
+      },
+      {
+        "label": "C",
+        "text": "at",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición de lugar.",
+        "explanation_feedback": "Incorrecta. «At say» no es correcto."
+      },
+      {
+        "label": "D",
+        "text": "of",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una preposición sin función aquí.",
+        "explanation_feedback": "Incorrecta. «Of say» no es correcto."
+      }
+    ],
+    "estimated_time_seconds": 40
+  }
+]
