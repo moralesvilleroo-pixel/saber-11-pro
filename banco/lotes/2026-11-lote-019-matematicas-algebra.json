@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "87261328-963d-552d-b193-1f2cadde67bf",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos planes de telefonía",
+      "text": "Una empresa ofrece dos planes mensuales:\nPlan A: cargo fijo de $30.000 más $100 por cada minuto de llamada.\nPlan B: cargo fijo de $50.000 más $50 por cada minuto de llamada.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánto paga en el plan A una persona que habla 300 minutos en el mes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$30.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Considera solo el cargo fijo.",
+        "explanation_feedback": "Incorrecta. Falta sumar el costo de los 300 minutos."
+      },
+      {
+        "label": "B",
+        "text": "$30.300",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma los minutos en lugar de multiplicarlos por la tarifa.",
+        "explanation_feedback": "Incorrecta. Cada minuto cuesta $100: 300 × 100 = 30.000."
+      },
+      {
+        "label": "C",
+        "text": "$60.000",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 30.000 + 100 × 300 = 30.000 + 30.000 = 60.000."
+      },
+      {
+        "label": "D",
+        "text": "$65.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el plan B.",
+        "explanation_feedback": "Incorrecta. 65.000 es lo que costaría en el plan B."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "694ec2c9-db9f-5893-a22f-f4f9b19afd99",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos planes de telefonía",
+      "text": "Una empresa ofrece dos planes mensuales:\nPlan A: cargo fijo de $30.000 más $100 por cada minuto de llamada.\nPlan B: cargo fijo de $50.000 más $50 por cada minuto de llamada.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué expresión representa el costo C del plan A para m minutos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "C = 130.000m",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma los coeficientes y multiplica todo.",
+        "explanation_feedback": "Incorrecta. El cargo fijo se paga una sola vez."
+      },
+      {
+        "label": "B",
+        "text": "C = 30.000 + 100m",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cargo fijo más 100 por cada minuto."
+      },
+      {
+        "label": "C",
+        "text": "C = 30.000 − 100m",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta en lugar de sumar.",
+        "explanation_feedback": "Incorrecta. Hablar más aumenta el costo."
+      },
+      {
+        "label": "D",
+        "text": "C = 100 + 30.000m",
+        "is_correct": false,
+        "distractor_diagnosis": "Intercambia el cargo fijo con la tarifa por minuto.",
+        "explanation_feedback": "Incorrecta. El cargo fijo no se multiplica por los minutos."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "671eb820-8cb9-5c25-96a7-e259e22a1f40",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos planes de telefonía",
+      "text": "Una empresa ofrece dos planes mensuales:\nPlan A: cargo fijo de $30.000 más $100 por cada minuto de llamada.\nPlan B: cargo fijo de $50.000 más $50 por cada minuto de llamada.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Para cuántos minutos los dos planes cuestan lo mismo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "200 minutos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide la diferencia de cargos entre 100.",
+        "explanation_feedback": "Incorrecta. Hay que dividir entre la diferencia de tarifas, 50."
+      },
+      {
+        "label": "B",
+        "text": "500 minutos.",
+        "is_correct": false,
+        "distractor_diagnosis": "No resuelve la igualdad.",
+        "explanation_feedback": "Incorrecta. Con 500 minutos el plan A cuesta 80.000 y el B 75.000."
+      },
+      {
+        "label": "C",
+        "text": "400 minutos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 30.000 + 100m = 50.000 + 50m, entonces 50m = 20.000 y m = 400."
+      },
+      {
+        "label": "D",
+        "text": "20.000 minutos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma la diferencia de cargos como respuesta.",
+        "explanation_feedback": "Incorrecta. 20.000 es la diferencia en pesos, no en minutos."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "dee88a3b-f0bd-54e8-a404-20ecfad03f0d",
+    "subject": "MA",
+    "evidence_code": "MA.E3.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Dos planes de telefonía",
+      "text": "Una empresa ofrece dos planes mensuales:\nPlan A: cargo fijo de $30.000 más $100 por cada minuto de llamada.\nPlan B: cargo fijo de $50.000 más $50 por cada minuto de llamada.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un vendedor afirma: «El plan B siempre es más caro porque su cargo fijo es mayor». ¿Es correcta la afirmación?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, porque el plan B siempre es más barato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza en sentido contrario.",
+        "explanation_feedback": "Incorrecta. Con pocos minutos, el plan A es más barato."
+      },
+      {
+        "label": "B",
+        "text": "Sí, porque $50.000 es mayor que $30.000.",
+        "is_correct": false,
+        "distractor_diagnosis": "Compara solo los cargos fijos.",
+        "explanation_feedback": "Incorrecta. También hay que considerar el costo por minuto."
+      },
+      {
+        "label": "C",
+        "text": "Sí, porque los dos planes cobran por minuto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da una razón que no sostiene la afirmación.",
+        "explanation_feedback": "Incorrecta. Que ambos cobren por minuto no hace siempre más caro al B."
+      },
+      {
+        "label": "D",
+        "text": "No, porque a partir de 400 minutos el plan B resulta más barato.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Su tarifa por minuto es menor, así que para muchos minutos compensa el cargo fijo."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "e68c29dd-5c15-52b7-bd9e-9e0d594735f7",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Descuentos encadenados",
+      "text": "Un almacén anuncia: «20 % de descuento en toda la tienda y, en la caja, un 10 % adicional sobre el precio ya rebajado». Un par de tenis cuesta $100.000 antes de los descuentos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánto se paga por los tenis?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$70.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma los porcentajes (30 %) y los aplica juntos.",
+        "explanation_feedback": "Incorrecta. El 10 % se aplica sobre el precio ya rebajado, no sobre el original."
+      },
+      {
+        "label": "B",
+        "text": "$72.000",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 100.000 × 0,8 = 80.000; 80.000 × 0,9 = 72.000."
+      },
+      {
+        "label": "C",
+        "text": "$90.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Aplica solo el segundo descuento.",
+        "explanation_feedback": "Incorrecta. Falta el 20 % inicial."
+      },
+      {
+        "label": "D",
+        "text": "$80.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Aplica solo el primer descuento.",
+        "explanation_feedback": "Incorrecta. Falta el 10 % adicional."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "43b567ca-feab-5b36-a838-562e4ae33ba3",
+    "subject": "MA",
+    "evidence_code": "MA.E3.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Descuentos encadenados",
+      "text": "Un almacén anuncia: «20 % de descuento en toda la tienda y, en la caja, un 10 % adicional sobre el precio ya rebajado». Un par de tenis cuesta $100.000 antes de los descuentos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un cliente dice que los dos descuentos equivalen a un descuento único del 30 %. ¿Es correcto su razonamiento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sí, porque el orden de los descuentos no importa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da una razón que no justifica el 30 %.",
+        "explanation_feedback": "Incorrecta. El orden no importa, pero el total sigue siendo 28 %."
+      },
+      {
+        "label": "B",
+        "text": "No: equivalen a un descuento del 28 %.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 0,8 × 0,9 = 0,72: se paga el 72 %, es decir, un descuento del 28 %."
+      },
+      {
+        "label": "C",
+        "text": "Sí, porque 20 % + 10 % = 30 %.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma porcentajes que se aplican sobre bases distintas.",
+        "explanation_feedback": "Incorrecta. Los porcentajes sucesivos se multiplican, no se suman."
+      },
+      {
+        "label": "D",
+        "text": "No, equivalen a un descuento del 32 %.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula mal el efecto combinado.",
+        "explanation_feedback": "Incorrecta. El efecto es 28 %, menor que 30 %."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "91933e73-e69b-5596-afc3-2729aef4347b",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El IVA",
+      "text": "En Colombia, a muchos productos se les cobra el IVA, un impuesto del 19 % sobre el precio antes de impuestos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un producto cuesta $50.000 antes de IVA. ¿Cuál es su precio con IVA?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$69.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma 19.000 en lugar del 19 %.",
+        "explanation_feedback": "Incorrecta. El 19 % de 50.000 es 9.500."
+      },
+      {
+        "label": "B",
+        "text": "$40.500",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta el impuesto.",
+        "explanation_feedback": "Incorrecta. El IVA se suma al precio."
+      },
+      {
+        "label": "C",
+        "text": "$59.500",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 50.000 × 1,19 = 59.500."
+      },
+      {
+        "label": "D",
+        "text": "$50.019",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma 19 pesos.",
+        "explanation_feedback": "Incorrecta. El 19 % es una fracción del precio, no 19 pesos."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "e0f4fac3-528f-5c07-bae2-69180b2abcfb",
+    "subject": "MA",
+    "evidence_code": "MA.E3.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El IVA",
+      "text": "En Colombia, a muchos productos se les cobra el IVA, un impuesto del 19 % sobre el precio antes de impuestos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un producto cuesta $119.000 con IVA. Un estudiante calcula el precio sin IVA restando el 19 % de 119.000 y obtiene $96.390. ¿Es correcta su solución?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sí, porque 96.390 es menor que 119.000.",
+        "is_correct": false,
+        "distractor_diagnosis": "Valida la solución solo porque es menor.",
+        "explanation_feedback": "Incorrecta. Ser menor no basta para ser correcto."
+      },
+      {
+        "label": "B",
+        "text": "No, el precio sin IVA es $119.000 − $19.000 = $100.000 por casualidad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Llega al valor correcto con un procedimiento no general.",
+        "explanation_feedback": "Incorrecta. El método correcto es dividir entre 1,19."
+      },
+      {
+        "label": "C",
+        "text": "Sí, porque quitar el 19 % deshace el aumento del 19 %.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que subir y bajar el mismo porcentaje se cancelan.",
+        "explanation_feedback": "Incorrecta. Los porcentajes se aplican sobre bases distintas."
+      },
+      {
+        "label": "D",
+        "text": "No, el precio sin IVA es $100.000, porque 119.000 ÷ 1,19 = 100.000.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El 19 % se calcula sobre el precio sin IVA, no sobre el precio final."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "0e8c985e-8337-5068-b31a-fac258ecfc0d",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ahorro en el banco",
+      "text": "Mariana deposita $1.000.000 durante 2 años. El banco A paga interés simple del 10 % anual (siempre sobre el depósito inicial). El banco B paga interés compuesto del 10 % anual (el interés de cada año se suma al saldo y también gana interés).",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánto tendrá Mariana al final en el banco B?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$1.210.000",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Año 1: 1.100.000; año 2: 1.100.000 × 1,1 = 1.210.000."
+      },
+      {
+        "label": "B",
+        "text": "$1.200.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa interés simple.",
+        "explanation_feedback": "Incorrecta. Ese es el resultado del banco A."
+      },
+      {
+        "label": "C",
+        "text": "$1.100.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula solo un año.",
+        "explanation_feedback": "Incorrecta. Son dos años."
+      },
+      {
+        "label": "D",
+        "text": "$2.000.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Duplica el depósito.",
+        "explanation_feedback": "Incorrecta. El interés es del 10 % anual, no del 100 %."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "3989e44b-b5c8-586b-a2ed-b1cc5f949f0c",
+    "subject": "MA",
+    "evidence_code": "MA.E3.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ahorro en el banco",
+      "text": "Mariana deposita $1.000.000 durante 2 años. El banco A paga interés simple del 10 % anual (siempre sobre el depósito inicial). El banco B paga interés compuesto del 10 % anual (el interés de cada año se suma al saldo y también gana interés).",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué afirmación es correcta sobre los dos bancos si el ahorro se deja más años?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El banco A termina dando más con el tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la comparación.",
+        "explanation_feedback": "Incorrecta. El simple crece más despacio."
+      },
+      {
+        "label": "B",
+        "text": "La diferencia se mantiene en $10.000 para siempre.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una diferencia constante.",
+        "explanation_feedback": "Incorrecta. La diferencia aumenta año tras año."
+      },
+      {
+        "label": "C",
+        "text": "Los dos bancos dan siempre lo mismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora la diferencia entre los tipos de interés.",
+        "explanation_feedback": "Incorrecta. Ya en dos años hay $10.000 de diferencia."
+      },
+      {
+        "label": "D",
+        "text": "La diferencia a favor del banco B crece con cada año.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En el compuesto el interés gana interés, así que el saldo crece cada vez más rápido."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "4abafe27-b314-502a-81fa-3e02ecfc4b70",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Proporciones en la cocina y en la obra",
+      "text": "Una receta de arroz para 4 personas usa 300 g de arroz. En una obra, 6 obreros que trabajan al mismo ritmo terminan un muro en 10 días.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánto arroz se necesita para 10 personas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "120 g.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la proporción.",
+        "explanation_feedback": "Incorrecta. Más personas necesitan más arroz."
+      },
+      {
+        "label": "B",
+        "text": "1.200 g.",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica por 4 en lugar de dividir.",
+        "explanation_feedback": "Incorrecta. Hay que calcular primero la cantidad por persona."
+      },
+      {
+        "label": "C",
+        "text": "306 g.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma la diferencia de personas.",
+        "explanation_feedback": "Incorrecta. La relación es multiplicativa."
+      },
+      {
+        "label": "D",
+        "text": "750 g.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 300 ÷ 4 = 75 g por persona; 75 × 10 = 750 g."
+      }
+    ],
+    "estimated_time_seconds": 50
+  },
+  {
+    "id": "b3524d8f-cf8e-57a0-ad3a-68ff6a9fbac3",
+    "subject": "MA",
+    "evidence_code": "MA.E2.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Proporciones en la cocina y en la obra",
+      "text": "Una receta de arroz para 4 personas usa 300 g de arroz. En una obra, 6 obreros que trabajan al mismo ritmo terminan un muro en 10 días.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál plan permite saber cuántos días tardarían 4 obreros en el mismo muro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Calcular 6 × 10 y dividir entre 4.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La relación es inversa: menos obreros tardan más."
+      },
+      {
+        "label": "B",
+        "text": "Restar 2 días porque hay 2 obreros menos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una relación aditiva.",
+        "explanation_feedback": "Incorrecta. La relación entre obreros y días no es aditiva."
+      },
+      {
+        "label": "C",
+        "text": "Calcular 10 × 4 y dividir entre 6.",
+        "is_correct": false,
+        "distractor_diagnosis": "Trata la relación como directa.",
+        "explanation_feedback": "Incorrecta. Con menos obreros no se tarda menos."
+      },
+      {
+        "label": "D",
+        "text": "Dejar los 10 días porque el muro es el mismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el cambio de obreros.",
+        "explanation_feedback": "Incorrecta. Menos obreros tardan más tiempo."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "2b32674a-01ab-5799-9a38-ea48eb1e7598",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Proporciones en la cocina y en la obra",
+      "text": "Una receta de arroz para 4 personas usa 300 g de arroz. En una obra, 6 obreros que trabajan al mismo ritmo terminan un muro en 10 días.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuántos días tardarían 4 obreros?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15 días.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 60 días-obrero ÷ 4 obreros = 15 días."
+      },
+      {
+        "label": "B",
+        "text": "10 días.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el cambio de obreros.",
+        "explanation_feedback": "Incorrecta. Con menos obreros se tarda más."
+      },
+      {
+        "label": "C",
+        "text": "6,7 días.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa proporcionalidad directa.",
+        "explanation_feedback": "Incorrecta. Menos obreros no pueden tardar menos."
+      },
+      {
+        "label": "D",
+        "text": "12 días.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma 2 días por los 2 obreros menos.",
+        "explanation_feedback": "Incorrecta. La relación es inversa, no aditiva."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "5ecc4245-7f08-5127-90b7-0fa6c869cced",
+    "subject": "MA",
+    "evidence_code": "MA.E1.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "La tarifa del taxi",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Costo de una carrera de taxi en una ciudad (tarifa ficticia)",
+        "headers": [
+          "Distancia (km)",
+          "Costo ($)"
+        ],
+        "rows": [
+          [
+            0,
+            "4.000"
+          ],
+          [
+            2,
+            "6.400"
+          ],
+          [
+            5,
+            "10.000"
+          ],
+          [
+            10,
+            "16.000"
+          ]
+        ]
+      }
+    },
+    "stem": "¿Cuál es el costo fijo que se paga apenas se sube al taxi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$1.200",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el costo fijo con el costo por kilómetro.",
+        "explanation_feedback": "Incorrecta. 1.200 es lo que se cobra por cada kilómetro."
+      },
+      {
+        "label": "B",
+        "text": "$4.000",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. A 0 km el costo es $4.000."
+      },
+      {
+        "label": "C",
+        "text": "$0",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que a 0 km no se paga.",
+        "explanation_feedback": "Incorrecta. La tabla muestra $4.000 a 0 km."
+      },
+      {
+        "label": "D",
+        "text": "$6.400",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma el valor de 2 km.",
+        "explanation_feedback": "Incorrecta. Ese es el costo de 2 km."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "0141a853-cbd4-58b1-956f-48a2b164805f",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "La tarifa del taxi",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Costo de una carrera de taxi en una ciudad (tarifa ficticia)",
+        "headers": [
+          "Distancia (km)",
+          "Costo ($)"
+        ],
+        "rows": [
+          [
+            0,
+            "4.000"
+          ],
+          [
+            2,
+            "6.400"
+          ],
+          [
+            5,
+            "10.000"
+          ],
+          [
+            10,
+            "16.000"
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué expresión da el costo C para d kilómetros?",
+    "options": [
+      {
+        "label": "A",
+        "text": "C = 4.000d + 1.200",
+        "is_correct": false,
+        "distractor_diagnosis": "Intercambia el fijo y la tarifa.",
+        "explanation_feedback": "Incorrecta. Para d = 0 daría 1.200, no 4.000."
+      },
+      {
+        "label": "B",
+        "text": "C = 4.000 + 1.200d",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada kilómetro suma (6.400 − 4.000) ÷ 2 = 1.200."
+      },
+      {
+        "label": "C",
+        "text": "C = 2.000d",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide 4.000 entre 2 sin justificación.",
+        "explanation_feedback": "Incorrecta. Para d = 0 daría 0."
+      },
+      {
+        "label": "D",
+        "text": "C = 6.400d",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el costo de 2 km como tarifa por kilómetro.",
+        "explanation_feedback": "Incorrecta. Para d = 5 daría 32.000, no 10.000."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "d45f25c3-df18-58d1-b6e5-3f5c20ace882",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "La tarifa del taxi",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Costo de una carrera de taxi en una ciudad (tarifa ficticia)",
+        "headers": [
+          "Distancia (km)",
+          "Costo ($)"
+        ],
+        "rows": [
+          [
+            0,
+            "4.000"
+          ],
+          [
+            2,
+            "6.400"
+          ],
+          [
+            5,
+            "10.000"
+          ],
+          [
+            10,
+            "16.000"
+          ]
+        ]
+      }
+    },
+    "stem": "¿Cuánto cuesta una carrera de 8 km?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$12.800",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica 1.600 × 8 sin el costo fijo.",
+        "explanation_feedback": "Incorrecta. Hay que sumar el costo fijo y usar 1.200 por km."
+      },
+      {
+        "label": "B",
+        "text": "$13.600",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 4.000 + 1.200 × 8 = 13.600."
+      },
+      {
+        "label": "C",
+        "text": "$9.600",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida el costo fijo.",
+        "explanation_feedback": "Incorrecta. Falta sumar $4.000."
+      },
+      {
+        "label": "D",
+        "text": "$16.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el valor de 10 km.",
+        "explanation_feedback": "Incorrecta. Ese es el costo de 10 km."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "1e788317-8c10-522e-9b32-7dfbfc3186ea",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Bacterias que se duplican",
+      "text": "En un laboratorio, una población de bacterias se duplica cada hora. Al comienzo hay 100 bacterias.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuántas bacterias habrá después de 5 horas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica 100 × 2 × 5.",
+        "explanation_feedback": "Incorrecta. La población se duplica cada hora: es una potencia."
+      },
+      {
+        "label": "B",
+        "text": "3.200",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 100 × 2⁵ = 100 × 32 = 3.200."
+      },
+      {
+        "label": "C",
+        "text": "1.600",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula 4 horas.",
+        "explanation_feedback": "Incorrecta. 100 × 2⁴ = 1.600; faltó una hora."
+      },
+      {
+        "label": "D",
+        "text": "600",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma 100 cada hora.",
+        "explanation_feedback": "Incorrecta. Duplicarse no es sumar 100."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "3108f166-f8d1-51b9-8c39-dff765e5f668",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Bacterias que se duplican",
+      "text": "En un laboratorio, una población de bacterias se duplica cada hora. Al comienzo hay 100 bacterias.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué expresión da el número de bacterias N después de t horas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "N = 100 + 2t",
+        "is_correct": false,
+        "distractor_diagnosis": "Modela un crecimiento lineal.",
+        "explanation_feedback": "Incorrecta. El crecimiento es multiplicativo."
+      },
+      {
+        "label": "B",
+        "text": "N = 100 × t²",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde exponencial con cuadrática.",
+        "explanation_feedback": "Incorrecta. Para t = 1 daría 100, no 200."
+      },
+      {
+        "label": "C",
+        "text": "N = 200t",
+        "is_correct": false,
+        "distractor_diagnosis": "Modela un crecimiento lineal.",
+        "explanation_feedback": "Incorrecta. Para t = 0 daría 0 bacterias."
+      },
+      {
+        "label": "D",
+        "text": "N = 100 × 2ᵗ",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El factor 2 se aplica una vez por cada hora."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "0d6b01f1-a54c-5c73-bfe1-79cb451e3a53",
+    "subject": "MA",
+    "evidence_code": "MA.E2.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Edades",
+      "text": "Ana tiene el triple de la edad de su hermano. Dentro de 10 años, Ana tendrá el doble de la edad que tenga su hermano.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si h es la edad actual del hermano, ¿qué ecuación permite encontrarla?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3h = 2h + 10",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida sumar 10 años a los dos.",
+        "explanation_feedback": "Incorrecta. Ambos envejecen 10 años."
+      },
+      {
+        "label": "B",
+        "text": "h + 10 = 2(3h)",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte los papeles.",
+        "explanation_feedback": "Incorrecta. El doble es la edad de Ana respecto a la del hermano."
+      },
+      {
+        "label": "C",
+        "text": "3h + 10 = 2(h + 10)",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Dentro de 10 años, Ana tendrá 3h + 10 y su hermano h + 10."
+      },
+      {
+        "label": "D",
+        "text": "3(h + 10) = 2h",
+        "is_correct": false,
+        "distractor_diagnosis": "Aplica el triple en el futuro.",
+        "explanation_feedback": "Incorrecta. El triple es la relación actual."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "dddddfde-2cf7-5030-97bd-050a40940695",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Edades",
+      "text": "Ana tiene el triple de la edad de su hermano. Dentro de 10 años, Ana tendrá el doble de la edad que tenga su hermano.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué edad tiene Ana hoy?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 años.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 3h + 10 = 2h + 20, entonces h = 10 y Ana tiene 30."
+      },
+      {
+        "label": "B",
+        "text": "10 años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da la edad del hermano.",
+        "explanation_feedback": "Incorrecta. 10 es la edad del hermano."
+      },
+      {
+        "label": "C",
+        "text": "20 años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma la edad del hermano dentro de 10 años.",
+        "explanation_feedback": "Incorrecta. Ana tiene el triple de 10."
+      },
+      {
+        "label": "D",
+        "text": "40 años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da la edad de Ana dentro de 10 años.",
+        "explanation_feedback": "Incorrecta. 40 es la edad futura de Ana."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "1027e658-3b7c-5edf-b77c-6eb6ffc7da79",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ida y vuelta",
+      "text": "Un bus va de una ciudad a otra, a 240 km, con rapidez constante de 80 km/h, y regresa por la misma vía a 60 km/h.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánto tarda el viaje de ida?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3 horas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 240 ÷ 80 = 3 h."
+      },
+      {
+        "label": "B",
+        "text": "1/3 de hora.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide al revés.",
+        "explanation_feedback": "Incorrecta. Se divide la distancia entre la rapidez."
+      },
+      {
+        "label": "C",
+        "text": "4 horas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la rapidez de regreso.",
+        "explanation_feedback": "Incorrecta. 4 h es el tiempo del regreso."
+      },
+      {
+        "label": "D",
+        "text": "320 horas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma distancia y rapidez.",
+        "explanation_feedback": "Incorrecta. El tiempo es distancia ÷ rapidez."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "e87dce8b-ee83-59b4-8e21-621de6d11f21",
+    "subject": "MA",
+    "evidence_code": "MA.E3.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Ida y vuelta",
+      "text": "Un bus va de una ciudad a otra, a 240 km, con rapidez constante de 80 km/h, y regresa por la misma vía a 60 km/h.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un pasajero dice que la rapidez media de todo el viaje fue 70 km/h, el promedio de 80 y 60. ¿Es correcto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No: fue de unos 68,6 km/h (480 km en 7 h).",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La rapidez media es distancia total sobre tiempo total; el bus pasa más tiempo a 60 km/h."
+      },
+      {
+        "label": "B",
+        "text": "Sí, porque la ida y el regreso tienen la misma distancia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que igual distancia permite promediar rapideces.",
+        "explanation_feedback": "Incorrecta. Con igual distancia, los tiempos son distintos."
+      },
+      {
+        "label": "C",
+        "text": "No, porque fue de 140 km/h en total.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma las rapideces.",
+        "explanation_feedback": "Incorrecta. Las rapideces no se suman."
+      },
+      {
+        "label": "D",
+        "text": "Sí, porque siempre se promedian las rapideces.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza un procedimiento incorrecto.",
+        "explanation_feedback": "Incorrecta. Solo valdría si los tiempos fueran iguales."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "8327edf3-fcc5-58c0-8525-acc83b4435cd",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.GEO",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Mapa a escala",
+      "text": "Un mapa turístico tiene escala 1 : 50.000, es decir, 1 cm en el mapa representa 50.000 cm en la realidad.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Dos pueblos están a 4 cm en el mapa. ¿Cuál es la distancia real?",
+    "options": [
+      {
+        "label": "A",
+        "text": "2 km.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 4 × 50.000 = 200.000 cm = 2.000 m = 2 km."
+      },
+      {
+        "label": "B",
+        "text": "20 km.",
+        "is_correct": false,
+        "distractor_diagnosis": "Convierte mal las unidades.",
+        "explanation_feedback": "Incorrecta. 100.000 cm son 1 km."
+      },
+      {
+        "label": "C",
+        "text": "12.500 cm.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide en lugar de multiplicar.",
+        "explanation_feedback": "Incorrecta. Cada cm del mapa son 50.000 cm reales."
+      },
+      {
+        "label": "D",
+        "text": "200 km.",
+        "is_correct": false,
+        "distractor_diagnosis": "Convierte mal las unidades.",
+        "explanation_feedback": "Incorrecta. 200.000 cm son 2 km."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "1508e83b-abfc-5047-8bd7-6334bfdf33f3",
+    "subject": "MA",
+    "evidence_code": "MA.E2.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Mapa a escala",
+      "text": "Un mapa turístico tiene escala 1 : 50.000, es decir, 1 cm en el mapa representa 50.000 cm en la realidad.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un sendero real mide 7,5 km. ¿Qué procedimiento da su longitud en el mapa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dividir 7,5 entre 50.000 sin convertir unidades.",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida convertir km a cm.",
+        "explanation_feedback": "Incorrecta. La escala relaciona centímetros con centímetros."
+      },
+      {
+        "label": "B",
+        "text": "Restar 50.000 a la distancia de 7,5 km.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una operación sin sentido.",
+        "explanation_feedback": "Incorrecta. La escala es una razón, no una resta."
+      },
+      {
+        "label": "C",
+        "text": "Multiplicar 7,5 por 50.000.",
+        "is_correct": false,
+        "distractor_diagnosis": "Aplica la escala en sentido contrario.",
+        "explanation_feedback": "Incorrecta. Para pasar de la realidad al mapa se divide."
+      },
+      {
+        "label": "D",
+        "text": "Pasar 7,5 km a cm y dividir entre 50.000.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 750.000 ÷ 50.000 = 15 cm."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "afea1817-c8ea-57e4-b9b9-8dfeb0d28565",
+    "subject": "MA",
+    "evidence_code": "MA.E2.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Boletas para el festival",
+      "text": "Para un festival escolar, las boletas de niño cuestan $5.000 y las de adulto $8.000. Una familia compró 20 boletas y pagó $130.000.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Si n es el número de boletas de niño y a el de adulto, ¿qué sistema representa la situación?",
+    "options": [
+      {
+        "label": "A",
+        "text": "n + a = 130.000 y 5.000n + 8.000a = 20",
+        "is_correct": false,
+        "distractor_diagnosis": "Intercambia los totales.",
+        "explanation_feedback": "Incorrecta. 20 es el número de boletas y 130.000 el dinero."
+      },
+      {
+        "label": "B",
+        "text": "5.000n = 8.000a y n = a + 20",
+        "is_correct": false,
+        "distractor_diagnosis": "Iguala los gastos sin razón.",
+        "explanation_feedback": "Incorrecta. El texto no dice que gasten lo mismo en cada tipo."
+      },
+      {
+        "label": "C",
+        "text": "n + a = 20 y 5.000n + 8.000a = 130.000",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Una ecuación para el número de boletas y otra para el dinero."
+      },
+      {
+        "label": "D",
+        "text": "n − a = 20 y 5.000n − 8.000a = 130.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa restas en lugar de sumas.",
+        "explanation_feedback": "Incorrecta. Las boletas y los gastos se suman."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "ecc2f9b3-7af8-58ac-9777-e742a20a7e01",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Boletas para el festival",
+      "text": "Para un festival escolar, las boletas de niño cuestan $5.000 y las de adulto $8.000. Una familia compró 20 boletas y pagó $130.000.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuántas boletas de adulto compró la familia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "16.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide 130.000 entre 8.000 y redondea.",
+        "explanation_feedback": "Incorrecta. Ignora que también hay boletas de niño."
+      },
+      {
+        "label": "B",
+        "text": "6.",
+        "is_correct": false,
+        "distractor_diagnosis": "Resuelve mal el sistema.",
+        "explanation_feedback": "Incorrecta. Con 6 adultos y 14 niños se pagarían $118.000."
+      },
+      {
+        "label": "C",
+        "text": "10.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 5.000n + 8.000(20 − n) = 130.000 da n = 10, así que a = 10."
+      },
+      {
+        "label": "D",
+        "text": "20.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que todas son de adulto.",
+        "explanation_feedback": "Incorrecta. 20 boletas de adulto costarían $160.000."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "61a2ce90-3c62-5c98-95d0-d7191606a713",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CONT.GEN",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Llenar botellas",
+      "text": "Una jarra tiene 1,5 litros de jugo. Se quiere servir en vasos de 250 mL.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuántos vasos se llenan por completo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa 1 L en lugar de 1,5 L.",
+        "explanation_feedback": "Incorrecta. 1.000 ÷ 250 = 4, pero hay 1,5 L."
+      },
+      {
+        "label": "B",
+        "text": "60.",
+        "is_correct": false,
+        "distractor_diagnosis": "Convierte mal los litros.",
+        "explanation_feedback": "Incorrecta. 1,5 L son 1.500 mL, no 15.000."
+      },
+      {
+        "label": "C",
+        "text": "6.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 1,5 L = 1.500 mL; 1.500 ÷ 250 = 6."
+      },
+      {
+        "label": "D",
+        "text": "0,6.",
+        "is_correct": false,
+        "distractor_diagnosis": "No convierte unidades.",
+        "explanation_feedback": "Incorrecta. Hay que pasar los litros a mililitros."
+      }
+    ],
+    "estimated_time_seconds": 45
+  }
+]
