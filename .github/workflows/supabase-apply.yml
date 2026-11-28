@@ -1,0 +1,41 @@
+name: Cargar a Supabase
+
+# Se lanza a mano: GitHub > Actions > "Cargar a Supabase" > Run workflow.
+# Requiere el secreto SUPABASE_DB_URL (cadena "Session pooler" de Supabase, con la contrasena).
+on:
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "probar = solo muestra lo que haria; aplicar = escribe en la base"
+        type: choice
+        options: [probar, aplicar]
+        default: probar
+
+concurrency:
+  group: supabase-apply
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: El banco de preguntas es valido y su SQL esta al dia
+        run: pnpm --filter @icfes/core build && node scripts/build-questions-sql.mjs --check
+      - name: La semilla esta al dia
+        run: node scripts/generate-seed.mjs && git diff --exit-code supabase/seed.sql
+      - name: Aplicar
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: |
+          if [ -z "$SUPABASE_DB_URL" ]; then
+            echo "::error::Falta el secreto SUPABASE_DB_URL (Settings > Secrets and variables > Actions)."
+            exit 1
+          fi
+          if [ "${{ inputs.modo }}" = "aplicar" ]; then scripts/apply-supabase.sh; else scripts/apply-supabase.sh --dry-run; fi

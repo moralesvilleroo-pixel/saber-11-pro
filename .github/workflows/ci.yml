@@ -18,6 +18,8 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm typecheck
       - run: pnpm test
+      - name: Banco de preguntas valido y SQL al dia
+        run: pnpm --filter @icfes/core build && node scripts/build-questions-sql.mjs --check
 
   database:
     runs-on: ubuntu-latest

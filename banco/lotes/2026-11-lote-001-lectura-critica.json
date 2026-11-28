@@ -1,0 +1,590 @@
+[
+  {
+    "id": "5829357a-26a7-5cc3-a79c-0ed9a3062f0f",
+    "subject": "LC",
+    "evidence_code": "LC.E1.1",
+    "component_code": "LC.TXT.CONT.INF",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 1.0,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Más que estantes",
+      "text": "Las bibliotecas comunitarias que han surgido en varios municipios del país suelen describirse como depósitos de libros donados. Esa imagen se queda corta. En muchos casos funcionan como el único espacio público con conexión a internet, sillas suficientes y un horario que se extiende después de la jornada escolar. Allí los estudiantes hacen tareas, los adultos mayores tramitan citas médicas en línea y las organizaciones barriales se reúnen sin pagar alquiler.\n\nSin embargo, su sostenibilidad es frágil. La mayoría depende del trabajo voluntario de unas pocas personas y de recursos que llegan de manera irregular. Cuando la persona que lideraba el proyecto se muda o se cansa, la biblioteca cierra, y con ella desaparece un servicio que nadie más estaba prestando.\n\nPor eso, más que pedir nuevas donaciones de libros, conviene que las alcaldías reconozcan a estas bibliotecas como parte de su infraestructura cultural y les asignen un presupuesto mínimo y estable. Un estante lleno no garantiza nada si la puerta permanece cerrada.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "En el primer párrafo, la expresión «Esa imagen se queda corta» significa que",
+    "options": [
+      {
+        "label": "A",
+        "text": "describir estas bibliotecas como depósitos de libros donados no recoge todo lo que hacen.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Justo después de la expresión, el autor enumera lo que estas bibliotecas hacen además de guardar libros (internet, espacio para tareas, trámites, reuniones). «Quedarse corta» significa que la descripción es insuficiente."
+      },
+      {
+        "label": "B",
+        "text": "las bibliotecas comunitarias tienen menos libros de los que la gente suele imaginar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lectura literal de «corta» como cantidad de libros, sin atender al sentido figurado de la expresión.",
+        "explanation_feedback": "Incorrecta. El texto no habla de cuántos libros hay. «Corta» no se refiere a cantidad de libros, sino a que la descripción se queda por debajo de la realidad."
+      },
+      {
+        "label": "C",
+        "text": "la mayoría de las personas no sabe que existen bibliotecas comunitarias en su municipio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la idea de una imagen incompleta con la falta de conocimiento sobre la existencia de algo.",
+        "explanation_feedback": "Incorrecta. El autor no dice que la gente desconozca las bibliotecas; dice que la forma habitual de describirlas es incompleta."
+      },
+      {
+        "label": "D",
+        "text": "las donaciones de libros a estas bibliotecas han disminuido durante los últimos años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Introduce información que no está en el texto a partir de la palabra «donados».",
+        "explanation_feedback": "Incorrecta. El texto menciona libros donados, pero nunca afirma que las donaciones hayan disminuido. Hay que responder con lo que el texto dice."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "d1964d45-d00a-552f-b86a-87014e4f02d1",
+    "subject": "LC",
+    "evidence_code": "LC.E2.3",
+    "component_code": "LC.TXT.CONT.INF",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.2,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Más que estantes",
+      "text": "Las bibliotecas comunitarias que han surgido en varios municipios del país suelen describirse como depósitos de libros donados. Esa imagen se queda corta. En muchos casos funcionan como el único espacio público con conexión a internet, sillas suficientes y un horario que se extiende después de la jornada escolar. Allí los estudiantes hacen tareas, los adultos mayores tramitan citas médicas en línea y las organizaciones barriales se reúnen sin pagar alquiler.\n\nSin embargo, su sostenibilidad es frágil. La mayoría depende del trabajo voluntario de unas pocas personas y de recursos que llegan de manera irregular. Cuando la persona que lideraba el proyecto se muda o se cansa, la biblioteca cierra, y con ella desaparece un servicio que nadie más estaba prestando.\n\nPor eso, más que pedir nuevas donaciones de libros, conviene que las alcaldías reconozcan a estas bibliotecas como parte de su infraestructura cultural y les asignen un presupuesto mínimo y estable. Un estante lleno no garantiza nada si la puerta permanece cerrada.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué relación hay entre el segundo y el tercer párrafo del texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El segundo da un ejemplo particular y el tercero lo generaliza a todo el país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye a los párrafos funciones textuales (ejemplo y generalización) que no cumplen.",
+        "explanation_feedback": "Incorrecta. El segundo párrafo no presenta un caso particular sino un problema general (la fragilidad), y el tercero no generaliza: propone una medida."
+      },
+      {
+        "label": "B",
+        "text": "El segundo presenta un problema y el tercero propone una medida para enfrentarlo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El segundo párrafo describe la fragilidad de las bibliotecas (voluntarios, recursos irregulares, cierres) y el tercero, introducido por «Por eso», propone un presupuesto municipal estable como solución."
+      },
+      {
+        "label": "C",
+        "text": "El segundo contradice la tesis del primero y el tercero vuelve a defenderla.",
+        "is_correct": false,
+        "distractor_diagnosis": "Interpreta el conector «Sin embargo» como una refutación de la tesis y no como un giro hacia un problema.",
+        "explanation_feedback": "Incorrecta. «Sin embargo» no niega lo dicho en el primer párrafo: añade un problema. El valor de las bibliotecas se mantiene en todo el texto."
+      },
+      {
+        "label": "D",
+        "text": "El segundo describe los servicios que se prestan y el tercero explica su origen.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el contenido del primer párrafo (los servicios) con el del segundo y supone una explicación histórica que no existe.",
+        "explanation_feedback": "Incorrecta. Los servicios se describen en el primer párrafo, y el texto nunca explica cómo surgieron las bibliotecas."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "38747bcc-f8ba-5693-8b68-659146694a08",
+    "subject": "LC",
+    "evidence_code": "LC.E3.1",
+    "component_code": "LC.TXT.CONT.INF",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Más que estantes",
+      "text": "Las bibliotecas comunitarias que han surgido en varios municipios del país suelen describirse como depósitos de libros donados. Esa imagen se queda corta. En muchos casos funcionan como el único espacio público con conexión a internet, sillas suficientes y un horario que se extiende después de la jornada escolar. Allí los estudiantes hacen tareas, los adultos mayores tramitan citas médicas en línea y las organizaciones barriales se reúnen sin pagar alquiler.\n\nSin embargo, su sostenibilidad es frágil. La mayoría depende del trabajo voluntario de unas pocas personas y de recursos que llegan de manera irregular. Cuando la persona que lideraba el proyecto se muda o se cansa, la biblioteca cierra, y con ella desaparece un servicio que nadie más estaba prestando.\n\nPor eso, más que pedir nuevas donaciones de libros, conviene que las alcaldías reconozcan a estas bibliotecas como parte de su infraestructura cultural y les asignen un presupuesto mínimo y estable. Un estante lleno no garantiza nada si la puerta permanece cerrada.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de las siguientes situaciones debilitaría más la propuesta del autor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que algunas bibliotecas comunitarias recibieran más libros donados de los que pueden guardar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Elige un hecho relacionado con el tema que no afecta la relación entre presupuesto estable y permanencia.",
+        "explanation_feedback": "Incorrecta. Tener demasiados libros no cuestiona que el presupuesto estable evite los cierres; incluso coincide con la idea de que el problema no es la falta de libros."
+      },
+      {
+        "label": "B",
+        "text": "Que en algunos barrios las organizaciones comunitarias tuvieran otros lugares de reunión.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ataca un detalle secundario del texto en lugar de la premisa central del argumento.",
+        "explanation_feedback": "Incorrecta. Afecta solo uno de los servicios mencionados y el autor no afirma que las bibliotecas sean siempre el único lugar de reunión; la propuesta del presupuesto sigue en pie."
+      },
+      {
+        "label": "C",
+        "text": "Que las bibliotecas con presupuesto municipal estable cerraran tan seguido como las que no lo tienen.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El autor propone el presupuesto estable porque supone que evitaría los cierres. Si las bibliotecas financiadas cerraran igual, esa relación causal, que sostiene toda la propuesta, quedaría en duda."
+      },
+      {
+        "label": "D",
+        "text": "Que los adultos mayores prefirieran hacer sus trámites médicos por teléfono y no en línea.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde un ejemplo ilustrativo con el fundamento del argumento.",
+        "explanation_feedback": "Incorrecta. Es solo uno de los ejemplos de uso; aunque cambiara, las bibliotecas seguirían prestando otros servicios y la propuesta no se vería afectada."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "8aa3c299-0a6d-5e31-b92e-17532d3ee9fe",
+    "subject": "LC",
+    "evidence_code": "LC.E2.4",
+    "component_code": "LC.TXT.CONT.INF",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Más que estantes",
+      "text": "Las bibliotecas comunitarias que han surgido en varios municipios del país suelen describirse como depósitos de libros donados. Esa imagen se queda corta. En muchos casos funcionan como el único espacio público con conexión a internet, sillas suficientes y un horario que se extiende después de la jornada escolar. Allí los estudiantes hacen tareas, los adultos mayores tramitan citas médicas en línea y las organizaciones barriales se reúnen sin pagar alquiler.\n\nSin embargo, su sostenibilidad es frágil. La mayoría depende del trabajo voluntario de unas pocas personas y de recursos que llegan de manera irregular. Cuando la persona que lideraba el proyecto se muda o se cansa, la biblioteca cierra, y con ella desaparece un servicio que nadie más estaba prestando.\n\nPor eso, más que pedir nuevas donaciones de libros, conviene que las alcaldías reconozcan a estas bibliotecas como parte de su infraestructura cultural y les asignen un presupuesto mínimo y estable. Un estante lleno no garantiza nada si la puerta permanece cerrada.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es la idea principal que defiende el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Las bibliotecas comunitarias necesitan más donaciones de libros para atender a todos sus usuarios.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma como tesis justamente la idea que el autor descarta («más que pedir nuevas donaciones»).",
+        "explanation_feedback": "Incorrecta. El autor dice lo contrario: que más que nuevas donaciones, lo que hace falta es financiación estable."
+      },
+      {
+        "label": "B",
+        "text": "Los voluntarios que lideran estas bibliotecas deberían recibir un salario de las juntas barriales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Mezcla elementos del texto (voluntarios, organizaciones barriales) en una propuesta que el autor no hace.",
+        "explanation_feedback": "Incorrecta. El texto menciona a los voluntarios como parte del problema, pero la propuesta se dirige a las alcaldías, no a las juntas barriales, y no habla de salarios."
+      },
+      {
+        "label": "C",
+        "text": "Las alcaldías deberían financiar de forma estable estas bibliotecas porque prestan servicios que, si cierran, se pierden.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Recoge la propuesta del tercer párrafo (presupuesto mínimo y estable de las alcaldías) y la razón que la sostiene a lo largo del texto: los servicios que se pierden cuando una biblioteca cierra."
+      },
+      {
+        "label": "D",
+        "text": "Las bibliotecas comunitarias son más útiles que las públicas porque abren después de la jornada escolar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Convierte un detalle del texto en una comparación que el autor nunca plantea.",
+        "explanation_feedback": "Incorrecta. El texto no compara bibliotecas comunitarias con públicas; el horario extendido es solo una de sus características."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "3dae7ef1-f9f9-57d8-a9be-b6110b0f7f73",
+    "subject": "LC",
+    "evidence_code": "LC.E1.2",
+    "component_code": "LC.TXT.CONT.LIT",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La galería",
+      "text": "Cuando mi abuela decidió aprender a usar el celular, lo hizo con la misma seriedad con que antes desgranaba maíz: sentada en el patio, sin prisa y sin permitir interrupciones. Durante la primera semana solo contestaba llamadas, y siempre gritando, como si la voz tuviera que atravesar las tres veredas que la separaban de mi tía. La segunda semana descubrió las fotos. Empezó a retratar todo lo que, según ella, nadie había mirado con cuidado: las gallinas, el fogón, una grieta en la pared que tenía forma de río. Un domingo me mostró la galería completa y me dijo, muy orgullosa, que por fin había encontrado para qué servía ese aparato. Yo, que lo usaba todo el día, no supe qué responderle.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según el relato, ¿qué hizo la abuela durante la primera semana?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tomó fotos de las gallinas, del fogón y de una grieta en la pared.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el orden de los hechos: eso ocurre en la segunda semana.",
+        "explanation_feedback": "Incorrecta. Las fotos aparecen en la segunda semana («La segunda semana descubrió las fotos»)."
+      },
+      {
+        "label": "B",
+        "text": "Llamó varias veces a la tía para enseñarle a usar el celular.",
+        "is_correct": false,
+        "distractor_diagnosis": "Infiere una acción a partir de la mención de la tía, que solo aparece en una comparación.",
+        "explanation_feedback": "Incorrecta. La tía se menciona para describir cómo gritaba la abuela, no porque la abuela le enseñara algo."
+      },
+      {
+        "label": "C",
+        "text": "Solo contestó llamadas, y lo hacía hablando en voz muy alta.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto lo dice explícitamente: «Durante la primera semana solo contestaba llamadas, y siempre gritando»."
+      },
+      {
+        "label": "D",
+        "text": "Desgranó maíz en el patio mientras aprendía a manejar el aparato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma literalmente una comparación («con la misma seriedad con que antes desgranaba maíz»).",
+        "explanation_feedback": "Incorrecta. El desgranar maíz es una comparación con algo que hacía «antes»; no es una acción de esa semana."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "68aca114-ef82-5853-81a1-cfb050cf0b65",
+    "subject": "LC",
+    "evidence_code": "LC.E2.2",
+    "component_code": "LC.TXT.CONT.LIT",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La galería",
+      "text": "Cuando mi abuela decidió aprender a usar el celular, lo hizo con la misma seriedad con que antes desgranaba maíz: sentada en el patio, sin prisa y sin permitir interrupciones. Durante la primera semana solo contestaba llamadas, y siempre gritando, como si la voz tuviera que atravesar las tres veredas que la separaban de mi tía. La segunda semana descubrió las fotos. Empezó a retratar todo lo que, según ella, nadie había mirado con cuidado: las gallinas, el fogón, una grieta en la pared que tenía forma de río. Un domingo me mostró la galería completa y me dijo, muy orgullosa, que por fin había encontrado para qué servía ese aparato. Yo, que lo usaba todo el día, no supe qué responderle.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Quién narra la historia?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Un narrador externo que conoce los pensamientos de todos los personajes.",
+        "is_correct": false,
+        "distractor_diagnosis": "No identifica las marcas de primera persona («mi abuela», «me mostró», «Yo»).",
+        "explanation_feedback": "Incorrecta. El narrador habla en primera persona y solo cuenta lo que observa; no accede a los pensamientos de los personajes."
+      },
+      {
+        "label": "B",
+        "text": "La abuela, que recuerda cómo aprendió a usar el celular.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde al personaje principal con la voz que narra.",
+        "explanation_feedback": "Incorrecta. La abuela es el personaje central, pero quien narra se refiere a ella como «mi abuela»."
+      },
+      {
+        "label": "C",
+        "text": "La tía, que supo de los hechos por las llamadas de la abuela.",
+        "is_correct": false,
+        "distractor_diagnosis": "Asigna la voz narrativa a un personaje mencionado de paso.",
+        "explanation_feedback": "Incorrecta. La tía solo aparece en una comparación; quien narra estuvo presente cuando la abuela le mostró la galería."
+      },
+      {
+        "label": "D",
+        "text": "Un nieto o una nieta que participa en los hechos y cuenta lo que vio.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las expresiones «mi abuela», «me mostró» y «Yo, que lo usaba» muestran un narrador en primera persona, familiar de la abuela, que también participa en la escena final."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "5deb9a04-809e-50c0-a290-ba262101c681",
+    "subject": "LC",
+    "evidence_code": "LC.E3.4",
+    "component_code": "LC.TXT.CONT.LIT",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La galería",
+      "text": "Cuando mi abuela decidió aprender a usar el celular, lo hizo con la misma seriedad con que antes desgranaba maíz: sentada en el patio, sin prisa y sin permitir interrupciones. Durante la primera semana solo contestaba llamadas, y siempre gritando, como si la voz tuviera que atravesar las tres veredas que la separaban de mi tía. La segunda semana descubrió las fotos. Empezó a retratar todo lo que, según ella, nadie había mirado con cuidado: las gallinas, el fogón, una grieta en la pared que tenía forma de río. Un domingo me mostró la galería completa y me dijo, muy orgullosa, que por fin había encontrado para qué servía ese aparato. Yo, que lo usaba todo el día, no supe qué responderle.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "La última oración del relato («Yo, que lo usaba todo el día, no supe qué responderle») produce el efecto de",
+    "options": [
+      {
+        "label": "A",
+        "text": "sugerir que el narrador, aunque usa más el celular, quizá no le ha encontrado un sentido tan claro como la abuela.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El contraste entre «lo usaba todo el día» y «no supe qué responderle» deja ver que la abuela, con menos uso, le dio al aparato un propósito que el narrador no había pensado."
+      },
+      {
+        "label": "B",
+        "text": "mostrar que el narrador está molesto porque la abuela no sabe usar bien el celular.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye al narrador una emoción que el texto no expresa.",
+        "explanation_feedback": "Incorrecta. Nada indica molestia; el silencio del narrador sugiere sorpresa o reflexión, no enojo."
+      },
+      {
+        "label": "C",
+        "text": "indicar que el narrador no entendió las explicaciones técnicas que le dio la abuela.",
+        "is_correct": false,
+        "distractor_diagnosis": "Interpreta «no supe qué responderle» como incomprensión técnica y no como reflexión.",
+        "explanation_feedback": "Incorrecta. La abuela no da explicaciones técnicas: muestra sus fotos y dice para qué le sirve el aparato."
+      },
+      {
+        "label": "D",
+        "text": "demostrar que el celular es un aparato inútil para la mayoría de las personas jóvenes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza en exceso: convierte una escena particular en una conclusión sobre todos los jóvenes.",
+        "explanation_feedback": "Incorrecta. Es una conclusión extrema; el relato no habla de los jóvenes en general ni dice que el celular sea inútil."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "76abc931-9c20-5494-b88f-c1156e093fc2",
+    "subject": "LC",
+    "evidence_code": "LC.E2.5",
+    "component_code": "LC.TXT.DISC",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.2,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Desplazamiento al colegio",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Desplazamiento diario al colegio de los estudiantes de grado 11 de un municipio, según el medio de transporte (datos ficticios)",
+        "headers": [
+          "Medio de transporte",
+          "Estudiantes (%)",
+          "Tiempo promedio (minutos)"
+        ],
+        "rows": [
+          [
+            "A pie",
+            38,
+            22
+          ],
+          [
+            "Bicicleta",
+            12,
+            15
+          ],
+          [
+            "Bus escolar",
+            27,
+            35
+          ],
+          [
+            "Moto (como pasajero)",
+            18,
+            12
+          ],
+          [
+            "Otro",
+            5,
+            28
+          ]
+        ]
+      }
+    },
+    "stem": "Según la tabla, es correcto afirmar que",
+    "options": [
+      {
+        "label": "A",
+        "text": "los estudiantes que van en bus escolar son los que tardan menos en llegar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la columna de porcentaje o invierte el orden de los tiempos.",
+        "explanation_feedback": "Incorrecta. El bus escolar tiene el mayor tiempo promedio (35 minutos), no el menor."
+      },
+      {
+        "label": "B",
+        "text": "más de la mitad de los estudiantes llega al colegio en bicicleta o en moto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma mal los porcentajes o los confunde con los minutos.",
+        "explanation_feedback": "Incorrecta. Bicicleta (12 %) y moto (18 %) suman 30 %, menos de la mitad."
+      },
+      {
+        "label": "C",
+        "text": "el medio que usa la mayor proporción de estudiantes no es el que más tiempo toma.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Caminar es lo más usado (38 %), pero su tiempo promedio (22 minutos) es menor que el del bus escolar (35 minutos), que es el más lento."
+      },
+      {
+        "label": "D",
+        "text": "a mayor porcentaje de estudiantes en un medio, mayor es su tiempo promedio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una relación entre dos columnas que los datos no muestran.",
+        "explanation_feedback": "Incorrecta. No hay tal patrón: caminar tiene el mayor porcentaje y no el mayor tiempo, y la moto tiene 18 % con el menor tiempo."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "05c27326-3d39-5142-a182-61271604a2ba",
+    "subject": "LC",
+    "evidence_code": "LC.E3.2",
+    "component_code": "LC.TXT.DISC",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.4,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Desplazamiento al colegio",
+      "text": null,
+      "svg": null,
+      "table": {
+        "caption": "Desplazamiento diario al colegio de los estudiantes de grado 11 de un municipio, según el medio de transporte (datos ficticios)",
+        "headers": [
+          "Medio de transporte",
+          "Estudiantes (%)",
+          "Tiempo promedio (minutos)"
+        ],
+        "rows": [
+          [
+            "A pie",
+            38,
+            22
+          ],
+          [
+            "Bicicleta",
+            12,
+            15
+          ],
+          [
+            "Bus escolar",
+            27,
+            35
+          ],
+          [
+            "Moto (como pasajero)",
+            18,
+            12
+          ],
+          [
+            "Otro",
+            5,
+            28
+          ]
+        ]
+      }
+    },
+    "stem": "Un concejal afirma: «Ampliar el servicio de bus escolar reduciría el tiempo de desplazamiento de los estudiantes». A partir de la tabla, esa afirmación",
+    "options": [
+      {
+        "label": "A",
+        "text": "se confirma, porque el bus escolar lo usa más de la cuarta parte de los estudiantes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa un dato verdadero (27 %) que no tiene relación con el tiempo de desplazamiento.",
+        "explanation_feedback": "Incorrecta. Que el 27 % use el bus no dice nada sobre si ampliarlo reduciría tiempos."
+      },
+      {
+        "label": "B",
+        "text": "no puede sostenerse solo con la tabla: hoy el bus tiene el mayor tiempo promedio y no se sabe cuánto recorre cada grupo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La tabla no apoya la afirmación (el bus es hoy el medio más lento) y tampoco permite concluir lo contrario con seguridad, porque no informa distancias. Por eso no basta para sostenerla."
+      },
+      {
+        "label": "C",
+        "text": "se confirma, porque quienes caminan tardan más que quienes van en bus.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee al revés los tiempos de la tabla.",
+        "explanation_feedback": "Incorrecta. Quienes caminan tardan 22 minutos en promedio y quienes van en bus, 35."
+      },
+      {
+        "label": "D",
+        "text": "queda refutada por completo, porque prueba que el bus siempre es más lento que caminar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza un promedio a todos los casos («siempre») y toma una asociación como prueba.",
+        "explanation_feedback": "Incorrecta. Un promedio no dice que el bus sea «siempre» más lento; quienes usan bus podrían vivir más lejos."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "3b2303d6-7f96-577c-b73d-fd529f640d2e",
+    "subject": "LC",
+    "evidence_code": "LC.E3.3",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Porciones iguales",
+      "text": "Se suele decir que una decisión es justa cuando trata a todos por igual. Pero imaginemos un comedor escolar que sirve exactamente la misma porción a cada estudiante: al niño que no desayunó y al que ya comió dos veces. La igualdad de la porción no elimina la desigualdad del hambre; apenas la vuelve invisible. Quizá la justicia no consista en repartir lo mismo, sino en atender a lo que cada quien necesita para participar en condiciones parecidas.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "En el texto, la expresión «apenas la vuelve invisible» expresa la valoración de que el reparto idéntico",
+    "options": [
+      {
+        "label": "A",
+        "text": "hace que el hambre desaparezca para quienes no desayunaron.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma «invisible» como «inexistente».",
+        "explanation_feedback": "Incorrecta. Que algo se vuelva invisible no significa que desaparezca; el autor dice que la desigualdad sigue ahí, aunque no se note."
+      },
+      {
+        "label": "B",
+        "text": "logra que todos los estudiantes terminen igual de satisfechos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone que porciones iguales producen resultados iguales, justo lo que el texto cuestiona.",
+        "explanation_feedback": "Incorrecta. El ejemplo muestra lo contrario: con la misma porción, quien no desayunó sigue con más hambre."
+      },
+      {
+        "label": "C",
+        "text": "es la forma más justa de repartir, porque nadie recibe más que otro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Repite la opinión inicial que el autor presenta para luego discutirla.",
+        "explanation_feedback": "Incorrecta. Esa es la idea común con la que abre el texto («Se suele decir…»), y el autor la pone en duda."
+      },
+      {
+        "label": "D",
+        "text": "oculta una diferencia real entre los estudiantes en lugar de corregirla.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Con «apenas», el autor valora negativamente el reparto idéntico: no elimina la desigualdad del hambre, solo impide verla."
+      }
+    ],
+    "estimated_time_seconds": 60
+  }
+]

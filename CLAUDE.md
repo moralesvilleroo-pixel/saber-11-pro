@@ -21,12 +21,15 @@ packages/core/   @icfes/core: logica pura compartida (sin APIs de Node ni del na
   src/scoring/          Puntaje Global ICFES, estimador TRI 3PL
   src/spaced-repetition FSRS-6 (21 parametros, DSR)
   src/planner/          Planificador adaptativo 40/40/20
+  src/item-bank/        Validador de lotes del Prompt 5 (itemSchema.ts)
   src/schemas.ts        Esquemas Zod compartidos
+banco/lotes/       Lotes JSON de preguntas originales (fuente de verdad del banco)
 supabase/
   migrations/      Fuente de verdad del esquema Postgres (RLS, RPC)
   sqlite/          Espejo offline local_schema.sql (desktop y mobile)
   tests/           Pruebas SQL de RLS y RPC (scripts/test-db.sh)
   seed.sql         GENERADO desde docs/MBE_TAXONOMIA.json; no editar a mano
+  questions/       GENERADO desde banco/lotes/ con scripts/build-questions-sql.mjs
 docs/              PRD, estado, taxonomia MBE
 scripts/           generate-seed.mjs, test-db.sh
 ```
@@ -41,6 +44,7 @@ pnpm typecheck                     # tsc --noEmit en todos los paquetes
 pnpm lint
 pnpm --filter @icfes/core test     # solo el nucleo
 node scripts/generate-seed.mjs     # regenera supabase/seed.sql
+node scripts/build-questions-sql.mjs  # valida banco/lotes y genera supabase/questions (requiere build de core)
 PGHOST=... PGUSER=postgres scripts/test-db.sh   # migraciones + pruebas RLS en Postgres local
 ```
 
