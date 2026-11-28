@@ -2,6 +2,24 @@
 
 Registro vivo. Actualizar al cierre de cada Pull Request.
 
+## Banco de 1000 preguntas - Lote de Matemáticas (2026-11-28)
+
+### Hecho
+- 173 preguntas originales de Matemáticas en `banco/lotes/2026-11-lote-019` a `-023`:
+  álgebra 27, estadística y probabilidad 39, geometría 33, funciones 29 y situaciones cotidianas 45
+  (recibos, cuotas, cambio de moneda, horarios, etiquetas, votaciones, planos).
+  Por competencia: interpretación 58 (34 %), formulación 72 (42 %), argumentación 43 (25 %).
+  Por dificultad: bajo 39, medio 77, alto 57. Componente: ALG 54, EST 39, GEO 34, contexto genérico 46.
+- Cada cálculo se verificó con `assert` en el generador (fuera del repo) antes de escribir el JSON.
+- Las gráficas son SVG inline de menos de 4 KB con `<title>` y `aria-label`.
+- Banco total: 767 preguntas (IN 226, MA 183, CN 181, SC 167, LC 10).
+
+### Decisiones
+- Los datos de población, desempleo y votaciones son ficticios y lo dicen en el contexto.
+
+### Siguiente paso
+Lectura Crítica (~200) para llegar a unas 1000.
+
 ## Banco de 1000 preguntas - Lote de Ciencias Naturales (2026-11-28)
 
 ### Hecho

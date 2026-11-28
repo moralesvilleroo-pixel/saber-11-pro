@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "6046c484-43e8-5d87-8991-be3716562bfb",
+    "subject": "MA",
+    "evidence_code": "MA.E1.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un tanque que se vacía",
+      "text": "La gráfica muestra los litros de agua que quedan en un tanque desde que se abre la llave de desagüe. El agua sale a ritmo constante.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 175\" role=\"img\" aria-label=\"Litros en el tanque según los minutos\"><title>Litros en el tanque según los minutos</title><line x1=\"30\" y1=\"150\" x2=\"250\" y2=\"150\" stroke=\"#333\"/><line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"150\" stroke=\"#333\"/><polyline points=\"30,30.0 240,150.0\" fill=\"none\" stroke=\"#2a7bd0\" stroke-width=\"2\"/><text x=\"30\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">0</text><text x=\"100\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">5</text><text x=\"170\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">10</text><text x=\"240\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">15</text><text x=\"24\" y=\"154.0\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"24\" y=\"114.0\" font-size=\"10\" text-anchor=\"end\">200</text><text x=\"24\" y=\"74.0\" font-size=\"10\" text-anchor=\"end\">400</text><text x=\"24\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\">600</text><text x=\"245\" y=\"145\" font-size=\"10\" text-anchor=\"end\">minutos</text><text x=\"34\" y=\"18\" font-size=\"10\">litros</text></svg>",
+      "table": null
+    },
+    "stem": "¿Cuántos litros tenía el tanque al abrir la llave?",
+    "options": [
+      {
+        "label": "A",
+        "text": "400 litros",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee el valor a los 5 minutos.",
+        "explanation_feedback": "Incorrecta. A los 5 minutos quedan 400 L."
+      },
+      {
+        "label": "B",
+        "text": "0 litros",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee el punto final.",
+        "explanation_feedback": "Incorrecta. Al final el tanque queda vacío; al inicio tenía 600 L."
+      },
+      {
+        "label": "C",
+        "text": "15 litros",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee el eje horizontal.",
+        "explanation_feedback": "Incorrecta. 15 son los minutos que tarda en vaciarse."
+      },
+      {
+        "label": "D",
+        "text": "600 litros",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es el valor de la gráfica cuando el tiempo es 0."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "2022bae9-5eb7-5598-9ddc-df44789d6b7e",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un tanque que se vacía",
+      "text": "La gráfica muestra los litros de agua que quedan en un tanque desde que se abre la llave de desagüe. El agua sale a ritmo constante.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 175\" role=\"img\" aria-label=\"Litros en el tanque según los minutos\"><title>Litros en el tanque según los minutos</title><line x1=\"30\" y1=\"150\" x2=\"250\" y2=\"150\" stroke=\"#333\"/><line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"150\" stroke=\"#333\"/><polyline points=\"30,30.0 240,150.0\" fill=\"none\" stroke=\"#2a7bd0\" stroke-width=\"2\"/><text x=\"30\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">0</text><text x=\"100\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">5</text><text x=\"170\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">10</text><text x=\"240\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">15</text><text x=\"24\" y=\"154.0\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"24\" y=\"114.0\" font-size=\"10\" text-anchor=\"end\">200</text><text x=\"24\" y=\"74.0\" font-size=\"10\" text-anchor=\"end\">400</text><text x=\"24\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\">600</text><text x=\"245\" y=\"145\" font-size=\"10\" text-anchor=\"end\">minutos</text><text x=\"34\" y=\"18\" font-size=\"10\">litros</text></svg>",
+      "table": null
+    },
+    "stem": "¿Cuántos litros salen del tanque por minuto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "600 litros",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el total con el ritmo.",
+        "explanation_feedback": "Incorrecta. 600 L salen en 15 minutos, no en uno."
+      },
+      {
+        "label": "B",
+        "text": "60 litros",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide 600 entre 10.",
+        "explanation_feedback": "Incorrecta. El tanque se vacía en 15 minutos."
+      },
+      {
+        "label": "C",
+        "text": "15 litros",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el tiempo total como ritmo.",
+        "explanation_feedback": "Incorrecta. 15 son minutos, no litros por minuto."
+      },
+      {
+        "label": "D",
+        "text": "40 litros",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sale 600 L en 15 minutos: 600 ÷ 15 = 40."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "b7d45744-b801-5d86-84a6-69e1ec9611b5",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un tanque que se vacía",
+      "text": "La gráfica muestra los litros de agua que quedan en un tanque desde que se abre la llave de desagüe. El agua sale a ritmo constante.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 175\" role=\"img\" aria-label=\"Litros en el tanque según los minutos\"><title>Litros en el tanque según los minutos</title><line x1=\"30\" y1=\"150\" x2=\"250\" y2=\"150\" stroke=\"#333\"/><line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"150\" stroke=\"#333\"/><polyline points=\"30,30.0 240,150.0\" fill=\"none\" stroke=\"#2a7bd0\" stroke-width=\"2\"/><text x=\"30\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">0</text><text x=\"100\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">5</text><text x=\"170\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">10</text><text x=\"240\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">15</text><text x=\"24\" y=\"154.0\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"24\" y=\"114.0\" font-size=\"10\" text-anchor=\"end\">200</text><text x=\"24\" y=\"74.0\" font-size=\"10\" text-anchor=\"end\">400</text><text x=\"24\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\">600</text><text x=\"245\" y=\"145\" font-size=\"10\" text-anchor=\"end\">minutos</text><text x=\"34\" y=\"18\" font-size=\"10\">litros</text></svg>",
+      "table": null
+    },
+    "stem": "¿Qué expresión da los litros L que quedan después de t minutos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "L = 600 − 40t",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Empieza con 600 y pierde 40 L cada minuto."
+      },
+      {
+        "label": "B",
+        "text": "L = 40 − 600t",
+        "is_correct": false,
+        "distractor_diagnosis": "Intercambia los valores.",
+        "explanation_feedback": "Incorrecta. El valor inicial es 600 y el ritmo 40."
+      },
+      {
+        "label": "C",
+        "text": "L = 15t − 600",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el tiempo total como pendiente.",
+        "explanation_feedback": "Incorrecta. La pendiente es −40 L por minuto."
+      },
+      {
+        "label": "D",
+        "text": "L = 600 + 40t",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma en lugar de restar.",
+        "explanation_feedback": "Incorrecta. El tanque se está vaciando."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "9e90b2f3-cb58-5515-b522-205287393cc2",
+    "subject": "MA",
+    "evidence_code": "MA.E3.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Un tanque que se vacía",
+      "text": "La gráfica muestra los litros de agua que quedan en un tanque desde que se abre la llave de desagüe. El agua sale a ritmo constante.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 175\" role=\"img\" aria-label=\"Litros en el tanque según los minutos\"><title>Litros en el tanque según los minutos</title><line x1=\"30\" y1=\"150\" x2=\"250\" y2=\"150\" stroke=\"#333\"/><line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"150\" stroke=\"#333\"/><polyline points=\"30,30.0 240,150.0\" fill=\"none\" stroke=\"#2a7bd0\" stroke-width=\"2\"/><text x=\"30\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">0</text><text x=\"100\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">5</text><text x=\"170\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">10</text><text x=\"240\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">15</text><text x=\"24\" y=\"154.0\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"24\" y=\"114.0\" font-size=\"10\" text-anchor=\"end\">200</text><text x=\"24\" y=\"74.0\" font-size=\"10\" text-anchor=\"end\">400</text><text x=\"24\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\">600</text><text x=\"245\" y=\"145\" font-size=\"10\" text-anchor=\"end\">minutos</text><text x=\"34\" y=\"18\" font-size=\"10\">litros</text></svg>",
+      "table": null
+    },
+    "stem": "Alguien dice que a los 7,5 minutos quedan 300 L, «la mitad, porque es la mitad del tiempo». ¿Es válido su razonamiento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No, porque a los 7,5 min quedan 450 L.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula mal la función.",
+        "explanation_feedback": "Incorrecta. 600 − 40 × 7,5 = 300."
+      },
+      {
+        "label": "B",
+        "text": "No, porque el agua sale más rápido al inicio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el dato de ritmo constante.",
+        "explanation_feedback": "Incorrecta. El texto dice que el ritmo es constante."
+      },
+      {
+        "label": "C",
+        "text": "Sí: con ritmo constante sale la mitad del agua.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 600 − 40 × 7,5 = 300: la relación es lineal."
+      },
+      {
+        "label": "D",
+        "text": "Sí, pero solo porque 7,5 es un número decimal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da una razón sin relación.",
+        "explanation_feedback": "Incorrecta. La razón es que la función es lineal."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "02fed271-1d54-50a7-9ac9-446eb7f64e84",
+    "subject": "MA",
+    "evidence_code": "MA.E1.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Dos formas de ahorrar",
+      "text": "Ana empieza con $10.000 en su alcancía y cada semana agrega $5.000. Beto empieza con $1.000 y cada semana duplica lo que tiene.",
+      "svg": null,
+      "table": {
+        "caption": "Dinero ahorrado (en pesos) al final de cada semana",
+        "headers": [
+          "Semana",
+          "Ana",
+          "Beto"
+        ],
+        "rows": [
+          [
+            0,
+            10000,
+            1000
+          ],
+          [
+            1,
+            15000,
+            2000
+          ],
+          [
+            2,
+            20000,
+            4000
+          ],
+          [
+            3,
+            25000,
+            8000
+          ],
+          [
+            4,
+            30000,
+            16000
+          ]
+        ]
+      }
+    },
+    "stem": "¿Cuánto dinero tiene Beto al final de la semana 3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$25.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la columna de Ana.",
+        "explanation_feedback": "Incorrecta. 25.000 es lo que tiene Ana."
+      },
+      {
+        "label": "B",
+        "text": "$8.000",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Se lee en la fila de la semana 3."
+      },
+      {
+        "label": "C",
+        "text": "$6.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma 2.000 por semana.",
+        "explanation_feedback": "Incorrecta. Beto duplica, no suma una cantidad fija."
+      },
+      {
+        "label": "D",
+        "text": "$16.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la fila siguiente.",
+        "explanation_feedback": "Incorrecta. 16.000 corresponde a la semana 4."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "3c207a05-0407-5fdd-8346-4ed31c356584",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Dos formas de ahorrar",
+      "text": "Ana empieza con $10.000 en su alcancía y cada semana agrega $5.000. Beto empieza con $1.000 y cada semana duplica lo que tiene.",
+      "svg": null,
+      "table": {
+        "caption": "Dinero ahorrado (en pesos) al final de cada semana",
+        "headers": [
+          "Semana",
+          "Ana",
+          "Beto"
+        ],
+        "rows": [
+          [
+            0,
+            10000,
+            1000
+          ],
+          [
+            1,
+            15000,
+            2000
+          ],
+          [
+            2,
+            20000,
+            4000
+          ],
+          [
+            3,
+            25000,
+            8000
+          ],
+          [
+            4,
+            30000,
+            16000
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué expresión da el dinero de Beto en la semana n?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.000 + 2n",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma en lugar de multiplicar.",
+        "explanation_feedback": "Incorrecta. Duplicar es multiplicar por 2."
+      },
+      {
+        "label": "B",
+        "text": "1.000 × n²",
+        "is_correct": false,
+        "distractor_diagnosis": "Eleva n al cuadrado.",
+        "explanation_feedback": "Incorrecta. En la semana 3 daría 9.000, no 8.000."
+      },
+      {
+        "label": "C",
+        "text": "2.000n",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una relación lineal.",
+        "explanation_feedback": "Incorrecta. En la semana 0 daría 0, no 1.000."
+      },
+      {
+        "label": "D",
+        "text": "1.000 × 2ⁿ",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Empieza en 1.000 y se multiplica por 2 cada semana."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "71da37ad-70d1-59d0-ab4d-6e493362234b",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Dos formas de ahorrar",
+      "text": "Ana empieza con $10.000 en su alcancía y cada semana agrega $5.000. Beto empieza con $1.000 y cada semana duplica lo que tiene.",
+      "svg": null,
+      "table": {
+        "caption": "Dinero ahorrado (en pesos) al final de cada semana",
+        "headers": [
+          "Semana",
+          "Ana",
+          "Beto"
+        ],
+        "rows": [
+          [
+            0,
+            10000,
+            1000
+          ],
+          [
+            1,
+            15000,
+            2000
+          ],
+          [
+            2,
+            20000,
+            4000
+          ],
+          [
+            3,
+            25000,
+            8000
+          ],
+          [
+            4,
+            30000,
+            16000
+          ]
+        ]
+      }
+    },
+    "stem": "¿En qué semana Beto tendrá por primera vez más dinero que Ana?",
+    "options": [
+      {
+        "label": "A",
+        "text": "En la semana 6.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Semana 5: Ana 35.000 y Beto 32.000. Semana 6: Ana 40.000 y Beto 64.000."
+      },
+      {
+        "label": "B",
+        "text": "En la semana 5.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula mal la semana 5.",
+        "explanation_feedback": "Incorrecta. En la semana 5 Beto tiene 32.000 y Ana 35.000."
+      },
+      {
+        "label": "C",
+        "text": "Nunca, porque Ana empezó con más.",
+        "is_correct": false,
+        "distractor_diagnosis": "Cree que la ventaja inicial se mantiene.",
+        "explanation_feedback": "Incorrecta. El crecimiento exponencial termina superando al lineal."
+      },
+      {
+        "label": "D",
+        "text": "En la semana 4.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal la tabla.",
+        "explanation_feedback": "Incorrecta. En la semana 4 Ana tiene 30.000 y Beto 16.000."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "21ab5e76-caac-58f1-9fad-c00b5459c595",
+    "subject": "MA",
+    "evidence_code": "MA.E3.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Dos formas de ahorrar",
+      "text": "Ana empieza con $10.000 en su alcancía y cada semana agrega $5.000. Beto empieza con $1.000 y cada semana duplica lo que tiene.",
+      "svg": null,
+      "table": {
+        "caption": "Dinero ahorrado (en pesos) al final de cada semana",
+        "headers": [
+          "Semana",
+          "Ana",
+          "Beto"
+        ],
+        "rows": [
+          [
+            0,
+            10000,
+            1000
+          ],
+          [
+            1,
+            15000,
+            2000
+          ],
+          [
+            2,
+            20000,
+            4000
+          ],
+          [
+            3,
+            25000,
+            8000
+          ],
+          [
+            4,
+            30000,
+            16000
+          ]
+        ]
+      }
+    },
+    "stem": "Ana afirma: «Como en las primeras semanas yo tengo más, mi forma de ahorrar es siempre mejor». ¿Qué responde mejor?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Es cierto, porque $5.000 es más que $1.000.",
+        "is_correct": false,
+        "distractor_diagnosis": "Compara solo cantidades iniciales.",
+        "explanation_feedback": "Incorrecta. Hay que mirar cómo cambia cada ahorro."
+      },
+      {
+        "label": "B",
+        "text": "Es cierto, porque la tabla lo muestra.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza a partir de pocos datos.",
+        "explanation_feedback": "Incorrecta. La tabla solo llega a la semana 4."
+      },
+      {
+        "label": "C",
+        "text": "Es falso: desde la semana 6 Beto tiene más y la diferencia crece.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Duplicar hace que el ahorro crezca cada vez más rápido."
+      },
+      {
+        "label": "D",
+        "text": "Es falso, porque Beto siempre tuvo más.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal la tabla.",
+        "explanation_feedback": "Incorrecta. Al inicio Ana tiene más."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "d2c1d6ae-89a3-5843-bc58-54342cbcef3e",
+    "subject": "MA",
+    "evidence_code": "MA.E1.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Cuadrados con palillos",
+      "text": "Con palillos se arma una fila de cuadrados pegados. Con 1 cuadrado se usan 4 palillos, con 2 cuadrados 7 palillos y con 3 cuadrados 10 palillos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuántos palillos se necesitan para 4 cuadrados?",
+    "options": [
+      {
+        "label": "A",
+        "text": "12",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica 4 × 3.",
+        "explanation_feedback": "Incorrecta. Falta el palillo inicial."
+      },
+      {
+        "label": "B",
+        "text": "16",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa 4 palillos por cuadrado.",
+        "explanation_feedback": "Incorrecta. Los cuadrados comparten un lado."
+      },
+      {
+        "label": "C",
+        "text": "14",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma 4 al anterior.",
+        "explanation_feedback": "Incorrecta. Cada cuadrado nuevo usa 3 palillos, no 4."
+      },
+      {
+        "label": "D",
+        "text": "13",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada cuadrado nuevo agrega 3 palillos: 10 + 3 = 13."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "598faafd-a7ac-5610-8532-e8db89918db1",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Cuadrados con palillos",
+      "text": "Con palillos se arma una fila de cuadrados pegados. Con 1 cuadrado se usan 4 palillos, con 2 cuadrados 7 palillos y con 3 cuadrados 10 palillos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué expresión da el número de palillos P para n cuadrados?",
+    "options": [
+      {
+        "label": "A",
+        "text": "P = 3n + 1",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Un palillo inicial y 3 más por cada cuadrado."
+      },
+      {
+        "label": "B",
+        "text": "P = 4n",
+        "is_correct": false,
+        "distractor_diagnosis": "No tiene en cuenta los lados compartidos.",
+        "explanation_feedback": "Incorrecta. Con 2 cuadrados daría 8, no 7."
+      },
+      {
+        "label": "C",
+        "text": "P = 3n",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida el palillo inicial.",
+        "explanation_feedback": "Incorrecta. Con 1 cuadrado daría 3, no 4."
+      },
+      {
+        "label": "D",
+        "text": "P = n + 3",
+        "is_correct": false,
+        "distractor_diagnosis": "Intercambia los coeficientes.",
+        "explanation_feedback": "Incorrecta. Con 2 cuadrados daría 5, no 7."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "39ffdd4c-79e3-50ec-8c7e-536ad9af47c2",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Cuadrados con palillos",
+      "text": "Con palillos se arma una fila de cuadrados pegados. Con 1 cuadrado se usan 4 palillos, con 2 cuadrados 7 palillos y con 3 cuadrados 10 palillos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuántos palillos se necesitan para 20 cuadrados?",
+    "options": [
+      {
+        "label": "A",
+        "text": "80",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa 4 palillos por cuadrado.",
+        "explanation_feedback": "Incorrecta. Los lados compartidos se cuentan una vez."
+      },
+      {
+        "label": "B",
+        "text": "61",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 3 × 20 + 1 = 61."
+      },
+      {
+        "label": "C",
+        "text": "63",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma 3 al final.",
+        "explanation_feedback": "Incorrecta. La expresión es 3n + 1."
+      },
+      {
+        "label": "D",
+        "text": "60",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida el palillo inicial.",
+        "explanation_feedback": "Incorrecta. 3 × 20 + 1 = 61."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "f3d6018f-b152-5401-9614-655314542bf3",
+    "subject": "MA",
+    "evidence_code": "MA.E3.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Cuadrados con palillos",
+      "text": "Con palillos se arma una fila de cuadrados pegados. Con 1 cuadrado se usan 4 palillos, con 2 cuadrados 7 palillos y con 3 cuadrados 10 palillos.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un estudiante dice que con exactamente 100 palillos se puede armar una fila completa de cuadrados. ¿Tiene razón?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sí, con 33 cuadrados, porque 3 × 33 + 1 = 100.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Hay que resolver 3n + 1 = 100 y ver si n es entero."
+      },
+      {
+        "label": "B",
+        "text": "No, porque 100 no es múltiplo de 4.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa la regla de 4 palillos por cuadrado.",
+        "explanation_feedback": "Incorrecta. La regla es 3n + 1."
+      },
+      {
+        "label": "C",
+        "text": "No, porque 100 no es múltiplo de 3.",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida el palillo inicial.",
+        "explanation_feedback": "Incorrecta. 100 − 1 = 99 sí es múltiplo de 3."
+      },
+      {
+        "label": "D",
+        "text": "Sí, con 25 cuadrados.",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide 100 entre 4.",
+        "explanation_feedback": "Incorrecta. Con 25 cuadrados se usan 76 palillos."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "0db4dd05-e9bc-5cb0-93d2-3e9942ab8b65",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un balón lanzado hacia arriba",
+      "text": "Se lanza un balón hacia arriba desde el suelo. Su altura, en metros, después de t segundos es h(t) = −5t² + 20t.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿A qué altura está el balón después de 1 segundo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20 m",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa solo el término 20t.",
+        "explanation_feedback": "Incorrecta. Falta restar 5t²."
+      },
+      {
+        "label": "B",
+        "text": "−15 m",
+        "is_correct": false,
+        "distractor_diagnosis": "Cambia el signo del resultado.",
+        "explanation_feedback": "Incorrecta. −5 + 20 = 15, positivo."
+      },
+      {
+        "label": "C",
+        "text": "15 m",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. h(1) = −5 + 20 = 15."
+      },
+      {
+        "label": "D",
+        "text": "25 m",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma los términos en valor absoluto.",
+        "explanation_feedback": "Incorrecta. El primer término es negativo."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "42c418de-2b3f-51b3-9795-25350ad9f59f",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un balón lanzado hacia arriba",
+      "text": "Se lanza un balón hacia arriba desde el suelo. Su altura, en metros, después de t segundos es h(t) = −5t² + 20t.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es la altura máxima que alcanza el balón?",
+    "options": [
+      {
+        "label": "A",
+        "text": "40 m, a los 2 segundos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula mal h(2).",
+        "explanation_feedback": "Incorrecta. h(2) = −20 + 40 = 20."
+      },
+      {
+        "label": "B",
+        "text": "20 m, a los 2 segundos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El vértice está en t = −20 ÷ (2 × −5) = 2, y h(2) = 20."
+      },
+      {
+        "label": "C",
+        "text": "15 m, al primer segundo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma un punto cualquiera.",
+        "explanation_feedback": "Incorrecta. h(2) = 20 es mayor que h(1)."
+      },
+      {
+        "label": "D",
+        "text": "4 m, a los 4 segundos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el tiempo de caída con la altura.",
+        "explanation_feedback": "Incorrecta. A los 4 s el balón vuelve al suelo."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "ed0a1763-475f-5228-8e99-4cafa6ec7473",
+    "subject": "MA",
+    "evidence_code": "MA.E3.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un balón lanzado hacia arriba",
+      "text": "Se lanza un balón hacia arriba desde el suelo. Su altura, en metros, después de t segundos es h(t) = −5t² + 20t.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un estudiante dice: «Como h(1) = h(3), el balón está quieto entre 1 y 3 segundos». ¿Qué está mal en su interpretación?",
+    "options": [
+      {
+        "label": "A",
+        "text": "El balón está quieto solo a los 4 s.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde quedarse quieto con llegar al suelo.",
+        "explanation_feedback": "Incorrecta. La pregunta es sobre lo que pasa entre 1 y 3 s."
+      },
+      {
+        "label": "B",
+        "text": "Sube hasta los 2 s y luego baja: pasa dos veces por 15 m.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La parábola es simétrica respecto a t = 2."
+      },
+      {
+        "label": "C",
+        "text": "Que h(1) y h(3) en realidad no son iguales.",
+        "is_correct": false,
+        "distractor_diagnosis": "Niega un hecho verificable.",
+        "explanation_feedback": "Incorrecta. h(1) = h(3) = 15."
+      },
+      {
+        "label": "D",
+        "text": "Nada, el balón se detiene en el aire.",
+        "is_correct": false,
+        "distractor_diagnosis": "Acepta la interpretación.",
+        "explanation_feedback": "Incorrecta. La altura cambia entre 1 y 3 segundos."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "8840defa-2d50-586d-aa68-beb3117ab2fe",
+    "subject": "MA",
+    "evidence_code": "MA.E1.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un balón lanzado hacia arriba",
+      "text": "Se lanza un balón hacia arriba desde el suelo. Su altura, en metros, después de t segundos es h(t) = −5t² + 20t.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánto tiempo pasa el balón en el aire?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4 segundos",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. h(t) = 0 cuando −5t(t − 4) = 0: t = 0 o t = 4."
+      },
+      {
+        "label": "B",
+        "text": "20 segundos",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el coeficiente 20.",
+        "explanation_feedback": "Incorrecta. Hay que resolver h(t) = 0."
+      },
+      {
+        "label": "C",
+        "text": "2 segundos",
+        "is_correct": false,
+        "distractor_diagnosis": "Da el tiempo de subida.",
+        "explanation_feedback": "Incorrecta. Tarda 2 s en subir y 2 s en bajar."
+      },
+      {
+        "label": "D",
+        "text": "5 segundos",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa el coeficiente 5.",
+        "explanation_feedback": "Incorrecta. La solución de −5t² + 20t = 0 es t = 4."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "d4730f9e-0a7e-5721-8190-b53dad7c9b0c",
+    "subject": "MA",
+    "evidence_code": "MA.E2.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Presupuesto para una salida",
+      "text": "Un grupo tiene $80.000 para una salida. El transporte cuesta $20.000 en total y cada entrada al museo cuesta $7.500.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué desigualdad permite hallar cuántas entradas x pueden comprar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "7.500x ≥ 80.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido y olvida el transporte.",
+        "explanation_feedback": "Incorrecta. El gasto debe ser menor o igual al presupuesto."
+      },
+      {
+        "label": "B",
+        "text": "20.000x + 7.500 ≤ 80.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Intercambia el costo fijo con el unitario.",
+        "explanation_feedback": "Incorrecta. El transporte se paga una vez; las entradas, por persona."
+      },
+      {
+        "label": "C",
+        "text": "80.000 + 7.500x ≤ 20.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Ubica mal los datos.",
+        "explanation_feedback": "Incorrecta. El presupuesto va al lado derecho."
+      },
+      {
+        "label": "D",
+        "text": "20.000 + 7.500x ≤ 80.000",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El gasto total no puede superar el presupuesto."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "b36e0acd-bba7-5e18-9926-3b8f0d866bf4",
+    "subject": "MA",
+    "evidence_code": "MA.E2.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Presupuesto para una salida",
+      "text": "Un grupo tiene $80.000 para una salida. El transporte cuesta $20.000 en total y cada entrada al museo cuesta $7.500.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál es el mayor número de entradas que pueden comprar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "8",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 7.500x ≤ 60.000, entonces x ≤ 8."
+      },
+      {
+        "label": "B",
+        "text": "7",
+        "is_correct": false,
+        "distractor_diagnosis": "Comete un error al dividir.",
+        "explanation_feedback": "Incorrecta. 60.000 ÷ 7.500 = 8 exacto."
+      },
+      {
+        "label": "C",
+        "text": "10",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida el transporte.",
+        "explanation_feedback": "Incorrecta. 80.000 ÷ 7.500 ≈ 10,7, pero primero hay que pagar el transporte."
+      },
+      {
+        "label": "D",
+        "text": "11",
+        "is_correct": false,
+        "distractor_diagnosis": "Redondea hacia arriba sin restar el transporte.",
+        "explanation_feedback": "Incorrecta. No pueden pasarse del presupuesto."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "94ecb71f-54bd-5dc4-ba17-ec8076876ba0",
+    "subject": "MA",
+    "evidence_code": "MA.E1.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Viaje por carretera",
+      "text": "Un viaje entre dos ciudades dura 3 horas si se va a 60 km/h de rapidez media.",
+      "svg": null,
+      "table": {
+        "caption": "Tiempo del viaje según la rapidez media",
+        "headers": [
+          "Rapidez (km/h)",
+          "Tiempo (h)"
+        ],
+        "rows": [
+          [
+            45,
+            4
+          ],
+          [
+            60,
+            3
+          ],
+          [
+            90,
+            2
+          ],
+          [
+            120,
+            1.5
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué pasa con el tiempo del viaje cuando la rapidez se duplica de 60 a 120 km/h?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Se duplica.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una relación directa.",
+        "explanation_feedback": "Incorrecta. A más rapidez, menos tiempo."
+      },
+      {
+        "label": "B",
+        "text": "Se reduce a la mitad.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Pasa de 3 h a 1,5 h."
+      },
+      {
+        "label": "C",
+        "text": "No cambia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee mal la tabla.",
+        "explanation_feedback": "Incorrecta. El tiempo cambia de 3 a 1,5 horas."
+      },
+      {
+        "label": "D",
+        "text": "Se reduce en 2 horas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta en lugar de dividir.",
+        "explanation_feedback": "Incorrecta. Baja de 3 a 1,5 horas."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "230e5ce3-997a-507f-b501-6c1ecf6126bc",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Viaje por carretera",
+      "text": "Un viaje entre dos ciudades dura 3 horas si se va a 60 km/h de rapidez media.",
+      "svg": null,
+      "table": {
+        "caption": "Tiempo del viaje según la rapidez media",
+        "headers": [
+          "Rapidez (km/h)",
+          "Tiempo (h)"
+        ],
+        "rows": [
+          [
+            45,
+            4
+          ],
+          [
+            60,
+            3
+          ],
+          [
+            90,
+            2
+          ],
+          [
+            120,
+            1.5
+          ]
+        ]
+      }
+    },
+    "stem": "¿Qué expresión relaciona el tiempo t con la rapidez v?",
+    "options": [
+      {
+        "label": "A",
+        "text": "t = 180 / v",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La distancia es 60 × 3 = 180 km y t = distancia ÷ rapidez."
+      },
+      {
+        "label": "B",
+        "text": "t = 180v",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una relación directa.",
+        "explanation_feedback": "Incorrecta. Con v = 60 daría 10.800 horas."
+      },
+      {
+        "label": "C",
+        "text": "t = v / 20",
+        "is_correct": false,
+        "distractor_diagnosis": "Ajusta solo un dato de la tabla.",
+        "explanation_feedback": "Incorrecta. Con v = 60 da 3, pero con v = 90 daría 4,5."
+      },
+      {
+        "label": "D",
+        "text": "t = 180 − v",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una resta.",
+        "explanation_feedback": "Incorrecta. Con v = 90 daría 90 horas."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "559f8ab4-0951-5278-ac11-8b976e3660ba",
+    "subject": "MA",
+    "evidence_code": "MA.E3.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Viaje por carretera",
+      "text": "Un viaje entre dos ciudades dura 3 horas si se va a 60 km/h de rapidez media.",
+      "svg": null,
+      "table": {
+        "caption": "Tiempo del viaje según la rapidez media",
+        "headers": [
+          "Rapidez (km/h)",
+          "Tiempo (h)"
+        ],
+        "rows": [
+          [
+            45,
+            4
+          ],
+          [
+            60,
+            3
+          ],
+          [
+            90,
+            2
+          ],
+          [
+            120,
+            1.5
+          ]
+        ]
+      }
+    },
+    "stem": "Alguien razona: «De 60 a 45 km/h el viaje dura 1 hora más; entonces de 45 a 30 km/h también durará 1 hora más», y concluye que a 30 km/h el viaje dura 5 horas. ¿Es correcto su procedimiento?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sí, porque el patrón de la tabla se mantiene.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza un patrón aparente.",
+        "explanation_feedback": "Incorrecta. De 90 a 60 km/h el tiempo sube 1 hora con una diferencia de 30 km/h, no de 15."
+      },
+      {
+        "label": "B",
+        "text": "No: la relación es inversa, y a 30 km/h tarda 180 ÷ 30 = 6 h.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En una proporcionalidad inversa los aumentos no son constantes."
+      },
+      {
+        "label": "C",
+        "text": "No: a 30 km/h tarda 4,5 horas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula mal el tiempo.",
+        "explanation_feedback": "Incorrecta. 180 ÷ 30 = 6."
+      },
+      {
+        "label": "D",
+        "text": "No: a 30 km/h tarda 1,5 horas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la fila de 120 km/h.",
+        "explanation_feedback": "Incorrecta. A menor rapidez, mayor tiempo."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "ee6b1c23-ea5e-5136-8331-0f539b33e4a1",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un carro que se deprecia",
+      "text": "Un carro nuevo cuesta $20.000.000. Cada año pierde el 15 % del valor que tenía al comenzar ese año.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuánto valdrá el carro al cabo de 2 años?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$14.000.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta 15 % del valor inicial cada año.",
+        "explanation_feedback": "Incorrecta. El segundo año se descuenta sobre 17.000.000."
+      },
+      {
+        "label": "B",
+        "text": "$17.000.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula solo un año.",
+        "explanation_feedback": "Incorrecta. Son dos años de depreciación."
+      },
+      {
+        "label": "C",
+        "text": "$14.450.000",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 20.000.000 × 0,85 × 0,85 = 14.450.000."
+      },
+      {
+        "label": "D",
+        "text": "$6.000.000",
+        "is_correct": false,
+        "distractor_diagnosis": "Da lo que se perdió como si fuera el valor.",
+        "explanation_feedback": "Incorrecta. 6.000.000 sería la pérdida con el cálculo lineal."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "3587ad69-811e-50aa-b93c-27bd95e0c91f",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un carro que se deprecia",
+      "text": "Un carro nuevo cuesta $20.000.000. Cada año pierde el 15 % del valor que tenía al comenzar ese año.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué expresión da el valor V del carro después de n años?",
+    "options": [
+      {
+        "label": "A",
+        "text": "V = 20.000.000 − 0,15n",
+        "is_correct": false,
+        "distractor_diagnosis": "Resta un porcentaje como si fuera pesos.",
+        "explanation_feedback": "Incorrecta. 0,15 no son pesos; es una fracción del valor."
+      },
+      {
+        "label": "B",
+        "text": "V = 20.000.000 × (1 − 0,15n)",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una depreciación lineal.",
+        "explanation_feedback": "Incorrecta. El 15 % se aplica sobre el valor del año anterior."
+      },
+      {
+        "label": "C",
+        "text": "V = 20.000.000 × 0,85ⁿ",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada año se multiplica por 0,85."
+      },
+      {
+        "label": "D",
+        "text": "V = 20.000.000 × 0,15ⁿ",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica por lo que se pierde.",
+        "explanation_feedback": "Incorrecta. Lo que queda cada año es el 85 %."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "9671341f-fb29-5e64-a319-60e59a733f11",
+    "subject": "MA",
+    "evidence_code": "MA.E3.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un carro que se deprecia",
+      "text": "Un carro nuevo cuesta $20.000.000. Cada año pierde el 15 % del valor que tenía al comenzar ese año.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un vendedor dice: «Como pierde el 15 % cada año, en unos 7 años el carro valdrá $0». ¿Es correcto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No: cada año se multiplica por 0,85 y nunca llega a 0.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 0,85⁷ ≈ 0,32: tras 7 años vale cerca de $6.400.000."
+      },
+      {
+        "label": "B",
+        "text": "No, porque el carro gana valor con los años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el enunciado.",
+        "explanation_feedback": "Incorrecta. El enunciado dice que pierde valor."
+      },
+      {
+        "label": "C",
+        "text": "Sí, porque los carros siempre pierden todo su valor.",
+        "is_correct": false,
+        "distractor_diagnosis": "Usa una creencia sin cálculo.",
+        "explanation_feedback": "Incorrecta. El modelo dado no llega a cero."
+      },
+      {
+        "label": "D",
+        "text": "Sí, porque 7 × 15 % es casi el 100 %.",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma porcentajes que se aplican sobre bases distintas.",
+        "explanation_feedback": "Incorrecta. Cada 15 % se calcula sobre un valor menor."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "9fb5e573-66bf-510c-87b2-baefd8e02a78",
+    "subject": "MA",
+    "evidence_code": "MA.E1.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Paseo en bicicleta",
+      "text": "La gráfica muestra la distancia (km) que recorrió una ciclista desde su casa durante un paseo de 3 horas.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 175\" role=\"img\" aria-label=\"Distancia recorrida en km según las horas\"><title>Distancia recorrida en km según las horas</title><line x1=\"30\" y1=\"150\" x2=\"250\" y2=\"150\" stroke=\"#333\"/><line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"150\" stroke=\"#333\"/><polyline points=\"30,150.0 100,102.0 135.0,102.0 240,30.0\" fill=\"none\" stroke=\"#2a9d5c\" stroke-width=\"2\"/><text x=\"30\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">0</text><text x=\"100\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">1</text><text x=\"135.0\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">1.5</text><text x=\"170\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">2</text><text x=\"240\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">3</text><text x=\"24\" y=\"154.0\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"24\" y=\"106.0\" font-size=\"10\" text-anchor=\"end\">20</text><text x=\"24\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\">50</text><text x=\"250\" y=\"145\" font-size=\"10\" text-anchor=\"end\">horas</text><text x=\"34\" y=\"18\" font-size=\"10\">km</text></svg>",
+      "table": null
+    },
+    "stem": "¿Qué hizo la ciclista entre la hora 1 y la hora 1,5?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Regresó a su casa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Interpreta el tramo plano como regreso.",
+        "explanation_feedback": "Incorrecta. Regresar haría bajar la distancia."
+      },
+      {
+        "label": "B",
+        "text": "Fue más rápido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde horizontal con rápido.",
+        "explanation_feedback": "Incorrecta. Un tramo horizontal indica que no avanzó."
+      },
+      {
+        "label": "C",
+        "text": "Estuvo detenida.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La distancia se mantiene en 20 km: el tramo es horizontal."
+      },
+      {
+        "label": "D",
+        "text": "Recorrió 20 km.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la altura del tramo como lo recorrido en él.",
+        "explanation_feedback": "Incorrecta. Los 20 km los recorrió en la primera hora."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "8fb6aedc-f80a-5300-9d5d-a840070ddaa6",
+    "subject": "MA",
+    "evidence_code": "MA.E1.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Paseo en bicicleta",
+      "text": "La gráfica muestra la distancia (km) que recorrió una ciclista desde su casa durante un paseo de 3 horas.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 175\" role=\"img\" aria-label=\"Distancia recorrida en km según las horas\"><title>Distancia recorrida en km según las horas</title><line x1=\"30\" y1=\"150\" x2=\"250\" y2=\"150\" stroke=\"#333\"/><line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"150\" stroke=\"#333\"/><polyline points=\"30,150.0 100,102.0 135.0,102.0 240,30.0\" fill=\"none\" stroke=\"#2a9d5c\" stroke-width=\"2\"/><text x=\"30\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">0</text><text x=\"100\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">1</text><text x=\"135.0\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">1.5</text><text x=\"170\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">2</text><text x=\"240\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">3</text><text x=\"24\" y=\"154.0\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"24\" y=\"106.0\" font-size=\"10\" text-anchor=\"end\">20</text><text x=\"24\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\">50</text><text x=\"250\" y=\"145\" font-size=\"10\" text-anchor=\"end\">horas</text><text x=\"34\" y=\"18\" font-size=\"10\">km</text></svg>",
+      "table": null
+    },
+    "stem": "¿Cuál fue su rapidez en el último tramo, de la hora 1,5 a la hora 3?",
+    "options": [
+      {
+        "label": "A",
+        "text": "16,7 km/h",
+        "is_correct": false,
+        "distractor_diagnosis": "Divide 50 entre 3.",
+        "explanation_feedback": "Incorrecta. Esa es la rapidez media de todo el paseo."
+      },
+      {
+        "label": "B",
+        "text": "50 km/h",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la distancia final como rapidez.",
+        "explanation_feedback": "Incorrecta. 50 km es la distancia total, no la rapidez."
+      },
+      {
+        "label": "C",
+        "text": "30 km/h",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma la distancia del tramo como rapidez.",
+        "explanation_feedback": "Incorrecta. Hay que dividir entre 1,5 horas."
+      },
+      {
+        "label": "D",
+        "text": "20 km/h",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Avanzó 30 km en 1,5 h: 30 ÷ 1,5 = 20."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "33a5a73e-4e70-5434-9f72-c88001dceffb",
+    "subject": "MA",
+    "evidence_code": "MA.E3.1",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "discontinuous",
+    "context": {
+      "title": "Paseo en bicicleta",
+      "text": "La gráfica muestra la distancia (km) que recorrió una ciclista desde su casa durante un paseo de 3 horas.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 175\" role=\"img\" aria-label=\"Distancia recorrida en km según las horas\"><title>Distancia recorrida en km según las horas</title><line x1=\"30\" y1=\"150\" x2=\"250\" y2=\"150\" stroke=\"#333\"/><line x1=\"30\" y1=\"20\" x2=\"30\" y2=\"150\" stroke=\"#333\"/><polyline points=\"30,150.0 100,102.0 135.0,102.0 240,30.0\" fill=\"none\" stroke=\"#2a9d5c\" stroke-width=\"2\"/><text x=\"30\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">0</text><text x=\"100\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">1</text><text x=\"135.0\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">1.5</text><text x=\"170\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">2</text><text x=\"240\" y=\"165\" font-size=\"10\" text-anchor=\"middle\">3</text><text x=\"24\" y=\"154.0\" font-size=\"10\" text-anchor=\"end\">0</text><text x=\"24\" y=\"106.0\" font-size=\"10\" text-anchor=\"end\">20</text><text x=\"24\" y=\"34.0\" font-size=\"10\" text-anchor=\"end\">50</text><text x=\"250\" y=\"145\" font-size=\"10\" text-anchor=\"end\">horas</text><text x=\"34\" y=\"18\" font-size=\"10\">km</text></svg>",
+      "table": null
+    },
+    "stem": "Su amiga dice: «En el último tramo fue más rápido que en el primero, porque recorrió más kilómetros». ¿Es correcta la razón?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sí, porque la línea del último tramo es más larga.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la longitud del segmento con la inclinación.",
+        "explanation_feedback": "Incorrecta. La rapidez se ve en la inclinación."
+      },
+      {
+        "label": "B",
+        "text": "No: en los dos tramos fue a 20 km/h; recorrió más porque pedaleó más tiempo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Primer tramo: 20 km en 1 h. Último: 30 km en 1,5 h."
+      },
+      {
+        "label": "C",
+        "text": "No, porque en el último tramo fue más lento.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula mal una de las rapideces.",
+        "explanation_feedback": "Incorrecta. Las dos rapideces son 20 km/h."
+      },
+      {
+        "label": "D",
+        "text": "Sí, porque 30 km es más que 20 km.",
+        "is_correct": false,
+        "distractor_diagnosis": "Compara distancias, no rapideces.",
+        "explanation_feedback": "Incorrecta. La rapidez es distancia sobre tiempo."
+      }
+    ],
+    "estimated_time_seconds": 90
+  },
+  {
+    "id": "da180e39-809d-5dd4-8e42-0e56f7d4b10e",
+    "subject": "MA",
+    "evidence_code": "MA.E2.2",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Edades en familia",
+      "text": "La edad de una madre es 4 años más que el triple de la edad de su hijo. Hoy el hijo tiene 12 años.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuántos años tiene la madre?",
+    "options": [
+      {
+        "label": "A",
+        "text": "36",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida sumar 4.",
+        "explanation_feedback": "Incorrecta. Falta sumar los 4 años."
+      },
+      {
+        "label": "B",
+        "text": "48",
+        "is_correct": false,
+        "distractor_diagnosis": "Multiplica 12 × 4.",
+        "explanation_feedback": "Incorrecta. Es el triple más 4, no por 4."
+      },
+      {
+        "label": "C",
+        "text": "19",
+        "is_correct": false,
+        "distractor_diagnosis": "Suma 3 + 4 + 12.",
+        "explanation_feedback": "Incorrecta. Hay que multiplicar 12 por 3."
+      },
+      {
+        "label": "D",
+        "text": "40",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. 3 × 12 + 4 = 40."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "36e16034-0f60-5369-9a5a-2671927bf0c1",
+    "subject": "MA",
+    "evidence_code": "MA.E3.3",
+    "component_code": "MA.CAT.ALG",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Edades en familia",
+      "text": "La edad de una madre es 4 años más que el triple de la edad de su hijo. Hoy el hijo tiene 12 años.",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un estudiante dice que dentro de 10 años la madre tendrá el doble de la edad del hijo. ¿Es cierto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sí, porque tendrán 50 y 22 años.",
+        "is_correct": false,
+        "distractor_diagnosis": "Calcula las edades pero no compara.",
+        "explanation_feedback": "Incorrecta. 50 no es el doble de 22."
+      },
+      {
+        "label": "B",
+        "text": "No, porque la madre siempre tendrá el triple.",
+        "is_correct": false,
+        "distractor_diagnosis": "Cree que la razón entre edades se mantiene.",
+        "explanation_feedback": "Incorrecta. La razón entre edades cambia con el tiempo."
+      },
+      {
+        "label": "C",
+        "text": "No: tendrán 50 y 22 años, y 50 no es el doble de 22.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. En 10 años: madre 50, hijo 22; 2 × 22 = 44 ≠ 50."
+      },
+      {
+        "label": "D",
+        "text": "No, porque nunca tendrá el doble.",
+        "is_correct": false,
+        "distractor_diagnosis": "Generaliza sin calcular.",
+        "explanation_feedback": "Incorrecta. 40 + x = 2(12 + x) da x = 16: dentro de 16 años tendrán 56 y 28."
+      }
+    ],
+    "estimated_time_seconds": 90
+  }
+]
