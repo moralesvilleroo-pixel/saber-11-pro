@@ -1,7 +1,7 @@
 name: Cargar a Supabase
 
 # Se lanza a mano: GitHub > Actions > "Cargar a Supabase" > Run workflow.
-# Requiere el secreto SUPABASE_DB_URL (cadena "Session pooler" de Supabase, con la contrasena).
+# Requiere el secreto SUPABASE_DB_URL o SUPABASE (cadena "Session pooler" de Supabase, con la contrasena).
 on:
   workflow_dispatch:
     inputs:
@@ -32,10 +32,10 @@ jobs:
         run: node scripts/generate-seed.mjs && git diff --exit-code supabase/seed.sql
       - name: Aplicar
         env:
-          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL || secrets.SUPABASE }}
         run: |
           if [ -z "$SUPABASE_DB_URL" ]; then
-            echo "::error::Falta el secreto SUPABASE_DB_URL (Settings > Secrets and variables > Actions)."
+            echo "::error::Falta el secreto SUPABASE_DB_URL o SUPABASE (Settings > Secrets and variables > Actions)."
             exit 1
           fi
           if [ "${{ inputs.modo }}" = "aplicar" ]; then scripts/apply-supabase.sh; else scripts/apply-supabase.sh --dry-run; fi
