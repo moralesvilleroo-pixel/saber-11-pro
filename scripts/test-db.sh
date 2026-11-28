@@ -8,5 +8,7 @@ psql -v ON_ERROR_STOP=1 -q -c "drop database if exists $DB" -c "create database 
 psql -v ON_ERROR_STOP=1 -q -d "$DB" -f supabase/tests/00_supabase_stub.sql
 for f in supabase/migrations/*.sql; do psql -v ON_ERROR_STOP=1 -q -d "$DB" -f "$f"; done
 for f in supabase/seed.sql supabase/seed_festivos_co.sql; do [ -f "$f" ] && psql -v ON_ERROR_STOP=1 -q -d "$DB" -f "$f"; done
+# El banco de preguntas generado debe cargar (dos veces, para comprobar que es idempotente).
+for f in supabase/questions/*.sql; do [ -f "$f" ] && for _ in 1 2; do psql -v ON_ERROR_STOP=1 -q -d "$DB" -f "$f"; done; done
 psql -v ON_ERROR_STOP=1 -q -d "$DB" -f supabase/tests/01_behavior.sql 2>&1 | tee /dev/stderr | grep -q "FALLO" && exit 1
 echo "Pruebas de base de datos: OK"

@@ -4,16 +4,17 @@
     "descripcion": "Taxonomía del Modelo Basado en Evidencias (MBE) del examen Saber 11 usada para etiquetar ítems ORIGINALES. Contiene solo estructura pública (pruebas, competencias, componentes); nunca ítems del Icfes.",
     "fuentes": [
       "Infografías oficiales Icfes 'Prueba Lectura Crítica / Matemáticas / Ciencias Naturales / Sociales y Ciudadanas / Inglés Saber 11' (publicadas el 17 de septiembre)",
+      "Guía de Orientación Saber 11 2026-2 del Icfes (17 de marzo de 2026), Tablas 14-16 (MA), 18-20 (LC), 24-26 (SC), 28-30 (CN) y 32 (IN): https://www.icfes.gov.co/wp-content/uploads/2026/03/17-marzo-guia-de-orientacion-saber-11-2026-2.pdf",
       "Conteos de preguntas y pesos: Guía de Orientación Saber 11 2026 y Resolución Icfes 0268 de 2020, según el plan maestro del proyecto (pendiente cotejar con el PDF oficial)"
     ],
-    "estado": "parcial",
-    "pendiente": "Las infografías no traen afirmaciones ni evidencias. Cada competencia tiene 'affirmations': [] y 'affirmations_status': 'pendiente_guia_oficial'. Se deben completar con el texto de la Guía de Orientación Saber 11 vigente antes de generar ítems con el Prompt 5.",
+    "estado": "completo_parafraseado",
+    "pendiente": "Afirmaciones y evidencias redactadas fielmente a partir de la Guía 2026-2 pero no copiadas palabra por palabra; cotejar con el PDF (páginas 30-65) si se requiere el texto literal. En la guía, la Tabla 31 de Ciencias intercambia los rótulos de 'Uso comprensivo' y 'Explicación de fenómenos'; aquí se sigue la sección 1. Inglés no tiene afirmaciones oficiales (ver IN.A0).",
     "reglas": [
       "Códigos estables: <PRUEBA>.<COMPETENCIA>[.A<n>[.E<n>]]. Nunca reutilizar un código retirado.",
       "Las afirmaciones y evidencias se transcriben de la guía oficial (taxonomía pública); los ítems se redactan 100 % originales.",
       "Este archivo es la fuente de supabase/seed.sql: regenerar con 'node scripts/generate-seed.mjs'."
     ],
-    "actualizado": "2026-11-27"
+    "actualizado": "2026-11-28"
   },
   "exam": {
     "sessions": 2,
@@ -28,105 +29,396 @@
       "code": "LC",
       "name": "Lectura Crítica",
       "weight": 3,
-      "questions": { "session1": 41, "session2": 0, "total": 41 },
+      "questions": {
+        "session1": 41,
+        "session2": 0,
+        "total": 41
+      },
       "scope": "Comprender, interpretar y evaluar textos de la vida cotidiana y de ámbitos académicos no especializados.",
       "competencies": [
         {
           "code": "LC.LOC",
-          "name": "Identificar y entender los contenidos locales que conforman un texto",
-          "plan_alias": "Identificar y ubicar información",
+          "name": "Identificar y ubicar información local",
           "description": "Comprender el significado de palabras, expresiones y frases que aparecen explícitamente en el texto.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "LC.A1",
+              "statement": "Identifica y entiende los contenidos locales que conforman un texto.",
+              "evidences": [
+                {
+                  "code": "LC.E1.1",
+                  "statement": "Entiende el significado de los elementos locales de un texto."
+                },
+                {
+                  "code": "LC.E1.2",
+                  "statement": "Identifica los eventos narrados explícitamente y los personajes involucrados (textos literarios, descriptivos, caricaturas o cómics)."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 25,
+          "infografia_name": "Identificar y entender los contenidos locales que conforman un texto"
         },
         {
           "code": "LC.GLO",
-          "name": "Comprender cómo se articulan las partes de un texto para darle un sentido global",
-          "plan_alias": "Relacionar e interpretar",
+          "name": "Relacionar e interpretar información",
           "description": "Comprender cómo se relacionan formal y semánticamente los elementos locales que constituyen un texto.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "LC.A2",
+              "statement": "Comprende cómo se articulan las partes de un texto para darle un sentido global.",
+              "evidences": [
+                {
+                  "code": "LC.E2.1",
+                  "statement": "Comprende la estructura formal de un texto y la función de sus partes."
+                },
+                {
+                  "code": "LC.E2.2",
+                  "statement": "Identifica y caracteriza las voces o situaciones presentes en un texto."
+                },
+                {
+                  "code": "LC.E2.3",
+                  "statement": "Comprende las relaciones entre partes o enunciados de un texto."
+                },
+                {
+                  "code": "LC.E2.4",
+                  "statement": "Identifica y caracteriza las ideas o afirmaciones de un texto informativo."
+                },
+                {
+                  "code": "LC.E2.5",
+                  "statement": "Identifica el tipo de relación entre elementos de un texto discontinuo."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 42,
+          "infografia_name": "Comprender cómo se articulan las partes de un texto para darle un sentido global"
         },
         {
           "code": "LC.REF",
-          "name": "Reflexionar a partir de un texto y evaluar su contenido",
-          "plan_alias": "Evaluar y reflexionar contenido y forma",
+          "name": "Evaluar y reflexionar sobre la forma y el contenido de los textos",
           "description": "Enfrentar un texto críticamente.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "LC.A3",
+              "statement": "Reflexiona a partir de un texto y evalúa su contenido.",
+              "evidences": [
+                {
+                  "code": "LC.E3.1",
+                  "statement": "Establece la validez e implicaciones de un enunciado de un texto argumentativo o expositivo."
+                },
+                {
+                  "code": "LC.E3.2",
+                  "statement": "Relaciona un texto con otros textos o enunciados."
+                },
+                {
+                  "code": "LC.E3.3",
+                  "statement": "Reconoce contenidos valorativos."
+                },
+                {
+                  "code": "LC.E3.4",
+                  "statement": "Reconoce estrategias discursivas."
+                },
+                {
+                  "code": "LC.E3.5",
+                  "statement": "Contextualiza el texto o la información que contiene."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 33,
+          "infografia_name": "Reflexionar a partir de un texto y evaluar su contenido"
         }
       ],
       "components": [
-        { "code": "LC.TXT.CONT.LIT", "kind": "tipo_texto", "name": "Continuo literario", "description": "Cuentos, novelas." },
-        { "code": "LC.TXT.CONT.INF", "kind": "tipo_texto", "name": "Continuo informativo", "description": "Ensayos, artículos de prensa." },
-        { "code": "LC.TXT.CONT.FIL", "kind": "tipo_texto", "name": "Continuo filosófico", "description": "Fragmentos de textos argumentativos." },
-        { "code": "LC.TXT.DISC", "kind": "tipo_texto", "name": "Discontinuo", "description": "Infografías, cómics, tablas, gráficos." }
+        {
+          "code": "LC.TXT.CONT.LIT",
+          "kind": "tipo_texto",
+          "name": "Continuo literario",
+          "description": "Cuentos, novelas."
+        },
+        {
+          "code": "LC.TXT.CONT.INF",
+          "kind": "tipo_texto",
+          "name": "Continuo informativo",
+          "description": "Ensayos, artículos de prensa."
+        },
+        {
+          "code": "LC.TXT.CONT.FIL",
+          "kind": "tipo_texto",
+          "name": "Continuo filosófico",
+          "description": "Fragmentos de textos argumentativos."
+        },
+        {
+          "code": "LC.TXT.DISC",
+          "kind": "tipo_texto",
+          "name": "Discontinuo",
+          "description": "Infografías, cómics, tablas, gráficos."
+        }
       ]
     },
     {
       "code": "MA",
       "name": "Matemáticas",
       "weight": 3,
-      "questions": { "session1": 25, "session2": 25, "total": 50 },
+      "questions": {
+        "session1": 25,
+        "session2": 25,
+        "total": 50
+      },
       "scope": "Enfrentar situaciones que requieren herramientas matemáticas de álgebra y cálculo, geometría o estadística.",
       "competencies": [
         {
           "code": "MA.INT",
           "name": "Interpretación y representación",
           "description": "Comprender y transformar la información, y extraer la información relevante.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "MA.A1",
+              "statement": "Comprende y transforma la información cuantitativa y esquemática presentada en distintos formatos.",
+              "evidences": [
+                {
+                  "code": "MA.E1.1",
+                  "statement": "Da cuenta de las características básicas de la información presentada en series, gráficas, tablas o esquemas."
+                },
+                {
+                  "code": "MA.E1.2",
+                  "statement": "Transforma la representación de una o más piezas de información."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 34
         },
         {
           "code": "MA.FOR",
           "name": "Formulación y ejecución",
           "description": "Plantear y ejecutar estrategias y solucionar problemas en diversos contextos.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "MA.A2",
+              "statement": "Diseña y ejecuta estrategias que llevan a soluciones adecuadas de problemas cuantitativos.",
+              "evidences": [
+                {
+                  "code": "MA.E2.1",
+                  "statement": "Diseña planes para resolver problemas."
+                },
+                {
+                  "code": "MA.E2.2",
+                  "statement": "Ejecuta un plan de solución."
+                },
+                {
+                  "code": "MA.E2.3",
+                  "statement": "Resuelve el problema."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 43
         },
         {
           "code": "MA.ARG",
           "name": "Argumentación",
           "description": "Validar o refutar conclusiones, estrategias, soluciones, interpretaciones y representaciones en diversas situaciones.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "MA.A3",
+              "statement": "Valida procedimientos y estrategias matemáticas usadas para resolver problemas.",
+              "evidences": [
+                {
+                  "code": "MA.E3.1",
+                  "statement": "Plantea afirmaciones que sustentan o refutan una interpretación."
+                },
+                {
+                  "code": "MA.E3.2",
+                  "statement": "Argumenta a favor o en contra de un procedimiento según criterios dados."
+                },
+                {
+                  "code": "MA.E3.3",
+                  "statement": "Establece la validez o pertinencia de una solución propuesta."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 23
         }
       ],
       "components": [
-        { "code": "MA.CAT.ALG", "kind": "categoria", "name": "Álgebra y cálculo", "description": "Categoría de herramientas matemáticas." },
-        { "code": "MA.CAT.GEO", "kind": "categoria", "name": "Geometría", "description": "Categoría de herramientas matemáticas." },
-        { "code": "MA.CAT.EST", "kind": "categoria", "name": "Estadística", "description": "Categoría de herramientas matemáticas." },
-        { "code": "MA.CONT.GEN", "kind": "tipo_contenido", "name": "Genérico", "description": "Herramientas matemáticas necesarias para interactuar de manera crítica en la sociedad." },
-        { "code": "MA.CONT.NOGEN", "kind": "tipo_contenido", "name": "No genérico", "description": "Herramientas matemáticas específicas del quehacer matemático aprendidas en la etapa escolar." }
+        {
+          "code": "MA.CAT.ALG",
+          "kind": "categoria",
+          "name": "Álgebra y cálculo",
+          "description": "Categoría de herramientas matemáticas."
+        },
+        {
+          "code": "MA.CAT.GEO",
+          "kind": "categoria",
+          "name": "Geometría",
+          "description": "Categoría de herramientas matemáticas."
+        },
+        {
+          "code": "MA.CAT.EST",
+          "kind": "categoria",
+          "name": "Estadística",
+          "description": "Categoría de herramientas matemáticas."
+        },
+        {
+          "code": "MA.CONT.GEN",
+          "kind": "tipo_contenido",
+          "name": "Genérico",
+          "description": "Herramientas matemáticas necesarias para interactuar de manera crítica en la sociedad."
+        },
+        {
+          "code": "MA.CONT.NOGEN",
+          "kind": "tipo_contenido",
+          "name": "No genérico",
+          "description": "Herramientas matemáticas específicas del quehacer matemático aprendidas en la etapa escolar."
+        }
       ]
     },
     {
       "code": "SC",
       "name": "Sociales y Ciudadanas",
       "weight": 3,
-      "questions": { "session1": 25, "session2": 25, "total": 50 },
+      "questions": {
+        "session1": 25,
+        "session2": 25,
+        "total": 50
+      },
       "scope": "Comprender el mundo social desde las ciencias sociales y las competencias involucradas en el ejercicio de la ciudadanía.",
       "competencies": [
         {
           "code": "SC.PSO",
           "name": "Pensamiento social",
           "description": "Usar conceptos básicos de las ciencias sociales para comprender problemáticas y fenómenos sociales, políticos, económicos, culturales y geográficos; comprender los principios básicos de la Constitución y el sistema político colombiano.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "SC.A1",
+              "statement": "Comprende modelos conceptuales, sus características y contextos de aplicación.",
+              "evidences": [
+                {
+                  "code": "SC.E1.1",
+                  "statement": "Identifica y usa conceptos básicos de las ciencias sociales (económicos, políticos, culturales y geográficos)."
+                },
+                {
+                  "code": "SC.E1.2",
+                  "statement": "Conoce el modelo de Estado Social de Derecho y su aplicación en Colombia."
+                },
+                {
+                  "code": "SC.E1.3",
+                  "statement": "Conoce la organización del Estado (ramas del poder y órganos de control)."
+                },
+                {
+                  "code": "SC.E1.4",
+                  "statement": "Conoce los mecanismos de participación ciudadana y de protección de derechos."
+                }
+              ]
+            },
+            {
+              "code": "SC.A2",
+              "statement": "Comprende dimensiones espaciales y temporales de eventos, problemáticas y prácticas sociales.",
+              "evidences": [
+                {
+                  "code": "SC.E2.1",
+                  "statement": "Ubica en el tiempo y el espacio eventos históricos y prácticas sociales."
+                },
+                {
+                  "code": "SC.E2.2",
+                  "statement": "Relaciona dimensiones históricas y geográficas de eventos y problemáticas."
+                },
+                {
+                  "code": "SC.E2.3",
+                  "statement": "Relaciona problemáticas o prácticas sociales con características del espacio geográfico."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 30
         },
         {
           "code": "SC.PER",
           "name": "Interpretación y análisis de perspectivas",
           "description": "Analizar problemas sociales desde las perspectivas de los posibles involucrados y analizar fuentes y argumentos enmarcados en problemáticas sociales.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "SC.A3",
+              "statement": "Contextualiza y evalúa usos de fuentes y argumentos.",
+              "evidences": [
+                {
+                  "code": "SC.E3.1",
+                  "statement": "Ubica una fuente primaria en un contexto económico, político o cultural."
+                },
+                {
+                  "code": "SC.E3.2",
+                  "statement": "Evalúa los alcances y límites del uso de una fuente para sustentar argumentos."
+                },
+                {
+                  "code": "SC.E3.3",
+                  "statement": "Devela prejuicios e intenciones en enunciados o argumentos."
+                }
+              ]
+            },
+            {
+              "code": "SC.A4",
+              "statement": "Comprende perspectivas de distintos actores y grupos sociales.",
+              "evidences": [
+                {
+                  "code": "SC.E4.1",
+                  "statement": "Reconoce y compara las perspectivas de actores y grupos sociales."
+                },
+                {
+                  "code": "SC.E4.2",
+                  "statement": "Reconoce que cosmovisiones, ideologías y roles sociales influyen en argumentos, posiciones y conductas."
+                },
+                {
+                  "code": "SC.E4.3",
+                  "statement": "Relaciona las perspectivas de los involucrados en un conflicto con las soluciones propuestas."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 40
         },
         {
           "code": "SC.SIS",
           "name": "Pensamiento reflexivo y sistémico",
           "description": "Reconocer distintas formas de aproximarse a los problemas sociales, identificar la complejidad de sus relaciones y adoptar posturas críticas sobre los usos de las ciencias sociales.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "SC.A5",
+              "statement": "Evalúa usos sociales de las ciencias sociales.",
+              "evidences": [
+                {
+                  "code": "SC.E5.1",
+                  "statement": "Analiza modelos conceptuales y su uso en decisiones sociales."
+                }
+              ]
+            },
+            {
+              "code": "SC.A6",
+              "statement": "Comprende que los problemas y sus soluciones involucran distintas dimensiones y reconoce relaciones entre ellas.",
+              "evidences": [
+                {
+                  "code": "SC.E6.1",
+                  "statement": "Establece relaciones entre las dimensiones presentes en una situación problemática."
+                },
+                {
+                  "code": "SC.E6.2",
+                  "statement": "Analiza los efectos que una intervención tendría en distintas dimensiones."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 30
         }
       ],
       "components": []
@@ -135,29 +427,265 @@
       "code": "CN",
       "name": "Ciencias Naturales",
       "weight": 3,
-      "questions": { "session1": 29, "session2": 29, "total": 58 },
+      "questions": {
+        "session1": 29,
+        "session2": 29,
+        "total": 58
+      },
       "scope": "Comprender y usar nociones, conceptos y teorías de las ciencias naturales para solucionar problemas, valorando críticamente sus consecuencias sociales y ambientales.",
       "competencies": [
         {
           "code": "CN.USO",
           "name": "Uso comprensivo del conocimiento científico",
           "description": "Comprender y usar conceptos, teorías y modelos para solucionar problemas.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "CN.A4",
+              "statement": "Asocia fenómenos naturales con conceptos científicos.",
+              "evidences": [
+                {
+                  "code": "CN.E4.1",
+                  "statement": "Relaciona los componentes de circuitos en serie y en paralelo con sus voltajes y corrientes."
+                },
+                {
+                  "code": "CN.E4.2",
+                  "statement": "Relaciona los factores que determinan la dinámica de un sistema (condiciones iniciales, parámetros, constantes) con su comportamiento, usando leyes de la física."
+                },
+                {
+                  "code": "CN.E4.3",
+                  "statement": "Relaciona los tipos de energía de un objeto con las interacciones del sistema con su entorno."
+                },
+                {
+                  "code": "CN.E4.4",
+                  "statement": "Establece relaciones entre fenómenos biológicos para comprender la dinámica de los seres vivos."
+                },
+                {
+                  "code": "CN.E4.5",
+                  "statement": "Establece relaciones entre fenómenos biológicos para comprender el entorno."
+                },
+                {
+                  "code": "CN.E4.6",
+                  "statement": "Diferencia tipos de reacciones químicas y hace cálculos con la conservación de la masa y la carga."
+                },
+                {
+                  "code": "CN.E4.7",
+                  "statement": "Relaciona conceptos fisicoquímicos simples (mezclas, solubilidad, gases ideales) con fenómenos naturales."
+                },
+                {
+                  "code": "CN.E4.8",
+                  "statement": "Relaciona propiedades y estructura de la materia con la formación de iones y moléculas."
+                }
+              ]
+            },
+            {
+              "code": "CN.A5",
+              "statement": "Identifica características de fenómenos naturales a partir de información y conceptos científicos.",
+              "evidences": [
+                {
+                  "code": "CN.E5.1",
+                  "statement": "Identifica características fundamentales de las ondas y las variables que las afectan en un medio."
+                },
+                {
+                  "code": "CN.E5.2",
+                  "statement": "Identifica formas de energía en un fenómeno físico y sus transformaciones."
+                },
+                {
+                  "code": "CN.E5.3",
+                  "statement": "Identifica los tipos de fuerzas que actúan sobre los cuerpos de un sistema."
+                },
+                {
+                  "code": "CN.E5.4",
+                  "statement": "Identifica características de procesos en los ecosistemas."
+                },
+                {
+                  "code": "CN.E5.5",
+                  "statement": "Identifica características de procesos en los organismos."
+                },
+                {
+                  "code": "CN.E5.6",
+                  "statement": "Identifica propiedades y estructura de la materia y diferencia elementos, compuestos y mezclas."
+                },
+                {
+                  "code": "CN.E5.7",
+                  "statement": "Reconoce posibles cambios en el ambiente por la explotación de un recurso o el uso de una tecnología."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 30
         },
         {
           "code": "CN.EXP",
           "name": "Explicación de fenómenos",
           "description": "Analizar críticamente argumentos y modelos que explican fenómenos.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "CN.A1",
+              "statement": "Analiza el potencial uso de recursos naturales o artefactos, sus efectos en el ambiente y la salud, y las posibilidades de desarrollo de las comunidades.",
+              "evidences": [
+                {
+                  "code": "CN.E1.1",
+                  "statement": "Explica principios de salud individual y pública con base en principios biológicos, químicos y físicos."
+                },
+                {
+                  "code": "CN.E1.2",
+                  "statement": "Explica efectos positivos o negativos de explotar un recurso o usar una tecnología."
+                },
+                {
+                  "code": "CN.E1.3",
+                  "statement": "Explica el uso correcto y seguro de una tecnología o artefacto en un contexto específico."
+                }
+              ]
+            },
+            {
+              "code": "CN.A2",
+              "statement": "Explica cómo ocurren fenómenos naturales a partir de observaciones, patrones y conceptos científicos.",
+              "evidences": [
+                {
+                  "code": "CN.E2.1",
+                  "statement": "Da razones de por qué una reacción describe un fenómeno usando la conservación de la masa y la carga."
+                },
+                {
+                  "code": "CN.E2.2",
+                  "statement": "Explica cómo se diferencia la materia por su estructura y propiedades (elementos, compuestos, mezclas)."
+                },
+                {
+                  "code": "CN.E2.3",
+                  "statement": "Reconoce atributos de procesos fisicoquímicos simples (separación de mezclas, solubilidad, gases ideales, cambios de fase)."
+                },
+                {
+                  "code": "CN.E2.4",
+                  "statement": "Construye explicaciones que relacionan variables de estado de un sistema eléctrico con modelos básicos de circuitos."
+                },
+                {
+                  "code": "CN.E2.5",
+                  "statement": "Construye explicaciones que relacionan variables de estado de un sistema con cinemática y dinámica newtoniana básicas."
+                },
+                {
+                  "code": "CN.E2.6",
+                  "statement": "Construye explicaciones que relacionan variables de estado de un sistema con termodinámica básica."
+                },
+                {
+                  "code": "CN.E2.7",
+                  "statement": "Construye explicaciones que relacionan variables de estado de un sistema con modelos básicos de ondas."
+                },
+                {
+                  "code": "CN.E2.8",
+                  "statement": "Analiza ecosistemas, su funcionamiento, sus interrelaciones bióticas y abióticas y los efectos de cambiar una variable interna."
+                },
+                {
+                  "code": "CN.E2.9",
+                  "statement": "Analiza la dinámica interna de los organismos y cómo sus componentes funcionan por separado y en conjunto para mantener la vida."
+                }
+              ]
+            },
+            {
+              "code": "CN.A3",
+              "statement": "Modela fenómenos naturales analizando variables y relacionando conceptos científicos y evidencias de investigación.",
+              "evidences": [
+                {
+                  "code": "CN.E3.1",
+                  "statement": "Usa modelos físicos de dinámica clásica para comprender un fenómeno en un sistema."
+                },
+                {
+                  "code": "CN.E3.2",
+                  "statement": "Identifica y usa modelos químicos para comprender fenómenos naturales."
+                },
+                {
+                  "code": "CN.E3.3",
+                  "statement": "Analiza y usa modelos biológicos para comprender dinámicas de los seres vivos y su entorno."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 30
         },
         {
           "code": "CN.IND",
           "name": "Indagación",
           "description": "Reconocer preguntas y procedimientos adecuados, y buscar, seleccionar e interpretar información.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "guia_2026_2_parafraseada",
+          "affirmations": [
+            {
+              "code": "CN.A6",
+              "statement": "Comprende que la investigación científica construye explicaciones del mundo natural.",
+              "evidences": [
+                {
+                  "code": "CN.E6.1",
+                  "statement": "Analiza qué tipo de pregunta puede responderse en el contexto de una investigación."
+                },
+                {
+                  "code": "CN.E6.2",
+                  "statement": "Reconoce la importancia de la evidencia para comprender fenómenos naturales."
+                }
+              ]
+            },
+            {
+              "code": "CN.A7",
+              "statement": "Deriva conclusiones sobre fenómenos naturales a partir de conocimiento científico y evidencias propias o ajenas.",
+              "evidences": [
+                {
+                  "code": "CN.E7.1",
+                  "statement": "Comunica de forma apropiada el proceso y los resultados de una investigación en ciencias naturales."
+                },
+                {
+                  "code": "CN.E7.2",
+                  "statement": "Determina si los resultados de una investigación son suficientes y pertinentes para concluir en una situación dada."
+                },
+                {
+                  "code": "CN.E7.3",
+                  "statement": "Elabora conclusiones a partir de información o evidencias que las respaldan."
+                },
+                {
+                  "code": "CN.E7.4",
+                  "statement": "Hace predicciones basadas en información, patrones y regularidades."
+                }
+              ]
+            },
+            {
+              "code": "CN.A8",
+              "statement": "Observa y relaciona patrones en los datos para evaluar predicciones.",
+              "evidences": [
+                {
+                  "code": "CN.E8.1",
+                  "statement": "Interpreta y analiza datos presentados en textos, gráficas, dibujos, diagramas o tablas."
+                },
+                {
+                  "code": "CN.E8.2",
+                  "statement": "Representa datos en gráficas y tablas."
+                }
+              ]
+            },
+            {
+              "code": "CN.A9",
+              "statement": "Utiliza habilidades de pensamiento y de procedimiento para evaluar predicciones.",
+              "evidences": [
+                {
+                  "code": "CN.E9.1",
+                  "statement": "Propone explicaciones posibles de eventos, coherentes con conceptos científicos."
+                },
+                {
+                  "code": "CN.E9.2",
+                  "statement": "Diseña experimentos para responder preguntas."
+                },
+                {
+                  "code": "CN.E9.3",
+                  "statement": "Elige y usa instrumentos adecuados para recolectar datos."
+                },
+                {
+                  "code": "CN.E9.4",
+                  "statement": "Reconoce la necesidad de registrar y clasificar la información para un buen análisis."
+                },
+                {
+                  "code": "CN.E9.5",
+                  "statement": "Usa información adicional para evaluar una predicción."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 40
         }
       ],
       "components": [
@@ -165,25 +693,29 @@
           "code": "CN.COMP.QUI",
           "kind": "componente",
           "name": "Químico",
-          "description": "Cambios químicos, el átomo, tipos de enlace, propiedades de la materia, estequiometría, separación de mezclas, solubilidad, gases ideales, transformación y conservación de la energía."
+          "description": "Cambios químicos, el átomo, tipos de enlace, propiedades de la materia, estequiometría, separación de mezclas, solubilidad, gases ideales, transformación y conservación de la energía.",
+          "share_pct": 30
         },
         {
           "code": "CN.COMP.BIO",
           "kind": "componente",
           "name": "Biológico",
-          "description": "Homeostasis en los seres vivos, herencia y reproducción, relaciones ecológicas, evolución y transformación de la vida en el planeta, conservación de la energía."
+          "description": "Homeostasis en los seres vivos, herencia y reproducción, relaciones ecológicas, evolución y transformación de la vida en el planeta, conservación de la energía.",
+          "share_pct": 30
         },
         {
           "code": "CN.COMP.FIS",
           "kind": "componente",
           "name": "Físico",
-          "description": "Cinemática, dinámica, energía mecánica, ondas, energía térmica, electromagnetismo, campo gravitacional, transformación y conservación de la energía."
+          "description": "Cinemática, dinámica, energía mecánica, ondas, energía térmica, electromagnetismo, campo gravitacional, transformación y conservación de la energía.",
+          "share_pct": 30
         },
         {
           "code": "CN.COMP.CTS",
           "kind": "componente",
           "name": "Ciencia, Tecnología y Sociedad (CTS)",
-          "description": "Temáticas interdisciplinares relacionadas con las ciencias naturales, unas globales y otras locales."
+          "description": "Temáticas interdisciplinares relacionadas con las ciencias naturales, unas globales y otras locales.",
+          "share_pct": 10
         }
       ]
     },
@@ -191,27 +723,116 @@
       "code": "IN",
       "name": "Inglés",
       "weight": 1,
-      "questions": { "session1": 0, "session2": 55, "total": 55 },
+      "questions": {
+        "session1": 0,
+        "session2": 55,
+        "total": 55
+      },
       "scope": "Competencia comunicativa en lengua inglesa según el Marco Común Europeo de Referencia, mediante tareas de lectura, gramática y léxico.",
-      "cefr_levels": ["A-", "A1", "A2", "B1", "B+"],
+      "cefr_levels": [
+        "A-",
+        "A1",
+        "A2",
+        "B1",
+        "B+"
+      ],
       "competencies": [
         {
           "code": "IN.COM",
           "name": "Competencia comunicativa en lengua inglesa",
           "description": "Dar cuenta de lo que el estudiante es capaz de hacer en inglés según el MCER, a través de tareas de lectura, gramática y léxico.",
-          "affirmations_status": "pendiente_guia_oficial",
-          "affirmations": []
+          "affirmations_status": "no_aplica_icfes",
+          "affirmations": [
+            {
+              "code": "IN.A0",
+              "statement": "Técnica del proyecto (no oficial): el Icfes no define afirmaciones en Inglés; cada parte del examen se usa como evidencia para etiquetar ítems.",
+              "evidences": [
+                {
+                  "code": "IN.E1",
+                  "statement": "Resuelve tareas de la Parte 1 del examen: Relacionar descripciones con palabras de una lista que incluye un ejemplo y palabras sobrantes."
+                },
+                {
+                  "code": "IN.E2",
+                  "statement": "Resuelve tareas de la Parte 2 del examen: Decidir en qué lugar se encontraría cada aviso."
+                },
+                {
+                  "code": "IN.E3",
+                  "statement": "Resuelve tareas de la Parte 3 del examen: Completar conversaciones cortas eligiendo la respuesta adecuada."
+                },
+                {
+                  "code": "IN.E4",
+                  "statement": "Resuelve tareas de la Parte 4 del examen: Texto con espacios: elegir la palabra con la estructura gramatical correcta."
+                },
+                {
+                  "code": "IN.E5",
+                  "statement": "Resuelve tareas de la Parte 5 del examen: Comprensión de lectura sobre un texto de nivel básico."
+                },
+                {
+                  "code": "IN.E6",
+                  "statement": "Resuelve tareas de la Parte 6 del examen: Comprensión de lectura sobre un texto de nivel más complejo."
+                },
+                {
+                  "code": "IN.E7",
+                  "statement": "Resuelve tareas de la Parte 7 del examen: Texto con espacios: elegir la palabra con el significado o la estructura correcta."
+                }
+              ]
+            }
+          ],
+          "weight_pct": 100
         }
       ],
       "components": [
-        { "code": "IN.P1", "kind": "parte", "name": "Parte 1", "description": "Relacionar descripciones con palabras de una lista que incluye un ejemplo y palabras sobrantes." },
-        { "code": "IN.P2", "kind": "parte", "name": "Parte 2", "description": "Decidir en qué lugar se encontraría cada aviso." },
-        { "code": "IN.P3", "kind": "parte", "name": "Parte 3", "description": "Completar conversaciones cortas eligiendo la respuesta adecuada." },
-        { "code": "IN.P4", "kind": "parte", "name": "Parte 4", "description": "Texto con espacios: elegir la palabra con la estructura gramatical correcta." },
-        { "code": "IN.P5", "kind": "parte", "name": "Parte 5", "description": "Comprensión de lectura sobre un texto de nivel básico." },
-        { "code": "IN.P6", "kind": "parte", "name": "Parte 6", "description": "Comprensión de lectura sobre un texto de nivel más complejo." },
-        { "code": "IN.P7", "kind": "parte", "name": "Parte 7", "description": "Texto con espacios: elegir la palabra con el significado o la estructura correcta." }
-      ]
+        {
+          "code": "IN.P1",
+          "kind": "parte",
+          "name": "Parte 1",
+          "description": "Relacionar descripciones con palabras de una lista que incluye un ejemplo y palabras sobrantes.",
+          "share_pct": 11
+        },
+        {
+          "code": "IN.P2",
+          "kind": "parte",
+          "name": "Parte 2",
+          "description": "Decidir en qué lugar se encontraría cada aviso.",
+          "share_pct": 11
+        },
+        {
+          "code": "IN.P3",
+          "kind": "parte",
+          "name": "Parte 3",
+          "description": "Completar conversaciones cortas eligiendo la respuesta adecuada.",
+          "share_pct": 11
+        },
+        {
+          "code": "IN.P4",
+          "kind": "parte",
+          "name": "Parte 4",
+          "description": "Texto con espacios: elegir la palabra con la estructura gramatical correcta.",
+          "share_pct": 18
+        },
+        {
+          "code": "IN.P5",
+          "kind": "parte",
+          "name": "Parte 5",
+          "description": "Comprensión de lectura sobre un texto de nivel básico.",
+          "share_pct": 16
+        },
+        {
+          "code": "IN.P6",
+          "kind": "parte",
+          "name": "Parte 6",
+          "description": "Comprensión de lectura sobre un texto de nivel más complejo.",
+          "share_pct": 11
+        },
+        {
+          "code": "IN.P7",
+          "kind": "parte",
+          "name": "Parte 7",
+          "description": "Texto con espacios: elegir la palabra con el significado o la estructura correcta.",
+          "share_pct": 22
+        }
+      ],
+      "cefr_note": "A- equivale al nivel Pre A1 de la guía."
     }
   ]
 }

@@ -2,7 +2,40 @@
 
 Registro vivo. Actualizar al cierre de cada Pull Request.
 
-## Semana actual: 2 - Núcleo matemático y semilla del banco
+## Prompt 5 - Banco de preguntas originales (2026-11-28)
+
+### Hecho
+- `docs/MBE_TAXONOMIA.json` completo con la Guía de Orientación Saber 11 2026: afirmaciones y evidencias
+  de las cinco pruebas (86 evidencias), pesos por competencia, partes de Inglés y niveles MCER.
+  `supabase/seed.sql` regenerado.
+- `packages/core/src/item-bank/itemSchema.ts`: `GeneratedItemSchema` y `validateBatch` (clave única,
+  diagnóstico y feedback en cada opción, evidencia de la misma prueba, longitudes balanceadas, b de TRI
+  coherente con la dificultad, SVG seguro de máximo 4 KB, ids y enunciados no repetidos). 14 pruebas nuevas.
+- `scripts/build-questions-sql.mjs`: valida `banco/lotes/*.json` y genera `supabase/questions/*.sql`
+  (idempotente, `on conflict do nothing`). `--check` corre en CI.
+- Lotes 001 (10 de Lectura Crítica) y 002 (10 de Matemáticas), 100 % originales.
+- `docs/PROMPT_5_GENERADOR.md`: prompt actualizado y flujo para nuevos lotes.
+- `scripts/apply-supabase.sh` y flujo manual "Cargar a Supabase": aplica migraciones pendientes,
+  semilla, festivos y preguntas desde GitHub, sin copiar SQL desde el teléfono. Probado en Postgres local.
+- `scripts/test-db.sh` carga también el banco (dos veces, para comprobar idempotencia).
+
+### Decisiones
+- **Inglés** no tiene afirmaciones oficiales: sus 7 partes se usan como evidencias `IN.E1`..`IN.E7`.
+- **Competencias de Lectura Crítica** con los nombres de proceso de la guía; el de la infografía queda en `infografia_name`.
+- **Los lotes JSON son la fuente de verdad**; el SQL de `supabase/questions/` se genera y no se edita a mano.
+- **Migraciones en el flujo de carga**: cada una se detecta por lo que crea; una migración sin regla
+  de detección detiene el flujo para no aplicarla dos veces.
+
+### Pendiente
+- [ ] Crear el secreto `SUPABASE_DB_URL` en GitHub y correr "Cargar a Supabase" (probar, luego aplicar).
+- [ ] Revisión humana de los 20 ítems antes de mostrarlos a estudiantes.
+- [ ] Más lotes: SC, CN e IN.
+
+### Siguiente paso
+Semanas 3-4: MVP web en `apps/web` (Next.js en Vercel Hobby, sin monetización): registro con
+consentimiento parental, diagnóstico corto y sesión diaria con el planificador y FSRS-6.
+
+## Semana 2 - Núcleo matemático y semilla del banco (cerrada)
 
 ### Hecho
 - 2026-11-28 · `spaced-repetition/fsrs6.ts`: FSRS-6 completo (21 parámetros por defecto, estados
@@ -30,13 +63,11 @@ Registro vivo. Actualizar al cierre de cada Pull Request.
 - **El refuerzo usa una pregunta distinta** de la que se falló, de la misma evidencia.
 
 ### Pendiente de la semana 2
-- [ ] Aplicar `supabase/migrations/0002_fsrs_step.sql` en Supabase.
-- [ ] Completar afirmaciones y evidencias de `docs/MBE_TAXONOMIA.json` con la Guía de Orientación oficial.
-- [ ] Generar las primeras preguntas originales con el Prompt 5 (prioridad LC y MA) e importarlas.
+- [ ] Aplicar `supabase/migrations/0002_fsrs_step.sql` en Supabase (lo hace el flujo "Cargar a Supabase").
+- [x] 2026-11-28 · Taxonomía completa y primeros 20 ítems (ver Prompt 5).
 
 ### Siguiente paso
-Validador de lotes del Prompt 5 en `packages/core` (esquema Zod del JSON de salida) y script de importación
-a Supabase, cuando la taxonomía tenga afirmaciones y evidencias. Después, semanas 3-4: MVP web.
+Hecho en el Prompt 5 (arriba).
 
 ## Semana 1 - Base en GitHub y Supabase (cerrada)
 
@@ -74,7 +105,7 @@ a Supabase, cuando la taxonomía tenga afirmaciones y evidencias. Después, sema
 - [x] 2026-11-27 · Proyecto Supabase creado; migración 0001 y `seed.sql` aplicados.
 - [x] 2026-11-27 · SMTP de Brevo conectado a Supabase Auth (probado con una invitación).
 - [ ] Traducir al español las plantillas de correo de Auth y fijar el Site URL cuando exista la web.
-- [ ] Correr `supabase/seed_festivos_co.sql` en Supabase (festivos de Colombia 2026-2027, para que
+- [ ] Correr `supabase/seed_festivos_co.sql` en Supabase (lo hace el flujo "Cargar a Supabase"; festivos de Colombia 2026-2027, para que
       los plazos ARCO no cuenten festivos). Agregar 2028 antes de que termine 2027.
 - [ ] Edge Function de consentimiento parental: envía token al acudiente, guarda el hash en
       `parental_consents` y marca `verified` con service_role. Redactar la Política de Tratamiento.
