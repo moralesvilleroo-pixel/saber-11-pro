@@ -2,7 +2,44 @@
 
 Registro vivo. Actualizar al cierre de cada Pull Request.
 
-## Prompt 5 - Banco de preguntas originales (2026-11-28)
+## Semanas 3-4 - MVP web no comercial (2026-11-28)
+
+### Hecho
+- `apps/web`: Next.js 16 + Tailwind 4 + PWA (manifiesto, íconos SVG y service worker mínimo).
+  Páginas: inicio público, demo sin cuenta, registro, ingreso, recuperación de contraseña, panel,
+  sesión de estudio, autorización del acudiente, Política de Tratamiento de Datos y formulario ARCO.
+- Estudio en el navegador con `@icfes/core`: sesión diaria 40/40/20 con FSRS-6 y calificación
+  ajustable, diagnóstico (hasta 45 preguntas) y simulacro cronometrado (completo, `media` o `cuarto`).
+  Retroalimentación de las cuatro opciones tras cada respuesta; en el simulacro, al final.
+- Progreso con cuenta: cola local + `sync_offline_batch`; puntajes en `user_theta_estimates`.
+- `packages/core`: `session/sessionBuilder.ts` (`buildDiagnostic`, `buildMockExam`, `estimateAreaScores`,
+  `evidenceMasteryFromAttempts`) y `sync/fsrsRow.ts` (tarjeta ↔ fila). 72 pruebas en total.
+- Migración `0003_consentimiento_y_theta.sql`: `request/get/verify_parental_consent` (solo service_role,
+  token de 256 bits guardado como SHA-256, reenvío limitado, evidencia de IP y navegador) e inserción de
+  estimaciones propias. Pruebas en `supabase/tests/02_consent_theta.sql`; el flujo "Cargar a Supabase" la aplica.
+- Prueba e2e del demo con Playwright (`apps/web/e2e/demo.e2e.mjs`) y job `web` en CI.
+- `docs/DESPLIEGUE_WEB.md`: Vercel, variables, URLs de Auth y plantillas de correo en español.
+
+### Decisiones
+- **Autorización parental en rutas `/api` de la web** (servidor, service_role) en lugar de una Edge Function:
+  se despliega con la web, sin Supabase CLI. El correo sale por el mismo SMTP de Brevo.
+- **Modo demo** con las preguntas del banco incluidas en la página y progreso solo en el navegador:
+  permite probar sin cuenta y sin tratar datos personales.
+- **Puntaje Global solo con las cinco pruebas**: con menos, se muestran puntajes por prueba.
+  Con menos de 15 respuestas, la estimación se acota a 20-80 y se marca como preliminar.
+- **Gráficas como `<img>` con data URI**: un SVG así no puede ejecutar scripts.
+- **Plantillas de Auth con `token_hash`** (`/auth/confirm`): el enlace sirve en otro dispositivo.
+
+### Pendiente
+- [ ] Correr "Cargar a Supabase" (aplica 0003), crear el proyecto en Vercel y configurar Auth (ver `docs/DESPLIEGUE_WEB.md`).
+- [ ] Definir el responsable del tratamiento (`NEXT_PUBLIC_RESPONSABLE_*`) y revisar la política con un abogado.
+- [ ] Más preguntas: SC, CN e IN (sin ellas no hay Puntaje Global proyectado).
+- [ ] Probar con estudiantes reales y ajustar.
+
+### Siguiente paso
+Semanas 5-6 (Prompt 6): instalador de Windows con Tauri v2 y prueba cerrada en Google Play, y ampliar el banco.
+
+## Prompt 5 - Banco de preguntas originales (2026-11-28, cerrado)
 
 ### Hecho
 - `docs/MBE_TAXONOMIA.json` completo con la Guía de Orientación Saber 11 2026: afirmaciones y evidencias
@@ -32,8 +69,7 @@ Registro vivo. Actualizar al cierre de cada Pull Request.
 - [ ] Más lotes: SC, CN e IN.
 
 ### Siguiente paso
-Semanas 3-4: MVP web en `apps/web` (Next.js en Vercel Hobby, sin monetización): registro con
-consentimiento parental, diagnóstico corto y sesión diaria con el planificador y FSRS-6.
+Hecho en semanas 3-4 (arriba).
 
 ## Semana 2 - Núcleo matemático y semilla del banco (cerrada)
 
@@ -104,9 +140,8 @@ Hecho en el Prompt 5 (arriba).
 ### Pendiente de la semana 1
 - [x] 2026-11-27 · Proyecto Supabase creado; migración 0001 y `seed.sql` aplicados.
 - [x] 2026-11-27 · SMTP de Brevo conectado a Supabase Auth (probado con una invitación).
-- [ ] Traducir al español las plantillas de correo de Auth y fijar el Site URL cuando exista la web.
+- [ ] Traducir al español las plantillas de correo de Auth y fijar el Site URL (textos en `docs/DESPLIEGUE_WEB.md`).
 - [ ] Correr `supabase/seed_festivos_co.sql` en Supabase (lo hace el flujo "Cargar a Supabase"; festivos de Colombia 2026-2027, para que
       los plazos ARCO no cuenten festivos). Agregar 2028 antes de que termine 2027.
-- [ ] Edge Function de consentimiento parental: envía token al acudiente, guarda el hash en
-      `parental_consents` y marca `verified` con service_role. Redactar la Política de Tratamiento.
+- [x] 2026-11-28 · Autorización parental y Política de Tratamiento (semanas 3-4).
 

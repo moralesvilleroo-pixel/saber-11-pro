@@ -14,7 +14,8 @@ Monorepo Turborepo + pnpm, TypeScript estricto. Idioma del producto y de la docu
 ## Estructura
 
 ```
-apps/web/        Next.js App Router + Tailwind CSS + PWA (Vercel Hobby, sin uso comercial)
+apps/web/        Next.js 16 App Router + Tailwind 4 + PWA (Vercel Hobby, sin uso comercial).
+                 Despliegue: docs/DESPLIEGUE_WEB.md. Prueba e2e del demo: apps/web/e2e/
 apps/desktop/    Tauri v2 para Windows, SQLite local (tauri-plugin-sql)
 apps/mobile/     Expo (React Native) para Android, expo-sqlite
 packages/core/   @icfes/core: logica pura compartida (sin APIs de Node ni del navegador)
@@ -22,6 +23,8 @@ packages/core/   @icfes/core: logica pura compartida (sin APIs de Node ni del na
   src/spaced-repetition FSRS-6 (21 parametros, DSR)
   src/planner/          Planificador adaptativo 40/40/20
   src/item-bank/        Validador de lotes del Prompt 5 (itemSchema.ts)
+  src/session/          Diagnostico, simulacro y estimacion de puntajes por prueba
+  src/sync/             Conversion tarjeta FSRS <-> fila de user_card_fsrs_state
   src/schemas.ts        Esquemas Zod compartidos
 banco/lotes/       Lotes JSON de preguntas originales (fuente de verdad del banco)
 supabase/
@@ -44,6 +47,7 @@ pnpm typecheck                     # tsc --noEmit en todos los paquetes
 pnpm lint
 pnpm --filter @icfes/core test     # solo el nucleo
 node scripts/generate-seed.mjs     # regenera supabase/seed.sql
+pnpm --filter @icfes/web dev       # web en localhost:3000 (sin .env.local funciona el demo)
 node scripts/build-questions-sql.mjs  # valida banco/lotes y genera supabase/questions (requiere build de core)
 PGHOST=... PGUSER=postgres scripts/test-db.sh   # migraciones + pruebas RLS en Postgres local
 ```
@@ -65,7 +69,8 @@ PGHOST=... PGUSER=postgres scripts/test-db.sh   # migraciones + pruebas RLS en P
 ### Ley 1581 de 2012 (datos de menores)
 - Un menor (o sin ano de nacimiento) no genera datos de estudio hasta que
   `parental_consent_status = 'verified'`. Lo exigen RLS y `can_process_data()`.
-- Solo el servidor (Edge Function con service_role) marca un consentimiento como verificado.
+- Solo el servidor (rutas `/api/consentimiento/*` de la web, con service_role) marca un consentimiento
+  como verificado, a traves de las funciones de la migracion 0003.
 - `birth_year` no se edita desde el cliente; las correcciones van por `arco_requests`.
 - ARCO: consultas 10 dias habiles, reclamos 15 dias habiles (`due_at` automatico).
 

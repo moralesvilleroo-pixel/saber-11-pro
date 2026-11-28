@@ -21,6 +21,26 @@ jobs:
       - name: Banco de preguntas valido y SQL al dia
         run: pnpm --filter @icfes/core build && node scripts/build-questions-sql.mjs --check
 
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Compilar la web (sin Supabase configurado, la demo funciona igual)
+        run: pnpm turbo run build --filter=@icfes/web
+      - name: Navegador para la prueba de punta a punta
+        run: pnpm --filter @icfes/web exec playwright install --with-deps chromium
+      - name: Prueba de punta a punta del modo demo
+        run: |
+          pnpm --filter @icfes/web start -p 3100 &
+          npx -y wait-on@8.0.4 http://localhost:3100/demo
+          BASE_URL=http://localhost:3100 pnpm --filter @icfes/web e2e
+
   database:
     runs-on: ubuntu-latest
     services:
