@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "67b3dc7f-ae95-53c6-8a85-d47db4b8b37e",
+    "subject": "LC",
+    "evidence_code": "LC.E1.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La amistad según Aristóteles",
+      "text": "En su Ética, Aristóteles distingue tres clases de amistad. Hay amistades por utilidad, en las que cada uno busca lo que el otro le ofrece, como ocurre entre socios de un negocio. Hay amistades por placer, que nacen de lo agradable de la compañía, como suele ocurrir entre jóvenes que comparten fiestas. Y hay amistades por la virtud, en las que cada uno quiere el bien del otro por lo que el otro es.\n\nLas dos primeras no son falsas, pero son frágiles: cuando desaparece la utilidad o el placer, la amistad se acaba. La tercera, en cambio, es duradera, porque el carácter de las personas cambia mucho más despacio que sus intereses. Aristóteles advierte que esta amistad es rara y requiere tiempo: no basta con desearla, hay que haber compartido mucho para conocerse.\n\n(Texto de divulgación escrito para esta prueba a partir de ideas de Aristóteles)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según el texto, ¿qué caracteriza a la amistad por utilidad?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Es la más duradera de todas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye la duración a otra clase.",
+        "explanation_feedback": "Incorrecta. La más duradera es la amistad por virtud."
+      },
+      {
+        "label": "B",
+        "text": "Nace de compartir fiestas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la amistad por placer.",
+        "explanation_feedback": "Incorrecta. Esa es la segunda clase."
+      },
+      {
+        "label": "C",
+        "text": "Cada uno busca lo que el otro le ofrece.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto lo explica con el ejemplo de los socios."
+      },
+      {
+        "label": "D",
+        "text": "Cada uno quiere el bien del otro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la amistad por virtud.",
+        "explanation_feedback": "Incorrecta. Esa es la tercera clase."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "d91021a1-9c5d-5bde-835c-df4374dae4bb",
+    "subject": "LC",
+    "evidence_code": "LC.E2.4",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La amistad según Aristóteles",
+      "text": "En su Ética, Aristóteles distingue tres clases de amistad. Hay amistades por utilidad, en las que cada uno busca lo que el otro le ofrece, como ocurre entre socios de un negocio. Hay amistades por placer, que nacen de lo agradable de la compañía, como suele ocurrir entre jóvenes que comparten fiestas. Y hay amistades por la virtud, en las que cada uno quiere el bien del otro por lo que el otro es.\n\nLas dos primeras no son falsas, pero son frágiles: cuando desaparece la utilidad o el placer, la amistad se acaba. La tercera, en cambio, es duradera, porque el carácter de las personas cambia mucho más despacio que sus intereses. Aristóteles advierte que esta amistad es rara y requiere tiempo: no basta con desearla, hay que haber compartido mucho para conocerse.\n\n(Texto de divulgación escrito para esta prueba a partir de ideas de Aristóteles)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué, según Aristóteles, la amistad por virtud es más duradera?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque se basa en negocios estables.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la amistad por utilidad.",
+        "explanation_feedback": "Incorrecta. Los negocios corresponden a la primera clase."
+      },
+      {
+        "label": "B",
+        "text": "Porque el carácter cambia más despacio que los intereses.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El segundo párrafo da esa razón."
+      },
+      {
+        "label": "C",
+        "text": "Porque surge de inmediato.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Requiere tiempo para conocerse."
+      },
+      {
+        "label": "D",
+        "text": "Porque es la más común entre las personas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Aristóteles dice que es rara."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "b5af3079-99db-5957-adfe-64223065156c",
+    "subject": "LC",
+    "evidence_code": "LC.E3.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La amistad según Aristóteles",
+      "text": "En su Ética, Aristóteles distingue tres clases de amistad. Hay amistades por utilidad, en las que cada uno busca lo que el otro le ofrece, como ocurre entre socios de un negocio. Hay amistades por placer, que nacen de lo agradable de la compañía, como suele ocurrir entre jóvenes que comparten fiestas. Y hay amistades por la virtud, en las que cada uno quiere el bien del otro por lo que el otro es.\n\nLas dos primeras no son falsas, pero son frágiles: cuando desaparece la utilidad o el placer, la amistad se acaba. La tercera, en cambio, es duradera, porque el carácter de las personas cambia mucho más despacio que sus intereses. Aristóteles advierte que esta amistad es rara y requiere tiempo: no basta con desearla, hay que haber compartido mucho para conocerse.\n\n(Texto de divulgación escrito para esta prueba a partir de ideas de Aristóteles)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué implica la afirmación de que las amistades por utilidad y por placer «no son falsas, pero son frágiles»?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que duran más que la amistad por virtud.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Son las que se acaban más fácil."
+      },
+      {
+        "label": "B",
+        "text": "Que son amistades reales, aunque dependen de algo que puede terminar.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las reconoce como amistad, pero señala su dependencia de la utilidad o el placer."
+      },
+      {
+        "label": "C",
+        "text": "Que son engaños que conviene evitar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Ignora el «no son falsas».",
+        "explanation_feedback": "Incorrecta. Aristóteles no las descalifica."
+      },
+      {
+        "label": "D",
+        "text": "Que son mejores que la amistad por virtud.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la valoración.",
+        "explanation_feedback": "Incorrecta. La amistad por virtud es la más sólida."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "043a410c-48a4-5899-b6b5-97565c0ed738",
+    "subject": "LC",
+    "evidence_code": "LC.E3.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La amistad según Aristóteles",
+      "text": "En su Ética, Aristóteles distingue tres clases de amistad. Hay amistades por utilidad, en las que cada uno busca lo que el otro le ofrece, como ocurre entre socios de un negocio. Hay amistades por placer, que nacen de lo agradable de la compañía, como suele ocurrir entre jóvenes que comparten fiestas. Y hay amistades por la virtud, en las que cada uno quiere el bien del otro por lo que el otro es.\n\nLas dos primeras no son falsas, pero son frágiles: cuando desaparece la utilidad o el placer, la amistad se acaba. La tercera, en cambio, es duradera, porque el carácter de las personas cambia mucho más despacio que sus intereses. Aristóteles advierte que esta amistad es rara y requiere tiempo: no basta con desearla, hay que haber compartido mucho para conocerse.\n\n(Texto de divulgación escrito para esta prueba a partir de ideas de Aristóteles)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Un estudiante dice: «Mi mejor amigo y yo nos conocimos jugando fútbol, pero seguimos siendo amigos aunque ya no jugamos». Según el texto, esta amistad",
+    "options": [
+      {
+        "label": "A",
+        "text": "pudo empezar por placer y convertirse en una amistad por virtud.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sobrevivió al fin de la actividad compartida, rasgo de la amistad por virtud."
+      },
+      {
+        "label": "B",
+        "text": "no es una amistad verdadera.",
+        "is_correct": false,
+        "distractor_diagnosis": "Descalifica la amistad sin razón.",
+        "explanation_feedback": "Incorrecta. El texto no dice que esa amistad sea falsa."
+      },
+      {
+        "label": "C",
+        "text": "es solo una amistad por utilidad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Clasifica sin atender a la duración.",
+        "explanation_feedback": "Incorrecta. No se menciona que uno obtenga beneficios del otro."
+      },
+      {
+        "label": "D",
+        "text": "terminará pronto, porque ya no juegan.",
+        "is_correct": false,
+        "distractor_diagnosis": "Aplica la fragilidad a un caso que la contradice.",
+        "explanation_feedback": "Incorrecta. La amistad ya sobrevivió al fin del juego."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "e008e0a2-bfa7-557d-8e1c-22f752079991",
+    "subject": "LC",
+    "evidence_code": "LC.E2.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La amistad según Aristóteles",
+      "text": "En su Ética, Aristóteles distingue tres clases de amistad. Hay amistades por utilidad, en las que cada uno busca lo que el otro le ofrece, como ocurre entre socios de un negocio. Hay amistades por placer, que nacen de lo agradable de la compañía, como suele ocurrir entre jóvenes que comparten fiestas. Y hay amistades por la virtud, en las que cada uno quiere el bien del otro por lo que el otro es.\n\nLas dos primeras no son falsas, pero son frágiles: cuando desaparece la utilidad o el placer, la amistad se acaba. La tercera, en cambio, es duradera, porque el carácter de las personas cambia mucho más despacio que sus intereses. Aristóteles advierte que esta amistad es rara y requiere tiempo: no basta con desearla, hay que haber compartido mucho para conocerse.\n\n(Texto de divulgación escrito para esta prueba a partir de ideas de Aristóteles)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué función cumplen los ejemplos de los socios y de los jóvenes en las fiestas?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Demuestran que la amistad por virtud no existe.",
+        "is_correct": false,
+        "distractor_diagnosis": "Saca una conclusión ajena.",
+        "explanation_feedback": "Incorrecta. Los ejemplos no hablan de la tercera clase."
+      },
+      {
+        "label": "B",
+        "text": "Critican a los jóvenes y a los comerciantes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee los ejemplos como crítica.",
+        "explanation_feedback": "Incorrecta. Los ejemplos explican, no critican."
+      },
+      {
+        "label": "C",
+        "text": "Cuentan la vida personal de Aristóteles.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde ejemplo con biografía.",
+        "explanation_feedback": "Incorrecta. No son anécdotas del filósofo."
+      },
+      {
+        "label": "D",
+        "text": "Ilustran las dos primeras clases de amistad.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Cada ejemplo concreta una definición."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "1bb7e8f3-4454-52f3-886a-ef45a8c1b138",
+    "subject": "LC",
+    "evidence_code": "LC.E1.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El velo de la ignorancia",
+      "text": "El filósofo estadounidense John Rawls propuso un experimento mental para pensar la justicia. Imaginemos que un grupo de personas debe decidir las reglas de una sociedad sin saber qué lugar ocuparán en ella: no saben si serán ricas o pobres, hombres o mujeres, sanas o enfermas, ni qué talentos tendrán. Rawls llama a esta situación el «velo de la ignorancia».\n\nSegún Rawls, detrás de ese velo nadie aceptaría reglas que perjudicaran gravemente a los que están peor, porque cualquiera podría terminar en esa posición. Por eso, las personas elegirían garantizar libertades básicas iguales para todos y aceptarían desigualdades económicas solo si benefician también a los menos favorecidos.\n\nSus críticos señalan que las personas reales no deciden así: conocen su situación y la defienden. Rawls respondería que el experimento no describe cómo decidimos, sino cómo deberíamos decidir si queremos ser imparciales.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué es el «velo de la ignorancia» en el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La falta de educación en una sociedad.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la expresión de forma literal.",
+        "explanation_feedback": "Incorrecta. Es un experimento mental, no un problema educativo."
+      },
+      {
+        "label": "B",
+        "text": "Una ley que prohíbe conocer a los gobernantes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una norma.",
+        "explanation_feedback": "Incorrecta. No se trata de una ley."
+      },
+      {
+        "label": "C",
+        "text": "Una situación imaginaria en la que no se sabe qué lugar se ocupará en la sociedad.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El primer párrafo lo define."
+      },
+      {
+        "label": "D",
+        "text": "Una prenda que usaban los filósofos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma «velo» como objeto.",
+        "explanation_feedback": "Incorrecta. Es una metáfora."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "242c4314-abdf-58c6-a131-cabc4455d054",
+    "subject": "LC",
+    "evidence_code": "LC.E2.3",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El velo de la ignorancia",
+      "text": "El filósofo estadounidense John Rawls propuso un experimento mental para pensar la justicia. Imaginemos que un grupo de personas debe decidir las reglas de una sociedad sin saber qué lugar ocuparán en ella: no saben si serán ricas o pobres, hombres o mujeres, sanas o enfermas, ni qué talentos tendrán. Rawls llama a esta situación el «velo de la ignorancia».\n\nSegún Rawls, detrás de ese velo nadie aceptaría reglas que perjudicaran gravemente a los que están peor, porque cualquiera podría terminar en esa posición. Por eso, las personas elegirían garantizar libertades básicas iguales para todos y aceptarían desigualdades económicas solo si benefician también a los menos favorecidos.\n\nSus críticos señalan que las personas reales no deciden así: conocen su situación y la defienden. Rawls respondería que el experimento no describe cómo decidimos, sino cómo deberíamos decidir si queremos ser imparciales.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según Rawls, ¿por qué las personas detrás del velo protegerían a los menos favorecidos?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque la ley las obliga.",
+        "is_correct": false,
+        "distractor_diagnosis": "Introduce una obligación externa.",
+        "explanation_feedback": "Incorrecta. Están decidiendo las leyes, no obedeciéndolas."
+      },
+      {
+        "label": "B",
+        "text": "Porque todas son personas generosas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye una motivación moral distinta.",
+        "explanation_feedback": "Incorrecta. El argumento se basa en la incertidumbre, no en la bondad."
+      },
+      {
+        "label": "C",
+        "text": "Porque saben que serán pobres.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el experimento.",
+        "explanation_feedback": "Incorrecta. No saben si serán ricas o pobres."
+      },
+      {
+        "label": "D",
+        "text": "Porque cualquiera de ellas podría terminar en esa posición.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Al no saber su lugar, se protegen a sí mismas."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "8c68b130-d418-5e6c-8629-ba53f5dd3e5b",
+    "subject": "LC",
+    "evidence_code": "LC.E2.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El velo de la ignorancia",
+      "text": "El filósofo estadounidense John Rawls propuso un experimento mental para pensar la justicia. Imaginemos que un grupo de personas debe decidir las reglas de una sociedad sin saber qué lugar ocuparán en ella: no saben si serán ricas o pobres, hombres o mujeres, sanas o enfermas, ni qué talentos tendrán. Rawls llama a esta situación el «velo de la ignorancia».\n\nSegún Rawls, detrás de ese velo nadie aceptaría reglas que perjudicaran gravemente a los que están peor, porque cualquiera podría terminar en esa posición. Por eso, las personas elegirían garantizar libertades básicas iguales para todos y aceptarían desigualdades económicas solo si benefician también a los menos favorecidos.\n\nSus críticos señalan que las personas reales no deciden así: conocen su situación y la defienden. Rawls respondería que el experimento no describe cómo decidimos, sino cómo deberíamos decidir si queremos ser imparciales.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "En el tercer párrafo, ¿qué posición tienen los críticos frente a la de Rawls?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Objetan que la gente real no decide así.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Dicen que la gente conoce su situación y la defiende."
+      },
+      {
+        "label": "B",
+        "text": "Dicen que Rawls nunca escribió esa teoría.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una crítica absurda.",
+        "explanation_feedback": "Incorrecta. La crítica es sobre el experimento."
+      },
+      {
+        "label": "C",
+        "text": "Apoyan completamente la propuesta de Rawls.",
+        "is_correct": false,
+        "distractor_diagnosis": "No reconoce la objeción.",
+        "explanation_feedback": "Incorrecta. Los críticos la cuestionan."
+      },
+      {
+        "label": "D",
+        "text": "Proponen eliminar las libertades básicas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye una propuesta ausente.",
+        "explanation_feedback": "Incorrecta. Los críticos no proponen eso."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "1619b175-197f-55a7-8ebf-95094e80b2b1",
+    "subject": "LC",
+    "evidence_code": "LC.E3.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El velo de la ignorancia",
+      "text": "El filósofo estadounidense John Rawls propuso un experimento mental para pensar la justicia. Imaginemos que un grupo de personas debe decidir las reglas de una sociedad sin saber qué lugar ocuparán en ella: no saben si serán ricas o pobres, hombres o mujeres, sanas o enfermas, ni qué talentos tendrán. Rawls llama a esta situación el «velo de la ignorancia».\n\nSegún Rawls, detrás de ese velo nadie aceptaría reglas que perjudicaran gravemente a los que están peor, porque cualquiera podría terminar en esa posición. Por eso, las personas elegirían garantizar libertades básicas iguales para todos y aceptarían desigualdades económicas solo si benefician también a los menos favorecidos.\n\nSus críticos señalan que las personas reales no deciden así: conocen su situación y la defienden. Rawls respondería que el experimento no describe cómo decidimos, sino cómo deberíamos decidir si queremos ser imparciales.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué tipo de respuesta da Rawls a sus críticos, según el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Acepta que su teoría es falsa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la respuesta.",
+        "explanation_feedback": "Incorrecta. Rawls defiende el sentido de su experimento."
+      },
+      {
+        "label": "B",
+        "text": "Muestra datos de cómo vota la gente.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye una respuesta empírica.",
+        "explanation_feedback": "Incorrecta. Su respuesta no es estadística."
+      },
+      {
+        "label": "C",
+        "text": "Cambia su teoría para que describa a la gente real.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la respuesta.",
+        "explanation_feedback": "Incorrecta. Mantiene que el experimento es sobre el deber ser."
+      },
+      {
+        "label": "D",
+        "text": "Aclara que su propuesta es normativa: dice cómo deberíamos decidir.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Distingue entre describir y prescribir."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "0e468085-1bab-51cb-aac2-a6f8934ee0a1",
+    "subject": "LC",
+    "evidence_code": "LC.E3.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "El velo de la ignorancia",
+      "text": "El filósofo estadounidense John Rawls propuso un experimento mental para pensar la justicia. Imaginemos que un grupo de personas debe decidir las reglas de una sociedad sin saber qué lugar ocuparán en ella: no saben si serán ricas o pobres, hombres o mujeres, sanas o enfermas, ni qué talentos tendrán. Rawls llama a esta situación el «velo de la ignorancia».\n\nSegún Rawls, detrás de ese velo nadie aceptaría reglas que perjudicaran gravemente a los que están peor, porque cualquiera podría terminar en esa posición. Por eso, las personas elegirían garantizar libertades básicas iguales para todos y aceptarían desigualdades económicas solo si benefician también a los menos favorecidos.\n\nSus críticos señalan que las personas reales no deciden así: conocen su situación y la defienden. Rawls respondería que el experimento no describe cómo decidimos, sino cómo deberíamos decidir si queremos ser imparciales.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de estas situaciones se parece más al «velo de la ignorancia»?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que un estudiante estudie sin saber el tema del examen.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona por la palabra «ignorancia».",
+        "explanation_feedback": "Incorrecta. No hay decisión sobre reglas justas."
+      },
+      {
+        "label": "B",
+        "text": "Que un juez conozca a una de las partes del juicio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Describe lo contrario de la imparcialidad.",
+        "explanation_feedback": "Incorrecta. Conocer a una parte afecta la imparcialidad."
+      },
+      {
+        "label": "C",
+        "text": "Que un equipo elija al árbitro de su preferencia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Muestra una elección parcial.",
+        "explanation_feedback": "Incorrecta. Elegir el árbitro favorable es parcial."
+      },
+      {
+        "label": "D",
+        "text": "Que quien parte un pastel escoja su porción de último.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Al no saber qué porción le tocará, la reparte de forma justa."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "5939bd0e-dbd8-5dc2-a988-470b43113061",
+    "subject": "LC",
+    "evidence_code": "LC.E1.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Podemos conocer el mundo?",
+      "text": "René Descartes se propuso dudar de todo lo que pudiera ponerse en duda para encontrar algo absolutamente cierto. Los sentidos a veces nos engañan: un palo dentro del agua parece doblado. Los sueños pueden ser tan vívidos que, mientras soñamos, creemos estar despiertos. ¿Cómo saber, entonces, que lo que vemos ahora no es un sueño?\n\nEn medio de esa duda radical, Descartes encontró una certeza: aunque dude de todo, no puedo dudar de que estoy dudando, y si dudo, pienso; y si pienso, existo. De ahí su célebre frase «Pienso, luego existo».\n\nOtros filósofos, como David Hume, desconfiaron de ese punto de partida. Para Hume, todo lo que sabemos proviene de la experiencia, y la mente no es más que un conjunto de percepciones que se suceden. Mientras Descartes buscaba la certeza en la razón, Hume la buscaba, con más modestia, en la experiencia.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Para qué usa Descartes el ejemplo del palo dentro del agua?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para criticar a Hume.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye una intención ausente.",
+        "explanation_feedback": "Incorrecta. El ejemplo se refiere a los sentidos."
+      },
+      {
+        "label": "B",
+        "text": "Para mostrar que los sentidos pueden engañarnos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El palo parece doblado aunque no lo está."
+      },
+      {
+        "label": "C",
+        "text": "Para explicar la refracción de la luz.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee el ejemplo como explicación física.",
+        "explanation_feedback": "Incorrecta. El ejemplo apoya una idea filosófica."
+      },
+      {
+        "label": "D",
+        "text": "Para demostrar que existe.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el ejemplo con la conclusión.",
+        "explanation_feedback": "Incorrecta. La certeza de existir viene de la duda, no del palo."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "b8908b95-de9a-5362-8ee1-9d00d2243d4d",
+    "subject": "LC",
+    "evidence_code": "LC.E2.3",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Podemos conocer el mundo?",
+      "text": "René Descartes se propuso dudar de todo lo que pudiera ponerse en duda para encontrar algo absolutamente cierto. Los sentidos a veces nos engañan: un palo dentro del agua parece doblado. Los sueños pueden ser tan vívidos que, mientras soñamos, creemos estar despiertos. ¿Cómo saber, entonces, que lo que vemos ahora no es un sueño?\n\nEn medio de esa duda radical, Descartes encontró una certeza: aunque dude de todo, no puedo dudar de que estoy dudando, y si dudo, pienso; y si pienso, existo. De ahí su célebre frase «Pienso, luego existo».\n\nOtros filósofos, como David Hume, desconfiaron de ese punto de partida. Para Hume, todo lo que sabemos proviene de la experiencia, y la mente no es más que un conjunto de percepciones que se suceden. Mientras Descartes buscaba la certeza en la razón, Hume la buscaba, con más modestia, en la experiencia.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cómo llega Descartes a la certeza de que existe?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Al notar que no puede dudar de que duda.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El segundo párrafo reconstruye el razonamiento."
+      },
+      {
+        "label": "B",
+        "text": "Al confiar plenamente en sus sentidos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Descartes desconfía de los sentidos."
+      },
+      {
+        "label": "C",
+        "text": "Al leer con cuidado las obras de Hume.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde la cronología y la relación.",
+        "explanation_feedback": "Incorrecta. El texto no dice que lo leyera."
+      },
+      {
+        "label": "D",
+        "text": "Al comprobar que no está soñando.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone un paso que no aparece.",
+        "explanation_feedback": "Incorrecta. Descartes no prueba que no sueña."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "c66a5159-0c11-59c2-89c6-f9367a8f02bb",
+    "subject": "LC",
+    "evidence_code": "LC.E2.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Podemos conocer el mundo?",
+      "text": "René Descartes se propuso dudar de todo lo que pudiera ponerse en duda para encontrar algo absolutamente cierto. Los sentidos a veces nos engañan: un palo dentro del agua parece doblado. Los sueños pueden ser tan vívidos que, mientras soñamos, creemos estar despiertos. ¿Cómo saber, entonces, que lo que vemos ahora no es un sueño?\n\nEn medio de esa duda radical, Descartes encontró una certeza: aunque dude de todo, no puedo dudar de que estoy dudando, y si dudo, pienso; y si pienso, existo. De ahí su célebre frase «Pienso, luego existo».\n\nOtros filósofos, como David Hume, desconfiaron de ese punto de partida. Para Hume, todo lo que sabemos proviene de la experiencia, y la mente no es más que un conjunto de percepciones que se suceden. Mientras Descartes buscaba la certeza en la razón, Hume la buscaba, con más modestia, en la experiencia.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿En qué se diferencia la posición de Hume de la de Descartes?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hume funda el conocimiento en la experiencia; Descartes, en la razón.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El último párrafo establece la oposición."
+      },
+      {
+        "label": "B",
+        "text": "Hume niega que existan las percepciones.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Para Hume la mente es un conjunto de percepciones."
+      },
+      {
+        "label": "C",
+        "text": "Hume confía más en la razón que Descartes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte las posiciones.",
+        "explanation_feedback": "Incorrecta. Es Descartes quien busca la certeza en la razón."
+      },
+      {
+        "label": "D",
+        "text": "Los dos piensan exactamente lo mismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "No reconoce la oposición.",
+        "explanation_feedback": "Incorrecta. El texto dice que Hume desconfió de Descartes."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "3aec7cba-6bf2-50f0-9800-7778c19fa359",
+    "subject": "LC",
+    "evidence_code": "LC.E3.4",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Podemos conocer el mundo?",
+      "text": "René Descartes se propuso dudar de todo lo que pudiera ponerse en duda para encontrar algo absolutamente cierto. Los sentidos a veces nos engañan: un palo dentro del agua parece doblado. Los sueños pueden ser tan vívidos que, mientras soñamos, creemos estar despiertos. ¿Cómo saber, entonces, que lo que vemos ahora no es un sueño?\n\nEn medio de esa duda radical, Descartes encontró una certeza: aunque dude de todo, no puedo dudar de que estoy dudando, y si dudo, pienso; y si pienso, existo. De ahí su célebre frase «Pienso, luego existo».\n\nOtros filósofos, como David Hume, desconfiaron de ese punto de partida. Para Hume, todo lo que sabemos proviene de la experiencia, y la mente no es más que un conjunto de percepciones que se suceden. Mientras Descartes buscaba la certeza en la razón, Hume la buscaba, con más modestia, en la experiencia.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Para qué sirve la pregunta «¿Cómo saber, entonces, que lo que vemos ahora no es un sueño?»?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Para burlarse de quienes sueñan.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye un tono burlón.",
+        "explanation_feedback": "Incorrecta. El tono es reflexivo."
+      },
+      {
+        "label": "B",
+        "text": "Para pedirle al lector información.",
+        "is_correct": false,
+        "distractor_diagnosis": "Toma la pregunta como literal.",
+        "explanation_feedback": "Incorrecta. Es una pregunta retórica."
+      },
+      {
+        "label": "C",
+        "text": "Para llevar al lector a experimentar la duda que plantea Descartes.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Invita al lector a dudar con el filósofo."
+      },
+      {
+        "label": "D",
+        "text": "Para demostrar que todo es un sueño.",
+        "is_correct": false,
+        "distractor_diagnosis": "Convierte la pregunta en afirmación.",
+        "explanation_feedback": "Incorrecta. La pregunta abre la duda; no la resuelve."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "3c192470-79c6-540d-af88-79694feddb95",
+    "subject": "LC",
+    "evidence_code": "LC.E3.5",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Podemos conocer el mundo?",
+      "text": "René Descartes se propuso dudar de todo lo que pudiera ponerse en duda para encontrar algo absolutamente cierto. Los sentidos a veces nos engañan: un palo dentro del agua parece doblado. Los sueños pueden ser tan vívidos que, mientras soñamos, creemos estar despiertos. ¿Cómo saber, entonces, que lo que vemos ahora no es un sueño?\n\nEn medio de esa duda radical, Descartes encontró una certeza: aunque dude de todo, no puedo dudar de que estoy dudando, y si dudo, pienso; y si pienso, existo. De ahí su célebre frase «Pienso, luego existo».\n\nOtros filósofos, como David Hume, desconfiaron de ese punto de partida. Para Hume, todo lo que sabemos proviene de la experiencia, y la mente no es más que un conjunto de percepciones que se suceden. Mientras Descartes buscaba la certeza en la razón, Hume la buscaba, con más modestia, en la experiencia.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "El adjetivo «modestia» aplicado a Hume sugiere que",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hume aspiraba a una certeza menos absoluta que Descartes.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Busca el conocimiento en la experiencia, sin pretender la certeza total."
+      },
+      {
+        "label": "B",
+        "text": "Hume era una persona tímida.",
+        "is_correct": false,
+        "distractor_diagnosis": "Interpreta el adjetivo como rasgo personal.",
+        "explanation_feedback": "Incorrecta. Se refiere a su posición filosófica."
+      },
+      {
+        "label": "C",
+        "text": "Hume escribía libros cortos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un sentido.",
+        "explanation_feedback": "Incorrecta. No se habla de la extensión de sus obras."
+      },
+      {
+        "label": "D",
+        "text": "Hume no sabía filosofía.",
+        "is_correct": false,
+        "distractor_diagnosis": "Descalifica a Hume sin base.",
+        "explanation_feedback": "Incorrecta. El texto lo presenta como filósofo."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "7a0c975d-6b40-5b38-bfa1-f15bc8d6e040",
+    "subject": "LC",
+    "evidence_code": "LC.E1.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La caverna",
+      "text": "Platón imaginó a unos prisioneros encadenados desde niños en el fondo de una caverna, de cara a una pared. Detrás de ellos arde un fuego, y entre el fuego y los prisioneros pasan personas que cargan objetos. Los prisioneros solo ven las sombras de esos objetos en la pared y creen que esas sombras son la realidad.\n\nSi uno de ellos fuera liberado y saliera al exterior, la luz del sol primero lo cegaría y le dolería. Poco a poco vería los objetos reales y, al final, el sol mismo. Si regresara a contarles a los demás lo que vio, ellos se burlarían de él y quizá intentarían matarlo, porque preferirían sus sombras conocidas.\n\nPlatón usa esta alegoría para hablar de la educación: aprender no es llenar una mente vacía, sino girarla hacia la luz, un proceso que puede ser doloroso y que no siempre es bien recibido por los demás.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué ven los prisioneros en la pared de la caverna?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Las sombras de los objetos.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El primer párrafo lo describe."
+      },
+      {
+        "label": "B",
+        "text": "Los objetos reales que pasan.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde objetos con sombras.",
+        "explanation_feedback": "Incorrecta. Solo ven sombras."
+      },
+      {
+        "label": "C",
+        "text": "A las personas que cargan objetos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde quiénes son visibles.",
+        "explanation_feedback": "Incorrecta. Ven sus sombras, no a ellas."
+      },
+      {
+        "label": "D",
+        "text": "El sol del exterior.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la experiencia del liberado.",
+        "explanation_feedback": "Incorrecta. El sol solo lo ve quien sale."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "9285d7eb-e734-5264-ba78-32fc80436a18",
+    "subject": "LC",
+    "evidence_code": "LC.E2.3",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La caverna",
+      "text": "Platón imaginó a unos prisioneros encadenados desde niños en el fondo de una caverna, de cara a una pared. Detrás de ellos arde un fuego, y entre el fuego y los prisioneros pasan personas que cargan objetos. Los prisioneros solo ven las sombras de esos objetos en la pared y creen que esas sombras son la realidad.\n\nSi uno de ellos fuera liberado y saliera al exterior, la luz del sol primero lo cegaría y le dolería. Poco a poco vería los objetos reales y, al final, el sol mismo. Si regresara a contarles a los demás lo que vio, ellos se burlarían de él y quizá intentarían matarlo, porque preferirían sus sombras conocidas.\n\nPlatón usa esta alegoría para hablar de la educación: aprender no es llenar una mente vacía, sino girarla hacia la luz, un proceso que puede ser doloroso y que no siempre es bien recibido por los demás.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué los prisioneros se burlarían del que regresa?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque ya conocían el exterior.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. Nunca habían salido."
+      },
+      {
+        "label": "B",
+        "text": "Porque prefieren las sombras que conocen a una realidad que desconocen.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El texto dice que preferirían sus sombras conocidas."
+      },
+      {
+        "label": "C",
+        "text": "Porque el liberado miente sobre lo que vio.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una mentira.",
+        "explanation_feedback": "Incorrecta. El liberado cuenta lo que realmente vio."
+      },
+      {
+        "label": "D",
+        "text": "Porque el liberado se volvió ciego para siempre.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera la ceguera.",
+        "explanation_feedback": "Incorrecta. La ceguera es solo al principio."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "f277a482-e00f-5df6-8211-9f90d8527f15",
+    "subject": "LC",
+    "evidence_code": "LC.E3.5",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La caverna",
+      "text": "Platón imaginó a unos prisioneros encadenados desde niños en el fondo de una caverna, de cara a una pared. Detrás de ellos arde un fuego, y entre el fuego y los prisioneros pasan personas que cargan objetos. Los prisioneros solo ven las sombras de esos objetos en la pared y creen que esas sombras son la realidad.\n\nSi uno de ellos fuera liberado y saliera al exterior, la luz del sol primero lo cegaría y le dolería. Poco a poco vería los objetos reales y, al final, el sol mismo. Si regresara a contarles a los demás lo que vio, ellos se burlarían de él y quizá intentarían matarlo, porque preferirían sus sombras conocidas.\n\nPlatón usa esta alegoría para hablar de la educación: aprender no es llenar una mente vacía, sino girarla hacia la luz, un proceso que puede ser doloroso y que no siempre es bien recibido por los demás.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según el último párrafo, ¿qué representa la salida de la caverna?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La educación, que gira la mente hacia la luz.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Platón usa la alegoría para hablar de la educación."
+      },
+      {
+        "label": "B",
+        "text": "Un viaje de turismo fuera de casa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Banaliza el sentido.",
+        "explanation_feedback": "Incorrecta. No es un paseo."
+      },
+      {
+        "label": "C",
+        "text": "Un castigo para los curiosos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido.",
+        "explanation_feedback": "Incorrecta. Salir es un avance, aunque doloroso."
+      },
+      {
+        "label": "D",
+        "text": "Un escape de una cárcel real.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la alegoría literalmente.",
+        "explanation_feedback": "Incorrecta. Es una alegoría."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "2abee080-60b2-5435-a87a-41b3eb2bddb1",
+    "subject": "LC",
+    "evidence_code": "LC.E3.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La caverna",
+      "text": "Platón imaginó a unos prisioneros encadenados desde niños en el fondo de una caverna, de cara a una pared. Detrás de ellos arde un fuego, y entre el fuego y los prisioneros pasan personas que cargan objetos. Los prisioneros solo ven las sombras de esos objetos en la pared y creen que esas sombras son la realidad.\n\nSi uno de ellos fuera liberado y saliera al exterior, la luz del sol primero lo cegaría y le dolería. Poco a poco vería los objetos reales y, al final, el sol mismo. Si regresara a contarles a los demás lo que vio, ellos se burlarían de él y quizá intentarían matarlo, porque preferirían sus sombras conocidas.\n\nPlatón usa esta alegoría para hablar de la educación: aprender no es llenar una mente vacía, sino girarla hacia la luz, un proceso que puede ser doloroso y que no siempre es bien recibido por los demás.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué se puede inferir sobre la idea de educación de Platón?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que es mejor quedarse con lo conocido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Adopta la posición de los prisioneros.",
+        "explanation_feedback": "Incorrecta. Platón valora la salida."
+      },
+      {
+        "label": "B",
+        "text": "Que el conocimiento verdadero puede incomodar y encontrar resistencia.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El liberado sufre la luz y es rechazado al volver."
+      },
+      {
+        "label": "C",
+        "text": "Que la educación consiste en memorizar datos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice la idea de «girar la mente».",
+        "explanation_feedback": "Incorrecta. Platón niega que sea llenar una mente vacía."
+      },
+      {
+        "label": "D",
+        "text": "Que aprender siempre es agradable y rápido.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. El texto habla de dolor y de un proceso gradual."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "de933281-2852-50ca-a2ac-78b2e700287f",
+    "subject": "LC",
+    "evidence_code": "LC.E3.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "La caverna",
+      "text": "Platón imaginó a unos prisioneros encadenados desde niños en el fondo de una caverna, de cara a una pared. Detrás de ellos arde un fuego, y entre el fuego y los prisioneros pasan personas que cargan objetos. Los prisioneros solo ven las sombras de esos objetos en la pared y creen que esas sombras son la realidad.\n\nSi uno de ellos fuera liberado y saliera al exterior, la luz del sol primero lo cegaría y le dolería. Poco a poco vería los objetos reales y, al final, el sol mismo. Si regresara a contarles a los demás lo que vio, ellos se burlarían de él y quizá intentarían matarlo, porque preferirían sus sombras conocidas.\n\nPlatón usa esta alegoría para hablar de la educación: aprender no es llenar una mente vacía, sino girarla hacia la luz, un proceso que puede ser doloroso y que no siempre es bien recibido por los demás.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de estas situaciones actuales se relaciona mejor con la alegoría?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alguien que trabaja en una mina subterránea.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona por el espacio cerrado.",
+        "explanation_feedback": "Incorrecta. La alegoría no trata del lugar físico."
+      },
+      {
+        "label": "B",
+        "text": "Alguien que prefiere estudiar de noche.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona por la luz.",
+        "explanation_feedback": "Incorrecta. La luz en la alegoría es simbólica."
+      },
+      {
+        "label": "C",
+        "text": "Alguien que va a cine a ver una película.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona por las imágenes proyectadas.",
+        "explanation_feedback": "Incorrecta. Quien va a cine sabe que es una película."
+      },
+      {
+        "label": "D",
+        "text": "Alguien que solo cree lo que ve en sus redes y rechaza fuentes distintas.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Como los prisioneros, toma una imagen parcial por la realidad."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "cbf66d0d-27fe-5f96-9af9-ecec7d53e3f8",
+    "subject": "LC",
+    "evidence_code": "LC.E1.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Kant y la mentira",
+      "text": "Immanuel Kant sostuvo que una acción es moralmente correcta si podemos querer que la regla que la guía se convierta en ley universal, es decir, que todos actúen según ella. Para probar una regla, basta preguntarse: ¿qué pasaría si todos hicieran lo mismo?\n\nTomemos la mentira. Si alguien miente para salir de un apuro, su regla sería: «mentir cuando me convenga». Pero si todos mintieran cuando les conviene, nadie le creería a nadie y la mentira misma dejaría de funcionar. La regla se destruye al universalizarse. Por eso, para Kant, mentir es incorrecto aunque traiga buenas consecuencias.\n\nMuchos han objetado este rigor con un caso extremo: ¿debería decirle la verdad a un asesino que pregunta dónde se esconde mi amigo? Kant respondió que sí, lo que para sus críticos muestra que una ética basada solo en reglas puede chocar con la intuición moral.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según el texto, ¿qué pregunta propone Kant para evaluar una regla?",
+    "options": [
+      {
+        "label": "A",
+        "text": "«¿Qué pasaría si todos hicieran lo mismo?».",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Lo dice el primer párrafo."
+      },
+      {
+        "label": "B",
+        "text": "«¿Qué gano yo con esta acción?».",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con una ética de beneficio propio.",
+        "explanation_feedback": "Incorrecta. Kant pide universalizar, no calcular beneficios."
+      },
+      {
+        "label": "C",
+        "text": "«¿Qué dice la ley del país?».",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde ley moral con ley civil.",
+        "explanation_feedback": "Incorrecta. La ley universal es un criterio moral."
+      },
+      {
+        "label": "D",
+        "text": "«¿Qué opina la mayoría?».",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con un criterio de opinión.",
+        "explanation_feedback": "Incorrecta. Kant no consulta la opinión mayoritaria."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "fd9adf31-761f-5123-88ec-2abb9c2407e2",
+    "subject": "LC",
+    "evidence_code": "LC.E2.3",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Kant y la mentira",
+      "text": "Immanuel Kant sostuvo que una acción es moralmente correcta si podemos querer que la regla que la guía se convierta en ley universal, es decir, que todos actúen según ella. Para probar una regla, basta preguntarse: ¿qué pasaría si todos hicieran lo mismo?\n\nTomemos la mentira. Si alguien miente para salir de un apuro, su regla sería: «mentir cuando me convenga». Pero si todos mintieran cuando les conviene, nadie le creería a nadie y la mentira misma dejaría de funcionar. La regla se destruye al universalizarse. Por eso, para Kant, mentir es incorrecto aunque traiga buenas consecuencias.\n\nMuchos han objetado este rigor con un caso extremo: ¿debería decirle la verdad a un asesino que pregunta dónde se esconde mi amigo? Kant respondió que sí, lo que para sus críticos muestra que una ética basada solo en reglas puede chocar con la intuición moral.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué, según Kant, la regla «mentir cuando me convenga» se destruye al universalizarse?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque mentir trae malas consecuencias.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con una ética de consecuencias.",
+        "explanation_feedback": "Incorrecta. Kant dice que es incorrecto aunque traiga buenas consecuencias."
+      },
+      {
+        "label": "B",
+        "text": "Porque si todos mintieran, nadie creería a nadie y mentir dejaría de servir.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El segundo párrafo desarrolla el argumento."
+      },
+      {
+        "label": "C",
+        "text": "Porque las mentiras siempre se descubren.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da una razón empírica distinta.",
+        "explanation_feedback": "Incorrecta. El argumento es lógico, no de descubrimiento."
+      },
+      {
+        "label": "D",
+        "text": "Porque la ley castiga la mentira.",
+        "is_correct": false,
+        "distractor_diagnosis": "Introduce una sanción externa.",
+        "explanation_feedback": "Incorrecta. Kant no apela al castigo."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "25c0c4fe-3d2a-56df-a12e-144c547a560e",
+    "subject": "LC",
+    "evidence_code": "LC.E2.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Kant y la mentira",
+      "text": "Immanuel Kant sostuvo que una acción es moralmente correcta si podemos querer que la regla que la guía se convierta en ley universal, es decir, que todos actúen según ella. Para probar una regla, basta preguntarse: ¿qué pasaría si todos hicieran lo mismo?\n\nTomemos la mentira. Si alguien miente para salir de un apuro, su regla sería: «mentir cuando me convenga». Pero si todos mintieran cuando les conviene, nadie le creería a nadie y la mentira misma dejaría de funcionar. La regla se destruye al universalizarse. Por eso, para Kant, mentir es incorrecto aunque traiga buenas consecuencias.\n\nMuchos han objetado este rigor con un caso extremo: ¿debería decirle la verdad a un asesino que pregunta dónde se esconde mi amigo? Kant respondió que sí, lo que para sus críticos muestra que una ética basada solo en reglas puede chocar con la intuición moral.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué posición tienen los críticos que plantean el caso del asesino?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que siempre se debe mentir al otro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera la objeción.",
+        "explanation_feedback": "Incorrecta. Solo cuestionan el caso extremo."
+      },
+      {
+        "label": "B",
+        "text": "Que Kant tenía razón en todos los casos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la posición.",
+        "explanation_feedback": "Incorrecta. Lo objetan."
+      },
+      {
+        "label": "C",
+        "text": "Que el asesino debe ser juzgado por el propio Kant.",
+        "is_correct": false,
+        "distractor_diagnosis": "Malinterpreta el ejemplo.",
+        "explanation_feedback": "Incorrecta. Es un caso hipotético."
+      },
+      {
+        "label": "D",
+        "text": "Que seguir solo reglas puede chocar con la intuición.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El tercer párrafo lo plantea."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "4cbac79d-6b4d-5a41-ae5d-18eac7b929aa",
+    "subject": "LC",
+    "evidence_code": "LC.E3.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Kant y la mentira",
+      "text": "Immanuel Kant sostuvo que una acción es moralmente correcta si podemos querer que la regla que la guía se convierta en ley universal, es decir, que todos actúen según ella. Para probar una regla, basta preguntarse: ¿qué pasaría si todos hicieran lo mismo?\n\nTomemos la mentira. Si alguien miente para salir de un apuro, su regla sería: «mentir cuando me convenga». Pero si todos mintieran cuando les conviene, nadie le creería a nadie y la mentira misma dejaría de funcionar. La regla se destruye al universalizarse. Por eso, para Kant, mentir es incorrecto aunque traiga buenas consecuencias.\n\nMuchos han objetado este rigor con un caso extremo: ¿debería decirle la verdad a un asesino que pregunta dónde se esconde mi amigo? Kant respondió que sí, lo que para sus críticos muestra que una ética basada solo en reglas puede chocar con la intuición moral.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de estas acciones superaría la prueba kantiana descrita en el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Colarse en la fila cuando hay afán.",
+        "is_correct": false,
+        "distractor_diagnosis": "No universaliza la regla.",
+        "explanation_feedback": "Incorrecta. Si todos se colaran, no habría fila."
+      },
+      {
+        "label": "B",
+        "text": "No pagar el pasaje si nadie mira.",
+        "is_correct": false,
+        "distractor_diagnosis": "No universaliza la regla.",
+        "explanation_feedback": "Incorrecta. Si nadie pagara, no habría transporte."
+      },
+      {
+        "label": "C",
+        "text": "Cumplir las promesas que uno hace.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si todos cumplieran sus promesas, las promesas seguirían teniendo sentido."
+      },
+      {
+        "label": "D",
+        "text": "Copiar en un examen si es fácil.",
+        "is_correct": false,
+        "distractor_diagnosis": "No universaliza la regla.",
+        "explanation_feedback": "Incorrecta. Si todos copiaran, el examen perdería sentido."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "8b390890-f6f3-5ea2-a8ae-c1b025c14258",
+    "subject": "LC",
+    "evidence_code": "LC.E3.5",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Kant y la mentira",
+      "text": "Immanuel Kant sostuvo que una acción es moralmente correcta si podemos querer que la regla que la guía se convierta en ley universal, es decir, que todos actúen según ella. Para probar una regla, basta preguntarse: ¿qué pasaría si todos hicieran lo mismo?\n\nTomemos la mentira. Si alguien miente para salir de un apuro, su regla sería: «mentir cuando me convenga». Pero si todos mintieran cuando les conviene, nadie le creería a nadie y la mentira misma dejaría de funcionar. La regla se destruye al universalizarse. Por eso, para Kant, mentir es incorrecto aunque traiga buenas consecuencias.\n\nMuchos han objetado este rigor con un caso extremo: ¿debería decirle la verdad a un asesino que pregunta dónde se esconde mi amigo? Kant respondió que sí, lo que para sus críticos muestra que una ética basada solo en reglas puede chocar con la intuición moral.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué propósito tiene el texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Narrar la vida y la obra de Kant.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con una biografía.",
+        "explanation_feedback": "Incorrecta. No hay datos biográficos."
+      },
+      {
+        "label": "B",
+        "text": "Dar instrucciones para un examen de ética.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un propósito.",
+        "explanation_feedback": "Incorrecta. No da instrucciones."
+      },
+      {
+        "label": "C",
+        "text": "Explicar una idea y una objeción a ella.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Expone el criterio kantiano y luego la crítica."
+      },
+      {
+        "label": "D",
+        "text": "Convencer al lector de que siempre debe mentir.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el contenido.",
+        "explanation_feedback": "Incorrecta. No defiende la mentira."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "5b608498-36e7-562e-a716-3edfb65b29c2",
+    "subject": "LC",
+    "evidence_code": "LC.E1.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Epicuro y la felicidad",
+      "text": "Al filósofo griego Epicuro se le ha acusado durante siglos de promover el exceso: comer, beber y gozar sin medida. Nada más lejano de su pensamiento. Para Epicuro, el placer es el bien, pero entendido como ausencia de dolor en el cuerpo y de angustia en el alma.\n\nPor eso distinguía entre deseos. Algunos son naturales y necesarios, como comer cuando se tiene hambre o tener un techo. Otros son naturales pero no necesarios, como comer platos refinados. Y otros no son ni naturales ni necesarios, como la fama o la riqueza ilimitada. Quien persigue estos últimos nunca queda satisfecho, porque siempre hay más que desear.\n\nLa vida feliz, según Epicuro, es sencilla: pan, agua, amigos y conversación. Su escuela, el Jardín, era famosa justamente por eso.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según el texto, ¿qué entendía Epicuro por placer?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tener mucha fama y riqueza.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con deseos que Epicuro rechaza.",
+        "explanation_feedback": "Incorrecta. La fama no es natural ni necesaria."
+      },
+      {
+        "label": "B",
+        "text": "Comer y beber sin medida.",
+        "is_correct": false,
+        "distractor_diagnosis": "Repite la acusación que el texto rechaza.",
+        "explanation_feedback": "Incorrecta. El texto dice que eso es lo contrario de su pensamiento."
+      },
+      {
+        "label": "C",
+        "text": "No sentir dolor ni angustia.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El primer párrafo lo define."
+      },
+      {
+        "label": "D",
+        "text": "Comer platos refinados.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con un deseo no necesario.",
+        "explanation_feedback": "Incorrecta. Ese deseo es natural, pero no necesario."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "0f2f1fc4-7865-574b-a6b9-8b98c02e9740",
+    "subject": "LC",
+    "evidence_code": "LC.E2.4",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Epicuro y la felicidad",
+      "text": "Al filósofo griego Epicuro se le ha acusado durante siglos de promover el exceso: comer, beber y gozar sin medida. Nada más lejano de su pensamiento. Para Epicuro, el placer es el bien, pero entendido como ausencia de dolor en el cuerpo y de angustia en el alma.\n\nPor eso distinguía entre deseos. Algunos son naturales y necesarios, como comer cuando se tiene hambre o tener un techo. Otros son naturales pero no necesarios, como comer platos refinados. Y otros no son ni naturales ni necesarios, como la fama o la riqueza ilimitada. Quien persigue estos últimos nunca queda satisfecho, porque siempre hay más que desear.\n\nLa vida feliz, según Epicuro, es sencilla: pan, agua, amigos y conversación. Su escuela, el Jardín, era famosa justamente por eso.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Por qué, según Epicuro, la persona que busca riqueza ilimitada no es feliz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Porque siempre hay más que desear y nunca queda satisfecha.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Lo dice el segundo párrafo."
+      },
+      {
+        "label": "B",
+        "text": "Porque ser rico causa enfermedades.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una causa.",
+        "explanation_feedback": "Incorrecta. El texto no lo dice."
+      },
+      {
+        "label": "C",
+        "text": "Porque los amigos la rechazan.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una consecuencia.",
+        "explanation_feedback": "Incorrecta. No se menciona el rechazo."
+      },
+      {
+        "label": "D",
+        "text": "Porque la riqueza es ilegal.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una razón.",
+        "explanation_feedback": "Incorrecta. No se habla de legalidad."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "8825df92-ec23-5b20-95cf-7eea893f7b98",
+    "subject": "LC",
+    "evidence_code": "LC.E2.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Epicuro y la felicidad",
+      "text": "Al filósofo griego Epicuro se le ha acusado durante siglos de promover el exceso: comer, beber y gozar sin medida. Nada más lejano de su pensamiento. Para Epicuro, el placer es el bien, pero entendido como ausencia de dolor en el cuerpo y de angustia en el alma.\n\nPor eso distinguía entre deseos. Algunos son naturales y necesarios, como comer cuando se tiene hambre o tener un techo. Otros son naturales pero no necesarios, como comer platos refinados. Y otros no son ni naturales ni necesarios, como la fama o la riqueza ilimitada. Quien persigue estos últimos nunca queda satisfecho, porque siempre hay más que desear.\n\nLa vida feliz, según Epicuro, es sencilla: pan, agua, amigos y conversación. Su escuela, el Jardín, era famosa justamente por eso.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué función cumple el primer párrafo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Describir el Jardín de Epicuro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con el último párrafo.",
+        "explanation_feedback": "Incorrecta. El Jardín se menciona al final."
+      },
+      {
+        "label": "B",
+        "text": "Defender el exceso en la comida.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte el sentido.",
+        "explanation_feedback": "Incorrecta. El párrafo rechaza esa interpretación."
+      },
+      {
+        "label": "C",
+        "text": "Corregir una idea equivocada sobre Epicuro.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Presenta la acusación y la desmiente."
+      },
+      {
+        "label": "D",
+        "text": "Clasificar los deseos humanos.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con el segundo párrafo.",
+        "explanation_feedback": "Incorrecta. La clasificación está en el segundo párrafo."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "d8118be0-8289-5f9c-afc9-f65e1d8c2e49",
+    "subject": "LC",
+    "evidence_code": "LC.E3.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Epicuro y la felicidad",
+      "text": "Al filósofo griego Epicuro se le ha acusado durante siglos de promover el exceso: comer, beber y gozar sin medida. Nada más lejano de su pensamiento. Para Epicuro, el placer es el bien, pero entendido como ausencia de dolor en el cuerpo y de angustia en el alma.\n\nPor eso distinguía entre deseos. Algunos son naturales y necesarios, como comer cuando se tiene hambre o tener un techo. Otros son naturales pero no necesarios, como comer platos refinados. Y otros no son ni naturales ni necesarios, como la fama o la riqueza ilimitada. Quien persigue estos últimos nunca queda satisfecho, porque siempre hay más que desear.\n\nLa vida feliz, según Epicuro, es sencilla: pan, agua, amigos y conversación. Su escuela, el Jardín, era famosa justamente por eso.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de estas personas actúa de forma más cercana a lo que proponía Epicuro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quien prefiere una comida sencilla con amigos a una fiesta costosa para presumir.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Valora lo necesario y la amistad sobre la fama."
+      },
+      {
+        "label": "B",
+        "text": "Quien evita a sus amigos para ahorrar.",
+        "is_correct": false,
+        "distractor_diagnosis": "Olvida el valor de la amistad.",
+        "explanation_feedback": "Incorrecta. Para Epicuro los amigos eran esenciales."
+      },
+      {
+        "label": "C",
+        "text": "Quien solo come en restaurantes de lujo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Persigue un deseo no necesario.",
+        "explanation_feedback": "Incorrecta. Esos deseos no traen satisfacción duradera."
+      },
+      {
+        "label": "D",
+        "text": "Quien trabaja día y noche para ser famoso.",
+        "is_correct": false,
+        "distractor_diagnosis": "Persigue un deseo no natural ni necesario.",
+        "explanation_feedback": "Incorrecta. Epicuro rechazaba la búsqueda de fama."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "7bdae35c-5eb1-527f-9df9-6ae866eb90d7",
+    "subject": "LC",
+    "evidence_code": "LC.E3.3",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Epicuro y la felicidad",
+      "text": "Al filósofo griego Epicuro se le ha acusado durante siglos de promover el exceso: comer, beber y gozar sin medida. Nada más lejano de su pensamiento. Para Epicuro, el placer es el bien, pero entendido como ausencia de dolor en el cuerpo y de angustia en el alma.\n\nPor eso distinguía entre deseos. Algunos son naturales y necesarios, como comer cuando se tiene hambre o tener un techo. Otros son naturales pero no necesarios, como comer platos refinados. Y otros no son ni naturales ni necesarios, como la fama o la riqueza ilimitada. Quien persigue estos últimos nunca queda satisfecho, porque siempre hay más que desear.\n\nLa vida feliz, según Epicuro, es sencilla: pan, agua, amigos y conversación. Su escuela, el Jardín, era famosa justamente por eso.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué valor destaca el texto en la propuesta de Epicuro?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La competencia entre las personas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Introduce un valor ajeno.",
+        "explanation_feedback": "Incorrecta. Epicuro no exalta la competencia."
+      },
+      {
+        "label": "B",
+        "text": "La sencillez como camino hacia la tranquilidad.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. «La vida feliz... es sencilla»."
+      },
+      {
+        "label": "C",
+        "text": "La acumulación de bienes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el texto.",
+        "explanation_feedback": "Incorrecta. La riqueza ilimitada no da felicidad."
+      },
+      {
+        "label": "D",
+        "text": "La obediencia a las autoridades.",
+        "is_correct": false,
+        "distractor_diagnosis": "Introduce un valor ausente.",
+        "explanation_feedback": "Incorrecta. El texto no habla de autoridad."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "e4311bf8-65b2-55ca-825e-63b8ef69a2c9",
+    "subject": "LC",
+    "evidence_code": "LC.E1.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Qué es el tiempo?",
+      "text": "San Agustín escribió una frase que todavía se cita: «Si nadie me lo pregunta, sé lo que es el tiempo; si quiero explicárselo a quien me lo pregunta, no lo sé». Usamos la palabra a diario sin dificultad, pero al intentar definirla aparecen las paradojas.\n\nEl pasado ya no es; el futuro todavía no es; y el presente, si durara, ya no sería presente sino pasado. ¿Dónde está, entonces, el tiempo? Agustín propuso que el tiempo existe en la mente: el pasado está en la memoria, el futuro en la espera y el presente en la atención.\n\nSiglos después, la física describiría el tiempo como una dimensión medible, ligada al espacio. Pero la pregunta de Agustín sigue viva, porque no se refiere a cómo medimos el tiempo, sino a cómo lo vivimos.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué expresa la frase de San Agustín citada al inicio?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que el tiempo en realidad no existe.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera la idea.",
+        "explanation_feedback": "Incorrecta. Agustín no niega el tiempo."
+      },
+      {
+        "label": "B",
+        "text": "Que solo los físicos saben qué es el tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Introduce una idea posterior.",
+        "explanation_feedback": "Incorrecta. La física aparece después en el texto."
+      },
+      {
+        "label": "C",
+        "text": "Que nunca le preguntan por el tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la frase literalmente.",
+        "explanation_feedback": "Incorrecta. Es una reflexión, no un dato."
+      },
+      {
+        "label": "D",
+        "text": "Que lo entendemos, pero no sabemos definirlo.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sabe qué es mientras no tenga que explicarlo."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "c64c1e16-169d-5052-b9a7-21d16a3e5821",
+    "subject": "LC",
+    "evidence_code": "LC.E2.3",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Qué es el tiempo?",
+      "text": "San Agustín escribió una frase que todavía se cita: «Si nadie me lo pregunta, sé lo que es el tiempo; si quiero explicárselo a quien me lo pregunta, no lo sé». Usamos la palabra a diario sin dificultad, pero al intentar definirla aparecen las paradojas.\n\nEl pasado ya no es; el futuro todavía no es; y el presente, si durara, ya no sería presente sino pasado. ¿Dónde está, entonces, el tiempo? Agustín propuso que el tiempo existe en la mente: el pasado está en la memoria, el futuro en la espera y el presente en la atención.\n\nSiglos después, la física describiría el tiempo como una dimensión medible, ligada al espacio. Pero la pregunta de Agustín sigue viva, porque no se refiere a cómo medimos el tiempo, sino a cómo lo vivimos.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "Según Agustín, ¿dónde están el pasado, el futuro y el presente?",
+    "options": [
+      {
+        "label": "A",
+        "text": "En los relojes, los calendarios y las agendas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con instrumentos de medida.",
+        "explanation_feedback": "Incorrecta. Agustín ubica el tiempo en la mente."
+      },
+      {
+        "label": "B",
+        "text": "En el espacio, como dice la física.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde las dos visiones.",
+        "explanation_feedback": "Incorrecta. La física es una visión posterior."
+      },
+      {
+        "label": "C",
+        "text": "En la espera, la memoria y la atención.",
+        "is_correct": false,
+        "distractor_diagnosis": "Intercambia pasado y futuro.",
+        "explanation_feedback": "Incorrecta. El pasado está en la memoria."
+      },
+      {
+        "label": "D",
+        "text": "En la memoria, la espera y la atención, respectivamente.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. El segundo párrafo establece esa correspondencia."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "c1676f35-b5cd-5ad0-8990-b569c1e24c4b",
+    "subject": "LC",
+    "evidence_code": "LC.E2.4",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Qué es el tiempo?",
+      "text": "San Agustín escribió una frase que todavía se cita: «Si nadie me lo pregunta, sé lo que es el tiempo; si quiero explicárselo a quien me lo pregunta, no lo sé». Usamos la palabra a diario sin dificultad, pero al intentar definirla aparecen las paradojas.\n\nEl pasado ya no es; el futuro todavía no es; y el presente, si durara, ya no sería presente sino pasado. ¿Dónde está, entonces, el tiempo? Agustín propuso que el tiempo existe en la mente: el pasado está en la memoria, el futuro en la espera y el presente en la atención.\n\nSiglos después, la física describiría el tiempo como una dimensión medible, ligada al espacio. Pero la pregunta de Agustín sigue viva, porque no se refiere a cómo medimos el tiempo, sino a cómo lo vivimos.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué diferencia establece el último párrafo entre la física y la pregunta de Agustín?",
+    "options": [
+      {
+        "label": "A",
+        "text": "La física demostró que Agustín se equivocó.",
+        "is_correct": false,
+        "distractor_diagnosis": "Supone una refutación.",
+        "explanation_feedback": "Incorrecta. El texto dice que la pregunta sigue viva."
+      },
+      {
+        "label": "B",
+        "text": "Que Agustín también era físico.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un dato.",
+        "explanation_feedback": "Incorrecta. Agustín fue un pensador, no un físico moderno."
+      },
+      {
+        "label": "C",
+        "text": "Una lo mide; el otro pregunta cómo se vive.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Lo dice la última oración."
+      },
+      {
+        "label": "D",
+        "text": "Las dos dicen exactamente lo mismo.",
+        "is_correct": false,
+        "distractor_diagnosis": "No ve la diferencia.",
+        "explanation_feedback": "Incorrecta. Una mide y la otra se pregunta por la vivencia."
+      }
+    ],
+    "estimated_time_seconds": 60
+  },
+  {
+    "id": "24f493ae-ccfc-5a61-88d6-d3b712ee17aa",
+    "subject": "LC",
+    "evidence_code": "LC.E3.4",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Qué es el tiempo?",
+      "text": "San Agustín escribió una frase que todavía se cita: «Si nadie me lo pregunta, sé lo que es el tiempo; si quiero explicárselo a quien me lo pregunta, no lo sé». Usamos la palabra a diario sin dificultad, pero al intentar definirla aparecen las paradojas.\n\nEl pasado ya no es; el futuro todavía no es; y el presente, si durara, ya no sería presente sino pasado. ¿Dónde está, entonces, el tiempo? Agustín propuso que el tiempo existe en la mente: el pasado está en la memoria, el futuro en la espera y el presente en la atención.\n\nSiglos después, la física describiría el tiempo como una dimensión medible, ligada al espacio. Pero la pregunta de Agustín sigue viva, porque no se refiere a cómo medimos el tiempo, sino a cómo lo vivimos.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué recurso usa el autor en «¿Dónde está, entonces, el tiempo?»?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Una conclusión definitiva sobre el tiempo.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde pregunta con conclusión.",
+        "explanation_feedback": "Incorrecta. La pregunta abre la reflexión."
+      },
+      {
+        "label": "B",
+        "text": "Una cita de un científico moderno.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el origen.",
+        "explanation_feedback": "Incorrecta. Es una pregunta del autor."
+      },
+      {
+        "label": "C",
+        "text": "Una pregunta para que el lector busque un mapa.",
+        "is_correct": false,
+        "distractor_diagnosis": "Lee la pregunta literalmente.",
+        "explanation_feedback": "Incorrecta. Es una pregunta filosófica."
+      },
+      {
+        "label": "D",
+        "text": "Una pregunta que resume la paradoja.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Sintetiza el problema antes de la respuesta."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "189b7fe7-4ae7-54b1-a1f1-7cea151291d5",
+    "subject": "LC",
+    "evidence_code": "LC.E3.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "¿Qué es el tiempo?",
+      "text": "San Agustín escribió una frase que todavía se cita: «Si nadie me lo pregunta, sé lo que es el tiempo; si quiero explicárselo a quien me lo pregunta, no lo sé». Usamos la palabra a diario sin dificultad, pero al intentar definirla aparecen las paradojas.\n\nEl pasado ya no es; el futuro todavía no es; y el presente, si durara, ya no sería presente sino pasado. ¿Dónde está, entonces, el tiempo? Agustín propuso que el tiempo existe en la mente: el pasado está en la memoria, el futuro en la espera y el presente en la atención.\n\nSiglos después, la física describiría el tiempo como una dimensión medible, ligada al espacio. Pero la pregunta de Agustín sigue viva, porque no se refiere a cómo medimos el tiempo, sino a cómo lo vivimos.\n\n(Texto de divulgación escrito para esta prueba)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cuál de estas experiencias ilustra mejor la idea de Agustín de que el tiempo se vive en la mente?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que el año tenga 365 días en total.",
+        "is_correct": false,
+        "distractor_diagnosis": "Da un dato de calendario.",
+        "explanation_feedback": "Incorrecta. Es una medida convencional."
+      },
+      {
+        "label": "B",
+        "text": "Que una hora de espera parezca más larga que otra.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. La duración vivida depende de la atención y la espera."
+      },
+      {
+        "label": "C",
+        "text": "Que la luz tarde ocho minutos en llegar del Sol.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona con la física.",
+        "explanation_feedback": "Incorrecta. Es un dato físico, no una vivencia."
+      },
+      {
+        "label": "D",
+        "text": "Que un reloj digital marque las horas exactas.",
+        "is_correct": false,
+        "distractor_diagnosis": "Relaciona con la medición.",
+        "explanation_feedback": "Incorrecta. El reloj mide; no muestra la vivencia."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "3ba4595d-c49f-50b5-ab54-42a09d5f2f81",
+    "subject": "LC",
+    "evidence_code": "LC.E1.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "bajo",
+    "estimated_irt": {
+      "a": 0.9,
+      "b": -1.2,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un diálogo sobre la tolerancia",
+      "text": "—¿Debemos tolerar a los intolerantes? —preguntó Ana.\n—Claro, la tolerancia es para todos —respondió Pedro.\n—Entonces, si un grupo intolerante llega al poder gracias a nuestra tolerancia y prohíbe a los demás, ¿no habremos destruido la tolerancia por practicarla?\n—Visto así… quizá haya que poner un límite.\n—¿Y quién lo pone? Si lo pongo yo, puedo terminar llamando intolerante a cualquiera que piense distinto.\n—Entonces el límite no debería ser pensar distinto, sino intentar impedir que otros piensen distinto.\n\n(Diálogo original inspirado en la llamada «paradoja de la tolerancia», planteada por el filósofo Karl Popper)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué pregunta inicia el diálogo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Qué es la paradoja de Popper.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la nota final.",
+        "explanation_feedback": "Incorrecta. La nota es aclaratoria."
+      },
+      {
+        "label": "B",
+        "text": "Por qué Pedro es intolerante.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una acusación.",
+        "explanation_feedback": "Incorrecta. Nadie acusa a Pedro."
+      },
+      {
+        "label": "C",
+        "text": "Quién debe gobernar un país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con un tema derivado.",
+        "explanation_feedback": "Incorrecta. El poder aparece después."
+      },
+      {
+        "label": "D",
+        "text": "Si se debe tolerar a los intolerantes.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es la primera intervención de Ana."
+      }
+    ],
+    "estimated_time_seconds": 45
+  },
+  {
+    "id": "5407d2fb-0db4-556b-991a-ab5aefee9c0f",
+    "subject": "LC",
+    "evidence_code": "LC.E2.2",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un diálogo sobre la tolerancia",
+      "text": "—¿Debemos tolerar a los intolerantes? —preguntó Ana.\n—Claro, la tolerancia es para todos —respondió Pedro.\n—Entonces, si un grupo intolerante llega al poder gracias a nuestra tolerancia y prohíbe a los demás, ¿no habremos destruido la tolerancia por practicarla?\n—Visto así… quizá haya que poner un límite.\n—¿Y quién lo pone? Si lo pongo yo, puedo terminar llamando intolerante a cualquiera que piense distinto.\n—Entonces el límite no debería ser pensar distinto, sino intentar impedir que otros piensen distinto.\n\n(Diálogo original inspirado en la llamada «paradoja de la tolerancia», planteada por el filósofo Karl Popper)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Cómo cambia la posición de Pedro a lo largo del diálogo?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Termina dándole la razón a los intolerantes.",
+        "is_correct": false,
+        "distractor_diagnosis": "Invierte la conclusión.",
+        "explanation_feedback": "Incorrecta. Propone limitar a quien impide pensar."
+      },
+      {
+        "label": "B",
+        "text": "Se mantiene igual de principio a fin.",
+        "is_correct": false,
+        "distractor_diagnosis": "No ve el cambio.",
+        "explanation_feedback": "Incorrecta. Pedro admite que quizá haya que poner un límite."
+      },
+      {
+        "label": "C",
+        "text": "Pasa de tolerar a todos a aceptar un límite definido con cuidado.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Primero dice «claro» y luego propone un criterio para el límite."
+      },
+      {
+        "label": "D",
+        "text": "Pasa a rechazar toda tolerancia.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el cambio.",
+        "explanation_feedback": "Incorrecta. Propone un límite, no eliminar la tolerancia."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "d4771c25-c568-55f5-a764-1e28e3f475ff",
+    "subject": "LC",
+    "evidence_code": "LC.E2.3",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un diálogo sobre la tolerancia",
+      "text": "—¿Debemos tolerar a los intolerantes? —preguntó Ana.\n—Claro, la tolerancia es para todos —respondió Pedro.\n—Entonces, si un grupo intolerante llega al poder gracias a nuestra tolerancia y prohíbe a los demás, ¿no habremos destruido la tolerancia por practicarla?\n—Visto así… quizá haya que poner un límite.\n—¿Y quién lo pone? Si lo pongo yo, puedo terminar llamando intolerante a cualquiera que piense distinto.\n—Entonces el límite no debería ser pensar distinto, sino intentar impedir que otros piensen distinto.\n\n(Diálogo original inspirado en la llamada «paradoja de la tolerancia», planteada por el filósofo Karl Popper)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué problema plantea Ana en su segunda intervención?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Que los intolerantes nunca llegan al poder.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el planteamiento.",
+        "explanation_feedback": "Incorrecta. Ana considera que podrían llegar."
+      },
+      {
+        "label": "B",
+        "text": "Que tolerar todo puede destruir la tolerancia.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Si los intolerantes llegan al poder, prohibirán a los demás."
+      },
+      {
+        "label": "C",
+        "text": "Que Pedro debe gobernar el país.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa una propuesta.",
+        "explanation_feedback": "Incorrecta. No se habla de que Pedro gobierne."
+      },
+      {
+        "label": "D",
+        "text": "Que la tolerancia es una mala idea.",
+        "is_correct": false,
+        "distractor_diagnosis": "Exagera el planteamiento.",
+        "explanation_feedback": "Incorrecta. Ana señala una paradoja, no rechaza la tolerancia."
+      }
+    ],
+    "estimated_time_seconds": 100
+  },
+  {
+    "id": "ebbb0231-d04f-533c-aee8-e810b5e6071b",
+    "subject": "LC",
+    "evidence_code": "LC.E3.1",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "alto",
+    "estimated_irt": {
+      "a": 1.3,
+      "b": 1.3,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un diálogo sobre la tolerancia",
+      "text": "—¿Debemos tolerar a los intolerantes? —preguntó Ana.\n—Claro, la tolerancia es para todos —respondió Pedro.\n—Entonces, si un grupo intolerante llega al poder gracias a nuestra tolerancia y prohíbe a los demás, ¿no habremos destruido la tolerancia por practicarla?\n—Visto así… quizá haya que poner un límite.\n—¿Y quién lo pone? Si lo pongo yo, puedo terminar llamando intolerante a cualquiera que piense distinto.\n—Entonces el límite no debería ser pensar distinto, sino intentar impedir que otros piensen distinto.\n\n(Diálogo original inspirado en la llamada «paradoja de la tolerancia», planteada por el filósofo Karl Popper)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué criterio para el límite propone Pedro al final?",
+    "options": [
+      {
+        "label": "A",
+        "text": "No poner ningún límite a nadie.",
+        "is_correct": false,
+        "distractor_diagnosis": "Contradice el final.",
+        "explanation_feedback": "Incorrecta. Pedro sí propone un límite."
+      },
+      {
+        "label": "B",
+        "text": "Limitar a quien piense distinto.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con lo que Ana advierte.",
+        "explanation_feedback": "Incorrecta. Pedro rechaza ese criterio."
+      },
+      {
+        "label": "C",
+        "text": "Limitar a quien impida pensar distinto.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Es su última intervención."
+      },
+      {
+        "label": "D",
+        "text": "Dejar que cada persona ponga su límite.",
+        "is_correct": false,
+        "distractor_diagnosis": "Inventa un criterio.",
+        "explanation_feedback": "Incorrecta. Ana advierte el riesgo de esa opción."
+      }
+    ],
+    "estimated_time_seconds": 75
+  },
+  {
+    "id": "42c6bd69-e036-5f1b-9df4-df719d4f0687",
+    "subject": "LC",
+    "evidence_code": "LC.E3.4",
+    "component_code": "LC.TXT.CONT.FIL",
+    "cefr_level": null,
+    "difficulty_target": "medio",
+    "estimated_irt": {
+      "a": 1.1,
+      "b": 0.0,
+      "c": 0.25
+    },
+    "context_type": "continuous",
+    "context": {
+      "title": "Un diálogo sobre la tolerancia",
+      "text": "—¿Debemos tolerar a los intolerantes? —preguntó Ana.\n—Claro, la tolerancia es para todos —respondió Pedro.\n—Entonces, si un grupo intolerante llega al poder gracias a nuestra tolerancia y prohíbe a los demás, ¿no habremos destruido la tolerancia por practicarla?\n—Visto así… quizá haya que poner un límite.\n—¿Y quién lo pone? Si lo pongo yo, puedo terminar llamando intolerante a cualquiera que piense distinto.\n—Entonces el límite no debería ser pensar distinto, sino intentar impedir que otros piensen distinto.\n\n(Diálogo original inspirado en la llamada «paradoja de la tolerancia», planteada por el filósofo Karl Popper)",
+      "svg": null,
+      "table": null
+    },
+    "stem": "¿Qué función cumple la forma de diálogo en este texto?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mostrar que Ana y Pedro se odian.",
+        "is_correct": false,
+        "distractor_diagnosis": "Atribuye una emoción ausente.",
+        "explanation_feedback": "Incorrecta. El tono es reflexivo."
+      },
+      {
+        "label": "B",
+        "text": "Mostrar cómo un razonamiento avanza mediante preguntas y objeciones.",
+        "is_correct": true,
+        "distractor_diagnosis": null,
+        "explanation_feedback": "Correcta. Las preguntas de Ana hacen que Pedro precise su idea."
+      },
+      {
+        "label": "C",
+        "text": "Contar una historia de amor entre Ana y Pedro.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde el tipo de texto.",
+        "explanation_feedback": "Incorrecta. Es un diálogo filosófico."
+      },
+      {
+        "label": "D",
+        "text": "Reproducir una entrevista real a Popper.",
+        "is_correct": false,
+        "distractor_diagnosis": "Confunde con la nota final.",
+        "explanation_feedback": "Incorrecta. El diálogo es original."
+      }
+    ],
+    "estimated_time_seconds": 60
+  }
+]
